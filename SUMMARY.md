@@ -19,8 +19,6 @@
 * [Mitä jos talous olisi peli? ](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-peli.md)
 * [Mitä jos organisaatiot olisivat ohjelmoitavia?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-2.md)
 * [Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-tekoaly-saisi-rinnalleen-alykkaamman-taloudellisen-kielen.md)
-* [Page 1](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/page-1.md)
-* [Page 2](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/page-2.md)
 
 ## III Suositukset Suomelle talouskasvun paradigman muutoksessa
 
