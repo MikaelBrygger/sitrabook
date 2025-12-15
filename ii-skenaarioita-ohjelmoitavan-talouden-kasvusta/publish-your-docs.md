@@ -1,12 +1,7 @@
 ---
 icon: layer-group
-cover: ../.gitbook/assets/banner-scenario-1t.png
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -27,8 +22,7 @@ Johdanto-osa esittelee runkoskenaariomme: mitä jos talous ei olekaan neutraali 
 \
 Tämä lähtöoletus muuttaa käsitystämme talouskasvusta. Kasvu ei synny enää vain tehokkaammasta tekemisestä olemassa olevien sääntöjen puitteissa, vaan siitä, miten itse talouden säännöt, mittarit ja koordinaation muodot rakennetaan.
 
-\
-Siksi skenaariot-osio kysyy: Mitä jos tätä mediaa käytettäisiinkin toisin? Mitä taloudelliselle kasvulle tapahtuisi sen seurauksena? Skenaariot eivät pyri ennustamaan yhtä tulevaisuutta. Niiden tehtävänä on tutkia, mitä johdannossa esitetystä runkoskenaariosta voi seurata, kun sitä viedään erilaisiin suuntiin ja yhteiskunnallisiin solmukohtiin. “Mitä jos?” Kysymys on saman perusoletuksen rinnakkaisista, mahdollisista ilmentymistä.
+Skenaario-osiossa kysytään: mitä jos tätä mediaa käytettäisiinkin toisin? Mitä taloudelliselle kasvulle tapahtuisi sen seurauksena? Skenaariot eivät pyri ennustamaan yhtä tulevaisuutta. Niiden tehtävänä on tutkia, mitä johdannossa esitetystä runkoskenaariosta voi seurata, kun sitä viedään erilaisiin suuntiin ja yhteiskunnallisiin solmukohtiin. “Mitä jos?” Kysymys on saman perusoletuksen rinnakkaisista, mahdollisista ilmentymistä.
 
 \
 Raportin kuusi skenaariota tarkastelevat:
