@@ -36,21 +36,17 @@ Suomen strategisena mahdollisuutena on kilpailla pääoman massan sijaan arkkite
 Ydinteesit:
 
 1. **Talous on media**\
-   Talous ei ole neutraali taustajärjestelmä, vaan laskennallinen ja kulttuurinen medium. Se muokkaa sitä mitä pidämme arvokkaana  ja kuinka toimijuus yhteiskunnassa jakautuu.\
-   <br>
+   Talous ei ole neutraali taustajärjestelmä, vaan laskennallinen ja kulttuurinen medium. Se muokkaa sitä mitä pidämme arvokkaana  ja kuinka toimijuus yhteiskunnassa jakautuu.
 2. **Kasvu on laskennan tulos**\
-   Se, mitä talous laskee ja palkitsee, määrittää sen, mitä yhteiskunta tuottaa. Kasvu ei ole luonnonlaki, vaan seurausta talouden mittareista ja protokollista.\
-   <br>
+   Se, mitä talous laskee ja palkitsee, määrittää sen, mitä yhteiskunta tuottaa. Kasvu ei ole luonnonlaki, vaan seurausta talouden mittareista ja protokollista.
 3. **Toimijuus on uusi niukka resurssi**\
-   Tulevaisuuden kasvu syntyy arkkitehtuureista, jotka jakavat taloudellista toimijuutta mahdollisimman laajasti verkon reunoille.\
-   <br>
+   Tulevaisuuden kasvu syntyy arkkitehtuureista, jotka jakavat taloudellista toimijuutta mahdollisimman laajasti verkon reunoille.
 4. **Teknologinen murros on epätäydellinen ilman talouden murrosta**\
-   Ilman uusia taloudellisia protokollia tekoäly, data ja automaatio vahvistavat vanhentunutta ajatusta taloudesta sen sijaan, että loisivat uutta.\
-   <br>
+   Ilman uusia taloudellisia protokollia tekoäly, data ja automaatio vahvistavat vanhentunutta ajatusta taloudesta sen sijaan, että loisivat uutta.
 5. **Kasvun avain on infrastruktuuri, ei yksittäiset hankkeet**\
    Tarvitaan pysyvä kyvykkyys kehittää talouden rakenteita, ei vain yksittäisiä hankkeita.
 
-**Miten raportti muuttaa käsitystämme taloudesta?**
+### **Miten raportti muuttaa käsitystämme taloudesta?**
 
 Raportti siirtää talousajattelun painopisteen markkinoista ja vaihdosta kohti koordinaatiota, laskentaa ja toimijuutta. Se osoittaa, että historiallisesti jokainen talouden suuri murros on seurannut median muutosta: rituaaleista kirjanpitoon, markkinoihin ja digitaalisiin alustoihin.
 
@@ -66,7 +62,7 @@ Kasvu ei synny enää ensisijaisesti pääoman kasautumisesta, mittakaavaeduista
 
 Ohjelmoitavassa taloudessa kasvu tarkoittaa **taloudellisen toimijuuden kasvua**: kykyä osallistua, luoda, vaihtaa ja hallita arvoa uusilla tavoilla. Taloudellinen luovuus ja tuottavuus kasautuvat sinne, missä ihmiset kokevat osallisuutta, ymmärtävät pelin säännöt ja voivat vaikuttaa niihin.
 
-**Mahdollisuus Suomelle**
+### **Mahdollisuus Suomelle**
 
 Suomen strateginen mahdollisuus ei ole kilpailla pääoman määrässä tai alustajättien mittakaavassa. Se on **arkkitehtuurissa**.
 
