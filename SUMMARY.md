@@ -12,12 +12,15 @@
 
 ## II Skenaarioita ohjelmoitavan talouden kasvusta&#x20;
 
-* [Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs.md)
-* [Mitä jos laskisimme talouskasvua ympäristövaikutuksilla?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-1.md)
+* [Copy of Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs.md)
+* [Skenaariot – mitä jos talouden säännöt muuttuvat?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-1.md)
+* [Mitä jos laskisimme talouskasvua ympäristövaikutuksilla?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-2.md)
 * [Mitä jos talous olisi luovaa ja luovuus taloudellista?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-luovaa-ja-luovuus-taloudellista.md)
 * [Mitä jos talous olisi peli? ](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-peli.md)
-* [Mitä jos organisaatiot olisivat ohjelmoitavia?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-2.md)
+* [Mitä jos organisaatiot olisivat ohjelmoitavia?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-3.md)
 * [Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-tekoaly-saisi-rinnalleen-alykkaamman-taloudellisen-kielen.md)
+* [Page 1](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/page-1.md)
+* [Page 2](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/page-2.md)
 
 ## III Suositukset Suomelle talouskasvun paradigman muutoksessa
 

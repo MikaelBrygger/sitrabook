@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?
+# Copy of Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?
 
 ### **Raha on vain informaatiota – on aika päivittää miten käsittelemme sitä.**
 
