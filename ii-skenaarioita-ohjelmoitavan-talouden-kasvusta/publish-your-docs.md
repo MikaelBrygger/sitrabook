@@ -1,5 +1,5 @@
 ---
-icon: layer-group
+icon: paper-plane
 layout:
   width: default
   title:

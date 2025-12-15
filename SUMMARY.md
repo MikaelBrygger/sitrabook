@@ -5,6 +5,7 @@
 * [Mitä jos käsityksemme taloudesta pitää muuttua?](README.md)
 * [ECSA Labs](ohjelmoitava-kasvu/readme.md)
 * [Sisällys](ohjelmoitava-kasvu/publish-your-docs-1.md)
+* [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
 
 ## I Johdanto
 
