@@ -1,108 +1,143 @@
 ---
 icon: seedling
-cover: ../.gitbook/assets/banner-scenario-2t.png
+cover: ../.gitbook/assets/banner-scenario-5t.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Mitä jos laskisimme talouskasvua ympäristövaikutuksilla?
+# Mitä jos organisaatiot olisivat ohjelmoitavia?
 
-### Tiivistelmä
 
-Ympäristön kantokyvyn kanssa johdonmukaisella tavalla sopusoinnussa oleva talouden kasvu on keskeinen talouspoliittinen tavoite globaalilla, kansallisella ja paikallisella tasolla. Hyvät aikomukset ja kunnianhimoiset kestävyyspyrkimykset eivät yksin riitä. Kestävän kasvun on oltava todennettavaa ja vaikuttavaa niin suunnittelussa kuin toteutuksessa. Tämän vuoksi ympäristökestävyyteen liittyville väittämille on luotava oma tilinpidollinen kerroksensa: taseet, joiden erät kirjataan ympäristöyksiköissä.
 
-Tässä skenaariossa ehdotetaan aloitetta, jonka ytimessä on talouskasvun laskenta uudella tavalla, jotta kasvua voidaan tehdä uudella tavalla. Siinä taloudellista toimintaa palkitaan sen ympäristövaikutusten, ei pelkästään sen euroissa laskettavan kannattavuuden perusteella. Olennaista on uuden ekologisen laskentayksikön käyttöönotto ympäristövaikutusten laskemiseen ja palkitsemiseen.
+## Organization and Economy
 
-Suomi on teknologisesti kehittyneenä ja edistyksellisenä yhteiskuntana ihanteellinen paikka kokeilla tällaisia uusia tapoja laskea ja palkita taloudellista toimintaa siten, että ympäristön kestävyys voi nousta kasvustrategian keskeiseksi pilariksi.
+To reveal cards we're playing with, here are four notions -- concerning economy, organization, governance and their programmability -- that underlie this scenario as a whole.
 
-### Konteksti
+The notions insist on inseparability of these fields, pointing out the threads that connec them. They also reflect the learnings from our years of studying programmable economies.&#x20;
 
-Suomi toimii eurolla ja käyttää yritysten kirjanpidossa IFRS-standardeja. Pääoman ja varaston arvostamista koskevat säännöt sekä panosten ja tuotosten hinnoittelun konventiot johtavat siihen, että kaikki tase-erät ja yritystoiminnan tulos lasketaan ja mitataaan euroissa ja voiton näkökulmasta.
+1. _Any economy is organized to existence_, requiring socially accepted rules that enable it to operate within society. These rules are not necessarily accepted by everyone, certainly -- but this is true for any organizational rules. Thus, whenever we're creating new economies, programmable or otherwise, we're inevitably proposing social organization.
+2. This entails that _there's no economy without its own, particular governance_. The governance might be partially based on the rules set by programming -- but ultimately someone has the rights to run, modify or remove the code, which effectively functions as organizational governance.
+3. While an economy might operate through a digital platform, _whatever occurs on that platform must interact with the larger, organized world around it_ to become economically impactful.
+4. Therefore, _any form of economy is a social architecture_, founded upon its _organizational design_.
 
-Koska monet ympäristön kannalta tärkeät toimet ovat näin laskettaessa luonteeltaan “kannattamattomia”, valtio joutuu tukemaan niitä, jotta niistä tulisi “kannattavia” toteuttajilleen. Nämä toimet ovat kuitenkin yksittäisiä ja vaativat aina räätälöityjä tukiratkaisuja.
+## Shifting from Paper to Programming
 
-Subventiot eivät kuitenkaan vastaa tarpeeseen: jos ympäristön kestävyys ei itsessään tuota voittoa, suorituksia on laskettava yksiköissä, jotka kertovat ympäristökestävyydestä — eikä yksiköissä, jotka puhuvat euromääräisestä voitosta.
+Our organizational forms has been conceived in the imaginary of paper: Whether corporation, association or co-operative… all these structures limit their operations to the capabilities of paper documents. Because of this, the networked architectures of co-operation are currently extensions beyond our organizations proper, and therefore generally outside of any legal backing, besides contracts and licenses.
 
-Tämä skenaario ehdottaa, että valtion rahoitus sidotaan ekologisen laskentayksikön käyttöönottoon eli uudessa ympäristöyksikössä tapahtuvaan laskentaan.
+Thus, legally speaking, Finland does not offer citizens a possibility to establish a network as an official organization. But, if it wanted an advantage within an increasingly networked world, it could...
 
-### Ehdotus
+In a nutshell, programmability offers a reconsideration of the operative palette of society. It offers us the question: What becomes possible if we _reconsider organization from the ground up_, from the _perspective of programmable frameworks for social structures_?
 
-* Ympäristöministeriö ja Valtiokonttori voivat käynnistää työn ympäristön kestävyyttä kuvaavan mittariston kehittämiseksi: kyseessä on yhdistelmäyksikkö (composite unit), jossa kestävyyden onnistumisasteet (kestävyysvaikutukset) voidaan ilmoittaa. Yksikköä voidaan kutsua ekologiseksi yksiköksi, EKO-yksiköksi, tai lyhyesti ”EKO”.
-* EKO-yksikön mittayksikkö tulee määrittää kestävyyspolitiikan keskeisten toimijoiden verkoston yhteisellä sopimuksella. Tämän verkoston rakenne ja jäsenyys liittyvät erilliseen ohjelmoitavia organisaatioita koskevaan skenaarioon.
-* Valtion taloudellinen tuki ympäristön kestävyyshankkeille kohdennetaan yhteiskunnallisille organisaatioille (yrityksille ja muille yhteisöille) EKO-määräisinä hyvityksinä (EKO-kredit).
-* Organisaatiot esittävät avustushakemuksissaan tarjouksia odotetuista EKO-tuloksista (EKO outcomes). Käytännössä organisaatiot tarjoavat EKO-vaikutuksia, ja valtio hyväksyy tai neuvottelee vastineeksi EKO-kredittejä.
-* Valtiokonttori myöntää avustuksia EKO-krediteissä, jotka voidaan muuntaa euroiksi valtion määräämällä vaihtokurssilla. Avustukset tulee kuitenkin ”maksaa takaisin” eli validoida EKO-suorituksina.
-* Onnistuneen politiikkatoimenpiteen tuloksena nämä EKO-määräiset avustukset saavat organisaatiot sitoutuvat sekä eksplisiittisiin ympäristötuloksiin että niiden mittaamiseen. Valtio taas voi osoittaa veronmaksajilleen, että avustuksille on todelliset ja todennetut ympäristövaikutukset.
+To shed light on this potential, here are two cases, mapping this question upon two very different fields, both exploring this change in our organizational expression.
 
-### Hyödyt
+## Case: Social Media
 
-* Suomen valtio johtaa kansainvälistä keskustelua siitä, miten ympäristökestävyyttä voidaan parhaiten laskea taloudellisina suureina. Tämä tarjoaa konkreettisen ja todennettavan tavan mitata taloudellista toimintaa ympäristövaikutusten näkökulmasta, ja Suomi voisi asettaa standardin (benchmarks).
-* Valtio myöntää avustuksia käyttötarkoitukseen sidotussa laskentayksikössä, joka ei ole euro, mutta joka on yhdenmukainen EKP:n liikkeeseenlaskupolitiikan kanssa.
-* Valtio ja veronmaksajat voivat varmentaa avustusten onnistumisen täsmällisinä, mitattuina vaikutuksina.
-* Ympäristötoimiin suunnatut verovarat voidaan kohdentaa niihin hankkeisiin, jotka tuottavat suurimmat ympäristövaikutukset. Hankkeiden paremmuus määräytyy niiden mitattujen tulosten perusteella.
+### Social Media as a Form of Organization
 
-### Seuraukset
+The phenomenon that we commonly call "social media" is, at its core, a new field of programmable organization. The current platforms have merely scratched the surface of the possibilities in this field.
 
-* Ympäristövaikutuksia alettaisiin laskea niiden omilla ehdoilla, ei kannattamattomuutta kompensoivien subventioiden kautta.
-* Suomen valtio laskisi liikkeeseen uuden ”rahayksikön”, joka toimisi ainoastaan tietyissä rajatuissa rooleissa laskentayksikkönä (unit of account), arvon säilyttäjänä (store of value) ja maksuvelvoitteiden jaksottajana (standard of deferred payment). Se ei olisi vaihdon väline (means of exchange). Se olisi euron täydennysvaluutta tai alavaluutta (undercurrency), ei sen vaihtoehto.
+The operations of social media are thoroughly organizational: Such platforms set rules for people to operate, afford them rights within their organization, and coordinate their possibilities of relation -- all of these are issues elementary to organizational structures.
 
-### Missä muualla lasketaan vastaavalla tavalla?&#x20;
+### Societal Interests of Social Media
 
-Tämä ehdotus pohjautuu Euroopan investointipankin raporttiin Measuring the EIB Group’s Impact: Methods and Studies ([https://www.eib.org/files/publications/measuring\_eib\_group\_impacts\_en.pdf](https://www.eib.org/files/publications/measuring_eib_group_impacts_en.pdf))\
-sekä Britannian valtiovarainministeriön arviointiohjeistoon The Magenta Book\
-([https://www.gov.uk/government/publications/the-magenta-book](https://www.gov.uk/government/publications/the-magenta-book)).
+The interests of social media, and the companies behind them, are not the interests of society at large. When an organization is solely a function of profit, but not profit for its users, the essential role of its users is to generate profit.
 
-Molemmissa tehdään ero vaikuttavuuden/lopputulemien (outcomes, tässä tapauksessa vaikutukset ympäristön kestävyyteen) ja tuotosten/suoritteiden (outputs, esim. kierrätysmateriaalin tonnit; moottorikonversioiden määrä) välillä. Tavat laskea vaikuttavuutta on rakennettu sisään hankkeiden suunnitteluun ja avustusten myöntämiseen. Molemmissa tapauksissa mittaaminen on hankekohtaista. Nyt käsillä oleva ehdotus menee pidemmälle väittämällä, että useita eri hankkeita voidaan arvioida saman vaikuttavuusmittarin (outcome measure) avulla.
+If we consider the points from the beginning of the text, relating to organization and economy, it's reasonable to observe these platforms, and their owners, as governing the people upon the platform. With such considerations, the tendencies towards social friction upon various platforms of social media are rather unsurprising.
 
-YK:n tilastokomissio hyväksyi vuonna 2021 ympäristötalouden tilinpidon järjestelmän (System of Environmental-Economic Accounting, SEEA) Ecosystem Accounting -kehikon.\
-[https://seea.un.org/sites/seea.un.org/files/documents/EA/seea\_ea\_f124\_web\_12dec24.pdf](https://seea.un.org/sites/seea.un.org/files/documents/EA/seea_ea_f124_web_12dec24.pdf)) Siinä määritellään ympäristövarojen taksonomia sekä hinnoittelumekanismeja (pricing processes), mutta monet ympäristövarojen hinnat ovat laskennallisesti mahdottomia. EKO-yksikön tarkoitus on vastata juuri tähän ongelmaan.
+### Organizational Potential of Social Media
 
-### Mikä on EKO?
+From a wider perspective, we can observe significant societal potential for the field that social media operates upon. Using programmatic means to organize ourselves is not the main source of problems with social media. It's rather how those means are currently being used.
 
-EKO on ympäristövaikutusten mittayksikkö ja samalla yksikkö taloudellisen arvon määrittelyyn. EKO on muunto­kelpoinen euroihin — aluksi kiinteällä vaihtosuhteella (ks. alla).
+But what if we turned this situation on its head -- what if we enabled such organizational forms as societal architectures? This could open possibilities such as:
 
-EKO muotoutuu hankkeiden määriteltyjen, kvantifioitujen ympäristövaikutusten kautta. Näiden lopputulemien on oltava riittävän yleisiä, jotta ne voivat soveltua useisiin eri hankkeisiin. Suosituksena on, että nämä yksiköt suunnitellaan siten, että ne tyydyttävät sekä ympäristöministeriön että Valtiokonttorin vaatimukset.
+* Use an accepted template to create an open source social platform as an organizational basis for your collective, just as you can now form an association or corporation.
+* Founding that platform organization can be automated, up and running in the matter of minutes.
+* Offer automated bookkeeping and tax reporting for the organization's economic activity, both internally or externally.
 
-EKO syntyy osapuolten välisessä sopimuksessa ympäristövaikutuksia tarjoavien ja hyväksyvien välillä. Kun valtio toimii tarjousten hyväksyjänä, se voi aluksi hyväksyä ja jopa asettaa vertailuarvoja. EKO-yksikön muodostuminen kuitenkin edellyttää osallistujien sitoutumista. Se vaatii verkoston itsessään laskemaa tietoa. Tapa jolla tuo verkosto muodostuu ja saavuttaa konsensuksen EKOn muodostamisesta, on kriittinen.
+Economic automation is an opportune example of something that is relatively easy to implement in programmable organization.
 
-EKO:n todellinen koetinkivi on sen vaihtosuhde euroon (Euro/EKO exchange rate). Liian matala kurssi estää tarjouksia; liian korkea estää valtiota tunnistamasta tehokkaimpia interventioita.
+Such implementations have been developed in DAOs (Decentralized Autonomous Organizations) that have become prevalent on blockchain architectures. But this is not an opportunity that is necessarily shackled to blockchains -- many of the organizational functions of DAOs are open source, and are not necessarily dependent on blockchain architectures.
 
-Prosessin edetessä EKO-yksikön arvo voi kehittyä tarjous- ja pyyntöhintojen (bids and asks) yhteensovittamisesta kohti vaihetta, jossa pyritään tunnistamaan EKO:n ”piilevä” / “todellinen” arvo. Tämä muistuttaa osakkeiden arvonmääritystä pörssissä ja markkinahintojen sovittamista yhteen niiden pohjimmiltaan perustellun arvon kanssa. Tällainen kehitys vie aikaa, sillä mikään uusi yksikkö tai uusi laskennan muoto ei voi odottaa välitöntä laajaa hyväksyntää.
+## Case: DAOs
 
-### Mahdollisia laajennuksia: ECO:n roolin kasvattaminen
+### DAOs as Tillers of New Fields
 
-Euro/EKO-vaihtokurssi voisi alkuvaiheessa olla pariteetissa (1:1), mutta sen todellinen taso vaatii kokeiluja ja simulointeja. Siksi ehdotamme käytännön kokeiluja tulevien hankkeiden yhteydessä.
+DAOs form another fledgling field of programmable organizations. Like social architectures of social media, DAOs also offer opportunities beyond their current usage.
 
-Ajan myötä euro/EKO-vaihtokurssin voitaisiin antaa vaihdella. Kun ”helpoimmat toimenpiteet” on tehty ja EKOjen tuottaminen käy kalliimmaksi (euroissa mitattuna), voi olla perusteita EKOn arvonnousulle. Tässä kohtaa EKOn rooli ”alavaluuttana” saattaa laajentua. EKOista voi tulla yksiköitä, jota yksityishenkilöt tai institutionaaliset sijoittajat haluavat pitää salkuissaan odottaen mahdollista arvonnousua.
+The organizational imaginary is arguably rather limited, much narrower than the palette of traditional organization. The reason for this narrowness is not capability, but possibly a lack of in-depth organizational culture: They've been developed mostly as extensions of tokens, and have thus focused on variants of equity models, where the flexibility of crypto is used to tailor value distributions of the tokens.
 
-Yritykset voisivat esimerkiksi saavuttaa ESG-tavoitteensa sekä ansaitsemalla että pitämällä hallussaan EKOja. Tällöin ESG:n kirjain ”E” muuttuu mitattavaksi, eikä se ole enää erillinen, taseen ulkopuolinen joukko väitteitä.
+Likewise, governance of its members has been considered in a limited scope of interactions, mainly voting by equity, where tokens determine the weight of the vote, and variations thereof. From wider spectrum of organizations, this is a rather limited palette, compared to the range of interactions and functions we can observe in organizations on a societal level.
 
-### Tapaustutkimus: EKO määrittyy kokeilun kautta
+However, this range is not a reflection of limitations of capability. Similarly to social media architectures, DAOs highlight the flexibility of programmable medium for social organization, capable of not only reproducing, but also expanding our capability to organize, in all areas.
 
-#### Ympäristöministeriö ja kiertotalous
+_It would be highly beneficial to utilize the automated functionality, already implemented in DAOs as a starting point to build towards wider palette of organizational sociality._
 
-Kiertotalous muodostuu niin kutsuttujen ”neljän R:n” välisistä kytkennöistä: vähentäminen (reduce), uudelleenkäyttö (reuse), kierrätys (recycle) ja talteenotto (recover). Tavoitteena on kestävän talousjärjestelmän rakentaminen.
+### Legal and Societal Empowerment
 
-Suomessa ympäristöministeriö valmistelee uutta kiertotalouslakia, joka korvaa nykyisen jätelain ja laajentaa sääntelyn koko tuotteiden elinkaareen sekä kiertotalousmarkkinoiden kehittämiseen.\
-\
-Työryhmä raportoi hallitukselle joulukuussa 2025.
+DAOs are not legally recognized as organizations, and their members don't hold the legal affordances provided by traditional organizations. Legal recognition of selected, limited forms of programmable organizations would be a considerable opportunity for expanding our social architecture, both organizationally and economically.
 
-**Suomessa,**
+_However, this should not simply be approached as an argument for validating DAOs, in their current forms._
 
-Ympäristöministeriö on käynnistänyt prosessin uuden kiertotalouslain (Circular Economy Act) valmistelemiseksi. Kiertotalouslaki korvaa nykyisen jätelain. Uudistus toimeenpanee useita pääministeri Petteri Orpon hallitusohjelman kirjauksia.
+Rather, their operative capabilities should be considered as a source towards a discourse into how society operates, and _how it desires to operate_. They're concrete explorations of this topic, and as such, open theoretical and practical considerations of future forms of organization.
 
-Kiertotalouslakia valmisteleva työryhmä asetettiin elokuussa 2024. Uuden lain tavoitteena on vauhdittaa Suomen siirtymää kiertotalouteen. Lain tavoitteena on laajentaa kiertotaloutta kattamaan koko tuotteiden elinkaaren ja vahvistaa sekundaaristen raaka-aineiden markkinoita. ([https://ym.fi/kiertotalouslaki](https://ym.fi/kiertotalouslaki))
+As we're _increasingly operating upon a networked reality_, proactively _harnessing the capabilities of this reality as sources of societal expansion_ presents an advantageous pathway for development: It could significantly increase our organizational and economic expressivity, both on the level of society, and affordances of its citizens.
 
-Työryhmä raportoi hallitukselle joulukuussa 2025.
+There would be obvious benefits from such development: For example, the automated bookkeeping and tax reporting, mentioned above, make such organizations _economically lighter to operate_, enabling citizens to organize themselves with less overhead costs and automated administrative labor.
 
-Tavoitteena on laajentaa kiertoa kokonaisuutena. Tällä hetkellä ei kuitenkaan ole mittaria, jolla voisi täsmällisesti määrittää, missä kohdin kiertoa varat kannattaa kohdentaa. YK:n SEEA-ekosysteemitilinpito ei tarjoa tähän riittävää ratkaisua. Kierron eri vaiheisiin kohdistuva mittaaminen ECO-yksiköissä mahdollistaa tämän todennuksen.&#x20;
+At the same time, the society receives a benefit of _curtailing the grey market_, and can operate on _real-time information of economic activity._
 
-Tällainen mittaaminen on huomattavasti laadukkaampaa kuin ministeriön nykyinen seurantamalli: Yrityksiin ja kuluttajiin kohdistuvat kysely- ja haastattelututkimukset. Tutkimus tarkastelee kiertotaloutta tukevia asenteita ja toimintamalleja.\
-([https://ym.fi/en/strategic-programme-to-promote-a-circular-economy/how-we-monitor-the-progress-of-the-circular-economy](https://ym.fi/en/strategic-programme-to-promote-a-circular-economy/how-we-monitor-the-progress-of-the-circular-economy))
+## Operative Proposal: "Organizational Linux" for Finland
 
-### Lopuksi
+From its early development, one of the motivations of Linux was the enablement of its users. PCs had become both cheap and powerful enough to operate the same network software that supported the early internet. Through using Linux these affordances would be available to any PC, extending its capabilities considerably.
 
-EKO:t tarjoavat keinon laskea ympäristöä yksiköissä, jotka ovat erityisiä ympäristöllisesti. Tällä hetkellä ei ole olemassa ennalta määrättyä, valmiiksi sovellettavaa kaavaa EKO:n määrittämiseksi. Tämä ehdotus suosittelee, että EKO suunnitellaan Suomen valtion sekä niiden toimijoiden verkoston yhteistyönä, jotka laskevat, hallinnoivat ja puolustavat ympäristömme hyvinvointia.
+Such an idea of social empowerment would be opportune for a nation state that is transforming itself to our increasingly networked reality, alongside the rest of the world. The nation state, particularly its structures for collective organization, is surprisingly similar to an operating system, from the perspective of its citizens.
 
-* Valtio laskee EKO:n liikkeeseen (denominoi ympäristöavustukset EKO-yksiköissä).
-* Verkosto määrittelee EKO:n: miten yksi EKO mitataan; tämä voi muuttua tieteen ja prioriteettien muuttuessa.
-* Osapuolet yhdessä arvottavat EKO:n määrittämällä euro–EKO-vaihtosuhteen markkinoiden tarjousten ja hyväksyntöjen kautta.
+Therefore, a development resembling early Linux, but for upgrading our structures of organization, could achieve similar effect, but arguably to a much wider societal impact.
+
+### Potential Outcomes
+
+Such a development would provide organizational structures inherently compatible with each other, being able to interact not just externally, but down to their internal structures. The standardization would enable automated network operations between many organizations, whenever desired. Standardization in programming does not necessarily remove flexibility — sometimes even increasing it. After all, internet is built upon such standards -- they're the main source of its operational capacity.
+
+At the same time, the developed forms of programmable organization would form a reservoir of public goods. Their development could respond to needs of the citizens, not to the profits of corporations (which are unlikely to remain in Finland, in most cases).
+
+Such organizations, both lightweight with automated accounting and reporting, and capable of forming clusters of network operations on a case-by-case basis, would be significantly more capable than traditional organizations. For a start, large scale co-operation can provide significant economic benefits. But this would not only be an economic expansion, but also social one, given that the choice of social interactions would be given back to the people themselves.
+
+To say that this would provide an advantage for Finland could potentially be an understatement...
+
+### Core Principles of "Organizational Linux"
+
+**Agenda:**
+
+* Implementation of capabilities of programmable organization on a societal level.
+
+**Open source:**
+
+* Transparency of function.
+* Wider inspection of functionality: robust and reliable operations.
+
+**Standardized, interoperative:**
+
+* Standards enable organizations to integrate their economics and governance.
+* Enabling of network operations across multiple organizations.
+* Automated co-operation available to both large and small organizations.
+
+**Public development:**
+
+* Discourse on future functionality, extensions.
+* Reflecting shared organizational and economic needs and desires.
