@@ -42,9 +42,10 @@ Nämä skenaariot ovat prototyyppejä. Ne ovat kutsuja kuvittelemaan, miltä nä
 * ja millaisia institutionaalisia ja teknologisia valintoja nämä polut edellyttävät
 
 \
-Jos työmme **Johdanto** osoitti, että talous on media, **Skenaariot** näyttävät mitä tapahtuu, jos tätä mediaa käytettäisiin toisin. Niiden tehtävä on valmistella **Suosituksia.** Ne avaavat sen suunnitteluavaruuden, jonka pohjalta raportin suositukset rakentuvat. Skenaariot osoittavat, miksi kasvun paradigma on muuttunut, miksi toimijuuden jakaminen on ratkaisevaa ja miksi talouden infrastruktuurien systemaattinen kehittäminen ei ole valinnainen lisä, vaan strateginen välttämättömyys.
+Jos työmme **Johdanto** osoittaa, että talous on media, **Skenaariot** näyttävät _mitä_ tapahtuu, _jos_ tätä mediaa käytetään toisin. Niiden tehtävänä on avata ja valmistella se suunnitteluavaruus, jonka pohjalta raportin **Suositukset** rakentuvat.&#x20;
 
+Skenaariot osoittavat, miksi kasvun paradigma on muuttunut, miksi toimijuuden jakaminen on ratkaisevaa ja miksi talouden infrastruktuurien systemaattinen kehittäminen ei ole valinnainen lisä, vaan strateginen välttämättömyys.
+
+Kokonaisuutena kuusi skenaariota osoittavat, että talouskasvun tulevaisuus ei ole ensisijaisesti kiinni yksittäisistä teknologioista tai investoinneista, vaan siitä, millaisen taloudellisen median rakennamme: mitä se osaa laskea, ketä se voimaannuttaa ja millaisia tulevaisuuksia se tekee mahdollisiksi.\
 \
-Yhdessä skenaariot osoittavat, että talouskasvun tulevaisuus ei ole ensisijaisesti kiinni yksittäisistä teknologioista tai investoinneista, vaan siitä, millaisen taloudellisen median rakennamme: mitä se osaa laskea, ketä se voimaannuttaa ja millaisia tulevaisuuksia se tekee mahdollisiksi.\
-\
-Yhteinen oivallus skenaarioista on, että kasvu ei synny lisäämällä pääomaa, tehostamalla vanhaa tai keskittämällä kontrollia. Se syntyy avaamalla toimijuutta, päivittämällä protokollia ja muuttamalla talouden kielioppia.
+Ne ehdottavat, että kasvu ei synny lisäämällä pääomaa, tehostamalla vanhaa tai keskittämällä kontrollia. Se syntyy avaamalla toimijuutta, päivittämällä protokollia ja muuttamalla talouden kielioppia.
