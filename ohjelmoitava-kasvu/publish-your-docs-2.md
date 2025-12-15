@@ -33,7 +33,7 @@ Raportti osoittaa, että kasvun tulevaisuus ei löydy vanhan taloudellisen järj
 \
 Suomen strategisena mahdollisuutena on kilpailla pääoman massan sijaan arkkitehtuurilla. Ehdotamme siirtymistä yksittäisistä hankkeista systemaattiseen talouden infrastruktuurien kehittämiseen. Tarvitsemme **talouden PARC:n** – laboratorion, jossa uuden talouden käyttöliittymät ja pelisäännöt koodataan.
 
-Ydinteesit:
+### Ydinteesit
 
 1. **Talous on media**\
    Talous ei ole neutraali taustajärjestelmä, vaan laskennallinen ja kulttuurinen medium. Se muokkaa sitä mitä pidämme arvokkaana  ja kuinka toimijuus yhteiskunnassa jakautuu.
