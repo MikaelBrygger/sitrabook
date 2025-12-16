@@ -54,7 +54,6 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Ingham, Geoffrey: _The Nature of Money (institutionaalinen raha)_
 * Luhmann, Niklas: _The Economy as a Social System (raha kommunikaationa)_
 
-\
 **3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena** \
 **–** Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
 
@@ -73,19 +72,19 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 **4. Protokollat yhteiskunnallisena järjestäytymisenä** \
 **–** Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
 
-* _Bryan, Lopez & Virtanen (2023):_ \
+* Bryan, Lopez & Virtanen (2023): \
   [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
-* _Virtanen (2023):_ \
+* Virtanen (2023): \
   [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
-* _Virtanen (2006):_ \
+* Virtanen (2006): \
   _Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
-* _Heiskala & Virtanen (2011–2018):_ \
+* Heiskala & Virtanen (2011–2018): \
   [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
 * Homi, Koskinen, Vaden & Virtanen (2018): \
   &#xNAN;_&#x54;alous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
 * Latour (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
-* _Lovink (2021): Sad by Design._ Pluto Press.
-* _Lovink_ (2025) Platform Brutality. Amsterdam: Valiz.
+* Lovink (2021): _Sad by Design._ Pluto Press.
+* _Lovink (2025):_ Platform Brutality. Amsterdam: Valiz.
 * Schneider (2021):[ _Exit to Community_](https://communityrule.info/)_._&#x20;
 * Ostrom, Elinor: _Governing the Commons (jaettu hallinta)_
 * Glen Weyl et al.: _Radical Markets (mekanismisuunnittelu)_
@@ -98,29 +97,29 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 **5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä** \
 – Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
 
-* **Castronova, E. (2005):** _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
+* Castronova, E. (2005): _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
 * Ernest Adams, Joris Dormans (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
 * Lehdonvirta & Castronova (2014): _Virtual Economies: Design and Analysis._ MIT Press.
 * Laihinen (2022): [Life in a Code – Mikael Brygger’s “NASDAQ 30.5.2010” as Found Poetry](https://doi.org/10.1163/9789004515956_016). In: _A Cultural History of the Avant-Garde in the Nordic Countries Since 1975_, s. 227–240.&#x20;
-* Jane McGonigal – _Reality Is Broken_
-* Eric Zimmerman – _Rules of Play_
+* McGonigal, Jane: _Reality Is Broken_
+* Zimmerman, Eric – _Rules of Play_
 * Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 
 **6. Raha, luottamus ja likviditeetti infrastruktuurina** \
 **–** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
-* Perry Mehrling – _The New Lombard Street_
-* Hyman Minsky – _Stabilizing an Unstable Economy_
+* Mehrling, Perry – _The New Lombard Street_
+* Minsky, Hyman – _Stabilizing an Unstable Economy_
 * Keynes – _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
 * BIS – CBDC-raportit (jo mukana osittain)
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
 * Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
 * [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295)
 * [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452)
-* Green:[Someone just turned the lights on](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)
+* Green: [Someone just turned the lights on](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)
 * [Clearing and Settlement Systems fromAround the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf)
 * [Neutral Settlement Layer for Interoperability between Different Forms of Local Financial Expression Tomaz Paolo Dini](https://www.researchgate.net/publication/387951277_Neutral_Settlement_Layer_for_Interoperability_between_Different_Forms_of_Local_Financial_Expression)
-* [Clearinghouse mechanism preindustrial](https://www.journals.uchicago.edu/doi/abs/10.1086/694288?journalCode=jpe) [ ](https://www.journals.uchicago.edu/doi/abs/10.1086/694288?journalCode=jpe)
+* [Clearinghouse mechanism preindustrial](https://www.journals.uchicago.edu/doi/abs/10.1086/694288?journalCode=jpe)
 * [Credit Clearing in Slovenia](https://localloop-merseyside.co.uk/blog/credit-clearing-in-slovenia-a-conversation-with-tomaz-fleischman-part-1/)
 * [Money and Hierarchy: Four Ways to Discharge a Payment Obligation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032398)
 * [Sardex ](https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1646625#d1e217)
@@ -131,16 +130,16 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 **7. AI, laskennallinen toimijuus ja talous** \
 **–** Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
-* Norbert Wiener – _Cybernetics_
-* Herbert Simon – _Sciences of the Artificial_
-* Joshua Epstein – _Agent-Based Computational Economics_
+* Wiener, Norbert – _Cybernetics_
+* Simon, Herbert – _Sciences of the Artificial_
+* Epstein, Joshua – _Agent-Based Computational Economics_
 * Bratton – _AI and Governance_ (esseet)
 
 **8. Fiktiivinen ja spekulatiivinen talousajattelu –** Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
-* **Robinson, K. S. (2020):** _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
-* Ursula K. Le Guin – _The Carrier Bag Theory of Fiction_
-* Benjamin Bratton – speculative design -kirjoitukset
+* Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
+* Le Guin, Ursula K. – _The Carrier Bag Theory of Fiction_
+* Bratton, Benjamin – speculative design -kirjoitukset
 
 **9. Geopolitiikka ja strateginen arkkitehtuuri** \
 **–** Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
