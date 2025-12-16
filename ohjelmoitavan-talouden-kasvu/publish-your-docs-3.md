@@ -65,23 +65,18 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Lopez & Virtanen (2023): [An Expanded Ledger Grammar for Encoding and Communicating Our Economic Realities](https://medium.com/econaut/an-expanded-ledger-grammar-for-encoding-and-communicating-our-economic-realities-b32cdb1d3abb). ECSA Economic Papers.
 * Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
 * Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
-* Marshall McLuhan – _Understanding Media_ (klassinen ankkuri)
-* Friedrich Kittler – _Gramophone, Film, Typewriter_
-* Benjamin Bratton – _The Stack_ (talous osana laskennallista arkkitehtuuria)
+* McLuhan, Marshall: _Understanding Media_ (klassinen ankkuri)
+* Kittler, Friedrich: _Gramophone, Film, Typewriter_
+* Bratton, Benjamin: _The Stack_ (talous osana laskennallista arkkitehtuuria)
 
 **4. Protokollat yhteiskunnallisena järjestäytymisenä** \
 **–** Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
 
-* Bryan, Lopez & Virtanen (2023): \
-  [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
-* Virtanen (2023): \
-  [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
-* Virtanen (2006): \
-  _Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
-* Heiskala & Virtanen (2011–2018): \
-  [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
-* Homi, Koskinen, Vaden & Virtanen (2018): \
-  &#xNAN;_&#x54;alous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
+* Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
+* Virtanen (2023): [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
+* Virtanen (2006): _Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
+* Heiskala & Virtanen (2011–2018): [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
+* Homi, Koskinen, Vaden & Virtanen (2018): _Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
 * Latour (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
 * Lovink (2021): _Sad by Design._ Pluto Press.
 * _Lovink (2025):_ Platform Brutality. Amsterdam: Valiz.
@@ -102,16 +97,16 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Lehdonvirta & Castronova (2014): _Virtual Economies: Design and Analysis._ MIT Press.
 * Laihinen (2022): [Life in a Code – Mikael Brygger’s “NASDAQ 30.5.2010” as Found Poetry](https://doi.org/10.1163/9789004515956_016). In: _A Cultural History of the Avant-Garde in the Nordic Countries Since 1975_, s. 227–240.&#x20;
 * McGonigal, Jane: _Reality Is Broken_
-* Zimmerman, Eric – _Rules of Play_
+* Zimmerman, Eric: _Rules of Play_
 * Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 
 **6. Raha, luottamus ja likviditeetti infrastruktuurina** \
 **–** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
-* Mehrling, Perry – _The New Lombard Street_
-* Minsky, Hyman – _Stabilizing an Unstable Economy_
-* Keynes – _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
-* BIS – CBDC-raportit (jo mukana osittain)
+* Mehrling, Perry: _The New Lombard Street_
+* Minsky, Hyman: _Stabilizing an Unstable Economy_
+* Keynes: _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
+* BIS: CBDC-raportit
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
 * Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
 * [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295)
@@ -130,16 +125,17 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 **7. AI, laskennallinen toimijuus ja talous** \
 **–** Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
-* Wiener, Norbert – _Cybernetics_
-* Simon, Herbert – _Sciences of the Artificial_
-* Epstein, Joshua – _Agent-Based Computational Economics_
-* Bratton – _AI and Governance_ (esseet)
+* Wiener, Norbert: _Cybernetics_
+* Simon, Herbert: _Sciences of the Artificial_
+* Epstein, Joshua: _Agent-Based Computational Economics_
+* Bratton: _AI and Governance_ (esseet)
 
-**8. Fiktiivinen ja spekulatiivinen talousajattelu –** Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
+**8. Fiktiivinen ja spekulatiivinen talousajattelu** \
+**–** Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
 * Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
-* Le Guin, Ursula K. – _The Carrier Bag Theory of Fiction_
-* Bratton, Benjamin – speculative design -kirjoitukset
+* Le Guin, Ursula K.: _The Carrier Bag Theory of Fiction_
+* Bratton, Benjamin: speculative design -kirjoitukset
 
 **9. Geopolitiikka ja strateginen arkkitehtuuri** \
 **–** Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
