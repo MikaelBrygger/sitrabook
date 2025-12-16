@@ -6,7 +6,7 @@
 * [ECSA Labs](ohjelmoitava-kasvu/readme.md)
 * [Sisällys](ohjelmoitava-kasvu/publish-your-docs-1.md)
 * [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
-* [Keskeinen kirjallisuus](ohjelmoitavan-talouden-kasvu/publish-your-docs-3.md)
+* [Kirjallisuuskartta](ohjelmoitavan-talouden-kasvu/publish-your-docs-3.md)
 
 ## I Johdanto
 
