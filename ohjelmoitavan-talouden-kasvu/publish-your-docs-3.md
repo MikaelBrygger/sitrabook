@@ -27,40 +27,36 @@ v141225
 
 Tämä raportti esittää väitteen, joka voi ensi silmäyksellä vaikuttaa radikaalilta: talous ei ole vain markkina tai resurssien jakomekanismi, vaan historiallisesti kehittynyt media – tapa laskea, ilmaista arvoa ja organisoida yhteistoimintaa.\
 \
-Tämä ajatus ei ole syntynyt tyhjästä. Se nojaa laajaan ja monialaiseen tutkimusperinteeseen, joka ulottuu poliittisesta taloustieteestä ja sosiologiasta mediateoriaan, pelisuunnitteluun, rahateoriaan ja hajautettujen järjestelmien tutkimukseen.
+Ajatus ei ole syntynyt tyhjästä. Se nojaa laajaan ja monialaiseen tutkimusperinteeseen, joka ulottuu poliittisesta taloustieteestä ja sosiologiasta mediateoriaan, pelisuunnitteluun, rahateoriaan ja hajautettujen järjestelmien tutkimukseen.
 
-Seuraava kirjallisuuskartta hahmottaa ajattelun kenttää, jossa talous ymmärretään teknologiana, kielenä, infrastruktuurina ja yhteiskunnallisen toimijuuden järjestelmänä.
+Seuraava kirjallisuuskartta hahmottaa tätä ajattelun kenttää: taloutta tarkastellaan teknologiana, kielenä, infrastruktuurina ja yhteiskunnallisen toimijuuden järjestelmänä.
 
-Näihin lähteisiin kytkeytymällä raportti ankkuroituu vakiintuneisiin teoreettisiin ja historiallisiin keskusteluihin – samalla kun se pyrkii avaamaan niistä uusia suuntia tulevaisuuden taloudellisen kasvun ja yhteiskunnallisen kehityksen ymmärtämiseen.
-
-
+Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreettisiin ja historiallisiin keskusteluihin – samalla kun se pyrkii avaamaan näiden pohjalta uusia suuntia tulevaisuuden taloudellisen kasvun ja yhteiskunnallisen kehityksen ymmärtämiseen.<br>
 
 **1. Economic Space Agency: taloudellisen toimijuus ja sen jakaminen**
 
 * [Ohjelmoitavan talouden kasvu – audio overview](https://notebooklm.google.com/notebook/f36941e8-5ac3-49d4-9e5c-df3e68193f75/audio) **🎧**\
-  **–** _Lyhyt äänellinen johdatus hankkeen kysymyksenasetteluun ja lähestymistapaan. Toimii yhteenvetona ohjelmoitavan talouden ideasta niille, jotka haluavat hahmottaa sen nopeasti ja intuitiivisesti. Generoitu tekoälyn avulla._
+  **–** Lyhyt äänellinen johdatus hankkeen kysymyksenasetteluun ja lähestymistapaan. Toimii yhteenvetona ohjelmoitavan talouden ideasta niille, jotka haluavat hahmottaa sen nopeasti ja intuitiivisesti. Generoitu tekoälyn avulla.
 * [Distributing economic space agency with ECSA](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3) \
   – Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana median&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen with Kevin Owocki.
 
-**2. Talous protokollina ja ohjelmoitavana järjestelmänä –** _Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä._
+**2. Talous protokollina ja ohjelmoitavana järjestelmänä** \
+**–** Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä.
 
-* Bryan, Lopez & Virtanen (2023): \
-  [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency)
-* Bryan & Virtanen (2022): \
-  [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832).&#x20;
-* Bryan, Lee & Virtanen (2018): \
-  [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea).
-* Beller, Bryan, Lopez & Virtanen (2019):  \
-  [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
-* Zargham (2024): [_Architecting Knowledge Organization Infrastructure._](https://blog.block.science/architecting-knowledge-organization-infrastructure/) _BlockScience Blog._
+* Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
+* Bryan & Virtanen (2022): [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832).&#x20;
+* Bryan, Lee & Virtanen (2018): [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea).
+* Beller, Bryan, Lopez & Virtanen (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
+* Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
 * Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT Press. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
 * UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
-* _Cook, Chris – Disintermediation of Finance (nondominium, clearing)_
-* _Ingham, Geoffrey – The Nature of Money (institutionaalinen raha)_
-* _Luhmann, Niklas – The Economy as a Social System (raha kommunikaationa)_
+* _Cook, Chris: Disintermediation of Finance (nondominium, clearing)_
+* Ingham, Geoffrey: _The Nature of Money (institutionaalinen raha)_
+* Luhmann, Niklas: _The Economy as a Social System (raha kommunikaationa)_
 
 \
-**3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena –** _Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita._
+**3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena** \
+**–** Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
 
 * Beller (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression.\
   [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
@@ -76,24 +72,30 @@ Näihin lähteisiin kytkeytymällä raportti ankkuroituu vakiintuneisiin teoreet
 
 **4. Protokollat yhteiskunnallisena järjestäytymisenä –** _Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan._
 
-* _Bryan, Lopez & Virtanen (2023):_ Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
-* _Virtanen (2023):_ [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
-* _Virtanen (2006): Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
-* _Heiskala & Virtanen (2011–2018):_ [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
-* _Homi, Koskinen, Vaden & Virtanen (2018): Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Talous digitaalisen uudelleenmuotoilemisensa aikakaudella. Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
-* _Latour (2010):_ [Networks, Societies, Spheres: Reflections of an Actor-network Theorist. ](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf)Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
+* _Bryan, Lopez & Virtanen (2023):_ \
+  [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
+* _Virtanen (2023):_ \
+  [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
+* _Virtanen (2006):_ \
+  _Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
+* _Heiskala & Virtanen (2011–2018):_ \
+  [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
+* Homi, Koskinen, Vaden & Virtanen (2018): \
+  &#xNAN;_&#x54;alous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
+* Latour (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
 * _Lovink (2021): Sad by Design._ Pluto Press.
 * _Lovink_ (2025) Platform Brutality. Amsterdam: Valiz.
 * Schneider (2021):[ _Exit to Community_](https://communityrule.info/)_._&#x20;
-* _Elinor Ostrom – Governing the Commons (jaettu hallinta)_
-* _Glen Weyl et al. – Radical Markets (mekanismisuunnittelu)_
-* _Michel Callon – The Laws of the Markets_
+* Ostrom, Elinor: _Governing the Commons (jaettu hallinta)_
+* Glen Weyl et al.: _Radical Markets (mekanismisuunnittelu)_
+* Callon, Michel: _The Laws of the Markets_
 * Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
 * Zargham, M. et al. (2021): _Foundations of Cryptoeconomic Systems._ BlockScience. Insinöörinäkökulma taloudellisten järjestelmien suunnitteluun ja optimointiin kompleksisina systeemeinä.
 * North, D. (1990): _Institutions, Institutional Change and Economic Performance._ Cambridge University Press. Institutionaalisen taloustieteen perusta: "pelisäännöt" (instituutiot/protokollat) määrittävät taloudellisen menestyksen.
 * Schneider, N. (2022): _Exit to Community: A Community Primer._ Käytännön opas omistajuuden ja hallinnan siirtämiseen startup-sijoittajilta yhteisöille (vrt. Raportin "Ohjelmoitava organisaatio").
 
-**5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä –** _Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä._
+**5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä** \
+– _Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä._
 
 * **Castronova, E. (2005):** _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
 * Ernest Adams, Joris Dormans (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
