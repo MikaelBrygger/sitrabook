@@ -1,11 +1,12 @@
 # Table of contents
 
-## Ohjelmoitava kasvu
+## Ohjelmoitavan talouden kasvu
 
 * [Mitä jos käsityksemme taloudesta pitää muuttua?](README.md)
-* [ECSA Labs](ohjelmoitava-kasvu/readme.md)
-* [Sisällys](ohjelmoitava-kasvu/publish-your-docs-1.md)
-* [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
+* [ECSA Labs](ohjelmoitavan-talouden-kasvu/readme.md)
+* [Sisällys](ohjelmoitavan-talouden-kasvu/publish-your-docs-1.md)
+* [Tiivistelmä](ohjelmoitavan-talouden-kasvu/publish-your-docs-2.md)
+* [Keskeinen kirjallisuus](ohjelmoitavan-talouden-kasvu/publish-your-docs-3.md)
 
 ## I Johdanto
 
