@@ -70,7 +70,8 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Friedrich Kittler – _Gramophone, Film, Typewriter_
 * Benjamin Bratton – _The Stack_ (talous osana laskennallista arkkitehtuuria)
 
-**4. Protokollat yhteiskunnallisena järjestäytymisenä –** _Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan._
+**4. Protokollat yhteiskunnallisena järjestäytymisenä** \
+**–** Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
 
 * _Bryan, Lopez & Virtanen (2023):_ \
   [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
@@ -95,7 +96,7 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Schneider, N. (2022): _Exit to Community: A Community Primer._ Käytännön opas omistajuuden ja hallinnan siirtämiseen startup-sijoittajilta yhteisöille (vrt. Raportin "Ohjelmoitava organisaatio").
 
 **5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä** \
-– _Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä._
+– Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
 
 * **Castronova, E. (2005):** _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
 * Ernest Adams, Joris Dormans (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
@@ -105,7 +106,8 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Eric Zimmerman – _Rules of Play_
 * Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 
-**6. Raha, luottamus ja likviditeetti infrastruktuurina –** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
+**6. Raha, luottamus ja likviditeetti infrastruktuurina** \
+**–** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
 * Perry Mehrling – _The New Lombard Street_
 * Hyman Minsky – _Stabilizing an Unstable Economy_
@@ -126,7 +128,8 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * The Logic of Collaborative Finance as a Basis for Sustainable
 * Socio-Economic Development in Czechia
 
-**7. AI, laskennallinen toimijuus ja talous –** Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
+**7. AI, laskennallinen toimijuus ja talous** \
+**–** Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
 * Norbert Wiener – _Cybernetics_
 * Herbert Simon – _Sciences of the Artificial_
@@ -139,25 +142,28 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Ursula K. Le Guin – _The Carrier Bag Theory of Fiction_
 * Benjamin Bratton – speculative design -kirjoitukset
 
-**9. Geopolitiikka ja strateginen arkkitehtuuri –** _Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti._
+**9. Geopolitiikka ja strateginen arkkitehtuuri** \
+**–** Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
 
 * Mazzucato, M. (2013): _The Entrepreneurial State: Debunking Public vs. Private Sector Myths._ Perustelee valtion roolin (vrt. "Talouden PARC") strategisena innovaattorina ja markkinoiden muotoilijana, ei vain korjaajana.
 * Bratton, B. (2016): _The Stack: On Software and Sovereignty._ MIT Press. Geopoliittinen analyysi siitä, miten planeetan mittakaavan laskenta (The Stack) haastaa perinteisen valtiollisen suvereniteetin. (Taustalla EuroStack-ajattelussa).
 * Prasad, E. (2021): _The Future of Money: How the Digital Revolution Is Transforming Currencies and Finance._ Harvard University Press. Yleiskatsaus keskuspankkien digivaluuttoihin (CBDC) ja suurvaltojen valuuttakilpailuun.
 * US Congress (2024-2025): _The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins)._ Raportissa käsitelty lakialoite, joka kytkee vakaavaluutat Yhdysvaltain valtionvelan hallintaan.
 
-**10. Innovaatio ja metodi –** _Miten uutta luodaan systemaattisesti?_
+**10. Innovaatio ja metodi** \
+**–** Miten uutta luodaan systemaattisesti?
 
 * Hiltzik, M. (1999): _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age._ HarperBusiness. Historiikki siitä, miten Xerox PARC keksi modernin tietojenkäsittelyn. Toimii mallina raportin ehdottamalle "Talouden laboratoriolle".
 
-**11. Signaaleja ohjelmoituvan talouden esiinmarssista –** _Ajankohtaisia tapahtumia ja trendeja, jotka osoittavat murroksen olevan käynnissä._
+**11. Signaaleja ohjelmoituvan talouden esiinmarssista** \
+**–** Ajankohtaisia tapahtumia ja trendeja, jotka osoittavat murroksen olevan käynnissä.
 
 * Bryan (2025): [Trump’s announcement of a Fed crypto stockpile. How crazy is it?](https://docs.google.com/document/d/1iA1lKPUhDJCdUHtMQ0VmoO4nZ-GxA7uBUXlwUnHwxEM/edit?usp=sharing) _ECSA Economic Papers._
 * BIS (Bank of International Settlements): [Central bank digital currencies: foundational principles and core features](https://www.bis.org/publ/othp33.htm)
 * BRICS Pay (2024): [What is BRICS Pay?](https://infobrics.org/post/42296/)
 * Chen (2023): [BRICS Pay – The Blockchain Solution Driving 30% Of Global GDP Toward De-Dollarization](https://chainaffairs.com/brics-pay-the-blockchain-solution-driving-30-of-global-gdp-toward-de-dollarization/). Chainaffairs.
 * ECSA Economic Papers (2018–2025): [_Various strategic analyses on macro shifts_](https://medium.com/econaut)
-* _Usher (2025):_ A new world reserve currency - a decentralized CRC
+* _Usher (2025):_ A new world reserve currency – a decentralized CRC
 * Mozur, Paul (2019): [_Inside China’s Dystopian Dreams_](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html). NYT.
 * Freedman, Seth & Jin, Ginger Zhe (2008): [_Do Social Networks Solve Information Problems for Peer-to-Peer Lending?_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1936057)_. NET Institute Working Paper No. 08-43._
 * Schär, Fabian (2021): [_Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets_. ](https://www.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)Federal Reserve Bank of St. Louis Review.
