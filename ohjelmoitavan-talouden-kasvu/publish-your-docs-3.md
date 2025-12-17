@@ -109,9 +109,9 @@ Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
 * BIS: CBDC-raportit
 * Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
-* Keynes: _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
+* Keynes, J. M. (1930): _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
 * Mehrling, Perry: _The New Lombard Street_
-* Minsky, Hyman: _Stabilizing an Unstable Economy_
+* Minsky, H. (1986): _Stabilizing an Unstable Economy_. McGraw-Hill.
 * [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295)
 * [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452)
 * Green: [Someone just turned the lights on](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)
