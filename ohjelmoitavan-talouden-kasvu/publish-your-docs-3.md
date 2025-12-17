@@ -31,7 +31,7 @@ Ajatus ei ole syntynyt tyhjästä. Se nojaa laajaan ja monialaiseen tutkimusperi
 
 Seuraava kirjallisuuskartta hahmottaa tätä ajattelun kenttää: taloutta tarkastellaan teknologiana, kielenä, infrastruktuurina ja yhteiskunnallisen toimijuuden järjestelmänä.
 
-Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreettisiin ja historiallisiin keskusteluihin – samalla kun se pyrkii avaamaan näiden pohjalta uusia suuntia tulevaisuuden taloudellisen kasvun ja yhteiskunnallisen kehityksen ymmärtämiseen.<br>
+Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreettisiin ja historiallisiin keskusteluihin – samalla kun se pyrkii avaamaan näiden pohjalta uusia suuntia tulevaisuuden taloudellisen kasvun ja yhteiskunnallisen kehityksen ymmärtämiseen.
 
 **1. Economic Space Agency: taloudellisen toimijuus ja sen jakaminen**
 
