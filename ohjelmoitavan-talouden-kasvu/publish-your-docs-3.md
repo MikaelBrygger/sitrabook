@@ -99,7 +99,8 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 * Salen, K. & Zimmerman, E. (2003): Rules of Play: Game Design Fundamentals. MIT Press.
 
 **6. Raha, luottamus ja likviditeetti infrastruktuurina** \
-**–** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
+\
+Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.<br>
 
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
 * BIS: CBDC-raportit
@@ -120,8 +121,9 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 * The Logic of Collaborative Finance as a Basis for Sustainable
 * Socio-Economic Development in Czechia
 
-**7. AI, laskennallinen toimijuus ja talous** \
-**–** Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
+**7. AI, laskennallinen toimijuus ja talous**\
+&#x20;\
+Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.<br>
 
 * Bratton: _AI and Governance_ (esseet)
 * Epstein, Joshua: _Agent-Based Computational Economics_
@@ -129,14 +131,16 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 * Wiener, Norbert: _Cybernetics_
 
 **8. Fiktiivinen ja spekulatiivinen talousajattelu** \
-**–** Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
+\
+Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.<br>
 
 * Bratton, Benjamin: speculative design -kirjoitukset
 * Le Guin, Ursula K.: _The Carrier Bag Theory of Fiction_
 * Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
 
 **9. Geopolitiikka ja strateginen arkkitehtuuri** \
-**–** Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
+\
+Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.<br>
 
 * Bratton, B. (2016): _The Stack: On Software and Sovereignty._ MIT Press. Geopoliittinen analyysi siitä, miten planeetan mittakaavan laskenta (The Stack) haastaa perinteisen valtiollisen suvereniteetin. (Taustalla EuroStack-ajattelussa).
 * Mazzucato, M. (2013): _The Entrepreneurial State: Debunking Public vs. Private Sector Myths._ Perustelee valtion roolin (vrt. "Talouden PARC") strategisena innovaattorina ja markkinoiden muotoilijana, ei vain korjaajana.
@@ -144,12 +148,14 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 * US Congress (2024-2025): _The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins)._ Raportissa käsitelty lakialoite, joka kytkee vakaavaluutat Yhdysvaltain valtionvelan hallintaan.
 
 **10. Innovaatio ja metodi** \
-**–** Miten uutta luodaan systemaattisesti?
+\
+Miten uutta luodaan systemaattisesti?<br>
 
 * Hiltzik, M. (1999): _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age._ HarperBusiness. Historiikki siitä, miten Xerox PARC keksi modernin tietojenkäsittelyn. Toimii mallina raportin ehdottamalle "Talouden laboratoriolle".
 
 **11. Signaaleja ohjelmoituvan talouden esiinmarssista** \
-**–** Ajankohtaisia tapahtumia ja trendeja, jotka osoittavat murroksen olevan käynnissä.
+\
+&#xNAN;_&#x41;jankohtaisia tapahtumia ja trendejä, jotka osoittavat murroksen olevan käynnissä._<br>
 
 * BIS (Bank of International Settlements): [Central bank digital currencies: foundational principles and core features](https://www.bis.org/publ/othp33.htm)
 * BRICS Pay (2024): [What is BRICS Pay?](https://infobrics.org/post/42296/)
