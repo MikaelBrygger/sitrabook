@@ -40,7 +40,8 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * [Distributing economic space agency with ECSA](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3) \
   – Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana median&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen with Kevin Owocki.
 
-**2. Talous protokollina ja ohjelmoitavana järjestelmänä** \
+**2. Talous protokollina ja ohjelmoitavana järjestelmänä**&#x20;
+
 Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä.
 
 * Beller, Bryan, Lopez & Virtanen (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
@@ -54,7 +55,8 @@ Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järje
 * UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
 
-**3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena** \
+**3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena**&#x20;
+
 Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
 
 * Beller (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression.\
@@ -69,7 +71,8 @@ Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ol
 * Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
 * Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
 
-**4. Protokollat yhteiskunnallisena järjestäytymisenä** \
+**4. Protokollat yhteiskunnallisena järjestäytymisenä**&#x20;
+
 Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
 
 * Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
@@ -87,7 +90,8 @@ Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja os
 * Weyl, G. & Posner, E. (2018): Radical Markets: Uprooting Capitalism and Democracy for a Just Society. Princeton University Press.
 * Zargham, M. et al. (2021): _Foundations of Cryptoeconomic Systems._ BlockScience. Insinöörinäkökulma taloudellisten järjestelmien suunnitteluun ja optimointiin kompleksisina systeemeinä.
 
-**5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä** \
+**5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä**&#x20;
+
 Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
 
 * Castronova, E. (2005): _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
@@ -98,9 +102,9 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 * McGonigal, J. (2011): Reality Is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Press.
 * Salen, K. & Zimmerman, E. (2003): Rules of Play: Game Design Fundamentals. MIT Press.
 
-**6. Raha, luottamus ja likviditeetti infrastruktuurina** \
-\
-Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.<br>
+**6. Raha, luottamus ja likviditeetti infrastruktuurina**&#x20;
+
+Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
 * BIS: CBDC-raportit
@@ -121,41 +125,41 @@ Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan
 * The Logic of Collaborative Finance as a Basis for Sustainable
 * Socio-Economic Development in Czechia
 
-**7. AI, laskennallinen toimijuus ja talous**\
-&#x20;\
-Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.<br>
+**7. AI, laskennallinen toimijuus ja talous**
+
+Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
 * Bratton: _AI and Governance_ (esseet)
 * Epstein, Joshua: _Agent-Based Computational Economics_
 * Simon, Herbert: _Sciences of the Artificial_
 * Wiener, Norbert: _Cybernetics_
 
-**8. Fiktiivinen ja spekulatiivinen talousajattelu** \
-\
-Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.<br>
+**8. Fiktiivinen ja spekulatiivinen talousajattelu**&#x20;
+
+Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
 * Bratton, Benjamin: speculative design -kirjoitukset
 * Le Guin, Ursula K.: _The Carrier Bag Theory of Fiction_
 * Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
 
-**9. Geopolitiikka ja strateginen arkkitehtuuri** \
-\
-Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.<br>
+**9. Geopolitiikka ja strateginen arkkitehtuuri**&#x20;
+
+Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
 
 * Bratton, B. (2016): _The Stack: On Software and Sovereignty._ MIT Press. Geopoliittinen analyysi siitä, miten planeetan mittakaavan laskenta (The Stack) haastaa perinteisen valtiollisen suvereniteetin. (Taustalla EuroStack-ajattelussa).
 * Mazzucato, M. (2013): _The Entrepreneurial State: Debunking Public vs. Private Sector Myths._ Perustelee valtion roolin (vrt. "Talouden PARC") strategisena innovaattorina ja markkinoiden muotoilijana, ei vain korjaajana.
 * Prasad, E. (2021): _The Future of Money: How the Digital Revolution Is Transforming Currencies and Finance._ Harvard University Press. Yleiskatsaus keskuspankkien digivaluuttoihin (CBDC) ja suurvaltojen valuuttakilpailuun.
 * US Congress (2024-2025): _The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins)._ Raportissa käsitelty lakialoite, joka kytkee vakaavaluutat Yhdysvaltain valtionvelan hallintaan.
 
-**10. Innovaatio ja metodi** \
-\
-Miten uutta luodaan systemaattisesti?<br>
+**10. Innovaatio ja metodi**&#x20;
+
+Miten uutta luodaan systemaattisesti?
 
 * Hiltzik, M. (1999): _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age._ HarperBusiness. Historiikki siitä, miten Xerox PARC keksi modernin tietojenkäsittelyn. Toimii mallina raportin ehdottamalle "Talouden laboratoriolle".
 
-**11. Signaaleja ohjelmoituvan talouden esiinmarssista** \
-\
-&#xNAN;_&#x41;jankohtaisia tapahtumia ja trendejä, jotka osoittavat murroksen olevan käynnissä._<br>
+**11. Signaaleja ohjelmoituvan talouden esiinmarssista**&#x20;
+
+_Ajankohtaisia tapahtumia ja trendejä, jotka osoittavat murroksen olevan käynnissä._
 
 * BIS (Bank of International Settlements): [Central bank digital currencies: foundational principles and core features](https://www.bis.org/publ/othp33.htm)
 * BRICS Pay (2024): [What is BRICS Pay?](https://infobrics.org/post/42296/)
