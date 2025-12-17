@@ -50,9 +50,9 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
 * Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT Press. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
 * UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
-* _Cook, Chris: Disintermediation of Finance (nondominium, clearing)_
-* Ingham, Geoffrey: _The Nature of Money (institutionaalinen raha)_
-* Luhmann, Niklas: _The Economy as a Social System (raha kommunikaationa)_
+* Cook, C. (noin 2014): Financing the Transition: The Nondominium Solution (wiki-artikkeli). P2P Foundation & Institute for Security & Resilience Studies.  ￼
+* Ingham, G. (2004): The Nature of Money. Polity Press.
+* Luhmann, N. (1988/2012): The Economy of Society (Die Wirtschaft der Gesellschaft). Stanford University Press.
 
 **3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena** \
 **–** Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
@@ -65,9 +65,9 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Lopez & Virtanen (2023): [An Expanded Ledger Grammar for Encoding and Communicating Our Economic Realities](https://medium.com/econaut/an-expanded-ledger-grammar-for-encoding-and-communicating-our-economic-realities-b32cdb1d3abb). ECSA Economic Papers.
 * Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
 * Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
-* McLuhan, Marshall: _Understanding Media_ (klassinen ankkuri)
-* Kittler, Friedrich: _Gramophone, Film, Typewriter_
-* Bratton, Benjamin: _The Stack_ (talous osana laskennallista arkkitehtuuria)
+* McLuhan, M. (1964): Understanding Media: The Extensions of Man. New York: McGraw-Hill.
+* Kittler, F. A. (1999): Gramophone, Film, Typewriter. Stanford University Press.
+* Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
 
 **4. Protokollat yhteiskunnallisena järjestäytymisenä** \
 **–** Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
@@ -81,9 +81,9 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Lovink (2021): _Sad by Design._ Pluto Press.
 * _Lovink (2025):_ Platform Brutality. Amsterdam: Valiz.
 * Schneider (2021):[ _Exit to Community_](https://communityrule.info/)_._&#x20;
-* Ostrom, Elinor: _Governing the Commons (jaettu hallinta)_
-* Glen Weyl et al.: _Radical Markets (mekanismisuunnittelu)_
-* Callon, Michel: _The Laws of the Markets_
+* Ostrom, E. (1990): Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press.
+* Weyl, G. & Posner, E. (2018): Radical Markets: Uprooting Capitalism and Democracy for a Just Society. Princeton University Press.
+* Callon, M. (1998): The Laws of the Markets. Blackwell Publishers.
 * Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
 * Zargham, M. et al. (2021): _Foundations of Cryptoeconomic Systems._ BlockScience. Insinöörinäkökulma taloudellisten järjestelmien suunnitteluun ja optimointiin kompleksisina systeemeinä.
 * North, D. (1990): _Institutions, Institutional Change and Economic Performance._ Cambridge University Press. Institutionaalisen taloustieteen perusta: "pelisäännöt" (instituutiot/protokollat) määrittävät taloudellisen menestyksen.
@@ -96,8 +96,8 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
 * Ernest Adams, Joris Dormans (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
 * Lehdonvirta & Castronova (2014): _Virtual Economies: Design and Analysis._ MIT Press.
 * Laihinen (2022): [Life in a Code – Mikael Brygger’s “NASDAQ 30.5.2010” as Found Poetry](https://doi.org/10.1163/9789004515956_016). In: _A Cultural History of the Avant-Garde in the Nordic Countries Since 1975_, s. 227–240.&#x20;
-* McGonigal, Jane: _Reality Is Broken_
-* Zimmerman, Eric: _Rules of Play_
+* McGonigal, J. (2011): Reality Is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Press.
+* Salen, K. & Zimmerman, E. (2003): Rules of Play: Game Design Fundamentals. MIT Press.
 * Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 
 **6. Raha, luottamus ja likviditeetti infrastruktuurina** \
