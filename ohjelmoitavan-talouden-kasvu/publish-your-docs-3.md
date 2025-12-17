@@ -101,12 +101,12 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 **6. Raha, luottamus ja likviditeetti infrastruktuurina** \
 **–** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
+* Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
+* BIS: CBDC-raportit
+* Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
+* Keynes: _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
 * Mehrling, Perry: _The New Lombard Street_
 * Minsky, Hyman: _Stabilizing an Unstable Economy_
-* Keynes: _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
-* BIS: CBDC-raportit
-* Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
-* Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
 * [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295)
 * [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452)
 * Green: [Someone just turned the lights on](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)
@@ -123,23 +123,23 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 **7. AI, laskennallinen toimijuus ja talous** \
 **–** Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
-* Wiener, Norbert: _Cybernetics_
-* Simon, Herbert: _Sciences of the Artificial_
-* Epstein, Joshua: _Agent-Based Computational Economics_
 * Bratton: _AI and Governance_ (esseet)
+* Epstein, Joshua: _Agent-Based Computational Economics_
+* Simon, Herbert: _Sciences of the Artificial_
+* Wiener, Norbert: _Cybernetics_
 
 **8. Fiktiivinen ja spekulatiivinen talousajattelu** \
 **–** Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
-* Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
-* Le Guin, Ursula K.: _The Carrier Bag Theory of Fiction_
 * Bratton, Benjamin: speculative design -kirjoitukset
+* Le Guin, Ursula K.: _The Carrier Bag Theory of Fiction_
+* Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
 
 **9. Geopolitiikka ja strateginen arkkitehtuuri** \
 **–** Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
 
-* Mazzucato, M. (2013): _The Entrepreneurial State: Debunking Public vs. Private Sector Myths._ Perustelee valtion roolin (vrt. "Talouden PARC") strategisena innovaattorina ja markkinoiden muotoilijana, ei vain korjaajana.
 * Bratton, B. (2016): _The Stack: On Software and Sovereignty._ MIT Press. Geopoliittinen analyysi siitä, miten planeetan mittakaavan laskenta (The Stack) haastaa perinteisen valtiollisen suvereniteetin. (Taustalla EuroStack-ajattelussa).
+* Mazzucato, M. (2013): _The Entrepreneurial State: Debunking Public vs. Private Sector Myths._ Perustelee valtion roolin (vrt. "Talouden PARC") strategisena innovaattorina ja markkinoiden muotoilijana, ei vain korjaajana.
 * Prasad, E. (2021): _The Future of Money: How the Digital Revolution Is Transforming Currencies and Finance._ Harvard University Press. Yleiskatsaus keskuspankkien digivaluuttoihin (CBDC) ja suurvaltojen valuuttakilpailuun.
 * US Congress (2024-2025): _The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins)._ Raportissa käsitelty lakialoite, joka kytkee vakaavaluutat Yhdysvaltain valtionvelan hallintaan.
 
@@ -151,12 +151,12 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 **11. Signaaleja ohjelmoituvan talouden esiinmarssista** \
 **–** Ajankohtaisia tapahtumia ja trendeja, jotka osoittavat murroksen olevan käynnissä.
 
-* Bryan (2025): [Trump’s announcement of a Fed crypto stockpile. How crazy is it?](https://docs.google.com/document/d/1iA1lKPUhDJCdUHtMQ0VmoO4nZ-GxA7uBUXlwUnHwxEM/edit?usp=sharing) _ECSA Economic Papers._
 * BIS (Bank of International Settlements): [Central bank digital currencies: foundational principles and core features](https://www.bis.org/publ/othp33.htm)
 * BRICS Pay (2024): [What is BRICS Pay?](https://infobrics.org/post/42296/)
+* Bryan (2025): [Trump’s announcement of a Fed crypto stockpile. How crazy is it?](https://docs.google.com/document/d/1iA1lKPUhDJCdUHtMQ0VmoO4nZ-GxA7uBUXlwUnHwxEM/edit?usp=sharing) _ECSA Economic Papers._
 * Chen (2023): [BRICS Pay – The Blockchain Solution Driving 30% Of Global GDP Toward De-Dollarization](https://chainaffairs.com/brics-pay-the-blockchain-solution-driving-30-of-global-gdp-toward-de-dollarization/). Chainaffairs.
 * ECSA Economic Papers (2018–2025): [_Various strategic analyses on macro shifts_](https://medium.com/econaut)
-* _Usher (2025):_ A new world reserve currency – a decentralized CRC
-* Mozur, Paul (2019): [_Inside China’s Dystopian Dreams_](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html). NYT.
 * Freedman, Seth & Jin, Ginger Zhe (2008): [_Do Social Networks Solve Information Problems for Peer-to-Peer Lending?_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1936057)_. NET Institute Working Paper No. 08-43._
+* Mozur, Paul (2019): [_Inside China’s Dystopian Dreams_](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html). NYT.
 * Schär, Fabian (2021): [_Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets_. ](https://www.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)Federal Reserve Bank of St. Louis Review.
+* Usher (2025): A new world reserve currency – a decentralized CRC
