@@ -41,64 +41,62 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu vakiintuneisiin teoreet
   – Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana median&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen with Kevin Owocki.
 
 **2. Talous protokollina ja ohjelmoitavana järjestelmänä** \
-**–** Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä.
+Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä.
 
+* Beller, Bryan, Lopez & Virtanen (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
 * Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
 * Bryan & Virtanen (2022): [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832).&#x20;
 * Bryan, Lee & Virtanen (2018): [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea).
-* Beller, Bryan, Lopez & Virtanen (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
-* Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
-* Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT Press. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
-* UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * Cook, C. (noin 2014): Financing the Transition: The Nondominium Solution (wiki-artikkeli). P2P Foundation & Institute for Security & Resilience Studies.  ￼
+* Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT Press. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
 * Ingham, G. (2004): The Nature of Money. Polity Press.
 * Luhmann, N. (1988/2012): The Economy of Society (Die Wirtschaft der Gesellschaft). Stanford University Press.
+* UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
+* Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
 
 **3. Talous mediana, ilmaisuna ja viestinnällisenä rakenteena** \
-**–** Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
+Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
 
 * Beller (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression.\
   [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
 * Beller (2023):  [_On Economic Intelligence._](https://hackmd.io/@ECSA/rJSza2HxR) _A foreword to_ Bryan, Lopez & Virtanen (2023): _Protocols for Postcapitalist Expression._
 * Beller (2021): _The World Computer. Derivative Conditions of Racial Capitalism._ Durham: Duke University Press. Analyysi laskennallisen kapitalismin logiikasta ja informaation muuttumisesta arvoksi.
+* Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
+* Kittler, F. A. (1999): Gramophone, Film, Typewriter. Stanford University Press.
 * Lopez (2022): [Economy as a re-programmable communication medium](https://web.archive.org/web/20220815054657/http://www.lafuriaumana.it/index.php/77-lfu-43/1102-jorge-lopez-our-economy-a-re-programmable-network-operating-system). _La Furia Humana_ Special Issue on Economic Media.
 * Lopez & Virtanen (2023): [An Expanded Ledger Grammar for Encoding and Communicating Our Economic Realities](https://medium.com/econaut/an-expanded-ledger-grammar-for-encoding-and-communicating-our-economic-realities-b32cdb1d3abb). ECSA Economic Papers.
-* Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
-* Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
 * McLuhan, M. (1964): Understanding Media: The Extensions of Man. New York: McGraw-Hill.
-* Kittler, F. A. (1999): Gramophone, Film, Typewriter. Stanford University Press.
-* Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
+* Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
+* Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
 
 **4. Protokollat yhteiskunnallisena järjestäytymisenä** \
-**–** Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
+Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
 
 * Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
-* Virtanen (2023): [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
-* Virtanen (2006): _Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
 * Heiskala & Virtanen (2011–2018): [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
 * Homi, Koskinen, Vaden & Virtanen (2018): _Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
 * Latour (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
 * Lovink (2021): _Sad by Design._ Pluto Press.
-* _Lovink (2025):_ Platform Brutality. Amsterdam: Valiz.
-* Schneider (2021):[ _Exit to Community_](https://communityrule.info/)_._&#x20;
-* Ostrom, E. (1990): Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press.
-* Weyl, G. & Posner, E. (2018): Radical Markets: Uprooting Capitalism and Democracy for a Just Society. Princeton University Press.
+* Lovink (2025): Platform Brutality. Amsterdam: Valiz.
 * Callon, M. (1998): The Laws of the Markets. Blackwell Publishers.
-* Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
-* Zargham, M. et al. (2021): _Foundations of Cryptoeconomic Systems._ BlockScience. Insinöörinäkökulma taloudellisten järjestelmien suunnitteluun ja optimointiin kompleksisina systeemeinä.
 * North, D. (1990): _Institutions, Institutional Change and Economic Performance._ Cambridge University Press. Institutionaalisen taloustieteen perusta: "pelisäännöt" (instituutiot/protokollat) määrittävät taloudellisen menestyksen.
+* Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
 * Schneider, N. (2022): _Exit to Community: A Community Primer._ Käytännön opas omistajuuden ja hallinnan siirtämiseen startup-sijoittajilta yhteisöille (vrt. Raportin "Ohjelmoitava organisaatio").
+* Virtanen (2006): _Biopoliittisen talouden kritiikki. Helsinki: Tutikjaliitto._
+* Virtanen (2023): [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
+* Weyl, G. & Posner, E. (2018): Radical Markets: Uprooting Capitalism and Democracy for a Just Society. Princeton University Press.
+* Zargham, M. et al. (2021): _Foundations of Cryptoeconomic Systems._ BlockScience. Insinöörinäkökulma taloudellisten järjestelmien suunnitteluun ja optimointiin kompleksisina systeemeinä.
 
 **5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä** \
-– Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
+Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
 
 * Castronova, E. (2005): _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
 * Ernest Adams, Joris Dormans (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
+* Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 * Lehdonvirta & Castronova (2014): _Virtual Economies: Design and Analysis._ MIT Press.
 * Laihinen (2022): [Life in a Code – Mikael Brygger’s “NASDAQ 30.5.2010” as Found Poetry](https://doi.org/10.1163/9789004515956_016). In: _A Cultural History of the Avant-Garde in the Nordic Countries Since 1975_, s. 227–240.&#x20;
 * McGonigal, J. (2011): Reality Is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Press.
 * Salen, K. & Zimmerman, E. (2003): Rules of Play: Game Design Fundamentals. MIT Press.
-* Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 
 **6. Raha, luottamus ja likviditeetti infrastruktuurina** \
 **–** Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
