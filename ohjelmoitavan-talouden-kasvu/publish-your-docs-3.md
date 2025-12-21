@@ -110,18 +110,19 @@ Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan
 * Keynes, J. M. (1930): _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
 * Mehrling, Perry: _The New Lombard Street_
 * Minsky, H. (1986): _Stabilizing an Unstable Economy_. McGraw-Hill.
-* [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295)
-* [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452)
-* Green: [Someone just turned the lights on](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)
+* Fleischman, T., Dini, P. & Littera, G. (2020): [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295). Journal of Risk and Financial Management 13(12):295. ￼
+* Fleischman, T. & Dini, P. (2021): [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452). Journal of Risk and Financial Management 14(9):452.
+* Green, Dil (2021): “[Someone Just Turned the Lights On](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)”. MutualCredit.Services. ￼Blog.
 * [Clearing and Settlement Systems fromAround the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf)
-* [Neutral Settlement Layer for Interoperability between Different Forms of Local Financial Expression Tomaz Paolo Dini](https://www.researchgate.net/publication/387951277_Neutral_Settlement_Layer_for_Interoperability_between_Different_Forms_of_Local_Financial_Expression)
-* [Clearinghouse mechanism preindustrial](https://www.journals.uchicago.edu/doi/abs/10.1086/694288?journalCode=jpe)
-* [Credit Clearing in Slovenia](https://localloop-merseyside.co.uk/blog/credit-clearing-in-slovenia-a-conversation-with-tomaz-fleischman-part-1/)
-* [Money and Hierarchy: Four Ways to Discharge a Payment Obligation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032398)
-* [Sardex ](https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1646625#d1e217)
-* [Nobuhiro Kiyotaki: EVIL IS THE ROOT OF ALL MONEY](https://www.princeton.edu/~kiyotaki/papers/Evilistherootofallmoney.pdf)
-* The Logic of Collaborative Finance as a Basis for Sustainable
-* Socio-Economic Development in Czechia
+* Tompkins, M. & Olivares, A. (2016): [Clearing and Settlement Systems from Around the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf). EconStor Working Paper.  ￼
+* Dini, T. P. (2025): [Neutral Settlement Layer for Interoperability between Different Forms of Local Financial Expression](https://www.researchgate.net/publication/387951277_Neutral_Settlement_Layer_for_Interoperability_between_Different_Forms_of_Local_Financial_Expression) (ResearchGate PDF / conference paper). ￼
+* Börner, Lars & Hatfield, John William (2017): [The Design of Debt-Clearing Markets: Clearinghouse Mechanisms in Preindustrial Europe.](https://www.journals.uchicago.edu/doi/abs/10.1086/694288?journalCode=jpe) Journal of Political Economy 125(6).
+* Woodroof, Tom (2025): Interview: [Credit Clearing in Slovenia – A Conversation with Tomaž Fleischman](https://localloop-merseyside.co.uk/blog/credit-clearing-in-slovenia-a-conversation-with-tomaz-fleischman-part-1/), Part 1. Local Loop Merseyside (Economics / Community / Interview), 27 May 2025. Recorded May 2025.&#x20;
+* Clavero, Borja (2022): [Money and Hierarchy: Four Ways to Discharge a Payment Obligation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032398). SSRN Working Paper No. 4032398. University of Winchester. Revised April 2025.
+* Dini, Paolo; Kioupkiolis, Alexandros & Read, Robert (2019)\
+  [The Alter-Politics of Complementary Currencies: The Case of Sardex](https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1646625#abstract). Cogent Social Sciences 5(1).
+* Kiyotaki, Nobuhiro & Moore, John (2001)\
+  [Evil Is the Root of All Money](https://www.princeton.edu/~kiyotaki/papers/Evilistherootofallmoney.pdf). Lecture 1, London School of Economics / Edinburgh University, 26 November 2001.&#x20;
 
 **7. AI, laskennallinen toimijuus ja talous**
 
