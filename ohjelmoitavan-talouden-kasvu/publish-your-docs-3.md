@@ -137,8 +137,8 @@ Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muot
 
 Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
-* Bratton, Benjamin: speculative design -kirjoitukset
-* Le Guin, Ursula K.: _The Carrier Bag Theory of Fiction_
+* Bratton, Benjamin (2013–2022): Speculative design -kirjoitukset. Spekulatiivinen suunnittelu menetelmänä poliittisten ja taloudellisten järjestelmien ajattelemiseen.
+* Le Guin, Ursula K. (1986): [_The Carrier Bag Theory of Fiction_](https://monoskop.org/File:Le_Guin_Ursula_K_1986_1989_The_Carrier_Bag_Theory_of_Fiction.pdf)_._ Alun perin essee, julkaistu useissa kokoelmissa. Fiktion rakenteellinen vaihtoehto sankarikeskeisille kertomuksille; usein sovellettu talous- ja järjestelmäajatteluun.
 * Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
 
 **9. Geopolitiikka ja strateginen arkkitehtuuri**&#x20;
