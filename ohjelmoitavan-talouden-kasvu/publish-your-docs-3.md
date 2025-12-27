@@ -128,10 +128,11 @@ Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan
 
 Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
-* Bratton: _AI and Governance_ (esseet)
-* Epstein, Joshua: _Agent-Based Computational Economics_
-* Simon, Herbert: _Sciences of the Artificial_
 * Wiener, Norbert: _Cybernetics_
+* Bratton, Benjamin (2015–2022): _AI and Governance_ (esseitä ja luentoja). Eri julkaisuissa ja esityksissä (mm. Strelka Institute, Antikythera). Käsittelee tekoälyn roolia hallinnassa, infrastruktuureissa ja planetaarisessa laskennassa; AI nähdään laskennallisena toimijana, joka muuttaa taloudellista ja yhteiskunnallista koordinointia.
+* Epstein, Joshua M. (2006): _Generative Social Science: Studies in Agent-Based Computational Modeling._ Princeton University Press. Keskeinen teos agenttipohjaisesta laskennallisesta mallintamisesta taloustieteessä ja sosiaalitieteissä; käsittelee, miten yksittäiset toimijat luovat kollektiivisia rakenteita.
+* Simon, Herbert A. (1969 / 1996). _The Sciences of the Artificial._ MIT Press. Klassinen teos keinotekoisten järjestelmien, suunnittelun ja rajallisen rationaalisuuden teoriasta; merkittävä myös laskennallisen toimijuuden ja päätöksenteon ymmärtämisessä.
+* Wiener, Norbert (1948). _Cybernetics: Or Control and Communication in the Animal and the Machine._ MIT Press. Perustava teos kybernetiikasta, palautesilmukoista ja laskennallisesta ohjauksesta; pohjustaa ymmärrystä automaation ja tekoälyn roolista yhteiskunnassa.
 
 **8. Fiktiivinen ja spekulatiivinen talousajattelu**&#x20;
 
