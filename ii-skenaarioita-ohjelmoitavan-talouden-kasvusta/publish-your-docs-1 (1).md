@@ -6,7 +6,35 @@ coverY: 0
 
 # Mitä jos laskisimme talouskasvua ympäristövaikutuksilla?
 
-### Tiivistelmä
+<details>
+
+<summary>Tiivistelmä</summary>
+
+Sanonnan mukaan ”what’s counted, counts”. Haluamme, että ympäristö merkitsee, mutta emme vielä tiedä, miten sitä tulisi merkitä. Tämä ehdotus lähtee siitä, että ottamalla laskentainnovaatioita käyttöön Suomen valtio voi nousta johtavaan rooliin ympäristön arvottamisessa – ja siten ympäristövaikutusten systemaattisessa tuottamisessa. Käytännössä tämä tarkoittaisi tukien myöntämistä ympäristöyksiköissä (ECO), jotka voidaan vaihtaa euroiksi, mutta jotka on maksettava takaisin ECOina. Tämä aloite avaa tilan prosessille, jossa ympäristövaikutusten laskentayksikkö ja sen muuntosuhde euroon rakentuvat asteittaisen yhteisymmärryksen kautta.
+
+**Keskeinen teesi**
+
+Tavoiteltujen ympäristövaikutusten saavuttaminen edellyttää, että niitä lasketaan ympäristöyksiköissä. Valtio voi laskea liikkeelle krediittejä tässä yksikössä ja vaatia niiden takaisinmaksua samassa yksikössä, kunhan se samalla tarjoaa likviditeetin euroissa.
+
+**Muutos talouden logiikassa**
+
+Yhteiskunnallisesti hyödylliset mutta kannattamattomat tuotokset kehystetään nykyisessä ajattelussa ”markkinahäiriöiksi” (ulkoisvaikutuksiksi, julkishyödykkeiksi). Keskustelu käydään sen ympärillä, kuinka suureen valtion ”tukeen” (valtion budjettirasiteeseen) ne oikeuttavat. Laskennan logiikkaa muuttamalla esimerkiksi valtion rahoittama ympäristön ennallistaminen voidaan kirjata uuden arvon luomisena – samalla tavalla kun valtion avustukset voidaan nähdä takaisinmaksettavina – vaikkakin eri valuutassa kuin euroissa.
+
+**Seuraukset talouskasvun käsitteelle**
+
+BKT:n rajallisuus kokonaiskasvun mittarina on laajasti tunnustettu, samoin kuin ajatus siitä, ettei yritysten kannattavuutta voi pitää yhteiskunnallisen hyödyn luotettavana laskentatapana. Huomiota on kiinnitetty etenkin negatiivisten ympäristövaikutusten sivuuttamiseen. Vaikka maailmalla on lukuisia linjauksia, ne johtavat usein vastakkainasetteluun ”kasvu vastaan ympäristö”. Kun hyödynnämme vaihtoehtoisia tapoja laskea kasvua, voimme sen sijaan kysyä, _millaista_ kasvua tavoitellaan, sen sijaan että kysyisimme, _kuinka voimakas kasvu_ on kestävää. Pelkkä tämä tekijä muuttaa keskustelua dramaattisesti.
+
+**Suhde ohjelmoitavaan talouteen**
+
+Nykyisen paradigman mukaan taloutta lasketaan eurohinnoissa, koska tämä on vakiintunut tapa kerätä dataa ja laatia yritysten ja valtion tilinpitoa. Kykymme tallentaa hintatiedon ohella monenlaista dataa tarkoittaa kuitenkin, että tilejä voitaisiin laatia myös muissa yksiköissä, kuten ympäristöyksiköissä ilmaistuna. Teknisenä haasteena on ympäristödatan kokoaminen indeksiksi, vastaavasti kuin perinteinen talous kokoaa hajanaisen datan hintasignaaliksi.
+
+**Mahdollisuudet Suomelle**
+
+Tämä skenaario edustaa talouden laskennan yksinkertaista, mutta radikaalia uudelleenkehystämistä. Sillä on globaalia käyttöpotentiaalia, mutta sen pilotoinnin tulee tapahtua kansallisella tasolla. Prosessia johtava maa saavuttaa ensimmäisen toimijan edun ekologisen kestävyyden ja talouden yhteensovittamisessa. Suomella on historiaa luovassa suunnittelussa ja ennakkoluulottomassa ajattelussa. Tämä on tilaisuus maailmanlaajuisen standardin asettamiselle.
+
+</details>
+
+### Aluksi
 
 Ympäristön kantokyvyn kanssa johdonmukaisella tavalla sopusoinnussa oleva talouden kasvu on keskeinen talouspoliittinen tavoite globaalilla, kansallisella ja paikallisella tasolla. Hyvät aikomukset ja kunnianhimoiset kestävyyspyrkimykset eivät yksin riitä. Kestävän kasvun on oltava todennettavaa ja vaikuttavaa niin suunnittelussa kuin toteutuksessa. Tämän vuoksi ympäristökestävyyteen liittyville väittämille on luotava oma tilinpidollinen kerroksensa: taseet, joiden erät kirjataan ympäristöyksiköissä.
 
