@@ -105,7 +105,7 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
-* BIS: CBDC-raportit
+* Bank for International Settlements (BIS): [Central bank digital currencies: ongoing policy perspectives](https://www.bis.org/publ/othp65.htm). BIS, 25 May 2023. Analyysejä, raportteja ja viiteasiakirjoja, jotka käsittelevät periaatteita, riskejä, design‑kysymyksiä ja keskuspankkien yhteistyötä CBDC‑teeman ympärillä.
 * Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
 * Keynes, J. M. (1930): _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
 * Mehrling, Perry: _The New Lombard Street_
@@ -128,7 +128,6 @@ Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan
 
 Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
-* Wiener, Norbert: _Cybernetics_
 * Bratton, Benjamin (2015–2022): _AI and Governance_ (esseitä ja luentoja). Eri julkaisuissa ja esityksissä (mm. Strelka Institute, Antikythera). Käsittelee tekoälyn roolia hallinnassa, infrastruktuureissa ja planetaarisessa laskennassa; AI nähdään laskennallisena toimijana, joka muuttaa taloudellista ja yhteiskunnallista koordinointia.
 * Epstein, Joshua M. (2006): _Generative Social Science: Studies in Agent-Based Computational Modeling._ Princeton University Press. Keskeinen teos agenttipohjaisesta laskennallisesta mallintamisesta taloustieteessä ja sosiaalitieteissä; käsittelee, miten yksittäiset toimijat luovat kollektiivisia rakenteita.
 * Simon, Herbert A. (1969 / 1996). _The Sciences of the Artificial._ MIT Press. Klassinen teos keinotekoisten järjestelmien, suunnittelun ja rajallisen rationaalisuuden teoriasta; merkittävä myös laskennallisen toimijuuden ja päätöksenteon ymmärtämisessä.
