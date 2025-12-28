@@ -3,8 +3,8 @@
 ## Ohjelmoitavan talouden kasvu
 
 * [Mitä jos käsityksemme taloudesta pitää muuttua?](README.md)
-* [ECSA Labs](ohjelmoitava-kasvu/readme.md)
-* [Lisenssi ja käyttöehdot](ohjelmoitavan-talouden-kasvu/readme-1.md)
+* [Lisenssi ja käyttöehdot](ohjelmoitavan-talouden-kasvu/readme.md)
+* [ECSA Labs](ohjelmoitavan-talouden-kasvu/readme-1.md)
 * [Sisällys](ohjelmoitava-kasvu/publish-your-docs-1.md)
 * [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
 * [Kirjallisuuskartta](ohjelmoitavan-talouden-kasvu/publish-your-docs-3.md)

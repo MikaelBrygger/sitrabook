@@ -4,21 +4,13 @@ cover: ../.gitbook/assets/banner-ecsa-labs (1).svg
 coverY: 0
 ---
 
-# Lisenssi ja käyttöehdot
+# ECSA Labs
 
-Tämä julkaisu on lisensoitu **Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen (CC BY-SA 4.0)** -lisenssillä.
+Hankkeen toteuttaa [**Economic Space Agency**](http://economicspace.agency/) (ECSA) – kansainvälinen, mutta Suomessa juurtunut asiantuntijaverkosto, jonka ydinosaamista on talouden rakenteellinen uudelleenarviointi teknologisen murroksen ja yhteiskunnallisen muutoksen näkökulmasta.
 
-Olet vapaa:
+ECSA perustettiin Stanfordissa (CA) 2015 kehittämään uuden taloudellisen tilan (_economic space_) ja toimijuuden (_economic agency_) käsitteitä ja järjestelmiä. Se on ollut mukana muotoilemassa ohjelmoitavan talouden mielenkiintoisimpia käytäntöjä siitä lähtien. Rakennamme protokollia taloudellisen toimijuuden ja tekijyyden kasvattamiseen ja hajauttamiseen.
 
-* **Jakamaan** — kopioimaan ja levittämään materiaalia missä tahansa välineessä ja muodossa.
-* **Muokkaamaan** — remiksaamaan, muuntamaan ja rakentamaan materiaalin pohjalta mihin tahansa tarkoitukseen, myös kaupallisesti.
+**ECSA Labs** perustettiin erityisenä design-yksikkönä Suomeen vuonna 2020 — kehittämään uusia taloudellisia ajattelumalleja, rakenteita ja kokeiluja.
 
-Seuraavilla ehdoilla:
-
-* **Nimeä** — Sinun on mainittava lähde asianmukaisesti, tarjottava linkki lisenssiin ja merkittävä, mikäli olet tehnyt muutoksia.
-* **JaaSamoin** — Jos muokkaat, muunnat tai laajennat materiaalia, sinun on levitettävä muokkaamaasi materiaalia samalla lisenssillä kuin alkuperäinen teos.
-
-**Viittausohje:**\
-Kun käytät tai jaat tätä aineistoa, mainitse lähteeksi: Sitra & ECSA Labs: Ohjelmoitava kasvu (2025).
-
-[Lue lisenssin täydelliset ehdot (Creative Commons)](https://creativecommons.org/licenses/by-sa/4.0/deed.fi)
+[http://economicspace.agency/](http://economicspace.agency/)\
+hello@ecsa.io<br>
