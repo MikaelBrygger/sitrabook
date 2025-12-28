@@ -35,9 +35,4 @@
 
 * [Liite 1: Signaaleja](liitteet/readme.md)
 * [Liite 2: A New Paradigm in Value Computation](liitteet/readme-1.md)
-* [Prologue](liitteet/prologue.md)
-* [1. työvaiheen kuvaus](liitteet/publish-your-docs.md)
-* [2. työvaiheen kuvaus](liitteet/publish-your-docs-1.md)
-* [3. työvaiheen kuvaus](liitteet/3.-tyovaiheen-kuvaus.md)
-* [4. työvaiheen kuvaus](liitteet/publish-your-docs-2.md)
-* [Mitä jos -kysymyksen perustelu](liitteet/mita-jos-kysymyksen-perustelu.md)
+* [Liite 3: Mitä jos -kysymyksen perustelu](liitteet/liite-3-mita-jos-kysymyksen-perustelu.md)

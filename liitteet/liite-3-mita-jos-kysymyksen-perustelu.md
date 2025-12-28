@@ -1,5 +1,5 @@
 ---
-icon: magnifying-glass-plus
+icon: paperclip
 cover: ../.gitbook/assets/Screenshot 2025-09-08 at 20.53.01.png
 coverY: 436.4866863905325
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Mitä jos -kysymyksen perustelu
+# Liite 3: Mitä jos -kysymyksen perustelu
 
 **USA rakentaa strategista Bitcoin-reserviä. BRICS-maat kehittävät lohkoketjupohjaista reservivaluuttaa. Keskuspankit suunnittelevat ohjelmoitavia digivaluuttoja. WeChat yhdistää maksun, viestinnän ja identiteetin – ohjelmallisesti. Joukkorahoituspalvelut ja p2p-lainat ohjelmoivat uudenlaisia taloudellisia suhteita. DAO:t mahdollistavat organisoitumisen ilman yhtiömuotoa. Hajautetut rahoitus- ja markkina-protokollat rakentavat taloutta ilman instituutioita – vain koodilla. Wall Street Bets järisytti markkinoita meemien ja verkostojen voimalla.**
 
