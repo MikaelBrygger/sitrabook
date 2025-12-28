@@ -22,6 +22,6 @@ Tämä julkaisu on lisensoitu **Creative Commons Nimeä-JaaSamoin 4.0 Kansainvä
 
 **Viittausohje:**
 
-Kun käytät tai jaat tätä aineistoa, mainitse lähteeksi: Sitra & ECSA Labs: Ohjelmoitava kasvu (2025).
+Kun käytät tai jaat tätä aineistoa, mainitse lähteeksi: ECSA Labs: Ohjelmoitava kasvu (2025).
 
 [Lue lisenssin täydelliset ehdot (Creative Commons)](https://creativecommons.org/licenses/by-sa/4.0/deed.fi)
