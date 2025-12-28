@@ -1,5 +1,5 @@
 ---
-icon: object-intersect
+icon: circle-question
 cover: ../.gitbook/assets/banner-ecsa-labs (1).svg
 coverY: 0
 ---
