@@ -1,12 +1,7 @@
 ---
 icon: paperclip
-cover: ../.gitbook/assets/Screenshot 2025-09-08 at 20.53.01.png
-coverY: 436.4866863905325
 layout:
   width: wide
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
