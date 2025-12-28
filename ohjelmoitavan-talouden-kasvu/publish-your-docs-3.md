@@ -25,9 +25,9 @@ layout:
 
 Tämä raportti esittää väitteen, joka voi ensi silmäyksellä vaikuttaa radikaalilta: talous ei ole markkina tai resurssien jakomekanismi, vaan historiallisesti kehittynyt media – tapa laskea, ilmaista arvoa ja organisoida yhteistoimintaa.\
 \
-Ajatus ei kuitenkaan ole syntynyt tyhjästä. Se nojaa laajaan, vaikutusvaltaiseen tutkimusperinteeseen, joka ulottuu poliittisesta taloustieteestä ja sosiologiasta mediateoriaan, pelisuunnitteluun, rahateoriaan ja hajautettujen järjestelmien tutkimukseen.
+Ajatus kuitenkin nojaa laajaan vaikutusvaltaiseen tutkimusperinteeseen, joka ulottuu poliittisesta taloustieteestä ja sosiologiasta mediateoriaan, pelisuunnitteluun, rahateoriaan ja hajautettujen järjestelmien tutkimukseen.
 
-Seuraava kirjallisuuskartta hahmottaa tätä ajattelun kenttää: taloutta tarkastellaan teknologiana, kielenä, infrastruktuurina ja yhteiskunnallisen toimijuuden järjestelmänä.
+Seuraava kirjallisuuskartta hahmottaa tätä ajattelun kenttää, jossa taloutta tarkastellaan teknologiana, kielenä, infrastruktuurina ja yhteiskunnallisen toimijuuden järjestelmänä.
 
 Kytkeytymällä näihin lähteisiin raportti ankkuroituu tärkeisiin teoreettisiin ja historiallisiin keskusteluihin – samalla kun se pyrkii avaamaan näiden pohjalta uusia suuntia tulevaisuuden taloudellisen kasvun ja yhteiskunnallisen kehityksen ymmärtämiseen.<br>
 
