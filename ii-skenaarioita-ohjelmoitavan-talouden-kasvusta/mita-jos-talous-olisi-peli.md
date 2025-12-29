@@ -23,103 +23,159 @@ layout:
 
 # Mitä jos talous olisi peli?&#x20;
 
-### **Games Integrate Themselves to Society**
+<details>
 
-In terms of economic scale, the size of the global market of games is estimated between 200 and 300 billion dollars. Its growth is still expected to continue -- there are estimates for the market surpassing 500 billion inside the next ten years. For comparison, the market size for music industry is under 30 billion.
+<summary>Executive Summary</summary>
 
-This is a result from continuous expansion of game culture over the last decades, from a minor presence to significant field of social interaction. The economic numbers hide another form of growth: diversification of forms. Alongside digital games, forms like roleplaying games have been innovated, and the variety of board games has been expanded massively.
+Peliteollisuuden kasvu on ollut valtaisaa viime vuosikymmeninä. Vähemmälle huomiolle on jäänyt, miksi pelit ovat kasvaneet, ja kasvavat edelleen.
 
-Yet, one rarely hears the question: Why? Games have been relatively stable cultural element for at least 6000 years. So why would they grow to such size and variety, in a span of few decades? The easy answer of computerization is insufficient: This growth initiated before personal computers, and continues to expand and diversify, outside of them.
+Jos pelien kehitystä ja niiden yhteiskunnallisia mahdollisuuksia analysoidaan syvemmälti, voidaan tuoda esiin piirteitä, jotka valottavat myös viimeaikaisia kryptokehityksiä ja niiden talousmalleja.
 
-In other words, there is another story. And this story is perhaps more important social opportunity, economies included.
+#### Keskeinen teesi
 
-The integration of games into the fabric of society is self-evident. The question we should ask now is: Has society integrated to games?
+Talouden rakenteet heijastavat pelien rakenteita -- mitä syvemmälle vertailu viedään, sitä suurempia vastaavuudet ovat. Samankaltaisuudesta johtuen, pelien kirjo tarjoaa valtavan varaston mahdollisia talouden malleja.
 
-### **Games, Economies, Organizations**
+Näiden mallien proaktiivinen käyttöönotto ennakoisi ohjelmoitavan talouden mahdollisuuksia, tarjoten luovempia lähtökohtia talouden suunnitteluun.
 
-Games are environments, built by rules. Agreeing to such rules between people institutes the game, and the possibility of its play, to existence.
+#### Muutos talouden logiikassa
 
-But this observation applies to organizations and economies as well. Consider the following examples:
+Talouden logiikkaa voidaan laajentaa, rikkomatta sen perustavoitteita. Tämänhetkiset mallinnukset siitä miten talous voi toimia ovat pitkälti perittyjä ja toistuvia malleja. Samalla, talouden innovaatiot ovat usein olleet rakenteellisia innovaatioita. Pelit antavat lähtökohtia ja kandidaatteja uusien rakenteiden jäljittämiseen.
 
-* Money does not, strictly speaking, hold value -- it cannot do so by itself. Rather, the rules surrounding money enforce its valuation.
-* Walls and buildings do not make organizations -- rather, they are tools an organization uses for its concretization. The organization itself is constituted by the rules of its social contracts.
-* Like games, economies and organizations can only exist if people commit to their rules, thus producing their existence. If there's no commitment, this existence remains unrealized... like an unplayed board game, gathering dust upon a shelf.
+#### Seuraukset talouskasvun käsitteelle
 
-These shared roots extend even deeper -- and from their connections we can glean possibilities towards future economies and organizations.
+Peleille on tyypillistä käyttää sisäistä moniarvoisuutta, jopa silloin kun pelataan lopulta yhdestä arvosta. Niiden kautta kasvu näyttäytyy luontaisesti monimuotoisena, ei niinkään vanhan optimointina, vaan uusien muotojen kautta syntyvinä talouden laajennuksina.
 
-* Economy has combined material resources with financial systems of money and other abstracted assets. Games hold resources as well -- things that harbor an effect on the total "economic" system of the game.&#x20;
-* Games also contain a vast variety of point systems, serving similar roles to money. Arguably there's more variety among such point systems than in instruments of finance.
-* It's also curious how some ideals of our contemporary economy, such as the logic of profit above everything else, are transforming the economy itself into a more game-like system, as profit simplifies the complexity of economy towards a simple win condition.
-* In contrast, games have expanded outside win/lose logics, to structures of playable collaborations and other social dynamics. Roleplaying, particularly, has expanded the motivations of play towards the variety exhibited by the social world, at large. While economy seeks to constrain human behavior to a traditional win/lose game, games expand towards a expanded scope of social principles.
-* Economic entrepreneurship is largely project driven. In games, we can witness a large variety of similar structures, from scenarios to quests, missions to adventures.
-* In terms of the organizational basis of economy, games themselves resemble organizations: Contoured systems of interactions, which distribute rights and rules towards themselves.
+#### Suhde ohjelmoitavaan talouteen
 
-One could go on: Risk and reward are major paradigms in both. Emphasis on measures is equally present in economies and games. And all of these fields seek to systemize towards what is valuable and what is not: valuable in an economy, within an organization, inside a game...
+Pelit tarjoavat ennakkokatsauksen ohjelmoitavasta taloudesta. Ne ovat jo nyt yksi merkittävimpiä lähteitä uusille kryptotalouksille, ja sen uudemmille kehityssaroille.
 
-#### **A Language for Expressing Societal Innovation**
+Pelirakenteiden toteutus organisaatioina ja talouksina on aiemmin ollut toteutuksellisesti haastavaa; ohjelmoitavuus tekee niistä realistisia mahdollisuuksia. Tiivistäen: kenttä on auki, joten sinne kannattaa mennä nyt, kun tilaa vielä on.
 
-Perhaps the increasing cultural orientation towards games traces a collective intuition of possibilities that could be expressed thusly: **Games offer a potential "language" for expressing societal innovation.** They correspond with the social systems that mostly enforce our behavior, transforming them into a creative medium. They set similar limits, but always offer a way out: stop playing, or change the rules. Or play something else: their emphasis is on vast variety, rather than the valorization of the "right" system.
+#### Mahdollisuudet Suomelle
 
-It's practically impossible to prove that this balancing factor would be a reason for the unusual growth of games. But whether it would explain the historical anomaly of games, or not, isn't the topic of interest here. Rather, this overlap of games, economies and organizations highlights a distinct potential for expansion -- from expanding our organizational conceptions to economic innovation.
+Jokaisella organisaatiolla on väistämättä oma taloutensa. Niiden taloutta voidaan avartaa uusilla malleilla, jolloin organisaatiot muodostavat luontaisia laboratorioita uusien talousmallien kehittämiseen. Tämä lähestymistapa on laajennus perinteiseen yrittäjyyteen, jossa jokainen yhtiö on testi omasta kannattavuudestaan.
 
-And as we are **moving towards a programmable medium of economic systems, the implementation of the variety that games can offer is turning from a hypothetical idea to a concretizable possibility.**
+Suomi on pelikehityksen keskittymien joukossa, ja omaisi täten lähtökohdat pelilliseen talousyrittäjyyteen. Samoin, Suomen tietojärjestelmien taso on korkealla tasolla. Uusien talousmallien kehitys pelien tarjoamista ennakkotapauksista tukisi siis Suomen vahvuuksiin.
 
-So, if we would need **a library, a toolkit for the ingredients of future economies, a library that is just opening to general use -- we already have it.** We just have to look at it from an angle to perceive the opening it offers...
+</details>
 
-### **Playable Snapshots for Future Economies**
+## Pelit osana yhteiskuntaa
 
-Towards the future, here are some snapshots of interactions that already exist in this reservoir of games. They're picked to reflect the potential expansions to economies and organizations, as we now know them, painting a picture of developments that might enter our everyday reality.
+Pelien globaalin markkinan kooksi arvioidaan[^1] noin 200–300 miljardia dollaria. Kasvun odotetaan edelleen jatkuvan, ja ennusteiden mukaan markkinat ylittävät 500 miljardia seuraavan kymmenen vuoden aikana. Vertailun vuoksi: musiikkiteollisuuden markkina-arvo on alle 30 miljardia.
 
-#### **Case: Expanding Jobs by Roles**
+Tämä kehitys kumpuaa pelikulttuurin jatkuvasta laajentumisesta 1960-luvulta lähtien, marginaalisesta harrastuksesta merkittäväksi sosiaalisuuden kentäksi. Talousluvut piilottavat alleen toisen kasvun: muotokielen monipuolistumisen. Digitaalisten pelien rinnalla on keksitty ja vakiinnutettu uusia muotoja, kuten roolipelit, ja lautapelien valikoima ja läsnäolo on laajentunut merkittävästi.
 
-The traditional description of a job is conceived around a title, such as "graphic designer." These titles are commonly picked from known archetypes, though there's a recent trend where titles are approached more flexibly, supporting novel titling.
+Mutta mikä on tämän kasvun perusta? Pelit ovat olleet suhteellisen vakaa kulttuurinen elementti ainakin 6000 vuoden ajan. Mistä tämä historiallisesti poikkeuksellinen läsnäolon ja monimuotoisuuden valtava laajentuminen, vain muutaman vuosikymmenen varrella? Helppo vastaus tietokoneistumisesta ei ole riittävä: Tämä kasvu alkoi jo ennen kotitietokoneita ja jatkaa laajenemistaan ja monipuolistumistaan niiden ulkopuolella.
 
-Beyond such titles, jobs are often defined by duties, and descriptors of personality expectations. Overall the approaches for expressing a job are rather limited, which is unfortunate, especially given how crucial such definition is for operativity.
+Ilmiön takaa löytyy monta eri tapaa sen kertomiseen. Jotkut niistä esittävät laajempia yhteiskunnallisia mahdollisuuksia, ja mahdollisia talouksia. Kertoaksemme niistä, kerätään ensin tarvittavat ainekset -- ne avartavat samalla näkökulmia pelien ja koko yhteiskunnan tulevista suunnista.
 
-**Roles as Playbooks**
+Kerronnan piiriiin pääsemiseksi aloitamme toisella kiteytyskysymyksellä. Pelien integroituminen yhteiskuntaan on jo ilmiselvää -- meidän tulisi nyt kysyä: Miten yhteiskunta integroituu peleihin?
 
-Compared to jobs, playbooks, and other similar approaches for expressing roles in games, are more holistical in their approach: the expression of a role should operate like a general guidebook, combining different styles to accommodate for a variety of situations. They can combine rules, rights, descriptions, relation systems, resource maps etc.
+<br>
 
-Playbooks are also **living definitions** -- that is, there can be parts in them that never change, parts that are altered situationally, personal or collective additions, etc. This enables structuring of a role in a more expressive manner. It's not meant to remove the personal meaning a role generates, but enhances its interactions with others.
+## **Talouden ja organisaatioiden pelillisyys**
 
-**Gaining a Role, Holding a Role**
+Pelit ovat ympäristöjä, jotka on rakennettu säännöistä. Sääntöjen sopimus mahdollistaa pelin ja sen pelaamisen, tehden sen olemassaolevaksi.
 
-There's a lot of variety to how roles are distributed, corresponding to different intentions of design. Here are a few examples:
+Tämä ominaisuus pätee myös organisaatioihin ja talouksiin. Tässä muutama esimerkki miten nämä alueet ovat rakenteellisesti samanlaisia:
 
-* Roles on a rack: Roles are available in a "place" --there can be a particular selection in such a place, creating an operative palette for that place. For example, a place of presentation might have two presenter roles, an infinite number of spectator roles, and one optional diagrammist that comes with tools.
-* Roles as tokens: Roles can be transacted by whomever hold the tokens that come with their rights. Who holds the tokens, and how many they have is a design space of its own.
-* Roles as seats:&#x20;
+* **Rahalla** ei tarkasti ottaen ole arvoa. Pikemminkin rahaa ympäröivät säännöt sekä luovat että pakottavat sen arvon olevaksi, käytännön todellisuudeksi.
+* **Seinät ja rakennukset** eivät muodosta organisaatioita – ne ovat pikemminkin työkaluja organisaatioiden todellistamiseen. Organisaatio muodostuu sosiaalisista sopimuksista: jaetuista säännöistä, jotka ylläpitävät sen todellisuutta, ja ihmisistä, jotka toimivat niiden mukaan.
+* Kuten pelit, t**aloudet ja organisaatiot** voivat olla olemassa vain, jos ihmiset sitoutuvat niiden sääntöihin, tehden ne näin oleviksi. Jos sitoutumista ei ole, tämä olemassaolo jää hypoteettiseksi, kuvitteelliseksi... kuten pelaamaton lautapeli, joka on unohtunut kaapin nurkkaan.
 
-#### **Case: Playing with Values**
+Tiivistäen, pelien, talouksien ja organisaatioiden kulttuuriset muotokielet voivat olla erilaisia, mutta niiden juuret ja rakennusainekset kumpuavat samoista lähteistä. **Ne ovat leikkikenttiä joiden toiminta on virallistettu kulttuurin eri alueiksi, yhteiskunnan toimintapaletiksi.**
 
-**Multidimensional Values**
+Mitä laajemmin valvomme alueiden muotokieltä, sitä todellisempina niiden käytännöt näyttäytyvät yhteiskunnalle, erottaen rahan sääntöjen puitteissa tehdyn "vakavan liiketoiminnan" pelien vapaaehtoisista "ajanvietteistä".
 
-This is a highly varied approach that is present in many board games, particularly. As a particularly interesting case, games often use multidimensionality in a many-to-one manner, which has promisingh economic potential.&#x20;
+### Yhteen kasvavat tulevaisuudet
 
-To outline this, even common playing card can suffice: A single card can potentially used as:
+\
+Yhteisten juurien pohjalta voimme havainnoida leikkauskohtia joissa pelit, taloudet ja organisaatio nivoutuvat yhteen ja kehittyvät erilleen. **Tällaiset leikkauskohdat ovat hedelmällisiä suunnittelun ja kehityksen alueita.**
 
-* A particular card, say, a Two of Hearts
-* A red card
-* A suit (one of four)
-* A particular number
-* Just one card, without any other value
+**Resurssit ja varat talouksissa ja peleissä:** Talous on rakentanut resurssienjärjestelmän rahasta eri omaisuuden muotohin. Pelit määrittelevät myös resursseja, jotka luovat perustan niiden pelaamisen talouksille. Pelien kautta pallo, muovinpala tai pikselikuva voi muuttua arvokkaaksi, synnyttäen voimakasta motivaatiota, tai jopa äärimmäisiä ilon tai epätoivon tunteita.
 
-The potential for such structures? Think of this, for example: An organization that offers tokens for its members. They have many dimensions, some might entail possibilities of governance, even particular governance, some might give access to resources etc. Each of these can be tailored. But beyond the dimensions one token can be exchanged to monetary payment.
+**Raha ja tokenit talouksissa verrattuna pisteisiin peleissä:** Arvojen määrittämiseksi ja jakamiseksi peleissä on valtava valikoima pistejärjestelmiä, jotka roolit ovat rahan kanssa samansuuntaisia. Pistejärjestelmien muotojen kieli lienee näistä laajempi, talouden variaation keskittyessä kapeammalle alueelle.
 
-The different dimensions might even be based on changing exchange rates, depending on the status of the organization. Overall, this offers the organization a tailorable palette of inner structures, dynamically. It also creates a constant balancing between payment and power in the organization. And since we commonly understand playing cards, we already understand multidimensional values.
+**Kilpailu ja muut sosiaaliset motivaatiot:** Nykytaloutemme ihanteet optimoivat taloutta itsessään peliksi: Tuotto (profit) suoristaa talouden monimuotoisuutta kohti voittamisen ideaalia, korostaen yksipuolisesti kilpailua. Tätä vastoin, pelit ovat viime aikoina laajentuneet kohti monensuuntaisia pelaamisen motivaatioita, kilpailun jäädessä vain osa-alueeksi.
 
-#### **Case: Organizing Economies**
+**Talouden projektit ja pelien seikkailut:** Olipa kyse taloudesta tai hallinnosta, tulevaisuus hahmotellaan suunnitelman muodossa. Yleensä tällaisia suunniteltuja tulevaisuuksia kutsutaan projekteiksi. Peleistä löytyy monia samankaltaisia rakenteita, skenaarioista tehtäviin, missioista seikkailuihin. Rakenteellinen paletti on jälleen laajempi peleissä, mahdollistaen tavoitteiden ilmaisemisen monista eri näkökulmista.
 
-**Game Board Structures as Organizational Diagrams**
+**Yksittäiset organisaatiot, yksittäiset pelit:** Pelit muistuttavat organisaatioita, muodostaen rajattuja järjestelmiä, jotka jakavat oikeuksia ja sääntöjä itselleen ja osallistujilleen. Kun organisaatiot puhuvat jäsenistä ja viroista, pelit puhuvat pelaajista ja rooleista. Muotokirjo jolla yhteisöllinen kokonaisuus voidaan ilmaista pelinä, toiminnallisuus mukaan lukien, omaa paljon hyödyntämätöntä potentiaalia yhteisölliseen mielikuvitukseen.
 
-The recently popular model of Doughnut Economics could be considered as an example of this approach, as its main model functions like a game board. As board games have an inherent necessity to design ever-new architectures around social interaction (as each designer aims for a unique design) we're left with a historical library of frameworks of interaction.
+**Muita verrannaisuuksia:** Riski ja palkkio ovat keskeisiä käsitteitä kaikilla näillä alueilla. Erilaiset mittauksen muodot ovat yhtä lailla keskeisiä talouksissa kuin peleissä. Ja kukin alue suunnittelee määritelmiä sille, mikä on arvokasta: taloudellisesti, organisaatioille, pelin puitteisiin...
 
-#### **Case: Play to Decide**
+### Pelit yhteiskunnallisen kuvittelun lähteenä
 
-Voting is a mini-game already -- its design language is indistinguishable from games. Unsurprisingly, games provide a large repertoire of variations based on it, and on decision models in general. To underline a few opportune ones:
+Tältä pohjalta voimme palata aiempaan kysymykseemme pelien historiallisesta kasvusta. On mahdollista että tämä ilmiö kumpuaa niiden sosiaalisesta potentiaalista: **Pelit tarjoavat kielen jolla voi kuvitella yhteiskunnallisuuttamme, toiminnallisessa muodossa.** Ne korreloivat yhteiskunnallisten järjestelmien kanssa, jotka ensisijaisesti rajoittavat vuorovaikutuksiamme, kääntäen niiden rajaukset luovuuden alueeksi.
 
-* Polyphonic decisions: In essence, different decide different perspectives of the same decision. For example, someone might have the final exprssion on what are we deciding upon, and what are our options; someone else chooses among the options; a third one decides the actions based on the options decided.
-* Decision matrices: One simple example of such is called the Palette mechanic. For a complex issue, each participant can add a "yes" topic (a thing to emphasize) or a "no" topic (a thing to exclude). The end result is a parametric definition of the topic. The interaction is quite simple, yet the model works well for many thorny decisions, contouring the decision, rather than oversimplifying it.
+Pelit suunnittelevat rajoja pelaajilleen, mutta niiden rajat ovat ehdotettuja, eivät pakotettuja. Niistä voi myös astua ulos -- lopettaa pelaamisen tai muuttaa sääntöjä. Tai sitten pelata jotain muuta: Niiden suunnittelukulttuuri puskee kohti aina uusien systeemien luomista, sen sijaan että se etsisi yhtä "oikeaa". Tämä tuottaa laajan systeemien kirjon, joka jatkaa laajenemistaan.
+
+On mahdotonta todentaa tätä syyksi pelien sosiaaliseen kasvuun. Rakentavammin, tätä näkökulmaa voi käyttää mahdollisuuksien tarkasteluun: Pelien yhteneväisyydet talouksien ja organisaatioiden kanssa tekevät niistä rikkaan lähteen kehitysympäristönä ja lähdemateriaalina.
+
+Ohjelmoitavan talouden kasvu korostaa tämän mahdollisuuden merkitystä: Ohjelmoitavissa talousjärjestelmissä pelien monipuolisuus ei esitä vain teoreettisia mahdollisuuksia, vaan toteutettavia malleja.
+
+\
+Pelillisiä otoksia mahdollisista talouksista
+--------------------------------------------
+
+Pelit organisoivat ihmisiä ja heidän elämäänsä yhä enenevässä määrin – ne luovat pelaajissaan odotuksia, jotka heijastuvat yhteiskuntaan laajemmin. Näihin odotuksiin varautumiseksi, **pelit tarjoavat kirjaston, josta voimme ammentaa materiaalia tulevien talouksien rakentamiseen.** Meidän täytyy vain muuttaa näkökulmamme havaitaksemme niiden tarjoamat mahdollisuudet.
+
+Konkretisoidaksemme tämän pelien kirjaston mahdollisuuksia: Tässä otoksia rakenteista, jotka jo ovat olemassa pelien keskuudessa, ja jotka nostavat esiin kehitysmahdollisuuksia nykyisiin talouksien ja organisaatioiden käytäntöihin.
+
+### Töiden laajentuminen rooleiksi
+
+Perinteinen työn kuvaus rakentuu tittelin ympärille, kuten "graafinen suunnittelija". Nämä tittelit on yleensä poimittu tunnetuista arkkityypeistä. Tällaisten titteleiden lisäksi työt määritellään usein velvollisuuksilla ja persoonallisuuskuvauksilla.<br>
+
+#### **Roolit pelikirjoina**
+
+Verrattuna työntekijän ilmaisuun, lähestymistavat rooleihin ovat peleissä ovat laaja-alaisempia: Roolin ilmaisu voi esimerkiksi rakentua "pelikirjaksi" (playbook), käyttäen eri tyylejä sopeutuakseen vaihtuviin tilanteisiin. Ne voivat yhdistellä sääntöjä, oikeuksia, kuvauksia, suhdejärjestelmiä, resurssikarttoja jne. Erityiset yhdistelmät on räätälöity pelin tarpeisiin, osana sen kokonaissuunnittelua.
+
+Pelikirjat ovat myös eläviä määritelmiä – niissä voi olla osia, jotka ovat pysyviä, tai joita muutetaan tilannekohtaisesti, sekä osia henkilökohtaiselle tai kollektiiviselle ilmaisulle jne. Tämä mahdollistaa roolin rakentamisen dynaamisestia. Pelikirja ei poista roolin luomaa henkilökohtaista merkitystä, vaan vahvistaa sen sosiaalisia vuorovaikutusmahdollisuuksia.
+
+
+
+#### Roolin saaminen ja ylläpitäminen
+
+Peleistä löytyy paljon eri lähestymistapoja roolien jakamiseen, palvellen erilaisia suunnittelupyrkimyksiä. Esimerkkejä:
+
+* **Roolit naulakossa:** Roolit ovat saatavilla paikassa, joka voi olla fyysinen sijainti tai käsitteellinen "alue". Tällaisessa paikassa voi olla tietty valikoima rooleja, jotka muodostavat räätälöidyn paletin toiminnoille sen sisällä. Konkretisoiden: esityspaikka voisi tarjoa kaksi esittäjäroolia, rajaamattoman määrän katsojien rooleja ja yksi diagrammistin rooli, jonka ohessa on tarjolla työkaluja.
+* **Roolit tokeneina:** Rooleja voidaan tarjota vaihdossa kenen tahansa toimesta, joka pitää hallussaan niiden oikeuksia kantavia tokeneita. Se, kuka saa pitää niitä hallussaan ja kuinka monta heillä on, on oma suunnittelun alueensa.
+
+### Arvojen Peli
+
+#### **Moniulotteiset arvot**
+
+Tämä on joustava lähestymistapa, joka on erityisesti läsnä lautapeleissä. Sen voi havainnollistaa tavallisten pelikorttien avulla. Yhtä korttia voi samanaikaisesti toimia:
+
+* Tiettynä korttina, kuten hertta kakkonen.
+* Punaisena korttina.
+* Maana (yksi neljästä).
+* Tiettynä numerona.
+* Vain yhtenä korttina, ilman muuta arvoa.
+
+Esimerkki moniulotteisuuden mahdollisuuksista talouden ja organisaation rakenteena:
+
+* Organisaatio jakaa tokeneita jäsenyyden välineinä.
+* Tokeneilla on eri ulottuvuuksia – ne saattavat tarjota hallinnon mahdollisuuksia (myös tiettyjä hallinnon alueita), tai sallia resurssien käytön jne. Jokainen näistä ulottuvuuksista voidaan räätälöidä organisaation tarpeisiin.
+* Ulottuvuuksien lisäksi, token voidaan vaihtaa rahaksi.
+* Eri ulottuvuudet voivat hyödyntää vaihtokursseja.
+
+Esimerkissä vallan ja resurssien jakelu on suunniteltavissa ja säädeltävissä (vaihtokurssien avulla). Samalla rakenne luo tasapainottelun vallan ja rahallisen palkkion välillä. Tämän lähestymistavan suurin vahvuus piilee sen kyvyssä muodostaa hajautettuja organisaatioita: Tokenit ovat yhtä helposti jaettavissa yhteisössä joka on siroteltu ympäri maailmaa, kuin ne ovat samassa paikassa toimivalle yhteisölle.
+
+### Talouden organisointi
+
+#### **Pelilauta organisaation kaavana**
+
+Viime aikoina suosioon noussut Doughnut Economy -liike on hyvä käytännön esimerkki, vaikkei sitä lautapelinä ajatellakaan. Silti, sen pohjana oleva malli toimii käytännössä kuin pelilauta. Koska lautapeleillä on taipumus suunnitella aina uusia sosiaalisen vuorovaikutuksen rakenteita (jokainen suunnittelija tähtää ainutlaatuiseen suunnitteluun), erilaisten vuorovaikutusten muotokieli on varsin laaja.
+
+Tämän kirjon kartoittaminen organisatorisille ja taloudellisille malleille tarjoaisi runsaasti materiaalia jatkokehityksen pohjaksi.
+
+### Pelaa kohti päätöksiä
+
+Äänestäminen on minipeli – sen suunnittelukieli yhtäläinen pelien kanssa. Ei liene siis yllättävää että pelit tarjoavat laajan valikoiman variaatioita äänestyksestä ja päätösmalleista yleensä. Esimerkkejä:
+
+* **Monialaiset päätökset:** eri henkilöt päättävät eri alueista samassa päätöksessä. Esimerkiksi jollakulla saattaa olla lopullinen ilmaisu siitä, mistä päätämme ja mitkä ovat vaihtoehtomme; joku muu valitsee näiden vaihtoehtojen joukosta; kolmas taas päättää toimenpiteet vaihtoehdon pohjalta.
+* **Päätösmatriisit:** Paletti-mekaniikka on yksinkertainen esimerkki päätösten muuttamisesta matriiseiksi. Monimutkaisessa asiassa jokainen osallistuja voi lisätä "kyllä"-aiheen (asia, jota korostetaan) tai "ei"-aiheen (asia, joka suljetaan pois). Vaikkakin malli on melko yksinkertainen, se toimii monissa vaikeissa päätöksissä, rajaten päätöksen huomioita kohdentamalla sen sijaan että pakottaisi sen yhdeksi ilmaisuksi. Tämä lähestymistapa on myös muokattavissa palvelemaan erilaisia päätöksenteon intressejä.
 
 #### **Case: Fail Forward**
 
@@ -131,17 +187,38 @@ In practice, the point of recognizing a failure is transformed into a generative
 
 From a wider perspective, the most important element here is the change in mindset: Everything progresses something, and it's smarter (in the long-term) to frame attention towards forms of progress, even if they're not along the path initially desired.
 
-#### **Cases in Sum**
+### **Yhteenvedoksi**
 
-All of these cases offer peeks on a world that already exists, being tried and tested in the many, many little laboratories of games. Increasingly they're a reality for many -- at least a partial reality of their social lives that they rely uponn, or are even enthusiastic about.
+Kaikki nämä tapaukset tarjoavat näkökulmia maailmaan, joka on jo olemassa pelien moninaisten laboratorioiden puitteissa. Ne ovat (arki)todellisuutta yhä useammille – osa heidän sosiaalista kanssakäyntiään. Tämä on todellisuuden organisointia – kasvavaa läsnäoloa, joka tulee levittymään laajempaan sosiaaliseen todellisuuteen. Varaudummeko sen saapumiseen, vai annammeko muutoksen yllättää meidät?
 
-This is organization of a certain reality. And certainly, this part of reality is growing. The question is: Do we allocate for its arrival, or will we be surprised as its imposed upon us?
+## **Suositus: Pelikenttä Suomen taloudelle**
 
-### **Proposal: Play an Organization to Play an Economy**
+**Jokainen organisaatio** – olipa kyse yrityksestä, yhdistyksestä tai DAO:sta – **muodostaa oman mikrotaloutensa**: Sen täytyy suunnitella ja suorittaa oma resurssien jakelunsa ja jäsentää oikeudet, jotka sitä hallitsevat.
 
-Every organization, whether corporation, association or a DAO, forms its own micro-economy: It designates its own resource allocation, and the rights that guide that guide that allocation. Certainly, most traditional organizations follow a common formula for this -- regardless, this micro-economy  is theirs to set, and they could distribute it in a variety of forms.
+Useimmat organisaatiot noudattavat perinteisiä malleja sisäisen taloutensa toteuttamiseen, ikään kuin suunnitteluvaraa ei olisi olemassa. Tämä on rajallinen tapa hyödyntää organisatorisia mahdollisuuksia. Organisaatioiden talouden muotokirjon laajentaminen on työkalu, jonka avulla voi ennakoida maailmantalouden muutoksia.
 
-This highlights an opening for the development of new, game-based economics. If we approach this micro-economic aspect of organization as a developmental opportunity, they can function like testing laboratories. If they fail, this failure is limited to the organization; if they succeed, their developments can become the basis of other organizations.
+Kehittämällä uusia mikrotalouksia, **organisaatiokenttä tarjoaa otollisen testialustan uuden talouden kehittämiseen**. Uudet talousmuodot toimivat kuin laboratoriot: **Jos ne epäonnistuvat, epäonnistuminen on paikallinen; jos ne onnistuvat, niiden ratkaisut tarjoavat malleja muille organisaatioille.**
 
-This sets a framework for playtesting new economies, even in interaction with the economy as a whole.&#x20;
+Lähestymistapaa voidaan ajatella **laajennuksena perinteiseen yrittäjyyteen, jossa yritykset ovat pohjimmiltaan testitapauksia,** onnistuen tai epäonnistuen omalla vastuullaan. Nykyisen yrittäjyyden keinot ovat kuitenkin rajallisia: Se suuntautuu "liikepelin" pelaamiseen perinteisten sääntöjen sisällä, maailman siirtyessä suunnittelemaan talouden peliä uusiksi.
 
+Sitä vastoin kehitysohjelma, joka tukee uusia organisaatiosuunnitelmia mikrotalouksina, **toistaisi strategian joka mahdollisti yritystalouden kasvun, suuntautuen ohjelmoitavan talouden kautta nouseviin mahdollisuuksiin.** Tällaiselle ohjelmalle pelien reservi tarjoaa kirjaston, työkalupakin mahdollisia rakenteita taloudelliseen suunnitteluun. Pelit tarjoavat suunnittelukielen alueille josta talouden muodot ovat vielä vajavaiset.
+
+### Kehitysohjelman vaiheet pääpiirteittäin
+
+* Kartoitetaan hedelmällisimmät rakenteet peleistä uusille taloudellisille organisaatioille.
+* Tarjotaan niitä organisaation malleina, rekrytoiden yksilöitä ja kollektiiveja luomaan uusia organisaatioita niiden avulla.
+* Tuetaan tästä syntyviä organisaatioita, keräten samallla oppeja vahvuuksista ja heikkouksista, luoden näin pohjaa jatkokehitykseen.
+
+Tämänsuuntaisesta kehityksestä on jo useita yksittäisiä esimerkkejä: Soulbound[^2]-tokenit on omaksuttu suoraan peleistä, samoin kuin monet DAO:jen taloudellisen hallinnon rakenteet, Nomic[^3]-vaikutteista "rage quit" -oikeuteen äänestystekniikkana. Systemaattinen lähestymistapa voimistaisi tällaista kehitystä, mahdollistaen samalla kriittisen arvioinnin ja keinojen laajemman levittämisen.
+
+**Suomen edistyksellinen tietoinfrastruktuuri ja vankka pelitalous luovat selkeitä etuja tämänsuuntaiselle kehitykselle.** Uudentyyppisten talouksien luomisen ohella, strategia kehittäisi Suomen tietoinfrastruktuuria edelleen, varautuen proaktiivisesti tuleviin tarpeisiin.
+
+**Suunnittele talous, tai tule suunnitelluksi. Käytä kaikkia käytössäsi olevia työkaluja, varsinkin niitä, joita muut eivät vielä käytä.**
+
+<br>
+
+[^1]: Boston Consulting Group (BCG). Paizanis, Giorgio. Schonfeld, Rob. Pagano, Ernesto. Schmidt, Nicolas (2024). [Leveling up for the New Reality](https://www.bcg.com/publications/2024/leveling-up-new-reality). Katsaus pelien taloudelliseen asemaan ja sen kasvuun.
+
+[^2]: Artikkeli: Buterin, Vitalik (2022): [Soulbound](https://vitalik.eth.limo/general/2022/01/26/soulbound.html). 26. tammikuuta, 2022. Jäsentää Soulbound token rakennetta World of Warcraftissa, ja sen soveltamista laajemmassa kontekstissa.
+
+[^3]: Goodman, L. M. (2014): [A Self-Amending Crypto-Ledger -- Position Paper](https://tezos.com/position-paper.pdf). 3. elokuuta, 2014. Kuten tekstin abstraktissa mainitaan, Tezos arkkitehtuurin "itseään muokkaava" malli pohjaa Nomic pelin sääntöihin. Nomic pelin kuvaus: Suber, Peter (1982): [Nomic -- A Game of Self-Amendment](https://legacy.earlham.edu/~peters/writing/nomic.htm).
