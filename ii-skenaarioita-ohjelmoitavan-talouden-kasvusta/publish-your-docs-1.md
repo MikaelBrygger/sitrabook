@@ -35,22 +35,13 @@ Ehdotamme Kansallisen PK-yritysten Selvitysverkon luomista. Se on digitaalinen i
 
 **YDINTEESIT**
 
-* **Likviditeetti on koordinaation kysymys** – ei vain rahan puutetta
-* **Likviditeetti – kyky maksaa – ei ole hyödyke, jota pitää anoa tai ostaa pankeilta**. Se on informaatio-ongelma, joka voidaan ratkaista ohjelmoitavalla infrastruktuurilla.
-* **Kasvu voi olla kasvua taloudellisen yhteistoiminnan älykkyydessä.** Kasvua talouden resilienssissä, kierrossa, yritysten välisessä yhteistyössä ja luottamuksessa.
-* **Talous on siirtymässä aikaan, jossa raha on informaatiota.** Suomi voisi olla maa, joka ymmärtää tämän ensimmäisenä ja alkaa rakentaa sen päälle toimintaympäristöä.
-* **Suomi on maailman kärkimaita taloushallinnon digitalisaatiossa:** meillä on jo verkkolaskut ja kaikki tarvittava data – puuttuu vain _protokolla (logiikka)_, joka tekee datasta arvoa ja kasvua.
-* **Maa, jossa "raha ei seiso"**, vaan on aina saatavilla siellä ja silloin kun arvoa tuotetaan (kuin sähköverkko), on houkuttelevin paikka yrittää.
-
-**YDINTEESIT versio2**
-
 * **Likviditeetti on koordinaatio-ongelma.** Kassakriisit eivät johdu rahan puutteesta, vaan siitä, että järjestelmämme ei osaa yhdistää olemassa olevia velvoitteita toisiinsa.
-* **Raha on informaatiota.** Talous on siirtymässä aikaan, jossa maksuvalmius ei ole varastoitua varallisuutta, vaan virtaavaa tietoa. Kun tieto liikkuu, arvo liikkuu.
+* **Talous on siirtymässä aikaan, jossa raha on informaatiota.** Suomi voisi olla maa, joka ymmärtää tämän ensimmäisenä ja alkaa rakentaa sen päälle toimintaympäristöä.
 * **Likviditeetti ei ole hyödyke, vaan infrastruktuuria.** Sitä ei pidä joutua anomaan pankeilta. Sen pitää olla kuin sähköverkko: aina saatavilla siellä ja silloin, kun arvoa luodaan.
 * **Kasvu on älykkäämpää yhteistoimintaa.** Emme tarvitse lisää velkaa kasvaaksemme. Kasvu syntyy siitä, että poistamme kitkan arvonluonnin tieltä.
 * **Maa, jossa raha ei seiso.** Suomesta tulee maailman houkuttelevin paikka yrittää, kun täällä yrityksen tilauskirjat ovat välitöntä ostovoimaa.
 
-\*\*MITEN MUUTAMME TALOUDEN LOGIIKKA TÄSSÄ SKENAARIOSSA  \*\*
+\*\*MIKÄ MUUTTUU TALOUDEN LOGIIKASSA TÄSSÄ SKENAARIOSSA\*\*
 
 * **Atomistisesta verkostomaiseen ("Laskujen Tetris")**
 * Vanha logiikka: Jokainen lasku on erillinen konflikti kahden yrityksen välillä. Jotta A voi maksaa B:lle, A:lla on oltava rahaa juuri nyt.
@@ -82,7 +73,7 @@ Tämä on konkreettinen esimerkki siitä, mitä tapahtuu, kun **talouden tila (s
 * **Talous tulee tietoiseksi itsestään:** Perinteisessä taloudessa "näkymätön käsi" on hidas ja kömpelö, koska se perustuu viiveiseen hintasignaaliin. Ohjelmoitavassa taloudessa verkosto näkee oman tilansa (kuka on velkaa kenellekin, missä on tukos). Se ei vain reagoi, vaan ennakoi ja optimoi virtauksensa ilman välikäsiä.
 * **Velka ei ole staattinen taakka, vaan aktiivinen objekti:** Digitaalisessa taloudessa lasku (PDF) on vain kuva paperista. Ohjelmoitavassa taloudessa velka on älykäs sopimus. Se "tietää", että se voidaan kuitata, jos tietty silmukka sulkeutuu. Se on ohjelmakoodia, joka etsii aktiivisesti ratkaisua omaan olemassaoloonsa.
 * **Uusi medium vaatii uuden protokollan:** Maksujumit eivät ole luonnonlakeja eivätkä suunnitteluvirheitä. Ne olivat ominaisuus (feature) vanhassa protokollassa, joka oli suunniteltu paperin laskentakyvylle. Paperi ei pysty laskemaan verkoston tilaa reaaliajassa; tietokone pystyy. Tärkein asia ymmärtää on tämä: Ei ole mitään mieltä kopioida vanhaa talouden logiikkaa uudelle mediumille. Meidän on päivitettävä talouden "softa" vastaamaan uuden "raudan" (verkkojen) potentiaalia.
-* **Kyse on arkkitehtuurista, ei vain teknologiasta:** Ohjelmoitava talous ei tarkoita vanhojen prosessien tehostamista. Se tarkoittaa uusia arkkitehtuureja taloudelliselle organisoitumiselle. Hierarkkinen hallinta oli ainoa tapa hallita kompleksisuutta paperin aikakaudella. Nyt voimme siirtyä verkostomaiseen koordinaatioon, joka on tarkempaa, nopeampaa ja taloudellista toimijuutta uudelleen.
+* **Kyse on arkkitehtuurista, ei vain teknologiasta:** Ohjelmoitava talous ei tarkoita vanhojen prosessien tehostamista. Se tarkoittaa uusia arkkitehtuureja taloudelliselle organisoitumiselle. Hierarkkinen hallinta oli ainoa tapa hallita kompleksisuutta paperin aikakaudella. Nyt voimme siirtyä verkostomaiseen koordinaatioon, joka on tarkempaa, nopeampaa ja jakaa taloudellista toimijuutta uudelleen.
 
 **MAHDOLLISUUS SUOMELLE**
 
@@ -90,7 +81,7 @@ Suomi on maailman paras paikka toteuttaa tämä ensimmäisenä.
 
 * **Infrastruktuuri valmiina:** Meillä on jo verkkolaskut ja Real-Time Economy -hanke. Data on olemassa, puuttuu vain _protokolla (logiikka)_.
 * **Resilienssi:** Oma selvitysverkko luo taloudelle "varajärjestelmän". Se vähentää riippuvuutta globaaleista finanssikriiseistä ja vahvistaa huoltovarmuutta.
-* **Kilpailuetu:** Maa, jossa "raha ei seiso", vaan aina saatavilla siellä ja silloin kun arvoa tuotetaan, on houkuttelevin paikka yrittää. **Tämä on digitaalisen ajan vastine 1800-luvun rautatie-investoinneille.**
+* **Kilpailuetu:** Maa, jossa "raha ei seiso", vaan on aina saatavilla siellä ja silloin kun arvoa tuotetaan, on houkuttelevin paikka yrittää. Tämä on digitaalisen ajan vastine 1800-luvun rautatie-investoinneille.
 
 </details>
 
