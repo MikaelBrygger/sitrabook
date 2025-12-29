@@ -23,9 +23,6 @@ layout:
 
 # Mitä jos talous olisi luovaa ja luovuus taloudellista?
 
-_A thing is not made, it is made to be._ \
-–Gertrude Stein
-
 
 
 <details>
@@ -66,9 +63,9 @@ Tässä murroksessa taloudellinen toiminta muuttuu transaktiosta luovaksi välin
 
 Kun yhtenäinen kokonaisuus puretaan pienemmiksi, itsenäisiksi ja omistettaviksi osiksi, sen rakenne herää henkiin ja osien välisistä suhteista tulee paitsi merkityksellisiä, myös muokattavia. Hajottaminen voi olla luova teko, joka antaa identiteetin ja määrittelee arvon yksikön uudelleen. Yksittäinen osa voi olla samalla tarkoituksellisen keskeneräinen ja täydentää itseään.
 
-Esimerkiksi Eve Sussmanin projektissa _89 Seconds Atomized_, Diego Velázquezin maalaus [_Las Meninas_](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f) (1656) muunnettiin videomateriaaliksi ja fragmentoitiin 2048 yksittäiseksi "atomiksi" eli pikseliksi, joista jokainen myytiin uniikkina teoksena. Arvo ei ollut enää ainoastaan kokonaisessa teoksessa, vaan myös sen yksittäisissä osissa.&#x20;
+Esimerkiksi Eve Sussmanin teokseen [_89 Seconds at Alcázar_](https://www.moma.org/collection/works/93645) (2004) perustuvassa projektissa _89 Seconds Atomized_, Diego Velázquezin maalaus [_Las Meninas_](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f) (1656) muunnettiin videomateriaaliksi ja fragmentoitiin 2048 yksittäiseksi "atomiksi" eli pikseliksi, joista jokainen myytiin uniikkina teoksena. Arvo ei ollut enää ainoastaan kokonaisessa teoksessa, vaan myös sen yksittäisissä osissa.&#x20;
 
-Hajottamisen periaate soveltuu esimerkiksi julkaisuprosessiin. Economic Space Agencyn (ECSA) yhteisöllisen julkaisemisen alustalla (CoPu) teos on aluksi piilossa, ja lukijat voivat osallistua sen paljastamiseen julkaisemalla pienen osan siitä. Jokainen osallistuminen on aktiivinen yhteisjulkaisemisen teko, joka saattaa uuden palan tekstiä kaikkien nähtäville. Näin passiivinen ostaminen muuttuu aktiiviseksi osallistumiseksi, ja arvo syntyy paitsi valmiista teoksesta, myös sen yhteisöllisestä esiin tuomisesta.
+Hajottamisen periaate soveltuu esimerkiksi julkaisuprosessiin. Economic Space Agencyn (ECSA) yhteisöllisen julkaisemisen alustalla ([CoPu](https://postcapitalist.agency)) teos on aluksi piilossa, ja lukijat voivat osallistua sen paljastamiseen julkaisemalla pienen osan siitä. Jokainen osallistuminen on aktiivinen yhteisjulkaisemisen teko, joka saattaa uuden palan tekstiä kaikkien nähtäville. Näin passiivinen ostaminen muuttuu aktiiviseksi osallistumiseksi, ja arvo syntyy paitsi valmiista teoksesta, myös sen yhteisöllisestä esiin tuomisesta.
 
 Samaan kirjaan perustuva projekti [_Postcapitalist Discourse_](https://opensea.io/collection/protocols-for-post-capitalist-economic-expression) (2023) puolestaan luotaa teosta digitaalisesti natiivilla tavalla. CoPu:n tavoin alkuperäinen teksti hajotettiin osiin, jonka jälkeen fragmentit järjestettiin kolmiulotteiseen koordinaatistoon kuution muotoiseksi objektiksi. Tekstikappale lakkasi olemasta vain osa lineaarista kerrontaa, vaan siitä tuli solmu eli “diskurssiyksikkö” semanttisessa avaruudessa, joka tarjoaa omistajalle mahdollisuuden navigoida teosta uusilla tavoilla.&#x20;
 
