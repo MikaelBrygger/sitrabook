@@ -107,19 +107,9 @@ Yritykset voisivat esimerkiksi saavuttaa ESG-tavoitteensa sekä ansaitsemalla et
 
 Kiertotalous muodostuu niin kutsuttujen ”neljän R:n” välisistä kytkennöistä: vähentäminen (_reduce_), uudelleenkäyttö (_reuse_), kierrätys (_recycle_) ja talteenotto (_recover_). Tavoitteena on kestävän talousjärjestelmän rakentaminen.
 
-Suomessa ympäristöministeriö valmistelee uutta kiertotalouslakia, joka korvaa nykyisen jätelain ja laajentaa sääntelyn koko tuotteiden elinkaareen sekä kiertotalousmarkkinoiden kehittämiseen.\\
+Suomessa ympäristöministeriö valmistelee uutta [kiertotalouslakia](https://ym.fi/kiertotalouslaki). Lakia valmistelevan työryhmän on määrä raportoida hallitukselle joulukuussa 2025. Tavoitteena on laajentaa kiertotaloutta kattamaan koko tuotteiden elinkaaren ja vahvistaa sekundaaristen raaka-aineiden markkinoita.&#x20;
 
-Työryhmä raportoi hallitukselle joulukuussa 2025.
-
-**Suomessa,**
-
-Ympäristöministeriö on käynnistänyt prosessin uuden kiertotalouslain (_Circular Economy Act_) valmistelemiseksi. Kiertotalouslaki korvaa nykyisen jätelain. Uudistus toimeenpanee useita pääministeri Petteri Orpon hallitusohjelman kirjauksia.
-
-[Kiertotalouslakia](https://ym.fi/kiertotalouslaki) valmisteleva työryhmä asetettiin elokuussa 2024. Uuden lain tavoitteena on vauhdittaa Suomen siirtymää kiertotalouteen. Lain tavoitteena on laajentaa kiertotaloutta kattamaan koko tuotteiden elinkaaren ja vahvistaa sekundaaristen raaka-aineiden markkinoita.
-
-Työryhmä raportoi hallitukselle joulukuussa 2025.
-
-Tavoitteena on laajentaa kiertoa kokonaisuutena. Tällä hetkellä ei kuitenkaan ole mittaria, jolla voisi täsmällisesti määrittää, missä kohdin kiertoa varat kannattaa kohdentaa. YK:n SEEA-ekosysteemitilinpito ei tarjoa tähän riittävää ratkaisua. Kierron eri vaiheisiin kohdistuva mittaaminen ECO-yksiköissä mahdollistaa tämän todennuksen.&#x20;
+Tällä hetkellä ei kuitenkaan ole mittaria, jolla voisi täsmällisesti määrittää, mihin kohdin kiertoa varat kannattaa kohdentaa. YK:n SEEA-ekosysteemitilinpito ei tarjoa tähän riittävää ratkaisua. Kierron eri vaiheisiin kohdistuva mittaaminen ECO-yksiköissä mahdollistaa tämän todennuksen.&#x20;
 
 Tällainen mittaaminen on huomattavasti laadukkaampaa kuin ministeriön [nykyinen seurantamalli](https://ym.fi/en/strategic-programme-to-promote-a-circular-economy/how-we-monitor-the-progress-of-the-circular-economy): Yrityksiin ja kuluttajiin kohdistuvat kysely- ja haastattelututkimukset. Tutkimus tarkastelee kiertotaloutta tukevia asenteita ja toimintamalleja.
 
