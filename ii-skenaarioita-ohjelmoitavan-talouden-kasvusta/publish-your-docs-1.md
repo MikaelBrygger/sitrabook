@@ -133,7 +133,7 @@ Ratkaisu ei ole lisätä sääntelyä tai valvontaa, joka on hidasta, kallista j
 
 Ehdotamme Suomeen **Kansallista PK-yritysten Selvitysverkkoa**. Se on digitaalinen kerros, joka yhdistää yritykset toisiinsa ohi hitaiden pankkisiirtojen. Se perustuu kahteen todennettuun ja koeteltuun mekanismiin:
 
-#### A) Menneisyyden siivous: Velvoitteiden automaattinen kuittaus
+#### a) Menneisyyden siivous: Velvoitteiden automaattinen kuittaus
 
 Tämä on likviditeetin luomista informaatiosta. Kun yritykset lähettävät verkkolaskunsa Selvitysverkkoon, algoritmit etsivät jatkuvasti suljettuja silmukoita (A -> B -> C -> A).
 
@@ -145,7 +145,7 @@ Kun silmukka löytyy, verkko laukaisee automaattisen kuittauksen.
 
 Tämä on kuin ”laskujen Tetristä”. Se poistaa järjestelmästä kitkaa ja muuttaa "odottavan rahan" välittömäksi arvon siirroksi.
 
-#### B) Tulevaisuuden rahoitus: Keskinäinen luotto
+#### b) Tulevaisuuden rahoitus: Keskinäinen luotto
 
 Aina silmukat eivät mene tasan. Joskus A on velkaa B:lle, mutta B ei ole velkaa kenellekään verkostossa. Tällöin tarvitaan luottoa.
 
