@@ -25,7 +25,7 @@ layout:
 
 <details>
 
-<summary>Executive Summary</summary>
+<summary>Tiivistelmä</summary>
 
 Peliteollisuuden kasvu on ollut valtaisaa viime vuosikymmeninä. Vähemmälle huomiolle on jäänyt, miksi pelit ovat kasvaneet, ja kasvavat edelleen.
 
@@ -59,7 +59,7 @@ Suomi on pelikehityksen keskittymien joukossa, ja omaisi täten lähtökohdat pe
 
 </details>
 
-## Pelit osana yhteiskuntaa
+### Pelit osana yhteiskuntaa
 
 Pelien globaalin markkinan kooksi arvioidaan[^1] noin 200–300 miljardia dollaria. Kasvun odotetaan edelleen jatkuvan, ja ennusteiden mukaan markkinat ylittävät 500 miljardia seuraavan kymmenen vuoden aikana. Vertailun vuoksi: musiikkiteollisuuden markkina-arvo on alle 30 miljardia.
 
@@ -70,8 +70,6 @@ Mutta mikä on tämän kasvun perusta? Pelit ovat olleet suhteellisen vakaa kult
 Ilmiön takaa löytyy monta eri tapaa sen kertomiseen. Jotkut niistä esittävät laajempia yhteiskunnallisia mahdollisuuksia, ja mahdollisia talouksia. Kertoaksemme niistä, kerätään ensin tarvittavat ainekset -- ne avartavat samalla näkökulmia pelien ja koko yhteiskunnan tulevista suunnista.
 
 Kerronnan piiriiin pääsemiseksi aloitamme toisella kiteytyskysymyksellä. Pelien integroituminen yhteiskuntaan on jo ilmiselvää -- meidän tulisi nyt kysyä: Miten yhteiskunta integroituu peleihin?
-
-<br>
 
 ## **Talouden ja organisaatioiden pelillisyys**
 
@@ -89,7 +87,6 @@ Mitä laajemmin valvomme alueiden muotokieltä, sitä todellisempina niiden käy
 
 ### Yhteen kasvavat tulevaisuudet
 
-\
 Yhteisten juurien pohjalta voimme havainnoida leikkauskohtia joissa pelit, taloudet ja organisaatio nivoutuvat yhteen ja kehittyvät erilleen. **Tällaiset leikkauskohdat ovat hedelmällisiä suunnittelun ja kehityksen alueita.**
 
 **Resurssit ja varat talouksissa ja peleissä:** Talous on rakentanut resurssienjärjestelmän rahasta eri omaisuuden muotohin. Pelit määrittelevät myös resursseja, jotka luovat perustan niiden pelaamisen talouksille. Pelien kautta pallo, muovinpala tai pikselikuva voi muuttua arvokkaaksi, synnyttäen voimakasta motivaatiota, tai jopa äärimmäisiä ilon tai epätoivon tunteita.
@@ -114,9 +111,7 @@ On mahdotonta todentaa tätä syyksi pelien sosiaaliseen kasvuun. Rakentavammin,
 
 Ohjelmoitavan talouden kasvu korostaa tämän mahdollisuuden merkitystä: Ohjelmoitavissa talousjärjestelmissä pelien monipuolisuus ei esitä vain teoreettisia mahdollisuuksia, vaan toteutettavia malleja.
 
-\
-Pelillisiä otoksia mahdollisista talouksista
---------------------------------------------
+## Pelillisiä otoksia mahdollisista talouksista
 
 Pelit organisoivat ihmisiä ja heidän elämäänsä yhä enenevässä määrin – ne luovat pelaajissaan odotuksia, jotka heijastuvat yhteiskuntaan laajemmin. Näihin odotuksiin varautumiseksi, **pelit tarjoavat kirjaston, josta voimme ammentaa materiaalia tulevien talouksien rakentamiseen.** Meidän täytyy vain muuttaa näkökulmamme havaitaksemme niiden tarjoamat mahdollisuudet.
 
@@ -124,15 +119,13 @@ Konkretisoidaksemme tämän pelien kirjaston mahdollisuuksia: Tässä otoksia ra
 
 ### Töiden laajentuminen rooleiksi
 
-Perinteinen työn kuvaus rakentuu tittelin ympärille, kuten "graafinen suunnittelija". Nämä tittelit on yleensä poimittu tunnetuista arkkityypeistä. Tällaisten titteleiden lisäksi työt määritellään usein velvollisuuksilla ja persoonallisuuskuvauksilla.<br>
+Perinteinen työn kuvaus rakentuu tittelin ympärille, kuten "graafinen suunnittelija". Nämä tittelit on yleensä poimittu tunnetuista arkkityypeistä. Tällaisten titteleiden lisäksi työt määritellään usein velvollisuuksilla ja persoonallisuuskuvauksilla.
 
 #### **Roolit pelikirjoina**
 
 Verrattuna työntekijän ilmaisuun, lähestymistavat rooleihin ovat peleissä ovat laaja-alaisempia: Roolin ilmaisu voi esimerkiksi rakentua "pelikirjaksi" (playbook), käyttäen eri tyylejä sopeutuakseen vaihtuviin tilanteisiin. Ne voivat yhdistellä sääntöjä, oikeuksia, kuvauksia, suhdejärjestelmiä, resurssikarttoja jne. Erityiset yhdistelmät on räätälöity pelin tarpeisiin, osana sen kokonaissuunnittelua.
 
 Pelikirjat ovat myös eläviä määritelmiä – niissä voi olla osia, jotka ovat pysyviä, tai joita muutetaan tilannekohtaisesti, sekä osia henkilökohtaiselle tai kollektiiviselle ilmaisulle jne. Tämä mahdollistaa roolin rakentamisen dynaamisestia. Pelikirja ei poista roolin luomaa henkilökohtaista merkitystä, vaan vahvistaa sen sosiaalisia vuorovaikutusmahdollisuuksia.
-
-
 
 #### Roolin saaminen ja ylläpitäminen
 
