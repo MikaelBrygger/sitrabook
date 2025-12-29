@@ -70,7 +70,7 @@ Esimerkiksi Eve Sussmanin projektissa _89 Seconds Atomized_, Diego Velázquezin 
 
 Hajottamisen periaate soveltuu esimerkiksi julkaisuprosessiin. Economic Space Agencyn (ECSA) yhteisöllisen julkaisemisen alustalla (CoPu) teos on aluksi piilossa, ja lukijat voivat osallistua sen paljastamiseen julkaisemalla pienen osan siitä. Jokainen osallistuminen on aktiivinen yhteisjulkaisemisen teko, joka saattaa uuden palan tekstiä kaikkien nähtäville. Näin passiivinen ostaminen muuttuu aktiiviseksi osallistumiseksi, ja arvo syntyy paitsi valmiista teoksesta, myös sen yhteisöllisestä esiin tuomisesta.
 
-Samaan kirjaan perustuva projekti _Postcapitalist Discourse_ (2023) puolestaan luotaa teosta digitaalisesti natiivilla tavalla. CoPu:n tavoin alkuperäinen teksti hajotettiin osiin, jonka jälkeen fragmentit järjestettiin kolmiulotteiseen koordinaatistoon kuution muotoiseksi objektiksi. Tekstikappale lakkasi olemasta vain osa lineaarista kerrontaa, vaan siitä tuli solmu eli “diskurssiyksikkö” semanttisessa avaruudessa, joka tarjoaa omistajalle mahdollisuuden navigoida teosta uusilla tavoilla.&#x20;
+Samaan kirjaan perustuva projekti [_Postcapitalist Discourse_](https://opensea.io/collection/protocols-for-post-capitalist-economic-expression) (2023) puolestaan luotaa teosta digitaalisesti natiivilla tavalla. CoPu:n tavoin alkuperäinen teksti hajotettiin osiin, jonka jälkeen fragmentit järjestettiin kolmiulotteiseen koordinaatistoon kuution muotoiseksi objektiksi. Tekstikappale lakkasi olemasta vain osa lineaarista kerrontaa, vaan siitä tuli solmu eli “diskurssiyksikkö” semanttisessa avaruudessa, joka tarjoaa omistajalle mahdollisuuden navigoida teosta uusilla tavoilla.&#x20;
 
 ### **Derivointi: Yhdestä lähteestä moneksi versioksi**
 
