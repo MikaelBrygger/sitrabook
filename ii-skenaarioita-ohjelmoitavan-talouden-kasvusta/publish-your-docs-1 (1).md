@@ -115,7 +115,7 @@ Tällainen mittaaminen on huomattavasti laadukkaampaa kuin ministeriön [nykyine
 
 ### **Lopuksi**
 
-EKO:t tarjoavat keinon laskea ympäristöä yksiköissä, jotka ovat erityisiä ympäristöllisesti. Tällä hetkellä ei ole olemassa ennalta määrättyä, valmiiksi sovellettavaa kaavaa EKO:n määrittämiseksi. Tämä ehdotus suosittelee, että EKO suunnitellaan Suomen valtion sekä niiden toimijoiden verkoston yhteistyönä, jotka laskevat, hallinnoivat ja puolustavat ympäristömme hyvinvointia.
+EKO:t mahdollistavat ympäristövaikutusten laskemisen erityisesti ympäristöä varten määritellyissä yksiköissä. Tällä hetkellä ei ole olemassa ennalta määrättyä, valmiiksi sovellettavaa kaavaa EKO:n määrittämiseksi. Tämä ehdotus suosittelee, että EKO suunnitellaan Suomen valtion sekä niiden toimijoiden verkoston yhteistyönä, jotka laskevat, hallinnoivat ja puolustavat ympäristömme hyvinvointia.
 
 * Valtio laskee EKO:n liikkeeseen (denominoi ympäristöavustukset EKO-yksiköissä).
 * Verkosto määrittelee EKO:n: miten yksi EKO mitataan; tämä voi muuttua tieteen ja prioriteettien muuttuessa.
