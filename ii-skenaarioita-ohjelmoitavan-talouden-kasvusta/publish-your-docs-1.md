@@ -85,35 +85,35 @@ Suomi on maailman paras paikka toteuttaa tämä ensimmäisenä.
 
 </details>
 
-Mitä jos suomalaisten PK-yritysten maksuvalmius ei olisikaan kiinni pankeista, vaan ne voisivat maksaa toisilleen omalla tuotannollaan, muuttamalla tilauskirjansa välittömäksi ostovoimaksi? Mitä jos raha ei olekaan niukkaa, vaan sen kierto on vain ohjelmoitu väärin?
+Mitä jos suomalaisten PK-yritysten maksuvalmius ei olisikaan kiinni pankeista, vaan ne voisivat maksaa toisilleen omalla tuotannollaan, muuttamalla tilauskirjansa välittömäksi ostovoimaksi? Mitä jos raha ei olekaan niukkaa, vaan sen kierto on vain ohjelmoitu paperin laskentakykyä silmällä pitäen?
 
 Suomessa pienet ja keskisuuret yritykset (PK-yritykset) muodostavat paikallistalouksien selkärangan – mutta niiden kasvua rajoittaa näennäisen yksinkertainen asia: kassavirta. Myöhästyneet maksut, niukat katteet ja kalliit luottoehdot estävät tuottavia yrityksiä investoimasta, palkkaamasta tai laajentumasta.
 
-Kyse ei ole tuottavuuden epäonnistumisesta. Kyse on **koordinaation epäonnistumisesta**. Kyse ei ole siitä, että yrittäjät ovat huonoja taloudenpitäjiä, vaan siitä että systeemi on tyhmä.  **Miksi? Koska vaikka meillä on kuin uusi valtavan tehokas tietokone, pyöritämme siinä ikivanhaa talouden softaa.**
+Kyse ei ole tuottavuuden epäonnistumisesta. Kyse on koordinaation epäonnistumisesta. Kyse ei ole siitä, että yrittäjät ovat huonoja taloudenpitäjiä, vaan siitä että systeemi on tyhmä.  Miksi? Koska vaikka meillä on kuin uusi valtavan tehokas tietokone, pyöritämme siinä ikivanhaa talouden softaa.
 
-Kuvittele hetki, jossa Suomen talous toimii kuten internet. Kun lähetät sähköpostin, et joudu miettimään, onko teleoperaattorilla ”varastossa” tarpeeksi dataa viestisi välittämiseen. Internet on suunniteltu siirtämään informaatiota kitkattomasti. Talousjärjestelmämme sen sijaan toimii yhä kuin fyysinen posti: jokainen transaktio on erillinen, raskas ja vaatii kallista polttoainetta – rahaa – liikkuakseen.
+Kuvittele hetki, jossa Suomen talous toimii kuten internet. Kun lähetät sähköpostin, et joudu miettimään, onko teleoperaattorilla ”varastossa” tarpeeksi dataa viestisi välittämiseen. Lähetyskykyä on saatavilla aina siellä missä on tarvetta. Internet on suunniteltu siirtämään informaatiota kitkattomasti. Talousjärjestelmämme sen sijaan toimii yhä kuin fyysinen posti: jokainen transaktio on erillinen, raskas ja vaatii kallista polttoainetta – rahaa – liikkuakseen.
 
 Raha on vain informaatiota siitä, kuka on velkaa kenellekin. On aika päivittää tapa, jolla käsittelemme tuota informaatiota.
 
-Tässä skenaariossa esitämme, että likviditeetti – kyky maksaa – ei ole hyödyke, jota pitää anoa pankeilta. **Se on informaatio-ongelma, joka voidaan ratkaista ohjelmoitavalla infrastruktuurilla.**
+Tässä skenaariossa esitämme, että likviditeetti – kyky suorittaa maksuja – ei ole hyödyke, jota pitää anoa pankeilta. Se on informaatio-ongelma, joka voidaan ratkaista ohjelmoitavalla infrastruktuurilla.
 
 Kun ymmärrämme talouden protokollana, voimme purkaa maksujumit ilman yhtäkään uutta euroa. Tämä ei ole utopiaa, vaan mekanismi, joka on jo pelastanut kansantalouksia kriisien keskellä. (ja: pankit itse käyttävät sitä joka päivä)
 
-#### **1. NÄKYMÄTÖN KÄSIJARRU / 135000 YRITYSTÄ PANKKEINA**
+#### **1. 135000 YRITYSTÄ PANKKEINA**
 
-Suomen taloudessa on tulppa. Se ei ole tuottavuusvaje eikä työvoimapula, vaan **älykkään koordinaation puute**.
+Suomen taloudessa on tulppa. Se ei ole tuottavuusvaje eikä työvoimapula, vaan älykkään koordinaation puute.
 
 Tuhannet suomalaiset PK-yritykset elävät jatkuvassa ”kuolemanlaaksossa”. Tilauskirjat voivat olla täynnä ja liiketoiminta kannattavaa, mutta kassa on tyhjä. Syy on rakenteellinen: yritykset joutuvat odottamaan saataviaan kohtuuttoman kauan.
 
-Tuoreimpien selvitysten mukaan jopa **135 000 suomalaista PK-yritystä** kärsii yksipuolisesti pidennetyistä maksuajoista. Suuret korporaatiot – ja jopa julkinen sektori – venyttävät maksuaikoja 30 päivästä 60, 90 tai jopa 120 päivään. Käytännössä suuret toimijat käyttävät pieniä alihankkijoitaan ilmaisina pankkeina.
+Tuoreimpien selvitysten mukaan jopa 135 000 suomalaista PK-yritystä kärsii yksipuolisesti pidennetyistä maksuajoista. Suuret korporaatiot – ja jopa julkinen sektori – venyttävät maksuaikoja 30 päivästä 60, 90 tai jopa 120 päivään. Käytännössä suuret toimijat käyttävät pieniä alihankkijoitaan ilmaisina pankkeina.
 
-Tällä on valtava hinta. Arvioidaan, että **jopa neljännes Suomen konkursseista johtuu pelkästään siitä, että yritys ei saa maksujaan ajoissa.** Se ei ole "luovaa tuhoa". Se on turhaa tuhoa.
+Tällä on valtava hinta. Arvioidaan, että jopa neljännes Suomen konkursseista johtuu pelkästään siitä, että yritys ei saa maksujaan ajoiss&#x61;**.** Se ei ole "luovaa tuhoa". Se on turhaa tuhoa.
 
 **Maksujumi: Kun kaikki ovat velkaa kaikille**
 
 Ongelman ydin on vanhentunut taloudellinen yhteistoimintaprotokolla. Nykyinen pankkijärjestelmä käsittelee jokaista laskua erillisenä, atomistisena tapahtumana.
 
-Kuvittele liikenneympyrä, joka on täysin tukossa. Autot eivät liiku. Kukaan ei pääse sisään, koska kukaan ei pääse ulos. Onko ongelma autojen puute? Ei. Onko ongelma teiden puute? Ei. **Ongelma on liikkeen puute.**
+Kuvittele liikenneympyrä, joka on täysin tukossa. Autot eivät liiku. Kukaan ei pääse sisään, koska kukaan ei pääse ulos. Onko ongelma autojen puute? Ei. Onko ongelma teiden puute? Ei. Ongelma on liikkeen puute.
 
 Tarkastellaan tilannetta yritysten välillä:
 
@@ -121,9 +121,9 @@ Tarkastellaan tilannetta yritysten välillä:
 2. Tavarantuottaja B on velkaa Logistiikkayhtiö C:lle 10 000 €.
 3. Logistiikkayhtiö C on velkaa Rakennusliike A:lle 10 000 €.
 
-Tässä ”kolmiossa” kukaan ei voi maksaa, koska kaikki odottavat maksua. Syntyy **maksujumi**. Pankkijärjestelmän näkökulmasta verkostossa on 30 000 euron edestä riskiä ja velkaa. Se vaatii, että johonkin näistä yrityksistä pumpataan 10 000 euroa ”ulkopuolista rahaa” (lainaa tai pääomaa), jotta kierre saadaan purettua.
+Tässä ”kolmiossa” kukaan ei voi maksaa, koska kaikki odottavat maksua. Syntyy maksujumi. Pankkijärjestelmän näkökulmasta verkostossa on 30 000 euron edestä riskiä ja velkaa. Se vaatii, että johonkin näistä yrityksistä pumpataan 10 000 euroa ”ulkopuolista rahaa” (lainaa tai pääomaa), jotta kierre saadaan purettua.
 
-Mutta jos katsomme tilannetta _taloudellisena verkostona_, huomaamme jotain mielenkiintoista: **verkostona he eivät ole velkaa kenellekään.** Velka on vain heidän välistään laskennallista jännitettä.
+Mutta jos katsomme tilannetta _taloudellisena verkostona_, huomaamme jotain mielenkiintoista: verkostona he eivät ole velkaa kenellekään. Velka on vain heidän välistään laskennallista jännitettä.
 
 Nykyinen järjestelmä vaatii kallista likviditeettiä (rahaa) selvittämään velvoitteita, jotka voisivat kumota toisensa. Ulkopuolisen rahan tarve on kirjanpidollinen illuusio, joka johtuu siitä, ett&#x65;_&#x69; taloudellinen verkosto ole tietoinen itsestään._ Ohjelmoitavassa taloudessa tämä on bugi, joka voidaan korjata.
 
