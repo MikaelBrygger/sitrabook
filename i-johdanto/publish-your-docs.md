@@ -319,13 +319,7 @@ Talouden kasvu alkaa tarkoittaa:
 
 Kasvun ydinkysymys muuttuu muotoon: m**itä arvoa haluamme tuottaa — ja millä logiikalla haluamme sen jakaa?**
 
-Kasvu on tulevaisuudessa vähemmän kilpailua kapasiteetista ja enemmän kasvavaa:
-
-* koordinointikykyä
-* ilmaisukykyä
-* yhteistoiminnan muotojen laajentamista.
-
-Jos talouden vanha kasvu oli ekstensiivistä – lisää hiiltä, lisää työtunteja, lisää velkaa – niin ohjelmoitavan talouden uusi kasvu on intensiivistä: lisää älykkyyttä, lisää koordinaatiota, lisää merkitystä.
+Jos talouden vanha kasvu oli ekstensiivistä – lisää hiiltä, lisää työtunteja, lisää velkaa – niin ohjelmoitavan talouden uusi kasvu on intensiivistä: lisää älykkyyttä, lisää koordinaatiota, lisää merkitystä, lisää yhteistoiminnan muotoja, lisää ilmaisukykyä.
 
 Tässä raportissa esittelemme mm. skenaarioita, joissa kasvu syntyy:
 
