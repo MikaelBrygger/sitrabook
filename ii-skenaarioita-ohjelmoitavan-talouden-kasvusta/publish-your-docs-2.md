@@ -126,7 +126,7 @@ Laillistamisen ei silti kannata lähteä liikkeell DAO:jen nykyisistä muodoista
 
 ### Tarina ekosysteemisestä kasvusta
 
-**Miten opiskelija Otaniemestä sattui luomaan maailman** [**suurimman käyttöjärjestelmän**](#user-content-fn-2)[^2]**?** Android-puhelimista Kindle-lukijoihin ja Steam-pelikonsoleihin... kaikki nämä järjestelmät ovat rakennettu Linuxin päälle. Windows on yhä enemmän integroitunut Linuxiin, palvellakseen kehittäjien tarpeita. Puhumattakaan tekoälyalustoista, jotka on yleensä kehitetty Linuxin perustalle (esimerkkinä suuri osa Kiinan tekoälykehityksestä, mukaan lukien Deepseek).
+**Miten opiskelija Otaniemestä sattui luomaan maailman** [**suurimman käyttöjärjestelmän**](#user-content-fn-2)[^2]**?** Android-puhelimista Kindle-lukijoihin ja Steam-pelikonsoleihin... kaikki nämä järjestelmät ovat [rakennettu Linuxin varaan](#user-content-fn-3)[^3]. Windows on yhä enemmän integroitunut Linuxiin, palvellakseen kehittäjien tarpeita. Puhumattakaan tekoälyalustoista, jotka on yleensä kehitetty Linuxin perustalle (esimerkkinä suuri osa Kiinan tekoälykehityksestä, mukaan lukien Deepseek).
 
 **Tämä kehitys ei pohjaa johtavaan yritykseen tai suureen pääomaan** -- vahvuuksia jotka myös Suomelta nykyisellään puuttuvat. Lienee siis hyödyllistä kysyä: Mistä moinen kehitys? Miten sen vahvuuksia voisi soveltaa muilla alueilla?
 
@@ -186,7 +186,7 @@ Pitkäaikaiset yhteisvaikutukset:
 
 * Muuttaa Suomen organisoitumisen natiivisti verkottuneeksi.
 * Avaa mahdollisuuden kehittää Suomen organisaatiopalettia eteenpäin, tukeutuen näin luotuun potentiaaliin.
-* Luo kehyksen täysimittaisen [reaaliaikaisen talouden](#user-content-fn-3)[^3] toteuttamiseen Suomessa.
+* Luo kehyksen täysimittaisen [reaaliaikaisen talouden](#user-content-fn-4)[^4] toteuttamiseen Suomessa.
 
 Yksi yrittäjyyden keskeisistä vahvuuksista on ollut taloudellisen innovaation hajauttaminen kaikkien kansalaisten oikeuksiksi ja aloitteiksi. **Tämän strategian kautta Suomi voi tuoda vastaavan mallin verkkoinnovaatioihin, aikana, jolloin verkoista on tulossa yhteiskunnallinen selkäranka.**
 
@@ -216,4 +216,6 @@ Yksi yrittäjyyden keskeisistä vahvuuksista on ollut taloudellisen innovaation 
 
 [^2]: Torvalds, Linus. Diamond, David (2001, 2002) Just for Fun: The Story of an Accidental Revolutionary. Harper Business. Linuksen henkilökohtainen kerronta Linuxin kehityksestä.
 
-[^3]: Siegele, Ludwig (2002). [The Real-Time Economy: How about Now?](https://www.cfo.com/news/the-real-time-economy-how-about-now/682280/) Artikkeli joka toimi avauksena laajemmalle diskurssille reaaliaikaisesta taloudesta.
+[^3]: Report: Palermo, Michael (2025). [Linux Statistics 2025](https://dailyresearchnews.com/linux-statistics/). Daily Research News. Versio: 10. joulukuuta 2025. Linuxin leviäminen on niin monimuotoista että sen kartoittaminen on haastavaa. Tässä kuitenkin ajankohtainen ja kohtuullisen kattava yhteenveto, joka yhteenlaskettuna tekee Linuxista selkeästi laajimman käyttöjärjestelmän.
+
+[^4]: Siegele, Ludwig (2002). [The Real-Time Economy: How about Now?](https://www.cfo.com/news/the-real-time-economy-how-about-now/682280/) Artikkeli joka toimi avauksena laajemmalle diskurssille reaaliaikaisesta taloudesta.
