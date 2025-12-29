@@ -27,9 +27,7 @@ layout:
 
 <details>
 
-<summary><strong>Executive Summary</strong></summary>
-
-**LIKVIDITEETTI INFRASTRUKTUURINA**
+<summary><strong>Tiivistelmä</strong></summary>
 
 Tämä skenaario esittää radikaalin väitteen: Suomen taloudessa on jo kaikki tarvittava likviditeetti – se on vain jumissa talouden vanhentuneessa käyttöjärjestelmässä. Raha on informaatiota siitä, kuka on velkaa kenellekin. On aika päivittää miten käsittelemme tuota informaatiota. Suomi voisi olla maa, joka ymmärtää tämän ensimmäisenä ja alkaa rakentaa sen päälle toimintaympäristöä.
 

@@ -31,7 +31,9 @@ layout:
 
 <summary>Tiivistelmä</summary>
 
-**Mitä jos…** tekoäly ei vain tehostaisi nykyistä talousmallia, vaan saisi rinnalleen talouden käyttöjärjestelmän, joka on yhtä älykäs, moniulotteinen ja ohjelmoitava kuin itse AI?  Tämä skenaario ehdottaa, että Suomen todellinen kilpailuetu ei ole vain siinä, kuinka nopeasti otamme AI:n käyttöön, vaan siinä, millaisen taloudellisen kieliopin ja protokollan annamme AI:lle – ja itsellemme.
+**Mitä jos…**&#x20;
+
+tekoäly ei vain tehostaisi nykyistä talousmallia, vaan saisi rinnalleen talouden käyttöjärjestelmän, joka on yhtä älykäs, moniulotteinen ja ohjelmoitava kuin itse AI?  Tämä skenaario ehdottaa, että Suomen todellinen kilpailuetu ei ole vain siinä, kuinka nopeasti otamme AI:n käyttöön, vaan siinä, millaisen taloudellisen kieliopin ja protokollan annamme AI:lle – ja itsellemme.
 
 **Ydinteesit**
 
