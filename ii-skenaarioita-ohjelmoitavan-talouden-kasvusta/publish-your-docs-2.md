@@ -23,121 +23,197 @@ layout:
 
 # Mitä jos organisaatiot olisivat ohjelmoitavia?
 
+<details>
 
+<summary>Executive Summary</summary>
 
-## Organization and Economy
+Uudet talouden kentät syntyvät organisaation innovaatioista -- osakeyhtiö on esimerkki tällaisesta kehityksestä. Täten, ohjelmoinnin kautta avautuva kapasiteetti kehittää organisaatiomalleja on mahdollisuus laaja-alaisen kasvupotentiaalin kehittämiseen, kokonaan uusien talouden alueiden muodossa.
 
-To reveal cards we're playing with, here are four notions -- concerning economy, organization, governance and their programmability -- that underlie this scenario as a whole.
+Teksti kartoittaa pohjarakenteita, otollisia lähtökohtia, ja tarvittavia askeleita tämän potentiaalin kehittämiseksi. Lopuksi ja kiteytykseksi, se vastaa kysymykseen: Miten Suomen koko organisaatiopohja voitaisiin muuttaa ohjelmoiduksi, ja mitä merkittäviä etuja tästä seuraisi?
 
-The notions insist on inseparability of these fields, pointing out the threads that connec them. They also reflect the learnings from our years of studying programmable economies.&#x20;
+### Keskeinen teesi
 
-1. _Any economy is organized to existence_, requiring socially accepted rules that enable it to operate within society. These rules are not necessarily accepted by everyone, certainly -- but this is true for any organizational rules. Thus, whenever we're creating new economies, programmable or otherwise, we're inevitably proposing social organization.
-2. This entails that _there's no economy without its own, particular governance_. The governance might be partially based on the rules set by programming -- but ultimately someone has the rights to run, modify or remove the code, which effectively functions as organizational governance.
-3. While an economy might operate through a digital platform, _whatever occurs on that platform must interact with the larger, organized world around it_ to become economically impactful.
-4. Therefore, _any form of economy is a social architecture_, founded upon its _organizational design_.
+Taloutta ei voi rakentaa ilman sen organisaatiota. Se on peruskivi talouden toiminnallisuudelle, ja välttämätön kehityksen huomiopiste uusille talouden muodoille.
 
-## Shifting from Paper to Programming
+Näin ollen, ohjelmoitavaan organisaatioon panostaminen tarjoaa mahdollisuuden vahvaan etulyöntiasemaan uudessa taloudessa.
 
-Our organizational forms has been conceived in the imaginary of paper: Whether corporation, association or co-operative… all these structures limit their operations to the capabilities of paper documents. Because of this, the networked architectures of co-operation are currently extensions beyond our organizations proper, and therefore generally outside of any legal backing, besides contracts and licenses.
+### Muutos talouden logiikassa
 
-Thus, legally speaking, Finland does not offer citizens a possibility to establish a network as an official organization. But, if it wanted an advantage within an increasingly networked world, it could...
+Talouden logiikka on sen organisaatiopohjan sanelema -- sen rakenne hallinnoi logiikkaa ja tekee talouden toiminnalliseksi. Näin ollen, uusien organisaatiomuotojen kehitys mahdollistaa nykylogiikan laajentamisen, sekä uusien logiikkojen luomisen.
 
-In a nutshell, programmability offers a reconsideration of the operative palette of society. It offers us the question: What becomes possible if we _reconsider organization from the ground up_, from the _perspective of programmable frameworks for social structures_?
+### Seuraukset talouskasvun käsitteelle
 
-To shed light on this potential, here are two cases, mapping this question upon two very different fields, both exploring this change in our organizational expression.
+Nykyinen tarve, erityisesti Suomessa, on uusien talouden muotojen kasvattaminen. Olemme heikossa asemassa kilpailemaan vanhojen väylien kautta. Pelkkä optimointi ei riitä -- tarvitaan uutta variaatiota.
 
-## Case: Social Media
+Jotta uudet muodot voisivat kasvaa, niiden pohjarakenne täytyy organisoida: Mitä instituutioita, millä systeemeillä ja metriikoilla, kenen ja minkä vallan alla?
 
-### Social Media as a Form of Organization
+Nämä ovat suunnittelu- ja innovaatiokysymyksiä. Ohjelmoitavan organisaation laajennus työkaluihin tulisi paitsi ottaa systemaattisesti käyttöön, myös kartoittaa, proaktiivisesti.
 
-The phenomenon that we commonly call "social media" is, at its core, a new field of programmable organization. The current platforms have merely scratched the surface of the possibilities in this field.
+### Suhde ohjelmoitavaan talouteen
 
-The operations of social media are thoroughly organizational: Such platforms set rules for people to operate, afford them rights within their organization, and coordinate their possibilities of relation -- all of these are issues elementary to organizational structures.
+Ohjelmoitava organisaatio on ohjelmoitavan talouden mahdollistaja: Käytännössä sitä voi pitää välttämättömänä suunnittelualueena uuden ohjelmoidun talouden kehitykselle.
 
-### Societal Interests of Social Media
+### Mahdollisuudet Suomelle
 
-The interests of social media, and the companies behind them, are not the interests of society at large. When an organization is solely a function of profit, but not profit for its users, the essential role of its users is to generate profit.
+Suomella on vahvat lähtökohdat ottaa aloite ohjelmoidun organisaation kokonaiskehityksessä. Nämä vahvuudet mahdollistaisivat koko Suomen organisaatiopohjan siirtämisen ohjelmoidulle alustalle. Toteutus olisi mittaluokaltaan kevyt, varsinkin verrattuna valtaviin voimavaroihin, jotka näin avautuisivat.
 
-If we consider the points from the beginning of the text, relating to organization and economy, it's reasonable to observe these platforms, and their owners, as governing the people upon the platform. With such considerations, the tendencies towards social friction upon various platforms of social media are rather unsurprising.
+Yksityiskohtaistamme sekä toteutuksen suuntaviivoja, että kokonaistaloudellisia mahdollisuuksia tekstin päättävässä skenaariossa.
 
-### Organizational Potential of Social Media
+</details>
 
-From a wider perspective, we can observe significant societal potential for the field that social media operates upon. Using programmatic means to organize ourselves is not the main source of problems with social media. It's rather how those means are currently being used.
+## Organisaatio talouden peruskivenä
 
-But what if we turned this situation on its head -- what if we enabled such organizational forms as societal architectures? This could open possibilities such as:
+**Jokainen talous pohjautuu organisaatioon:** Valuutan perustana toimii pankkien ja keskuspankkien verkosto, toteuttaen sääntöjä, jotka mahdollistavat valuutan olemassaolon. Verkoston yläpuolella ovat ihmiset ja organisaatiot. He pelaavat sääntöjen luomissa puitteissa, tehden valuutan toiminnalliseksi ja täten todelliseksi. Ilman tätä organisatorista perustaa valuuttaa ei olisi olemassa.
 
-* Use an accepted template to create an open source social platform as an organizational basis for your collective, just as you can now form an association or corporation.
-* Founding that platform organization can be automated, up and running in the matter of minutes.
-* Offer automated bookkeeping and tax reporting for the organization's economic activity, both internally or externally.
+Saman rakenteen voi jäljittää mistä tahansa talouden muodosta: Osakkeet vaativat pörssinsä ja sen organisoidut säännöt osakkeiden olemassaolon pohjaksi. Jopa omistajuus tarvitsee lain organisaation ollakseen olemassa, puhumattakaan omistuksen vaihtumisesta. Talouden luominen on välttämättä organisatorista luomista.
 
-Economic automation is an opportune example of something that is relatively easy to implement in programmable organization.
+Kaikista näistä syistä **ohjelmoitavan talouden näkökulmaa ei voida tarkastella käsittelemättä ohjelmoitavaa organisaatiota**. Kun etsimme innovaatioita ohjelmoitavassa taloudessa, organisaation innovaatiot ovat niiden välttämätön perusta.
 
-Such implementations have been developed in DAOs (Decentralized Autonomous Organizations) that have become prevalent on blockchain architectures. But this is not an opportunity that is necessarily shackled to blockchains -- many of the organizational functions of DAOs are open source, and are not necessarily dependent on blockchain architectures.
+## Paperista ohjelmiin
 
-## Case: DAOs
+Nykyiset organisaatiomuotomme on edelleen toteutettu paperin perustalle: **Olipa kyse yrityksestä, yhdistyksestä tai osuuskunnasta... kaikki nämä rakenteet myötäilevät paperisten asiakirjojen ilmaisukykyä.** Tällä on monia seuraamuksia, joita ei juuri tiedosteta. Esimerkiksi, kaikki sosiaaliset verkostomme ovat tuotteita jotka on kiinnitetty perinteisempiin organisaatioihin, eivätkä organisaatioita itsessään.
 
-### DAOs as Tillers of New Fields
+Tästä johtuen, Suomi ei tarjoa kansalaisilleen mahdollisuutta perustaa verkkoa laillisena organisaationa. Tällaisen mahdollisuuden tarjoaminen loisi etulyöntiaseman verkottuvassa maailmassa -- ja tämä on vain yksi otos ohjelmoitavan organisaation mahdollisuuksista.
 
-DAOs form another fledgling field of programmable organizations. Like social architectures of social media, DAOs also offer opportunities beyond their current usage.
+Yksityiskohtien ohella on hyvä antaa huomiota laajemmille näkökulmille: Ohjelmoitavuus tarjoaa arkkitehtuurin yhteiskuntamme uudelleentarkasteluun. **Yhteiskunnalliset rakenteet ovat, kautta linjan,** [**luonteeltaan organisatorisia**](#user-content-fn-1)[^1] **-- mitä ohjelmoitavuus mahdollistaa tulevan yhteiskunnan rakenteille ja muotokielelle?**
 
-The organizational imaginary is arguably rather limited, much narrower than the palette of traditional organization. The reason for this narrowness is not capability, but possibly a lack of in-depth organizational culture: They've been developed mostly as extensions of tokens, and have thus focused on variants of equity models, where the flexibility of crypto is used to tailor value distributions of the tokens.
+Kartoittaaksemme tätä potentiaalia, otetaan kaksi tapausta tarkemmin silmäiltäväksi. Kumpainenkin on kehittynyt ohjelmoitavan organisaation muotokieleksi, vaikkakin erisuuntaisesti.
 
-Likewise, governance of its members has been considered in a limited scope of interactions, mainly voting by equity, where tokens determine the weight of the vote, and variations thereof. From wider spectrum of organizations, this is a rather limited palette, compared to the range of interactions and functions we can observe in organizations on a societal level.
+## Tapaus: Sosiaalinen media
 
-However, this range is not a reflection of limitations of capability. Similarly to social media architectures, DAOs highlight the flexibility of programmable medium for social organization, capable of not only reproducing, but also expanding our capability to organize, in all areas.
+### Sosiaalinen media verkosto-organisaatioiden alkuaskeleena
 
-_It would be highly beneficial to utilize the automated functionality, already implemented in DAOs as a starting point to build towards wider palette of organizational sociality._
+**Sosiaalisen median alustat rakentuvat organisaatioiksi**: Ne asettavat sääntöjä ihmisten toiminnalle, tarjoavat heille alustan sisäisiä oikeuksia ja hallinnoivat heidän vuorovaikustaan – toisin sanoen, ne rakentuvat perinteisten organisaation peruskivien varaan.
 
-### Legal and Societal Empowerment
+Mutta jos vertailemme sosiaalista mediaa organisaatioihin laajemmin, huomioiden niiden kapasiteetin verkostomaisiin yhteisöihin, nykyiset alustat muodostavat varsin kapean otoksen mahdollisuuksistaan. Sosiaalisen toiminnan kirjo niissä on varsin rajattu, uudistetusta arkkitehtuurin pohjasta huolimatta.
 
-DAOs are not legally recognized as organizations, and their members don't hold the legal affordances provided by traditional organizations. Legal recognition of selected, limited forms of programmable organizations would be a considerable opportunity for expanding our social architecture, both organizationally and economically.
+### Rakennusaineita yhteiskunnan kehittämiseen
 
-_However, this should not simply be approached as an argument for validating DAOs, in their current forms._
+**Sosiaalisen median kehittämiä arkkitehtuureja voidaan käyttää prototyyppeinä yhteisörakenteille.**
 
-Rather, their operative capabilities should be considered as a source towards a discourse into how society operates, and _how it desires to operate_. They're concrete explorations of this topic, and as such, open theoretical and practical considerations of future forms of organization.
+Sosiaalisen median yleiset ilmapiiriongelmat ja käyttäjien tyytymättömyys kummunnevat pitkälti alustojen tyylistä käyttää näitä rakenteita: Kun organisaatio harjoittaa totalitaarista vallankäyttöä yhteisöönsä, nähden käyttäjänsä ensisijaisesti rahallisen voiton lähteinä (osakkeenomistajilleen, ei käyttäjille itselleen), se tuskin pysyy terveenä pitkällä aikavälillä. Tämä on käytännössä resepti negatiivisen käyttäjäilmapiirin tuottamiseen, joten sosiaalisten medioiden negatiivista ilmapiiri kehitystä ei voi pitää mitenkään yllättävänä.
 
-As we're _increasingly operating upon a networked reality_, proactively _harnessing the capabilities of this reality as sources of societal expansion_ presents an advantageous pathway for development: It could significantly increase our organizational and economic expressivity, both on the level of society, and affordances of its citizens.
+Mutta vastaavia verkostoyhteisöjä voisi myös rakentaa käyttäjistä ylöspäin: **Voimme muodostaa verkostoyhteisöjä paljon pienimuotoisempina**, mahdollisen niiden kasvattamisen **kansalaistasolta, kuten olemme historiallisesti (ja onnistuneesti) oikeuttaneet kansalaisista kumpuavat organisaatiot.** Tämä avaisi monia mahdollisuuksia, kuten:
 
-There would be obvious benefits from such development: For example, the automated bookkeeping and tax reporting, mentioned above, make such organizations _economically lighter to operate_, enabling citizens to organize themselves with less overhead costs and automated administrative labor.
+* Laillistetun, avoimeen lähdekoodiin perustuvan, mallin tarjoaminen sosiaalisen alustan luomiseen organisaation perustana. Tällaisten rakenteiden ei tarvitse olla maailmanlaajuisia toimiakseen – mutta ne ovat joustavia muodostamaan vaikkapa muutaman sadan ihmisen verkostoja. Miksei suurempiakin, mutta tämä painotus ei ole ensisijainen.
+* Tällaisen alusta-organisaation perustaminen voidaan automatisoida -- se voi olla pystyssä muutamassa minuutissa.
+* Alustat voivat tarjota automaattisen kirjanpidon ja verotiedotuksen organisaation taloudelliselle toiminnalle.
 
-At the same time, the society receives a benefit of _curtailing the grey market_, and can operate on _real-time information of economic activity._
+Taloudellinen automatisointi on esimerkki kehityksestä joka on suhteellisen helppoa toteuttaa ohjelmoitavissa organisaatioissa. Tämän kaltaista automatisaatiota on kehitetty DAO:issa (hajautetut autonomiset organisaatiot), joista on tullut yleisiä lohkoketjuarkkitehtuureissa. Mutta tämä mahdollisuus ei ole kahlittu lohkoketjuihin, ja toteutuksia on myös saatavilla avoimena lähdekoodina, tarjoten kirjaston esikehitettyä materiaalia.
 
-## Operative Proposal: "Organizational Linux" for Finland
+## Tapaus: DAO
 
-From its early development, one of the motivations of Linux was the enablement of its users. PCs had become both cheap and powerful enough to operate the same network software that supported the early internet. Through using Linux these affordances would be available to any PC, extending its capabilities considerably.
+### DAO:t ja yhteisöjen automaatio
 
-Such an idea of social empowerment would be opportune for a nation state that is transforming itself to our increasingly networked reality, alongside the rest of the world. The nation state, particularly its structures for collective organization, is surprisingly similar to an operating system, from the perspective of its citizens.
+DAO:t muodostavat toisen orastavan ohjelmoitavien organisaatioiden kentän. Kuten sosiaalisen median arkkitehtuurit, DAO:t tarjoavat mahdollisuuksia nykyisen käyttönsä ulkopuolella. Toistaiseksi niiden organisatoriset kyvyt ovat oletuksia ja odotuksia rajallisempia:
 
-Therefore, a development resembling early Linux, but for upgrading our structures of organization, could achieve similar effect, but arguably to a much wider societal impact.
+* DAO:ja on kehitetty enimmäkseen tokenien laajennuksina, keskittyen pääoman sovellusten variaatioihin, joissa krypton joustavuutta käytetään tokenien arvojakaumien hienosäätöön. Tämä on melko kapea otos yhteisöjen toiminnasta.
+* Hallintoa on kehitetty melko rajallisesti, pääasiassa omistuspohjaisiin äänestyksiin, jossa tokenit määrittävät äänen painon. Vaikka tällä alueella on paljon innovaatiota, alue itsessään on melko rajallinen organisaation toiminnan ohjaamiseen.
 
-### Potential Outcomes
+Nämä rajoitukset eivät kuitenkaan heijasta mahdollisuuksien rajoja. Samoin kuin sosiaalisen median arkkitehtuurit, DAO:t todentavat ohjelmoinnin joustavuutta organisaation pohjana, ja kykyä laajentaa organisaatioidemme rakennepalettia.
 
-Such a development would provide organizational structures inherently compatible with each other, being able to interact not just externally, but down to their internal structures. The standardization would enable automated network operations between many organizations, whenever desired. Standardization in programming does not necessarily remove flexibility — sometimes even increasing it. After all, internet is built upon such standards -- they're the main source of its operational capacity.
+**Olisi strategisesti järkevää hyödyntää automaattista toiminnallisuutta organisaatioissa, käyttäen DAO:en kehitystä ohjelmoitavien organisaation pohjatyönä.**
 
-At the same time, the developed forms of programmable organization would form a reservoir of public goods. Their development could respond to needs of the citizens, not to the profits of corporations (which are unlikely to remain in Finland, in most cases).
+### Yhteiskunnallinen asemointi
 
-Such organizations, both lightweight with automated accounting and reporting, and capable of forming clusters of network operations on a case-by-case basis, would be significantly more capable than traditional organizations. For a start, large scale co-operation can provide significant economic benefits. But this would not only be an economic expansion, but also social one, given that the choice of social interactions would be given back to the people themselves.
+DAO:ja ei tällä hetkellä tunnusteta laillisiksi organisaatioiksi, eivätkä niiden jäsenet täten omaa perinteisten organisaatioiden tarjoamia jäsenoikeuksia. Tarkkaan valittujen ohjelmoitavien organisaatiomuotojen laillistaminen on merkittävä mahdollisuus sosiaalisen arkkitehtuurimme kehittämiseen, sekä organisatorisesti että taloudellisesti.
 
-To say that this would provide an advantage for Finland could potentially be an understatement...
+Laillistamisen ei silti kannata lähteä liikkeell DAO:jen nykyisistä muodoista. Ennemminkin kannattaisi kehittää uusia versioita kohti laillisia ohjelmoituja organisaatioita, DAO:jen pohjatyön päälle. Tämä mahdollistaisi rakenteellisen diskurssin siitä miten yhteiskunnan toimintarakenteita tulisi kehittää kohti ohjelmointiin pohjaavaa organisaatiota, ja hakea näin askelia yhteiskunnan väistämättömässä muutosprosessissa.
 
-### Core Principles of "Organizational Linux"
+**Yhteenvetävästi: Arkielämän verkostoituminen on realiteetti joka vaatii ennakoivia, eikä jälkikäteen reagoivia strategioita.** Muuten olemme ajastamme aina askeleen tai pari jäljessä, joka on epäsuotuisaa erityisesti laajempien muutosten aikana.&#x20;
 
-**Agenda:**
+## Suomelle räätälöity suositus: "Yhteisöjen Linux"
 
-* Implementation of capabilities of programmable organization on a societal level.
+### Tarina ekosysteemisestä kasvusta
 
-**Open source:**
+**Miten opiskelija Otaniemestä sattui luomaan maailman** [**suurimman käyttöjärjestelmän**](#user-content-fn-2)[^2]**?** Android-puhelimista Kindle-lukijoihin ja Steam-pelikonsoleihin... kaikki nämä järjestelmät ovat rakennettu Linuxin päälle. Windows on yhä enemmän integroitunut Linuxiin, palvellakseen kehittäjien tarpeita. Puhumattakaan tekoälyalustoista, jotka on yleensä kehitetty Linuxin perustalle (esimerkkinä suuri osa Kiinan tekoälykehityksestä, mukaan lukien Deepseek).
 
-* Transparency of function.
-* Wider inspection of functionality: robust and reliable operations.
+**Tämä kehitys ei pohjaa johtavaan yritykseen tai suureen pääomaan** -- vahvuuksia jotka myös Suomelta nykyisellään puuttuvat. Lienee siis hyödyllistä kysyä: Mistä moinen kehitys? Miten sen vahvuuksia voisi soveltaa muilla alueilla?
 
-**Standardized, interoperative:**
+Varhaisessa kehityksessään **yksi Linuxin keskeisistä motivaattoreista oli käyttäjien välineiden parannus** (Linus Torvalds oli ensimmäinen motivoitunut käyttäjä). Edulliset PC:t olivat tulleet tarpeeksi tehokkaiksi operoimaan samaa ohjelmistoa, joka tuki varhaista internetiä. Linuxin kautta tällainen ohjelmisto tuli käytettäväksi millä tahansa PC:llä.
 
-* Standards enable organizations to integrate their economics and governance.
-* Enabling of network operations across multiple organizations.
-* Automated co-operation available to both large and small organizations.
+### Yhteisöllisestä ohjelmoinnista yhteiskunnallisiin oppeihin
 
-**Public development:**
+Vaikka Linux juontaa juurensa kotitietokoneisiin, voimme tarkastella sitä tapauksena sosiaalisesta voimaannuttamisesta:
 
-* Discourse on future functionality, extensions.
-* Reflecting shared organizational and economic needs and desires.
+* Se tarjosi yksityisille käyttäjille mahdollisuuden olla **kasvavan tietoverkoston tekijä ja rakentaja**, ei vain kuluttaja. Tätä ennen, verkot rakentaminen oli käytännössä vaoin suurempien instituutioiden (yritysten, yliopistojen jne.) käsissä.
+* Se "demokratisoi" käyttöjärjestelmän kehityksen, **sallien käyttäjien osallistua Linuxin kehitykseen kokonaisuutena**. Vaikka Linux ei ollut tällä saralla ainutlaatuinen, se oli ainoa käytännöllinen vaihtoehto yhteisökehitykseen tavallisilla PC:llä.
+
+Nämä piirteet ruokkivat Linuxin pitkän aikavälin kasvua, **levittäen sen maaperää huolimatta suuryritysten suorasta kilpailusta**. Vaihtoehtoisen ekosysteeminsä kautta **Linux on kasvanut kilpailusta huolimatta** – ei yksittäisenä, kaupallisena tuotteena, vaan pikemminkin nivoitumalla osaksi verkostojamme, niiden ydinrakenteita.
+
+**Linuxin avoin luonne tarjoaa lingua francan verkkoarkkitehtuureille**. Jopa nykyisesti tyypillinen Linuxin "hyväksikäyttö" suurten yritysten toimesta johtaa viime kädessä Linuxin lisääntyneeseen läsnäoloon, vahvistaen sen asemaa yhteistoiminnan helpoimpana silloittajana. **Se "voittaa" kilpailun koska se ei suoranaisesti kilpaile,** varsinkaan taloudellisesta voitosta, **vaan keskittyy olennaiseen: toiminnallisuuteen.**
+
+Ennen kuin käännämme näitä oppeja kohti Suomen yhteisörakenteita ja niiden kehittämistä, korostettakoon kahta kiteytystä, jotka ovat osuvia Suomelle ja sen asemalle maailmassa:
+
+* Linux oli asemansa ja pääomansa puolesta pieni aloite, kohti yksityisiä käyttäjiä, joka päätyi miltei korvaamattomaksi rakenteeksi koko maailmalle.
+* Yksi Linuxin suurimmista kehityksen lähteistä oli kaikkien käyttäjien voimaannuttaminen, jokaisella tasolla. **Tämä on tehokas tapa muuntaa motivaatiota kehitykseksi, laajalla skaalalla.**
+
+### Opeista käytäntöön
+
+Mitä jos Suomi käyttäisin Linuxille ominaisia kehitysstrategioita organisaatiopohjansa kehitykseen? Käytännössä tämä voisi lähteä liikkeelle seuraavien askeleiden kautta:
+
+* Luodaan avoimen lähdekoodin sovellukset organisaatioillemme, yrityksistä yhdistyksiin, ja tarjotaan jokaisen organisaation käyttöön web-käyttöliittyminä.
+* Nämä sovellukset mahdollistavat hallinnon ja rahoituksen pyörittämisen ohjelmoidussa järjestelmässä, päätöksistä transaktioihin.
+* Välittömät edut: automatisoitu kirjanpito, veroraportointi, jopa ehdotukset ja äänestäminen. Toiminta arkistoidaan automaattisesti, ja organisaatioiden välillä voidaan toteuttaa välittömiä siirtoja, sisälsivät ne rahaa tai päätöksiä.
+* Näin luotua ympäristöä käytetään organisaatioiden toiminnallisuuden jatkokehittämiseen, rajoitetuista uusista testimuodoista perinteisten rakenteiden päivityksiin. Avoin lähdekoodi mahdollistaa käyttäjien kontribuutiot organisaatioiden kehittämiseen; hyväksyntä "virallistettuun" versioon voi olla silti hallinnoitua.
+
+Jo strategian tarjoamat suorat hyödyt ovat merkittäviä: Organisaation perustaminen vie minuutteja, ja sitä voidaan operoida ilman ylimääräisiä kustannuksia. **Kun automatisointi rajoittaa byrokratian kustannuksia ja siihen tarvittavaa työpanosta, harmaan talouden vetovoima heikentyy**. Mutta automatisoinnin hyötyjen lisäksi tämä lähestymistapa avaisi suuremman potentiaalin taloudelliselle kasvulle natiivisti verkottuneena taloutena.
+
+Havainnollistaaksemme tätä potentiaalia: Nykyisten tietoverkostojen avulla on arkipäiväistä jakaa dokumentteja muille. Jos dokumentti on vaikkapa teksti, se avautuu automaattisesti tekstimuodossa, mahdollisesti muokattavana, kenties vain osiltaan muokattavana. Toisin sanoen, emme jaa vain "dataa" -- standardoidut rakenteet toimivat ennemminkin ilmaisun palettien kirjona, kuin pakottavina kahleina.
+
+* Mitä jos organisaatioilla olisi samankaltaiset rakenteelliset mahdollisuudet keskinäiseen toimintaan, missä tahansa mittakaavassa?
+* Mitä jos jaettu data olisi välittömästi ymmärrettävää muille organisaatioille: Tarjouksina, varojen tai resurssien siirtoina, sääntöinä, henkilöstönä, tehtävinä?
+* Mitä jos valjastaisimme nämä mahdollisuudet dynaamisten sidosten muodostamiseen organisaatioiden välille: useiden kumppanien verkosto, voimassa vain sovituille organisaatioiden osille, ehkä sekunneiksi tai vuosiksi, aktivoituen välittömästi ennalta hyväksyttyjen ehtojen alla?
+
+### Standardit: kahleista kanvaaseiksi
+
+Yksi keskeinen ajattelu- ja lähestymistavan muutos kohdistuu standardeihin ja siihen miten niitä luodaan. **Niiden tehtävä ei ole rajata toimintaa, vaan luoda puitteita uusille ilmaisun alueille**. Teksti- tai kuvaformaatin avaintehtävä on mahdollistaa niihin kohdistuva luominen.
+
+Standardit ovat legopalikoita joiden varaan tietoverkostot ja niiden toimintakyky rakentuu. Tärkeä periaate on myös standardointi kohti modulaarisuutta: **Kaikki järjestelmän osat ymmärtävät toistensa luonteen, maksimoiden mahdolliset vuorovaikutukset eri osien välillä**. Tällainen standardointi avaa ei vain dokumentit, vaan koko järjestelmän ilmaisukykyisenä kanvaasina.
+
+Mitä tällainen lähestymistapa mahdollistetaan organisaatioiden saralla?
+
+* Luodaan modulaarisia standardeja organisatorisille toiminnoille: varainsiirrot, tarjoukset, projektit, henkilöstö, resurssit jne. Nämä voivat olla erittäin joustavia ilmaisuvoimassaan, mutta silti korreloivat avaintietojen osalta.
+* Esimerkiksi projektin kohdalla nämä voisivat tehdä luettavaksi tiedot ajasta, käytetyistä resursseista, tuotoksista, taidoista, henkilöstöstä jne.
+* Tällaiset standardit tarjoavat organisaatioille uusia välineitä yhteistyöhön paitsi niiden välillä, myös niiden eri osien välillä.
+* Esimerkiksi tekninen asiakirja tietylle projektille voisi palvella monia projekteja, eri organisaatioissa. Tiety resurssin tarve voi olla avaus kollektiiviselle resurssien hankinnalle.
+* Standardien kautta suomalaiset organisaatiot saavat yhä uusia mahdollisuuksia modulaariseen verkkoyhteistyöhön, mahdollistaen niiden toiminnan verkostoituneina superorganisaatioina.
+* Tiedon ja toiminnan jako voi olla täysin organisaatioiden omissa käsissä. He valitsevat mitä jakavat ja kenelle.
+
+Vaikka nämä rakenteet saattavat kuulostaa eksoottisilta, ne ovat arkipäivää verkkoarkkitehtuureissa tai niitä palvelevissa käyttöjärjestelmissä (kuten Linux). Normaalin verkkosivun avaaminen verhoo alleen hyvin samankaltaisia yhteistyön rakenteita, jotka mahdollistavat paitsi sivun olemassaolon, myös uuden sivun luomisen. Toisin sanoen, **perusosaaminen ohjelmoituun organisaatiopohjaan on jo olemassa – se täytyy vain kääntää kohti yhteiskunnallisia rakenteita.**
+
+Pitkäaikaiset yhteisvaikutukset:
+
+* Muuttaa Suomen organisoitumisen natiivisti verkottuneeksi.
+* Avaa mahdollisuuden kehittää Suomen organisaatiopalettia eteenpäin, tukeutuen näin luotuun potentiaaliin.
+* Luo kehyksen täysimittaisen [reaaliaikaisen talouden](#user-content-fn-3)[^3] toteuttamiseen Suomessa.
+
+Yksi yrittäjyyden keskeisistä vahvuuksista on ollut taloudellisen innovaation hajauttaminen kaikkien kansalaisten oikeuksiksi ja aloitteiksi. **Tämän strategian kautta Suomi voi tuoda vastaavan mallin verkkoinnovaatioihin, aikana, jolloin verkoista on tulossa yhteiskunnallinen selkäranka.**
+
+### "Yhteisöjen Linuxin" avainperiaatteet
+
+**Ydinohjelmisto:**
+
+* Ohjelmoitavan organisaation kykyjen toteutus yhteiskunnallisella tasolla: Jokaista organisaatiota, perinteistä tai uutta, voidaan operoida web-käyttöliittymän kautta.
+
+**Avoin lähdekoodi:**
+
+* Läpinäkyvä kehitys.
+* Enemmän silmiä kehityksessä: vahva ja luotettava toimintakyky.
+
+**Standardoitu, yhteentoimiva:**
+
+* Standardit mahdollistavat organisaatioiden integroida taloutta ja hallintoa.
+* Mahdollistaa verkkokoalitiot useiden organisaatioiden välillä.
+* Automaattinen yhteistyö saatavilla sekä suurille että pienille organisaatioille.
+
+**Julkinen kehitys:**
+
+* Diskurssi tulevasta toiminnallisuudesta, laajennuksista.
+* Pyrkii palvelemaan jaettuja organisatorisia ja taloudellisia tarpeita ja toiveita.
+
+[^1]: Malešević, Siniša (2013). Nation-States and Nationalisms: Organization, Ideology and Solidarity. Polity. Laaja-alainen katsanto yhteiskunnan organisatooriseen kehitykseen, ja sen kehittyvään muotokieleen.
+
+[^2]: Torvalds, Linus. Diamond, David (2001, 2002) Just for Fun: The Story of an Accidental Revolutionary. Harper Business. Linuksen henkilökohtainen kerronta Linuxin kehityksestä.
+
+[^3]: Siegele, Ludwig (2002). [The Real-Time Economy: How about Now?](https://www.cfo.com/news/the-real-time-economy-how-about-now/682280/) Artikkeli joka toimi avauksena laajemmalle diskurssille reaaliaikaisesta taloudesta.
