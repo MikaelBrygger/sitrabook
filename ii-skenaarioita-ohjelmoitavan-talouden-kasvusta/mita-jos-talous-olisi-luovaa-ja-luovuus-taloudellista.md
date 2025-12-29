@@ -23,11 +23,40 @@ layout:
 
 # Mitä jos talous olisi luovaa ja luovuus taloudellista?
 
+<details>
+
+<summary>Tiivistelmä</summary>
+
+#### **Mitä jos talous olisi luovaa ja luovuus taloudellista?**
+
+Perinteiset talousmallit ja organisaatiorakenteet ovat usein jäykkiä ja ennalta määrättyjä, kuin yhteen lopputulokseen taipuvia rakennussarjoja. Ohjelmoitava talous tarjoaa kuitenkin työkalut näiden monoliittien purkamiseen. Se mahdollistaa taloudellisten ja organisatoristen perusosien – kuten omistajuuden, käyttöoikeuden ja ajan – uudelleenmuotoilun itsenäisiksi, ohjelmoitaviksi elementeiksi. Tämä avaa mahdollisuuden sellaisten arvonluonnin ja vaihdannan arkkitehtuurien suunnitteluun, joissa taloudellinen toiminta muuttuu yksittäisistä transaktioista luovaksi välineeksi.
+
+**Keskeinen teesi**
+
+Talouden ja organisaatioiden “kovat” rakenteet, kuten omistajuus, eivät ole kiinteitä ominaisuuksia, vaan ne voidaan purkaa modulaarisiksi sopimuselementeiksi eli oikeusrakenteiksi. Kun nämä elementit tehdään ohjelmoitaviksi, tekijät ja yhteisöt voivat yhdistellä niitä luovasti. Tämä synnyttää uusia tapoja organisoida toimintaa, jakaa arvoa ja osallistaa yleisöä.
+
+**Muutos talouden logiikassa**
+
+Nykyinen talousajattelu keskittyy usein valmiisiin lopputuotteisiin ja lineaarisiin prosesseihin. Ohjelmoitava talous siirtää fokuksen arvon atomeihin – pienimpiin itsenäisiin yksiköihin – ja niiden hallintaan. Strategiat kuten osiin hajottaminen (esimerkiksi teoksen pilkkominen omistettaviksi fragmenteiksi) ja derivointi (yhden lähteen versiointi eri yleisöille) muuttavat passiivisen kuluttamisen aktiiviseksi osallistumiseksi. Samalla aika muuttuu staattisesta takarajasta dynaamiseksi suunnitteluelementiksi, jolloin itse prosessista voi tulla myytävä tuote.
+
+**Seuraukset talouskasvun käsitteelle**
+
+Tämä lähestymistapa haastaa käsityksen kasvusta pelkkänä määrällisenä lisäyksenä. Kun taloudellisia vuorovaikutuksia muotoillaan luovasti, syntyy mikroekonomioita ja sosiaalisia pelejä, joissa arvo ei synny vain tuotteesta, vaan osallisten välisistä suhteista ja interaktiosta. Kasvu ei ole enää vain tuotannon tehostamista, vaan se voi olla monimuotoista ja kirjavaa: se voi perustua luottamuksen, osallisuuden ja uusien toimintamallien skaalaamiseen.
+
+**Suhde ohjelmoitavaan talouteen**
+
+Ohjelmoitava talous tarjoaa muutokselle teknisen ja käsitteellisen “kieliopin”. Se mahdollistaa epämääräisten käsitteiden, kuten omistajuuden, purkamisen täsmällisiksi ja todennettaviksi oikeuksiksi (esimerkiksi oikeudeksi käyttää, lainata tai äänestää). Nämä oikeudet toimivat digitaalisen talouden legopalikoina, joiden avulla on mahdollista rakentaa perinteisiä instituutioita joustavampia ja tarkoituksenmukaisempia organisaatioita. Kysymys ei ole enää siitä, kuka omistaa alustan, vaan siitä, kenellä on valta ohjelmoida sen säännöt.
+
+**Mahdollisuudet Suomelle**
+
+Suomella on mahdollisuus toimia edelläkävijänä uudenlaisen organisaatio- ja talouskieliopin kehittämisessä. Soveltamalla näitä periaatteita esimerkiksi metsänomistukseen (hiilensidonnan ja biodiversiteetin arvottaminen), kaupunkisuunnitteluun (yhteisresurssien dynaaminen hallinta) tai luoviin aloihin (fanien osallistaminen osaomistajina) Suomi voi nostaa vientituotteeksi itse arvonluonnin uuden arkkitehtuurin. Kyse on mahdollisuudesta siirtyä tuotteiden myynnistä luottamuksen ja innovatiivisten rakenteiden vientiin.
+
+</details>
+
+
+
 _A thing is not made, it is made to be._ \
 _–_ Gertrude Stein
-
-To live past the end of your myth is a perilous thing. \
-– Anne Carson
 
 #### **Johdanto**
 
