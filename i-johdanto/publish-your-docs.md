@@ -25,7 +25,7 @@ layout:
 
 #### **Aluksi**
 
-_Tämä raportti on arkkitehtuurinen ja kulttuurinen interventio. Tavoitteemme on tehdä talouspolitiikalle sama, minkä TCP/IP teki tietoliikenteelle: ei korjata vanhaa järjestelmää, vaan määritellä uusi kerros, jonka päälle talouden tulevaisuus ja sen kasvu voidaan rakentaa. Kun hyväksymme, että talous on "informaation välitystä" eikä "niukkuuden hallintaa", tämän raportin analyysi ja sen ehdotukset muuttuvat magiikasta yhdessä toteutettavan muutoksen logiikaksi._
+_Tämä raportti on arkkitehtuurinen ja kulttuurinen interventio. Tavoitteemme on tehdä talouspolitiikalle sama, minkä TCP/IP teki tietoliikenteelle: ei korjata vanhaa järjestelmää, vaan määritellä uusi kerros, jonka päälle talouden tulevaisuus ja sen kasvu voidaan rakentaa. Kun hyväksymme, että talous on "informaation välitystä" eikä "niukkuuden hallintaa", tämän raportin analyysi ja sen ehdotukset muuttuvat magiikasta muutoksen logiikaksi._
 
 ### **1. Miksi talouskasvun käsite on päivitettävä**
 
@@ -33,11 +33,11 @@ Olemme tottuneet ajattelemaan taloutta järjestelmänä, jota säännellään, m
 
 Mitä jos talous on _media_ – väline, jolla ilmaisemme arvoja, rakennamme suhteita ja organisoimme yhteistä elämää?
 
-Kun katsomme maailmaa vuonna 2025, näemme paradoksin. Meillä on käytössämme ihmiskunnan historian tehokkaimmat työkalut: globaalit tietoverkot, rajaton laskentateho ja generatiivinen tekoäly. Silti yhteiskuntamme käyttöjärjestelmä – talous – tuntuu yhä kankeammalta, hauraammalta ja eriarvoisemmalta. Kuin tiensä päähän tulleelta.
+Kun katsomme maailmaa vuonna 2026, näemme paradoksin. Meillä on käytössämme ihmiskunnan historian tehokkaimmat työkalut: globaalit tietoverkot, rajaton laskentateho ja generatiivinen tekoäly. Silti yhteiskuntamme käyttöjärjestelmä – talous – tuntuu yhä kankeammalta, hauraammalta ja eriarvoisemmalta. Kuin tiensä päähän tulleelta. Tai tähän maailmaan sopimattomalta.
 
 Se ei tunnista planeetan ekologisia rajoja, se ei osaa arvostaa hoivaa tai luottamusta, ja se vaatii jatkuvaa velkaelvytystä pysyäkseen pystyssä.
 
-Miksi? Koska yritämme pyörittää 2020-luvun yhteiskuntaa 1800-luvun taloudellisella ohjelmistolla. Talouskasvun todellinen tulppa on tässä.
+Miksi? Koska yritämme pyörittää 2020-luvun yhteiskuntaa 1800-luvun taloudellisella laskentalogiikalla. Talouskasvun todellinen tulppa on tässä.
 
 Tämä raportti esittää radikaalin väitteen: **Talouskasvun seuraava vaihe ei synny siitä, että tehostamme vanhan järjestelmän mukaista toimintaamme. Se syntyy siitä, että ymmärrämme talouden ohjelmoitavana mediana.**
 
@@ -61,6 +61,8 @@ Tämä raportti kysyy siksi: Mikä on uuden syntymässä olevan taloudellisen me
 
 Kirjoitustaito mahdollisti lait ja valtiot. Painokone ei vain tuonut kirjoja, se loi modernin sopimusjärjestelmän. Internet ei vain tehostanut kommunikaatiota, se muutti identiteetit, politiikan ja kulttuurin. Kun talous alkaa nyt muistuttaa yhä enemmän “kommunikaatiovälinettä”, mitä tapahtuu käsityksellemme arvosta, vaihdosta ja koordinaatiosta? Mikä tapahtuu talouden kasvulle kun suhteemme talouteen muuttuu pelkästä "luku-oikeudesta" (Read Only) "luku- ja kirjoitusoikeudeksi" (Read/Write)?
 
+Tämä on suurempi muutos kuin siirtymä sanomalehdestä (Read only) Facebookiin (Read/Write) aikaan oli.
+
 On selvää, että se ei vain nopeuta vanhaa, vaan luo täysin uusia taloudellisen interaktion muotoja, rytmejä ja mittakaavaa.
 
 _**Mistä tämä johtuu?**_
@@ -73,7 +75,7 @@ Jokainen talouden kehitysvaihe on seurannut sen median muutosta.
 
 _1. Varhaiset yhteisöt: talous suhteissa, ei mittana_
 
-Varhaisimmat yhteisöt eivät tarvinneet markkinoita tai hintoja. Arvo syntyi suhteissa: rituaaleissa, vastavuoroisuudessa, luottamuksessa ja sosiaalisesti tunnetussa velassa. Talous oli tämän muistia rituaaleissa ja yhteisön koordinaatiossa, ei yksikköön pakotettua laskentaa.
+Varhaisimmat yhteisöt eivät tarvinneet markkinoita tai hintoja. Arvo syntyi suhteissa: rituaaleissa, vastavuoroisuudessa, luottamuksessa ja sosiaalisesti tunnetussa velassa. Talous oli tämän muistia rituaaleissa ja yhteisön koordinaatiossa, ei yhteen yksikköön pakotettua laskentaa.
 
 _2. Kirjoitetun kielen ja kirjanpidon synty: talous alkoi muistaa itseään_
 
@@ -81,13 +83,13 @@ Kirjoitus kehittyi kirjanpidosta. Sen myötä talous ei ollut enää muistissa, 
 
 _3. Markkinat:  talous alkoi laskea itse_
 
-Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirjanpitojärjestelmä, vaan markkinat – hajautettu taloudellinen laskentakone, jossa riippumattomat toimijat, kukin omasta paikallisesta näkökulmastaan, osallistuivat verkoston laskentaan. Markkinoiden hinnan muodostus oli proto-algoritminen koordinaatiokone (nk. “näkymätön käsi”):
+Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirjanpitojärjestelmä, vaan markkinat – hajautettu taloudellinen laskentakone, jossa riippumattomat toimijat, kukin omasta paikallisesta näkökulmastaan, osallistuivat verkoston tilan ja sen muutoksen laskentaan. Markkinoiden hinnan muodostus oli kuin proto-algoritminen koordinaatiokone (nk. “näkymätön käsi”):
 
 * itsenäiset toimijat → yhteinen signaali
 * paikallinen tieto → globaali koordinaatio
 * kilpailu → emergentti optimointi
 
-Sen logiikka oli vallankumouksellinen: ensimmäistä kertaa verkosto itse alkoi laskea tilaansa hajautetusti. Sen myötä talous alkoi toimia kuin primitiivinen tietokone: miljoonat itsenäiset toimijat pystyivät koordinoitumaan ilman keskitettyä ohjausta hintasignaalin välityksellä. Mutta “näkymätön käsi” osasi laskea ja koordinoida vain yhtä asiaa: hintaa.
+Sen logiikka oli vallankumouksellinen: ensimmäistä kertaa verkosto itse alkoi laskea tilaansa hajautetusti. Sen myötä talous alkoi toimia kuin primitiivinen tietokone: miljoonat itsenäiset toimijat pystyivät koordinoitumaan ilman keskitettyä ohjausta hintasignaalin välityksellä. Mutta “näkymätön käsi” osasi laskea ja koordinoida vain yhtä asiaa tai yhdellä signaalilla: hinnalla.
 
 _4. Alustatalous: talouden ohjelmallinen järjestys alkaa hahmottua_
 
@@ -96,13 +98,13 @@ Viimeiset kaksi vuosikymmentä toivat seuraavan mediumin: datan, koneoppimisen j
 * markkinoilla toimijat näkivät vain omat hintansa ja kirjanpitonsa tilan
 * alustoilla yksi toimija näki koko verkoston, sen tilan, suhteet ja sen kaikki muutokset
 
-Tämän mahdollisti uusi laskennallinen logiikka: kyky nähdä verkosto kokonaisuudessaan ja optimoida sitä reaaliajassa. Alustat kuin ratkaisivat markkinoiden “sokean koordinaation” tai “näkymättömän käden” ongelman: ne näkivät kysynnän, tarjonnan, käyttäytymisen, suhteet ja työnjaon samaan aikaan koko verkostossa. Mutta tämä kyky oli:
+Tämän mahdollisti uusi laskennallinen logiikka: kyky nähdä verkosto kokonaisuudessaan ja optimoida sitä reaaliajassa. Alustat kuin ratkaisivat markkinoiden “sokean koordinaation” tai “näkymättömän käden” ongelman: ne näkivät kysynnän, tarjonnan, käyttäytymisen, suhteet ja työnjaon samaan aikaan koko verkostossa. Se antoi alustoille kyvyn optimoida koko verkoston toimintaa. Mutta tämä kyky oli:
 
 * omistettu
 * suljettu
 * ja suunnattu yksittäisen yrityksen voiton rahalliseen maksimointiin, ei verkoston kokonaishyötyyn tai sen kykyjen kasvattamiseen.
 
-Alustoista tuli uusia koordinaattoreita, mutta niiden taloudellinen kielioppi oli suljettu ja ekstraktiivinen. Se perustui kykyyn nähdä koko sosiaalinen graafi ja hyväksikäyttää sitä. Talous alkoi muistuttaa ohjelmistoa, joka päivittyi jatkuvasti, mutta vain yhden toimijan ehdoilla. Talouden kieli muuttui ohjelmoiduksi – mutta ohjelmiston kielioppia ei voinut itse muokata.
+Alustoista tuli uusia koordinaattoreita, mutta niiden taloudellinen kielioppi oli osasi vain yhden asian optimoinnin: yrityksen voiton. Se perustui kykyyn nähdä koko sosiaalinen graafi ja hyväksikäyttää sitä. Talous alkoi muistuttaa ohjelmistoa, joka päivittyi jatkuvasti, mutta vain yhden toimijan ja yhden optimointifunktion ehdoilla. Talouden kieli muuttui ohjelmoiduksi – mutta ohjelmiston kielioppia ei voinut itse muokata.
 
 <details>
 
@@ -122,7 +124,7 @@ Sosiaalinen media demokratisoi puheen, mutta ei taloudellista toimijuutta. Kaikk
 
 
 
-_5. Lohkoketjut: verkosto näkee itsensä, mutta osaa laskea vain vanhalla logiikalla_
+_5. Lohkoketjut: verkosto alkaa nähdä itsensä, mutta osaa laskea edelleen vain vanhalla logiikalla_
 
 2010-luvulla lohkoketjut avasivat seuraavan oven taloudelliselle laskennalle. Ensimmäistä kertaa verkko pystyi pitä­mään kirjaa itsestään ilman keskitettyä operaattoria: verkko saattoi nyt pitää yllä tilaansa (state) yhdessä, suorittaa sääntönsä hajautetusti ja tuottaa luottamuksen tähän matemaattisesti, ilman keskitettyä operaattoria.
 
@@ -133,7 +135,7 @@ Lohkoketju kuin ratkaisi laskennan infrastruktuurin (konsensus, jaettu tila, ohj
 * mikä on optimointitavoite (voitto, tokenin arvo),
 * miten valta jakautuu (pääoma = ääni / governance).
 
-Lohkoketju siis ratkaisi valtion ja alustan ongelman (“kuka omistaa kirjanpidon?”), mutta ei sisältänyt ratkaisua taloudellisen logiikan hajauttamiseen: kuka saa määritellä, mitä arvo on? Kuka saa osallistua sen määrittelyyn mistä pidetään kirjaa? Se kyllä osasi tehdä komputaation ja pitää yllä verkoston tilaa hajautetusti, mutta ei osannut ilmaista taloudellista merkitystä hajautetusti. Se onnistui hajauttamaan laskennan tilan, mutta ei vielä sen merkityksen antoa. Toisin sanoen, se ei kyennyt vielä hajauttamaan taloudellista toimijuutta ja ilmaisua verkoston toimijoille itselleen. Tekninen komputaatio hajautettiin – taloudellista ei.
+Lohkoketju siis ratkaisi valtion ja alustan ongelman (“kuka omistaa kirjanpidon?”), mutta ei sisältänyt ratkaisua taloudellisen logiikan hajauttamiseen: kuka saa määritellä, mitä arvo on? Kuka saa osallistua sen määrittelyyn mistä pidetään kirjaa? Se kyllä osasi tehdä komputaation ja pitää yllä verkoston tilaa hajautetusti, mutta ei osannut ilmaista taloudellista merkitystä hajautetusti. Se onnistui hajauttamaan laskennan tilan, mutta ei vielä sen merkityksen antoa. Toisin sanoen, se ei kyennyt vielä hajauttamaan taloudellista toimijuutta ja ilmaisua verkoston tekijöille itselleen. Tekninen komputaatio hajautettiin – taloudellista ei.
 
 <details>
 
@@ -267,25 +269,28 @@ Se tekee mahdolliseksi määritellä uudelleen:
 * kenen suhde talouteen on pelkkää osallistumista ja kenen on toimijuutta,
 * millä laskentalogiikalla arvoa mitataan ja jaetaan.
 
-Toisin sanoen: Talouden sääntöjä ei tarvitse enää vain hyväksyä ja seurata, ne voidaan suunnitella. Ja suunnitella alhaalta ylös ilman, että menetetään mitään keskitetyn taloudellisen ilmaisun aikaisemmin tuomasta koordinaatiosta.
+Toisin sanoen: Taloudellisen yhteistoiminnan sääntöjä ei tarvitse enää vain hyväksyä ja seurata, niitä voidaan muotoilla ja suunnitella. Ja suunnitella alhaalta ylös ilman, että menetetään mitään keskitetyn taloudellisen ilmaisun aikaisemmin tuomasta koordinaatiosta.
 
-Ja tässä murroksessa tapahtuu kolme keskeistä siirtymää:
+Ja tässä murroksessa tapahtuu neljä keskeistä siirtymää:
 
 **Vanha**                                             **Uusi**
 
-_Keskitetty hallinta                         Hajautettu toimijuus_
+_Keskitetty hallinta                          Hajautettu toimijuus_
 
 _Varastointi                                      Virtaus_
 
-_Yksi mittari (voitto/hinta)            Moniulotteinen laskenta_
+_Yksi mittari (voitto/hinta)               Moniulotteinen laskenta_
 
-Tämä muuttaa talouden luonteen: talous ei ole enää pelkkä vaihdon alusta, vaan siitä tulee **koordinaation kieli.**
+_Yhden toimijan lokaali näkymä     Verkosto tunnistaa itsensä toimijana_
 
-Tämä muutos haastaa kolme talouden taustaoletusta:
+Tämä muuttaa talouden luonteen: talous ei ole enää pelkkä vaihdon ja voiton maksimoinnin alusta, vaan siitä tulee **koordinaation kieli.**
+
+Tämä muutos haastaa neljä talouden taustaoletusta:
 
 * että arvo on pakko olla annettu eikä se voi olla määriteltävissä toimijoiden itsensä toimesta,
 * että koordinaatio voi tapahtua vain hierarkioiden ja markkinoiden kautta, ja
 * että talous on neutraali järjestelmä eikä kulttuurinen ja polittinen ilmaisuväline.
+* että toimijat voivat optimoida vain omaa toimintaansa, eivätkä itseään verkostona
 
 Ohjelmoitavassa taloudessa nämä oletukset eivät enää pidä paikkaansa:
 
