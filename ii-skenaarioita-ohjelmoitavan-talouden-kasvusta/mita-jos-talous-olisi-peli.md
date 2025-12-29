@@ -63,17 +63,17 @@ Suomi on pelikehityksen keskittymien joukossa, ja omaisi täten lähtökohdat pe
 
 Pelien globaalin markkinan kooksi arvioidaan[^1] noin 200–300 miljardia dollaria. Kasvun odotetaan edelleen jatkuvan, ja ennusteiden mukaan markkinat ylittävät 500 miljardia seuraavan kymmenen vuoden aikana. Vertailun vuoksi: musiikkiteollisuuden markkina-arvo on alle 30 miljardia.
 
-Tämä kehitys kumpuaa pelikulttuurin jatkuvasta laajentumisesta 1960-luvulta lähtien, marginaalisesta harrastuksesta merkittäväksi sosiaalisuuden kentäksi. Talousluvut piilottavat alleen toisen kasvun: muotokielen monipuolistumisen. Digitaalisten pelien rinnalla on keksitty ja vakiinnutettu uusia muotoja, kuten roolipelit, ja lautapelien valikoima ja läsnäolo on laajentunut merkittävästi.
+Tämä kehitys kumpuaa pelikulttuurin jatkuvasta laajentumisesta 1960-luvulta lähtien, marginaalisesta harrastuksesta merkittäväksi sosiaalisuuden kentäksi. Talousluvut piilottavat alleen toisenlaisen kasvun: muotokielen monipuolistumisen. Digitaalisten pelien rinnalla on keksitty ja vakiinnutettu uusia muotoja, kuten roolipelit, ja lautapelien valikoima ja läsnäolo on laajentunut merkittävästi.
 
-Mutta mikä on tämän kasvun perusta? Pelit ovat olleet suhteellisen vakaa kulttuurinen elementti ainakin 6000 vuoden ajan. Mistä tämä historiallisesti poikkeuksellinen läsnäolon ja monimuotoisuuden valtava laajentuminen, vain muutaman vuosikymmenen varrella? Helppo vastaus tietokoneistumisesta ei ole riittävä: Tämä kasvu alkoi jo ennen kotitietokoneita ja jatkaa laajenemistaan ja monipuolistumistaan niiden ulkopuolella.
+Mutta mikä on tämän kasvun perusta? Pelit ovat olleet suhteellisen vakaa kulttuurinen elementti ainakin 6000 vuoden ajan. Mistä tämä historiallisesti poikkeuksellinen läsnäolon ja monimuotoisuuden valtava laajentuminen, vain muutaman vuosikymmenen varrella? Helppo vastaus tietokoneistumisesta ei ole riittävä: kasvu alkoi jo ennen kotitietokoneita ja jatkaa laajenemistaan ja monipuolistumistaan niiden ulkopuolella.
 
 Ilmiön takaa löytyy monta eri tapaa sen kertomiseen. Jotkut niistä esittävät laajempia yhteiskunnallisia mahdollisuuksia, ja mahdollisia talouksia. Kertoaksemme niistä, kerätään ensin tarvittavat ainekset -- ne avartavat samalla näkökulmia pelien ja koko yhteiskunnan tulevista suunnista.
 
-Kerronnan piiriiin pääsemiseksi aloitamme toisella kiteytyskysymyksellä. Pelien integroituminen yhteiskuntaan on jo ilmiselvää -- meidän tulisi nyt kysyä: Miten yhteiskunta integroituu peleihin?
+Tuon kerronnan piiriin päästäksemme aloitamme toisella kiteyttävällä kysymyksellä. Pelien integroituminen yhteiskuntaan lienee ilmiselvää – seuraavaksi meidän tulisi kysyä: Miten yhteiskunta integroituu peleihin?
 
 ## **Talouden ja organisaatioiden pelillisyys**
 
-Pelit ovat ympäristöjä, jotka on rakennettu säännöistä. Sääntöjen sopimus mahdollistaa pelin ja sen pelaamisen, tehden sen olemassaolevaksi.
+Pelit ovat säännöistä rakennettuja ympäristöjä. Sopimus säännöistä mahdollistaa pelin ja sen pelaamisen, tekee sen olevaksi.
 
 Tämä ominaisuus pätee myös organisaatioihin ja talouksiin. Tässä muutama esimerkki miten nämä alueet ovat rakenteellisesti samanlaisia:
 
@@ -87,7 +87,7 @@ Mitä laajemmin valvomme alueiden muotokieltä, sitä todellisempina niiden käy
 
 ### Yhteen kasvavat tulevaisuudet
 
-Yhteisten juurien pohjalta voimme havainnoida leikkauskohtia joissa pelit, taloudet ja organisaatio nivoutuvat yhteen ja kehittyvät erilleen. **Tällaiset leikkauskohdat ovat hedelmällisiä suunnittelun ja kehityksen alueita.**
+Yhteisten juurien pohjalta on mahdollista havainnoida leikkauskohtia, joissa pelit, taloudet ja organisaatio nivoutuvat yhteen ja kehittyvät erilleen. **Tällaiset leikkauskohdat ovat hedelmällisiä suunnittelun ja kehityksen alueita.**
 
 **Resurssit ja varat talouksissa ja peleissä:** Talous on rakentanut resurssienjärjestelmän rahasta eri omaisuuden muotohin. Pelit määrittelevät myös resursseja, jotka luovat perustan niiden pelaamisen talouksille. Pelien kautta pallo, muovinpala tai pikselikuva voi muuttua arvokkaaksi, synnyttäen voimakasta motivaatiota, tai jopa äärimmäisiä ilon tai epätoivon tunteita.
 
@@ -176,7 +176,7 @@ Kaikki nämä tapaukset tarjoavat näkökulmia maailmaan, joka on jo olemassa pe
 
 ## **Suositus: Pelikenttä Suomen taloudelle**
 
-**Jokainen organisaatio** – olipa kyse yrityksestä, yhdistyksestä tai DAO:sta – **muodostaa oman mikrotaloutensa**: Sen täytyy suunnitella ja suorittaa oma resurssien jakelunsa ja jäsentää oikeudet, jotka sitä hallitsevat.
+**Jokainen organisaatio** – olipa kyse yrityksestä, yhdistyksestä tai DAO:sta (_decentralized autonomous organization_) – **muodostaa oman mikrotaloutensa**: Sen täytyy suunnitella ja suorittaa oma resurssien jakelunsa ja jäsentää oikeudet, jotka sitä hallitsevat.
 
 Useimmat organisaatiot noudattavat perinteisiä malleja sisäisen taloutensa toteuttamiseen, ikään kuin suunnitteluvaraa ei olisi olemassa. Tämä on rajallinen tapa hyödyntää organisatorisia mahdollisuuksia. Organisaatioiden talouden muotokirjon laajentaminen on työkalu, jonka avulla voi ennakoida maailmantalouden muutoksia.
 
@@ -194,9 +194,9 @@ Sitä vastoin kehitysohjelma, joka tukee uusia organisaatiosuunnitelmia mikrotal
 
 Tämänsuuntaisesta kehityksestä on jo useita yksittäisiä esimerkkejä: Soulbound[^2]-tokenit on omaksuttu suoraan peleistä, samoin kuin monet DAO:jen taloudellisen hallinnon rakenteet, Nomic[^3]-vaikutteista "rage quit" -oikeuteen äänestystekniikkana. Systemaattinen lähestymistapa voimistaisi tällaista kehitystä, mahdollistaen samalla kriittisen arvioinnin ja keinojen laajemman levittämisen.
 
-**Suomen edistyksellinen tietoinfrastruktuuri ja vankka pelitalous luovat selkeitä etuja tämänsuuntaiselle kehitykselle.** Uudentyyppisten talouksien luomisen ohella, strategia kehittäisi Suomen tietoinfrastruktuuria edelleen, varautuen proaktiivisesti tuleviin tarpeisiin.
+**Suomen edistyksellinen tietoinfrastruktuuri ja vankka pelitalous luovat selkeitä etuja.** Uudentyyppisten talouksien luomisen ohella, strategia kehittäisi Suomen tietoinfrastruktuuria edelleen, varautuen proaktiivisesti tuleviin tarpeisiin.
 
-**Suunnittele talous, tai tule suunnitelluksi. Käytä kaikkia käytössäsi olevia työkaluja, varsinkin niitä, joita muut eivät vielä käytä.**
+**Suunnittele talous – tai tule suunnitelluksi. Käytä kaikkia käytössäsi olevia työkaluja, varsinkin niitä, joita muut eivät vielä käytä.**
 
 <br>
 
