@@ -109,7 +109,7 @@ Tuoreimpien selvitysten mukaan jopa 135 000 suomalaista PK-yritystä kärsii yks
 
 Tällä on valtava hinta. Arvioidaan, että jopa neljännes Suomen konkursseista johtuu pelkästään siitä, että yritys ei saa maksujaan ajoiss&#x61;**.** Se ei ole "luovaa tuhoa". Se on turhaa tuhoa.
 
-#### **Maksujumi: Kun kaikki ovat velkaa kaikille**
+#### Maksujumi: Kun kaikki ovat velkaa kaikille
 
 Ongelman ydin on vanhentunut taloudellinen yhteistoimintaprotokolla. Nykyinen pankkijärjestelmä käsittelee jokaista laskua erillisenä, atomistisena tapahtumana.
 
@@ -133,7 +133,7 @@ Ratkaisu ei ole lisätä sääntelyä tai valvontaa, joka on hidasta, kallista j
 
 Ehdotamme Suomeen **Kansallista PK-yritysten Selvitysverkkoa**. Se on digitaalinen kerros, joka yhdistää yritykset toisiinsa ohi hitaiden pankkisiirtojen. Se perustuu kahteen todennettuun ja koeteltuun mekanismiin:
 
-**A) Menneisyyden siivous: Velvoitteiden automaattinen kuittaus**
+#### A) Menneisyyden siivous: Velvoitteiden automaattinen kuittaus
 
 Tämä on likviditeetin luomista informaatiosta. Kun yritykset lähettävät verkkolaskunsa Selvitysverkkoon, algoritmit etsivät jatkuvasti suljettuja silmukoita (A -> B -> C -> A).
 
@@ -145,7 +145,7 @@ Kun silmukka löytyy, verkko laukaisee automaattisen kuittauksen.
 
 Tämä on kuin ”laskujen Tetristä”. Se poistaa järjestelmästä kitkaa ja muuttaa "odottavan rahan" välittömäksi arvon siirroksi.
 
-**B) Tulevaisuuden rahoitus: Keskinäinen luotto**
+#### B) Tulevaisuuden rahoitus: Keskinäinen luotto
 
 Aina silmukat eivät mene tasan. Joskus A on velkaa B:lle, mutta B ei ole velkaa kenellekään verkostossa. Tällöin tarvitaan luottoa.
 
@@ -161,17 +161,20 @@ Tämä muuttaa rahoituksen luonteen: Likviditeetti ei ole enää hyödyke, jota 
 
 Tämä ei ole teoreettista.&#x20;
 
-**Case Slovenia: Kuinka valtio pelasti talouden ilman rahaa**\
+#### Case Slovenia: Kuinka valtio pelasti talouden ilman rahaa
+
 Kun Slovenia itsenäistyi 1990-luvun alussa, maa oli syvässä pankkikriisissä ja lamassa. Yritykset olivat maksukyvyttömiä, eikä pankeilla ollut rahaa luotottaa niitä. Maa otti käyttöön keskitetyn kansallisen **Multilateral Trade Credit Set-off** -järjestelmän.
 
 * **Tulos:** Järjestelmä purki parhaimmillaan yritysten välisiä velkoja määrän, joka vastasi 7,5 % maan bruttokansantuotteesta. Ilman yhtään uutta rahaa. Slovenia tekee tätä edelleen.
 
-**Case Sardinia: Luottamuksen valuutta**\
+#### Case Sardinia: Luottamuksen valuutta
+
 Vuoden 2008 finanssikriisin jälkeen Sardinian saarella pankkilainat kuivuivat kokonaan. PK-yritykset perustivat **Sardexin**, keskinäisen luoton verkoston. Yritykset alkoivat maksaa toisilleen ”Sardex-krediiteillä”, jotka olivat käytännössä lupauksia tulevasta tuotannosta.
 
 * **Tulos:** Järjestelmä on välittänyt satojen miljoonien eurojen arvosta kauppaa, jota ei muuten olisi koskaan tapahtunut. Se on elävä todiste siitä, että likviditeetti on sosiaalinen suhde – ei vain pankkitilin saldo.
 
-**Case Local Loop Liverpool (UK): Seuraava sukupolvi**\
+#### Case Local Loop Liverpool (UK): Seuraava sukupolvi
+
 Iso-Britanniassa Local Loop -hanke on viemässä tätä mallia eteenpäin yhdistämällä sen moderniin data-analytiikkaan.&#x20;
 
 * **Tulos:** Simulaatiot osoittavat, että yhdistämällä Slovenian clearing-mallin ja Sardinian luottomallin, jopa 50 % alueen sisäisestä kaupasta voitaisiin selvittää ilman pankkirahaa.
@@ -186,7 +189,7 @@ Miksi me emme tekisi tätä? Kaikki palaset ovat jo pöydällä.
 
 Suomi voi rakentaa ensimmäisenä maailmassa automatisoidun, protokollapohjaisen likviditeetti-infrastruktuurin. Se ei vaadi massiivisia investointeja. Se vaatii olemassa olevan datan (laskut) kytkemistä uuteen logiikkaan (clearing-protokollaan). Kevyt infra, raskas vaikutus.
 
-#### **5. Älykkäämpää koordinaatiota**
+### **5. Älykkäämpää koordinaatiota**
 
 Tämä on kutsu ajatella talouskasvua uudella tavalla. Emme tarvitse lisää velkaa. Emme tarvitse lisää tukipaketteja. Tarvitsemme **älykkäämpää koordinaatiota**.
 
