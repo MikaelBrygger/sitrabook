@@ -31,27 +31,32 @@ Peliteollisuuden kasvu on ollut valtaisaa viime vuosikymmeninä. Vähemmälle hu
 
 Jos pelien kehitystä ja niiden yhteiskunnallisia mahdollisuuksia analysoidaan syvemmälti, voidaan tuoda esiin piirteitä, jotka valottavat myös viimeaikaisia kryptokehityksiä ja niiden talousmalleja.
 
-#### Keskeinen teesi
+\
+**Keskeinen teesi**
 
 Talouden rakenteet heijastavat pelien rakenteita -- mitä syvemmälle vertailu viedään, sitä suurempia vastaavuudet ovat. Samankaltaisuudesta johtuen, pelien kirjo tarjoaa valtavan varaston mahdollisia talouden malleja.
 
 Näiden mallien proaktiivinen käyttöönotto ennakoisi ohjelmoitavan talouden mahdollisuuksia, tarjoten luovempia lähtökohtia talouden suunnitteluun.
 
-#### Muutos talouden logiikassa
+\
+**Muutos talouden logiikassa**
 
 Talouden logiikkaa voidaan laajentaa, rikkomatta sen perustavoitteita. Tämänhetkiset mallinnukset siitä miten talous voi toimia ovat pitkälti perittyjä ja toistuvia malleja. Samalla, talouden innovaatiot ovat usein olleet rakenteellisia innovaatioita. Pelit antavat lähtökohtia ja kandidaatteja uusien rakenteiden jäljittämiseen.
 
-#### Seuraukset talouskasvun käsitteelle
+\
+**Seuraukset talouskasvun käsitteelle**
 
 Peleille on tyypillistä käyttää sisäistä moniarvoisuutta, jopa silloin kun pelataan lopulta yhdestä arvosta. Niiden kautta kasvu näyttäytyy luontaisesti monimuotoisena, ei niinkään vanhan optimointina, vaan uusien muotojen kautta syntyvinä talouden laajennuksina.
 
-#### Suhde ohjelmoitavaan talouteen
+\
+**Suhde ohjelmoitavaan talouteen**
 
 Pelit tarjoavat ennakkokatsauksen ohjelmoitavasta taloudesta. Ne ovat jo nyt yksi merkittävimpiä lähteitä uusille kryptotalouksille, ja sen uudemmille kehityssaroille.
 
 Pelirakenteiden toteutus organisaatioina ja talouksina on aiemmin ollut toteutuksellisesti haastavaa; ohjelmoitavuus tekee niistä realistisia mahdollisuuksia. Tiivistäen: kenttä on auki, joten sinne kannattaa mennä nyt, kun tilaa vielä on.
 
-#### Mahdollisuudet Suomelle
+\
+**Mahdollisuudet Suomelle**
 
 Jokaisella organisaatiolla on väistämättä oma taloutensa. Niiden taloutta voidaan avartaa uusilla malleilla, jolloin organisaatiot muodostavat luontaisia laboratorioita uusien talousmallien kehittämiseen. Tämä lähestymistapa on laajennus perinteiseen yrittäjyyteen, jossa jokainen yhtiö on testi omasta kannattavuudestaan.
 
