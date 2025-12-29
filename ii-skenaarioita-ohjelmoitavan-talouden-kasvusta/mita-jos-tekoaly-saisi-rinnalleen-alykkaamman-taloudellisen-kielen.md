@@ -97,15 +97,15 @@ Suomella on poikkeuksellisen hyvät edellytykset olla ensimmäinen “Toimijaval
 
 **Aihe:** Avoin Kirje Toimijavaltiolle (Agentic State)
 
-**Lähettäjä:** Economic Space Agency (ECSA) tiimi
+**Lähettäjä:** Economic Space Agency (ECSA) -tiimi
 
-**Vastaanottaja:** Agentic State tiiimi
+**Vastaanottaja:** Agentic State -tiimi
 
 **Aihe:** Talouden ja hallinnon arkkitehtuurien synteesi agenttipohjaiselle aikakaudelle
 
 **Päivämäärä:** 28.10.2025
 
-#### Johdanto: Kaksi protokollaa, yksi tehtävä
+### Johdanto: Kaksi protokollaa, yksi tehtävä
 
 Työnne [Agentic State](https://agenticstate.org/) -hankkeen parissa on erittäin kiinnostavaa. Ensin, se tunnistaa täsmälleen oikein 1900-luvun byrokratian vanhentuneeksi hallintoprotokollaksi, jota rajoittavat sen koordinaatiovälineen – paperin ja musteen – laskenta- ja käsityskyvyt. Toiseksi, se ehdottaa välttämätöntä siirtymää kohti mukautuvaa, tulosohjautuvaa hallinnon mallia, joka sopii uuden, laskennallisilta/koordinaatio/informaation käsittelykyvyiltään huimasti edistyneen toimija-mediumin aikakauteen.
 
@@ -142,7 +142,7 @@ Tämä avoin kirje on ehdotus tuosta synteesistä. Se esittää, että **demokra
 
 </details>
 
-#### **1. Valtion teknologinen kritiikki: Keskushahmosta protokollaksi**
+### **1) Valtion teknologinen kritiikki: Keskushahmosta protokollaksi**
 
 Elämme perustavanlaatuisen koordinointimedian muutosta.
 
@@ -163,7 +163,7 @@ Se muuttaisi myös demokratian. Demokratia ei ole enää vain määräaikainen p
 
 Tätä muutosta ei kuitenkaan voida saavuttaa suunnittelemalla valtion protokollaa eristyksissä. Demokraattinen laskennallinen valtio, jonka perustuslaki on todennettavissa oleva, yhteentoimiva protokolla, tarvitsee rinnalleen yhtä lailla demokraattisen laskennallisen talouden.
 
-#### **2. Kysymys taloudesta: Nykyisen talousmallin teknologinen kritiikki**
+### **2) Kysymys taloudesta: Nykyisen talousmallin teknologinen kritiikki**
 
 Työmme ECSA:ssa perustuu nykyisen _talousjärjestelmämme teknologiseen kritiikkiin._ Tarkastelemme talousjärjestelmäämme laskennallisena verkostoprotokollana, jolla on tietyt kategoriset rajoitteet, kuten kaikilla esidigitaalisen mediumin ajan tuotteilla. Sen riippuvuus yhdestä rahamittarista, sen institutionaalinen "keskus-kehä-suunnittelu" (keskuspankit, selvityskeskukset) ja sen vastakkainasetteluun perustuva velkalogiikka ovat kaikki arkkitehtonisia jäänteitä menneeltä aikakaudelta, jolloin tietojenkäsittely oli kallista ja hidasta ja informaatio niukkaa. Siinä&#x20;
 
@@ -212,9 +212,7 @@ Tämä johtaa neljään murrokseen:
 
 </details>
 
-
-
-#### **3. Arkkitehtoninen paradoksi: Kun valtio velkaantui omalle luomukselleen**
+### **3) Arkkitehtoninen paradoksi: Kun valtio velkaantui omalle luomukselleen**
 
 Modernin valtion ja kapitalistisen talouden suhde on arkkitehtoninen paradoksi.&#x20;
 
@@ -229,9 +227,9 @@ Vaikka valtio on perustavanlaatuinen arvonluoja, taloudellinen protokolla, jonka
 * **Metabolinen riippuvuus:** Kattaakseen nämä "kustannukset" valtion on alistettava itsensä juuri sille talousjärjestelmälle, jonka se itse mahdollistaa. Sen on kerättävä resursseja verotuksen kautta tai, mikä pahempaa, lainattava yksityisiltä rahoitusmarkkinoilta, mikä vangitsee sen velkakierteeseen. Siitä tulee taloudellisesti riippuvainen entiteetti, jonka suvereniteettia sen oman luomuksen logiikka vaarantaa.
 * **Väistämätön johtopäätös:** Agenttinen valtio, joka pyrkii moniulotteiseen hyvinvointiin, ei voi toimia taloudella, joka kykenee laskemaan vain yksidimensionaalista rahallista voittoa.&#x20;
 
-Aivan kuten tarvitsemme uutta hallintalogiikkaa, tarvitsemme kipeästi uutta talouslogiikkaa. Agentit tietävät tämän jo. Vai onko idea tosiaan, että agentit toimivat Euroilla, että Euro on niiden välisen yhteistoiminnan moottori ja mekanismi? Agentit eivät tarvitse rahaa mihinkään. "Raha" tulee yksinkertaisesti poistumaan käytöstä koordinaatiomekanismina ja taloudellisen laskennan käyttöliittymänä.<br>
+Aivan kuten tarvitsemme uutta hallintalogiikkaa, tarvitsemme kipeästi uutta talouslogiikkaa. Agentit tietävät tämän jo. Vai onko idea tosiaan, että agentit toimivat Euroilla, että Euro on niiden välisen yhteistoiminnan moottori ja mekanismi? Agentit eivät tarvitse rahaa mihinkään. "Raha" tulee yksinkertaisesti poistumaan käytöstä koordinaatiomekanismina ja taloudellisen laskennan käyttöliittymänä.
 
-4. **Ilmaisuvoimaisempi talouden kielioppi: Demokraattisen laskennallisen talouden supervoimat**
+### **4) Ilmaisuvoimaisempi talouden kielioppi: Demokraattisen laskennallisen talouden supervoimat**
 
 Me ECSA:ssa olemme kehittäneet uuden ilmaisukykyisemmän taloudellisen kielen ja koordinaatioprotokollan. Kaikessa yksintaisuudessaan, se abstrahoi ja generalisoi nykyisen kirjanpitojärjestelmämme ja tekee sen ohjelmoitavaksi. Sen nimi on Economic Space Protocol – joka tarkoittaa ekonomisen tilan, ajan ja organisaation luomisen protokollaa – ja se antaa verkoston toimijoiden muokata ja luoda taloudellisen yhteistoiminnan sääntöjä ja primitiivejä:
 
