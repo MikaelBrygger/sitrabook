@@ -99,7 +99,7 @@ Tässä skenaariossa esitämme, että likviditeetti – kyky suorittaa maksuja �
 
 Kun ymmärrämme talouden protokollana, voimme purkaa maksujumit ilman yhtäkään uutta euroa. Tämä ei ole utopiaa, vaan mekanismi, joka on jo pelastanut kansantalouksia kriisien keskellä. (ja: pankit itse käyttävät sitä joka päivä)
 
-#### **1. 135000 YRITYSTÄ PANKKEINA**
+### **1. 135000 yritystä pankkeina**
 
 Suomen taloudessa on tulppa. Se ei ole tuottavuusvaje eikä työvoimapula, vaan älykkään koordinaation puute.
 
@@ -109,7 +109,7 @@ Tuoreimpien selvitysten mukaan jopa 135 000 suomalaista PK-yritystä kärsii yks
 
 Tällä on valtava hinta. Arvioidaan, että jopa neljännes Suomen konkursseista johtuu pelkästään siitä, että yritys ei saa maksujaan ajoiss&#x61;**.** Se ei ole "luovaa tuhoa". Se on turhaa tuhoa.
 
-**Maksujumi: Kun kaikki ovat velkaa kaikille**
+#### **Maksujumi: Kun kaikki ovat velkaa kaikille**
 
 Ongelman ydin on vanhentunut taloudellinen yhteistoimintaprotokolla. Nykyinen pankkijärjestelmä käsittelee jokaista laskua erillisenä, atomistisena tapahtumana.
 
@@ -127,7 +127,7 @@ Mutta jos katsomme tilannetta _taloudellisena verkostona_, huomaamme jotain miel
 
 Nykyinen järjestelmä vaatii kallista likviditeettiä (rahaa) selvittämään velvoitteita, jotka voisivat kumota toisensa. Ulkopuolisen rahan tarve on kirjanpidollinen illuusio, joka johtuu siitä, ett&#x65;_&#x69; taloudellinen verkosto ole tietoinen itsestään._ Ohjelmoitavassa taloudessa tämä on bugi, joka voidaan korjata.
 
-#### **2. PROTOKOLLA-RATKAISU: KANSALLINEN SELVITYSVERKKO**
+### **2. Protokolla-ratkaisu: kansallinen selvitysverkko**
 
 Ratkaisu ei ole lisätä sääntelyä tai valvontaa, joka on hidasta, kallista ja osoittautunut hampaattomaksi. Ratkaisu on tehdä likviditeetistä infrastruktuuria. Samanlaista kuin vedestä ja sähköstä.
 
@@ -157,7 +157,7 @@ Nykyisessä mallissa A menee pankkiin ja pyytää lainaa, joka on kallista, hida
 
 Tämä muuttaa rahoituksen luonteen: Likviditeetti ei ole enää hyödyke, jota pankkiirit säännöstelevät. Se on infrastruktuuria, jota yritykset tuottavat toisilleen.
 
-#### **3. TÄMÄ EI OLE SCIFIÄ**
+### **3. Tämä ei ole scifiä**
 
 Tämä ei ole teoreettista.&#x20;
 
@@ -176,7 +176,7 @@ Iso-Britanniassa Local Loop -hanke on viemässä tätä mallia eteenpäin yhdist
 
 * **Tulos:** Simulaatiot osoittavat, että yhdistämällä Slovenian clearing-mallin ja Sardinian luottomallin, jopa 50 % alueen sisäisestä kaupasta voitaisiin selvittää ilman pankkirahaa.
 
-#### **4. MIKSI SUOMI?**
+### **4. Miksi Suomi?**
 
 Miksi me emme tekisi tätä? Kaikki palaset ovat jo pöydällä.
 
@@ -186,7 +186,7 @@ Miksi me emme tekisi tätä? Kaikki palaset ovat jo pöydällä.
 
 Suomi voi rakentaa ensimmäisenä maailmassa automatisoidun, protokollapohjaisen likviditeetti-infrastruktuurin. Se ei vaadi massiivisia investointeja. Se vaatii olemassa olevan datan (laskut) kytkemistä uuteen logiikkaan (clearing-protokollaan). Kevyt infra, raskas vaikutus.
 
-#### **5. ÄLYKKÄÄMPÄÄ KOORDINAATIOTA**
+#### **5. Älykkäämpää koordinaatiota**
 
 Tämä on kutsu ajatella talouskasvua uudella tavalla. Emme tarvitse lisää velkaa. Emme tarvitse lisää tukipaketteja. Tarvitsemme **älykkäämpää koordinaatiota**.
 
