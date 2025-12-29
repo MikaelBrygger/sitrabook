@@ -197,7 +197,7 @@ Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verote
 2. **Kirjoitettu kirjanpito = formaali mutta paikallinen laskenta**\
    Arvo sai pysyvän muodon: velat, oikeudet, sopimukset. Laskenta oli johdonmukaista, mutta sidottu yhteen paikkaan ja yhteen kirjaan.<br>
 3. **Markkinat = hajautettu mutta sokea laskenta**\
-   Hinta mahdollisti verkostotason koordinaation, mutta vain yhdessä ulottuvuudessa: kaikki arvo pelkistyi yhdeksi luvuksi.<br>
+   Hinta mahdollisti verkostotason hajautetun koordinaation, mutta vain yhdessä ulottuvuudessa: kaikki arvo pelkistyi yhdeksi luvuksi.<br>
 4. **Alustatalous = keskitetty mutta tietävä laskenta**\
    Algoritmit näkivät koko verkoston ja optimoivat sitä reaaliaikaisesti — mutta vain yhden toimijan ehdoilla.<br>
 5. **Lohkoketjut = hajautettu mutta taloudellisesti sokea laskenta**\
@@ -227,14 +227,14 @@ Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verote
 
 
 
-| Aikakausi                                                 | Media (talouden ilmaisutaso)              | Talouden muoto (mitä verkosto osasi laskea ja miten se koordinoi)                                                                                                                                    |
-| --------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Rituaali ja muisti                                     | Sosiaalinen sopimus, vastavuoroisuus      | Arvo sidottu suhteisiin; koordinaatio syntyi yhteisöllisestä muistista ja luottamuksesta ilman formaaleja mittareita                                                                                 |
-| 2. Kirjoitettu kirjanpito                                 | Taulukot, numerot, merkit                 | Arvo sai pysyvän ja jaettavan muodon: tilit, velat, sopimukset → valtioiden, verotuksen ja markkinoiden synty; talous sai formaalin kielen                                                           |
-| 3. Markkinat (teollinen raha)                             | Hintasignaalit hajautettuna laskentana    | Talous alkoi “laskea itse”: markkinat toimivat proto-algoritmisena koordinaatiokoneena, mutta laskenta oli yksidimensionaalista (vain hinta näkyi)                                                   |
-| 4. Alustatalous (digitaalinen data)                       | Alustat, algoritmit, verkostot            | Keskitetty verkostokomputaatio: alustat näkivät koko verkoston ja optimoivat sitä reaaliajassa → ohjelmallinen koordinointi, mutta suljettu ja ekstraktiivinen talouskielioppi                       |
-| 5. Lohkoketjut (jaettu tila)                              | Hajautettu yhteinen tilikirja, konsensus  | Verkosto oppi omistamaan ja päivittämään yhteistä tilaa matemaattisesti – mutta talouden kieli jäi yksitasoiseksi (yksi ledger, yksi token); tekninen desentralisaatio ilman jaettua talouslogiikkaa |
-| 6. Ohjelmoitava talous (distributed economic computation) | Protokollat, agentit, hajautettu laskenta | Talouden logiikasta tulee muokattavaa: verkosto voi itse määritellä, laskea ja ohjata arvoa; taloudellinen toimijuus siirtyy reunoille; ekonomia voidaan suunnitella, testata ja päivittää           |
+| Aikakausi                                                 | Media (talouden ilmaisutaso)              | Talouden muoto (mitä verkosto osasi laskea ja miten se koordinoi)                                                                                                                                              |
+| --------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Rituaali ja muisti                                     | Sosiaalinen sopimus, vastavuoroisuus      | Arvo sidottu suhteisiin; koordinaatio syntyi yhteisöllisestä muistista ja luottamuksesta ilman formaaleja mittareita                                                                                           |
+| 2. Kirjoitettu kirjanpito                                 | Taulukot, numerot, merkit                 | Arvo sai pysyvän ja jaettavan muodon: tilit, velat, sopimukset → valtioiden, verotuksen ja markkinoiden synty; talous sai formaalin kielen                                                                     |
+| 3. Markkinat (teollinen raha)                             | Hintasignaalit hajautettuna laskentana    | Talous alkoi “laskea itse”: markkinat toimivat proto-algoritmisena koordinaatiokoneena, mutta laskenta oli yksidimensionaalista (vain hinta näkyi)                                                             |
+| 4. Alustatalous (digitaalinen data)                       | Alustat, algoritmit, verkostot            | Keskitetty verkostokomputaatio: alustat näkivät koko verkoston ja optimoivat sitä reaaliajassa → ohjelmallinen koordinointi, mutta suljettu ja ekstraktiivinen talouskielioppi                                 |
+| 5. Lohkoketjut (jaettu tila)                              | Hajautettu yhteinen tilikirja, konsensus  | Verkosto oppi omistamaan ja päivittämään yhteistä tilaa matemaattisesti – mutta talouden kieli jäi yksitasoiseksi (yksi ledger, yksi token); tekninen desentralisaatio ilman talouslogiikan desentralisaatiota |
+| 6. Ohjelmoitava talous (distributed economic computation) | Protokollat, agentit, hajautettu laskenta | Talouden logiikasta tulee muokattavaa: verkosto voi itse määritellä, laskea ja ohjata arvoa; taloudellinen toimijuus siirtyy reunoille; ekonomia voidaan suunnitella, testata ja päivittää reunoilta           |
 
 </details>
 
