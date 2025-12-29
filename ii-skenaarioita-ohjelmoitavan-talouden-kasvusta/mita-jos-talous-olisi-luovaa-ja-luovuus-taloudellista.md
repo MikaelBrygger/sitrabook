@@ -34,7 +34,7 @@ _A thing is not made, it is made to be._ \
 
 #### **Mitä jos talous olisi luovaa ja luovuus taloudellista?**
 
-Perinteiset talousmallit ja organisaatiorakenteet ovat usein jäykkiä ja ennalta määrättyjä, kuin yhteen lopputulokseen taipuvia rakennussarjoja. Ohjelmoitava talous tarjoaa kuitenkin työkalut näiden monoliittien purkamiseen. Se mahdollistaa taloudellisten ja organisatoristen perusosien – kuten omistajuuden, käyttöoikeuden ja ajan – uudelleenmuotoilun itsenäisiksi, ohjelmoitaviksi elementeiksi. Tämä avaa mahdollisuuden sellaisten arvonluonnin ja vaihdannan arkkitehtuurien suunnitteluun, joissa taloudellinen toiminta muuttuu yksittäisistä transaktioista luovaksi välineeksi.
+Perinteiset talousmallit ja organisaatiorakenteet ovat usein jäykkiä ja ennalta määrättyjä, kuin yhteen lopputulokseen taipuvia rakennussarjoja. Ohjelmoitava talous tarjoaa työkaluja näiden monoliittien purkamiseen. Se mahdollistaa taloudellisten ja organisatoristen perusosien – kuten omistajuuden, käyttöoikeuden ja ajan – uudelleenmuotoilun itsenäisiksi, ohjelmoitaviksi elementeiksi. Tämä avaa mahdollisuuden sellaisten arvonluonnin ja vaihdannan arkkitehtuurien suunnitteluun, joissa taloudellinen toiminta muuttuu yksittäisistä transaktioista luovaksi välineeksi.
 
 **Keskeinen teesi**
 
