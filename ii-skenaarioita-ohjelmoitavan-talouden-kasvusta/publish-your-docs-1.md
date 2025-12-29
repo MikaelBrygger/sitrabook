@@ -129,9 +129,9 @@ Nykyinen järjestelmä vaatii kallista likviditeettiä (rahaa) selvittämään v
 
 #### **2. PROTOKOLLA-RATKAISU: KANSALLINEN SELVITYSVERKKO**
 
-Ratkaisu ei ole lisätä sääntelyä tai valvontaa, joka on hidasta, kallista ja osoittautunut hampaattomaksi. Ratkaisu on tehdä likviditeetistä infrastruktuuria.
+Ratkaisu ei ole lisätä sääntelyä tai valvontaa, joka on hidasta, kallista ja osoittautunut hampaattomaksi. Ratkaisu on tehdä likviditeetistä infrastruktuuria. Samanlaista kuin vedestä ja sähköstä.
 
-Ehdotamme Suomeen **Kansallista PK-yritysten Selvitysverkkoa**. Se on digitaalinen kerros, joka yhdistää yritykset toisiinsa ohi hitaiden pankkisiirtojen. Se perustuu kahteen, maailmalla todennettuun ja koeteltuun mekanismiin:
+Ehdotamme Suomeen **Kansallista PK-yritysten Selvitysverkkoa**. Se on digitaalinen kerros, joka yhdistää yritykset toisiinsa ohi hitaiden pankkisiirtojen. Se perustuu kahteen todennettuun ja koeteltuun mekanismiin:
 
 **A) Menneisyyden siivous: Velvoitteiden automaattinen kuittaus**
 
@@ -149,22 +149,22 @@ Tämä on kuin ”laskujen Tetristä”. Se poistaa järjestelmästä kitkaa ja 
 
 Aina silmukat eivät mene tasan. Joskus A on velkaa B:lle, mutta B ei ole velkaa kenellekään verkostossa. Tällöin tarvitaan luottoa.
 
-Nykyisessä mallissa A menee pankkiin ja pyytää lainaa, joka on kallista, hidasta ja vaatii vakuuksia. Uudessa mallissa verkosto voi myöntää **keskinäistä luottoa**.
+Nykyisessä mallissa A menee pankkiin ja pyytää lainaa, joka on kallista, hidasta ja vaatii vakuuksia. Uudessa mallissa verkosto voi myöntää keskinäistä luottoa.
 
 * Verkosto antaa datahistorian perusteella luotettaviksi todetuille yrityksille ”limitin”, jolla ne voivat maksaa laskujaan verkoston sisällä.
-* Tämä ei ole euroja, jotka on siirretty jonkun toisen tililtä. Se on **maksuaikaa**, jonka verkoston jäsenet myöntävät toisilleen kollektiivisesti.
+* Tämä ei ole euroja, jotka on siirretty jonkun toisen tililtä. Se on maksuaikaa, jonka verkoston jäsenet myöntävät toisilleen kollektiivisesti.
 * Tämä luotto on turvattua: vakuutena on yrityksen oma tuotanto ja verkoston sisäinen data. Se perustuu yrityksen todelliseen, dataan perustuvaan maksukykyyn, ei vain menneisyyden taseeseen.
 
-Tämä muuttaa rahoituksen luonteen: **Likviditeetti ei ole enää hyödyke, jota pankkiirit säännöstelevät. Se on infrastruktuuria, jota yritykset luovat toisilleen.**
+Tämä muuttaa rahoituksen luonteen: Likviditeetti ei ole enää hyödyke, jota pankkiirit säännöstelevät. Se on infrastruktuuria, jota yritykset tuottavat toisilleen.
 
 #### **3. TÄMÄ EI OLE SCIFIÄ**
 
 Tämä ei ole teoreettista.&#x20;
 
 **Case Slovenia: Kuinka valtio pelasti talouden ilman rahaa**\
-Kun Slovenia itsenäistyi 1990-luvun alussa, maa oli syvässä pankkikriisissä ja lamassa. Yritykset olivat maksukyvyttömiä, eikä pankeilla ollut rahaa luotottaa niitä. Maa otti käyttöön kansallisen **TCT-järjestelmän** (Multilateral Trade Credit Set-off).
+Kun Slovenia itsenäistyi 1990-luvun alussa, maa oli syvässä pankkikriisissä ja lamassa. Yritykset olivat maksukyvyttömiä, eikä pankeilla ollut rahaa luotottaa niitä. Maa otti käyttöön keskitetyn kansallisen **Multilateral Trade Credit Set-off** -järjestelmän.
 
-* **Tulos:** Järjestelmä purki parhaimmillaan yritysten välisiä velkoja määrän, joka vastasi **7,5 % maan bruttokansantuotteesta**. Ilman yhtään uutta rahaa. Slovenia tekee tätä edelleen.
+* **Tulos:** Järjestelmä purki parhaimmillaan yritysten välisiä velkoja määrän, joka vastasi 7,5 % maan bruttokansantuotteesta. Ilman yhtään uutta rahaa. Slovenia tekee tätä edelleen.
 
 **Case Sardinia: Luottamuksen valuutta**\
 Vuoden 2008 finanssikriisin jälkeen Sardinian saarella pankkilainat kuivuivat kokonaan. PK-yritykset perustivat **Sardexin**, keskinäisen luoton verkoston. Yritykset alkoivat maksaa toisilleen ”Sardex-krediiteillä”, jotka olivat käytännössä lupauksia tulevasta tuotannosta.
@@ -174,7 +174,7 @@ Vuoden 2008 finanssikriisin jälkeen Sardinian saarella pankkilainat kuivuivat k
 **Case Local Loop Liverpool (UK): Seuraava sukupolvi**\
 Iso-Britanniassa Local Loop -hanke on viemässä tätä mallia eteenpäin yhdistämällä sen moderniin data-analytiikkaan.&#x20;
 
-* **Tulos:** Simulaatiot osoittavat, että yhdistämällä Slovenian clearing-mallin ja Sardinian luottomallin, **jopa 50 % alueen sisäisestä kaupasta voitaisiin selvittää ilman pankkirahaa.**
+* **Tulos:** Simulaatiot osoittavat, että yhdistämällä Slovenian clearing-mallin ja Sardinian luottomallin, jopa 50 % alueen sisäisestä kaupasta voitaisiin selvittää ilman pankkirahaa.
 
 #### **4. MIKSI SUOMI?**
 
