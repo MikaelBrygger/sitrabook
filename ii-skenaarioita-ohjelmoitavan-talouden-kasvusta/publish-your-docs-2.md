@@ -25,23 +25,23 @@ layout:
 
 <details>
 
-<summary>Executive Summary</summary>
+<summary>Tiivistelmä</summary>
 
 Uudet talouden kentät syntyvät organisaation innovaatioista -- osakeyhtiö on esimerkki tällaisesta kehityksestä. Täten, ohjelmoinnin kautta avautuva kapasiteetti kehittää organisaatiomalleja on mahdollisuus laaja-alaisen kasvupotentiaalin kehittämiseen, kokonaan uusien talouden alueiden muodossa.
 
 Teksti kartoittaa pohjarakenteita, otollisia lähtökohtia, ja tarvittavia askeleita tämän potentiaalin kehittämiseksi. Lopuksi ja kiteytykseksi, se vastaa kysymykseen: Miten Suomen koko organisaatiopohja voitaisiin muuttaa ohjelmoiduksi, ja mitä merkittäviä etuja tästä seuraisi?
 
-### Keskeinen teesi
+#### Keskeinen teesi
 
 Taloutta ei voi rakentaa ilman sen organisaatiota. Se on peruskivi talouden toiminnallisuudelle, ja välttämätön kehityksen huomiopiste uusille talouden muodoille.
 
 Näin ollen, ohjelmoitavaan organisaatioon panostaminen tarjoaa mahdollisuuden vahvaan etulyöntiasemaan uudessa taloudessa.
 
-### Muutos talouden logiikassa
+#### Muutos talouden logiikassa
 
 Talouden logiikka on sen organisaatiopohjan sanelema -- sen rakenne hallinnoi logiikkaa ja tekee talouden toiminnalliseksi. Näin ollen, uusien organisaatiomuotojen kehitys mahdollistaa nykylogiikan laajentamisen, sekä uusien logiikkojen luomisen.
 
-### Seuraukset talouskasvun käsitteelle
+#### Seuraukset talouskasvun käsitteelle
 
 Nykyinen tarve, erityisesti Suomessa, on uusien talouden muotojen kasvattaminen. Olemme heikossa asemassa kilpailemaan vanhojen väylien kautta. Pelkkä optimointi ei riitä -- tarvitaan uutta variaatiota.
 
@@ -49,11 +49,11 @@ Jotta uudet muodot voisivat kasvaa, niiden pohjarakenne täytyy organisoida: Mit
 
 Nämä ovat suunnittelu- ja innovaatiokysymyksiä. Ohjelmoitavan organisaation laajennus työkaluihin tulisi paitsi ottaa systemaattisesti käyttöön, myös kartoittaa, proaktiivisesti.
 
-### Suhde ohjelmoitavaan talouteen
+#### Suhde ohjelmoitavaan talouteen
 
 Ohjelmoitava organisaatio on ohjelmoitavan talouden mahdollistaja: Käytännössä sitä voi pitää välttämättömänä suunnittelualueena uuden ohjelmoidun talouden kehitykselle.
 
-### Mahdollisuudet Suomelle
+#### Mahdollisuudet Suomelle
 
 Suomella on vahvat lähtökohdat ottaa aloite ohjelmoidun organisaation kokonaiskehityksessä. Nämä vahvuudet mahdollistaisivat koko Suomen organisaatiopohjan siirtämisen ohjelmoidulle alustalle. Toteutus olisi mittaluokaltaan kevyt, varsinkin verrattuna valtaviin voimavaroihin, jotka näin avautuisivat.
 
