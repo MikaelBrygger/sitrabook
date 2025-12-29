@@ -23,6 +23,11 @@ layout:
 
 # Mitä jos talous olisi luovaa ja luovuus taloudellista?
 
+_A thing is not made, it is made to be._ \
+–Gertrude Stein
+
+
+
 <details>
 
 <summary>Tiivistelmä</summary>
@@ -53,12 +58,9 @@ Suomella on mahdollisuus toimia edelläkävijänä uudenlaisen organisaatio- ja 
 
 </details>
 
-
-
-_A thing is not made, it is made to be._ \
-_–_ Gertrude Stein
-
-#### **Johdanto**
+\
+\
+**Johdanto**
 
 Perinteiset talousmallit ovat kuin valmiita Lego-settejä: laatikossa on tarkat ohjeet ja ennalta määrätyt palat yhtä tiettyä lopputulosta varten. Tämä teolliselta ajalta peritty arkkityyppinen malli on kuitenkin osoittautunut kapeaksi ja riittämättömäksi. Sen kehitystä voidaan hahmottaa kolmen näytöksen kautta. Ensin oli portinvartijoiden aikakausi, jolloin kustantamot ja levy-yhtiöt hallitsivat pääsyä markkinoille. Sitten tuli alustojen nousu, kun Kickstarterin ja YouTuben kaltaiset toimijat demokratisoivat pääsyn yleisön luo, mutta siirsivät vallan uusille keskittymille ja niiden algoritmeille.
 
