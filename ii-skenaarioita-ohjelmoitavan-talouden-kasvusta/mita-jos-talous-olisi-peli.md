@@ -177,16 +177,6 @@ Tämän kirjon kartoittaminen organisatorisille ja taloudellisille malleille tar
 * **Monialaiset päätökset:** eri henkilöt päättävät eri alueista samassa päätöksessä. Esimerkiksi jollakulla saattaa olla lopullinen ilmaisu siitä, mistä päätämme ja mitkä ovat vaihtoehtomme; joku muu valitsee näiden vaihtoehtojen joukosta; kolmas taas päättää toimenpiteet vaihtoehdon pohjalta.
 * **Päätösmatriisit:** Paletti-mekaniikka on yksinkertainen esimerkki päätösten muuttamisesta matriiseiksi. Monimutkaisessa asiassa jokainen osallistuja voi lisätä "kyllä"-aiheen (asia, jota korostetaan) tai "ei"-aiheen (asia, joka suljetaan pois). Vaikkakin malli on melko yksinkertainen, se toimii monissa vaikeissa päätöksissä, rajaten päätöksen huomioita kohdentamalla sen sijaan että pakottaisi sen yhdeksi ilmaisuksi. Tämä lähestymistapa on myös muokattavissa palvelemaan erilaisia päätöksenteon intressejä.
 
-#### **Case: Fail Forward**
-
-The innovations in games towards failures (on a particular attempt, a large project, etc.) and states of disagreement have interesting implications, when considered in the context of the larger society. These stem from the design attitude where all potential social situations are design challenges: How can they be made fertile for the process as a whole?
-
-An example of such is the paradigm of Fail Forward itself, which can be summarized as a perspective: Failure is a generative state -- its key question: How has the failure progressed the situation?
-
-In practice, the point of recognizing a failure is transformed into a generative question, essentially asking, what was produced by the failure? Once there's an answer to the posed question, such as recognition of something that was missing from the process, the failure gets framed as positive production: For example: A task of creating a new description of the process itself.
-
-From a wider perspective, the most important element here is the change in mindset: Everything progresses something, and it's smarter (in the long-term) to frame attention towards forms of progress, even if they're not along the path initially desired.
-
 ### **Yhteenvedoksi**
 
 Kaikki nämä tapaukset tarjoavat näkökulmia maailmaan, joka on jo olemassa pelien moninaisten laboratorioiden puitteissa. Ne ovat (arki)todellisuutta yhä useammille – osa heidän sosiaalista kanssakäyntiään. Tämä on todellisuuden organisointia – kasvavaa läsnäoloa, joka tulee levittymään laajempaan sosiaaliseen todellisuuteen. Varaudummeko sen saapumiseen, vai annammeko muutoksen yllättää meidät?
