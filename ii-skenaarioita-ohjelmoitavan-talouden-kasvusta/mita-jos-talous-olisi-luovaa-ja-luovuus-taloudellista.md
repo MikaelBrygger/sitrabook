@@ -34,34 +34,29 @@ _A thing is not made, it is made to be._ \
 
 Perinteiset talousmallit ja organisaatiorakenteet ovat usein jäykkiä ja ennalta määrättyjä, kuin yhteen lopputulokseen taipuvia rakennussarjoja. Ohjelmoitava talous tarjoaa työkaluja näiden monoliittien purkamiseen. Se mahdollistaa taloudellisten ja organisatoristen perusosien – kuten omistajuuden, käyttöoikeuden ja ajan – uudelleenmuotoilun itsenäisiksi, ohjelmoitaviksi elementeiksi. Tämä avaa mahdollisuuden sellaisten arvonluonnin ja vaihdannan arkkitehtuurien suunnitteluun, joissa taloudellinen toiminta muuttuu yksittäisistä transaktioista luovaksi välineeksi.
 
-\
 **Keskeinen teesi**
 
 Talouden ja organisaatioiden “kovat” rakenteet, kuten omistajuus, eivät ole kiinteitä ominaisuuksia, vaan ne voidaan purkaa modulaarisiksi sopimuselementeiksi eli oikeusrakenteiksi. Kun nämä elementit tehdään ohjelmoitaviksi, tekijät ja yhteisöt voivat yhdistellä niitä luovasti. Tämä synnyttää uusia tapoja organisoida toimintaa, jakaa arvoa ja osallistaa yleisöä.
 
-\
 **Muutos talouden logiikassa**
 
 Nykyinen talousajattelu keskittyy usein valmiisiin lopputuotteisiin ja lineaarisiin prosesseihin. Ohjelmoitava talous siirtää fokuksen arvon atomeihin – pienimpiin itsenäisiin yksiköihin – ja niiden hallintaan. Strategiat kuten osiin hajottaminen (esimerkiksi teoksen pilkkominen omistettaviksi fragmenteiksi) ja derivointi (yhden lähteen versiointi eri yleisöille) muuttavat passiivisen kuluttamisen aktiiviseksi osallistumiseksi. Samalla aika muuttuu staattisesta takarajasta dynaamiseksi suunnitteluelementiksi, jolloin itse prosessista voi tulla myytävä tuote.
 
-\
 **Seuraukset talouskasvun käsitteelle**
 
 Tämä lähestymistapa haastaa käsityksen kasvusta pelkkänä määrällisenä lisäyksenä. Kun taloudellisia vuorovaikutuksia muotoillaan luovasti, syntyy mikroekonomioita ja sosiaalisia pelejä, joissa arvo ei synny vain tuotteesta, vaan osallisten välisistä suhteista ja interaktiosta. Kasvu ei ole enää vain tuotannon tehostamista, vaan se voi olla monimuotoista ja kirjavaa: se voi perustua luottamuksen, osallisuuden ja uusien toimintamallien skaalaamiseen.
 
-\
 **Suhde ohjelmoitavaan talouteen**
 
 Ohjelmoitava talous tarjoaa muutokselle teknisen ja käsitteellisen “kieliopin”. Se mahdollistaa epämääräisten käsitteiden, kuten omistajuuden, purkamisen täsmällisiksi ja todennettaviksi oikeuksiksi (esimerkiksi oikeudeksi käyttää, lainata tai äänestää). Nämä oikeudet toimivat digitaalisen talouden legopalikoina, joiden avulla on mahdollista rakentaa perinteisiä instituutioita joustavampia ja tarkoituksenmukaisempia organisaatioita. Kysymys ei ole enää siitä, kuka omistaa alustan, vaan siitä, kenellä on valta ohjelmoida sen säännöt.
 
-\
 **Mahdollisuudet Suomelle**
 
 Suomella on mahdollisuus toimia edelläkävijänä uudenlaisen organisaatio- ja talouskieliopin kehittämisessä. Soveltamalla näitä periaatteita esimerkiksi metsänomistukseen (hiilensidonnan ja biodiversiteetin arvottaminen), kaupunkisuunnitteluun (yhteisresurssien dynaaminen hallinta) tai luoviin aloihin (fanien osallistaminen osaomistajina) Suomi voi nostaa vientituotteeksi itse arvonluonnin uuden arkkitehtuurin. Kyse on mahdollisuudesta siirtyä tuotteiden myynnistä luottamuksen ja innovatiivisten rakenteiden vientiin.
 
 </details>
 
-#### &#x20;**Johdanto**
+### **Johdanto**
 
 Perinteiset talousmallit ovat kuin Lego-teemasettien kokoamisohjeita: laatikossa on tarkat ohjeet ja ennalta määrätyt palat yhtä tiettyä lopputulosta varten. Tämä teolliselta ajalta peritty arkkityyppinen malli on kuitenkin osoittautunut kapeaksi ja riittämättömäksi. Luovan työn ja taloudellisen toimijuuden alueella sen historiaa voidaan hahmottaa kolmen näytöksen kautta. Ensin oli portinvartijoiden aikakausi, jolloin kustantamot ja levy-yhtiöt hallitsivat pääsyä markkinoille. Sitten tuli alustojen nousu, kun Kickstarterin ja YouTuben kaltaiset toimijat demokratisoivat pääsyn yleisön luo, mutta siirsivät vallan uusille keskittymille ja niiden algoritmeille.
 
@@ -77,13 +72,13 @@ Hajottamisen periaate soveltuu esimerkiksi julkaisuprosessiin. Economic Space Ag
 
 Samaan kirjaan perustuva projekti _Postcapitalist Discourse_ (2023) puolestaan tutkii teosta digitaalisesti natiivilla tavalla. CoPu:n tavoin alkuperäinen teksti hajotettiin osiin, jonka jälkeen fragmentit järjestettiin kolmiulotteiseen koordinaatistoon kuution muotoiseksi objektiksi. Tekstikappale lakkasi olemasta vain osa lineaarista kerrontaa, vaan siitä tuli solmu eli “diskurssiyksikkö” semanttisessa avaruudessa, joka tarjoaa omistajalle mahdollisuuden navigoida teosta uusilla tavoilla.&#x20;
 
-#### **Derivointi: Yhdestä lähteestä moneksi versioksi**
+### **Derivointi: Yhdestä lähteestä moneksi versioksi**
 
 Derivointi on strategia, jossa yhdestä lähdemateriaalista versioidaan (_versioning_) useita erilaisia versioita, kokemuksia ja tarjouksia. Toisin kuin hajottamisessa, alkuperäistä teosta ei pureta, vaan siitä luodaan rinnakkaisia "otoksia" eri yleisöjen tarpeisiin. Tämän mekanismin eräs ilmentymä ovat joukkorahoituskampanjoiden eri tukitasot (reward-tier). Perustuote – esimerkiksi kirja – pysyy samana, mutta siitä derivoidaan monipuolinen valikoima tarjouksia: viiden euron sähköinen PDF-versio, 50 euron fyysinen kirja ja 200 euron oheismateriaaleja sisältävä deluxe-versio.&#x20;
 
 Derivointi on tehokas ja luova keino muuttaa yksi tarjous moneksi ja rakentaa taloudellisesti kestävämpiä malleja erityisesti pienille ja riippumattomille tekijöille. Vaikka versiointi on ilmiönä läsnä yhteiskunnan kaikilla alueilla, ohjelmoitava talous syventää sitä. Kun derivointi puretaan sopimusrakenteiksi, tuotteet alkavat muotoutua staattisista objekteista muuntuviksi rajapinnoiksi.
 
-#### **Ajan hajottaminen ja derivointi: prosessista tulee tuote**
+### **Ajan hajottaminen ja derivointi: prosessista tulee tuote**
 
 Perinteisessä mallissa aika on usein vain takaraja. Ohjelmoitava talous käsittelee aikaa dynaamisena suunnittelun elementtinä ja osana arvolupausta. Sen sijaan, että projekti julkaistaisiin kertaluontoisena tapahtumana, siitä voidaan luoda jatkuva, elävä prosessi, johon yleisö voi osallistua.&#x20;
 
@@ -91,13 +86,13 @@ Tämä voi tarkoittaa rahoituksen tai muunlaisten resurssien keräämistä eri v
 
 Tämä on tuttua esimerkiksi peleistä ja kaunokirjallisuudesta, joissa asiat usein kerrotaan eri järjestyksessä kun ne varsinaisesti tapahtuvat: aika ja paikka eivät ole vain rajoitteita, vaan tarinan ja merkitysten paljastamisen välineitä.
 
-#### **Luova tarjoaminen: taloudellisten yhteyksien ja interaktioiden muotoilu**
+### **Luova tarjoaminen: taloudellisten yhteyksien ja interaktioiden muotoilu**
 
 Luova tarjoaminen on tällaisten mekanismien synteesi, jossa todellinen innovaatio tapahtuu. Se on käytäntö, jossa muun muassa osiin hajottamista, derivointia ja ajan hyödyntämistä yhdistellään kekseliäästi täysin uusiksi taloudellisiksi ja sosiaalisiksi rakennelmiksi. Tällöin huomio siirtyy perinteisestä tuotteiden myymisestä kohti suhteiden ja kokonaisuuksien muotoilua. _89 Seconds Atomized_ toimii tästä konkreettisena esimerkkinä: teos on pilkottu 2 304 videopikseliin, ja jokaisen pikselin omistaja voi paitsi hallita omaa omaansa, myös lainata sitä eteenpäin muiden käytettäväksi ja esitettäväksi. Näin teos muuttuu pelkän esineen sijaan yhteisölliseksi rakennelmaksi, jonka merkitys ja koettavuus rakentuvat atomien jakamisen, lainaamisen ja katselun verkostossa.
 
 Lopputulos ei ole pelkästään teos tai tuote, vaan sosiaalinen peli ja mikroekonomia, jossa arvo syntyy paitsi osista myös niiden välisestä vuorovaikutuksesta.
 
-#### **Talouden luovuus osana luovaa taloutta**
+### **Talouden luovuus osana luovaa taloutta**
 
 Kehityksen taustalla on syvempi muutos siinä, miten taloudelliset ja organisatoriset rakenteet voidaan ymmärtää. Sekä hallinto (_governance_) että talous (_economy_) rakentuvat samoista perusosista: oikeuksista. Epämääräiset ja epätäsmälliset käsitteet, kuten "omistajuus", tulisi purkaa konkreettisiksi ja ohjelmoitaviksi osiksi, kuten oikeudeksi käyttää, lainata tai äänestää. Kun näitä oikeuksia käsitellään modulaarisina "legopalikoina", voidaan luoda perinteisiä rakenteita joustavampia ja tarkemmin räätälöityjä organisaatioita. Tavoitteena tulisi olla kehittää uudenlainen organisaation ja talouden kielioppi. Tämä mahdollistaisi tulevaisuuden Suomen kuvittelun uudenlaisia rakenteita suunnittelemalla ja toteuttamalla.
 
