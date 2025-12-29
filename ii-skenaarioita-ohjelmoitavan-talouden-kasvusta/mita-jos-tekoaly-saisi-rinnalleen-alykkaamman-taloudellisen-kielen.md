@@ -31,51 +31,11 @@ layout:
 
 <summary>Tiivistelmä</summary>
 
-**Mitä jos…**&#x20;
-
-tekoäly ei vain tehostaisi nykyistä talousmallia, vaan saisi rinnalleen talouden käyttöjärjestelmän, joka on yhtä älykäs, moniulotteinen ja ohjelmoitava kuin itse AI?  Tämä skenaario ehdottaa, että Suomen todellinen kilpailuetu ei ole vain siinä, kuinka nopeasti otamme AI:n käyttöön, vaan siinä, millaisen taloudellisen kieliopin ja protokollan annamme AI:lle – ja itsellemme.
-
-**Ydinteesit**
-
-* AI tarvitsee uutta talouskieltä, joka on yhtä ilmaisukykyinen kuin se itse
-* Uudet ohjelmoitavat talousprotokollat mahdollistavat moniulotteisen arvon mittaamisen ja koordinoinnin.
-* Ne myös siirtävät taloudellisen toimijuuden verkon reunoille, pois keskuksilta
-* Valtio voi siirtyä velkavetoisesta, ulkoiseen rahaan sidotusta mallista talousarkkitehtuuriin, jossa se itse määrittelee arvon logiikat, likviditeetin muodot ja jakosäännöt.
-
-**Miten talouden logiikka muuttuu tässä skenaariossa?**
-
-Arvo ei ole enää yksittäinen mitta (voitto tai kustannus), vaan moniulotteinen kokonaisuus: hyvinvointi, resilienssi, saavutettavuus, ekologinen kestävyys, turvallisuus ja yhteinen kapasiteetti. Taloudellinen toimijuus jakautuu verkoston kaikille osapuolille, ei vain keskuksille. Talouden perusyksiköiksi tulevat verkostojen itse määrittämät mittarit, jotka muodostavat tekoälylle ja kirjanpidolle yhteisen, koneellisesti luettavan arvokielen. Talous muuttuu reaaliaikaiseksi tilaksi, jonka metabolia on näkyvä ja säädettävissä jatkuvasti — ei jälkikäteen, vaan toiminnan hetkellä.
-
-**Mitä tästä seuraa: erilainen käsitys talouskasvusta**
-
-Kasvu on taloudellisen älykkyyden kasvua. Talouskasvu voidaan ymmärtää kasvuna siinä, miten älykkäästi verkosto pystyy organisoimaan resurssinsa yhteisten, mitattavien tavoitteiden ympärille.&#x20;
-
-**Mitä tämä kertoo talouden ohjelmoitavuudesta?**
-
-Talous ei ole annettu järjestys. Se on ohjelmoitava infrastruktuuri. Sen peruskysymykset — mitä lasketaan, kuka saa osallistua, miten arvo jaetaan — eivät ole teknisiä yksityiskohtia vaan yhteiskunnallisia päätöksiä. Niistä voidaan tehdä: yhteisesti muokattavia, todennettavia, koneellisesti luettavia.&#x20;
-
-**Mahdollisuus Suomelle?**
-
-Suomi voi olla ensimmäinen maa, joka:
-
-* ymmärtää talouden uudeksi infrastruktuurikerrokseksi, ei pelkäksi markkinaksi,
-* rakentaa AI:n ja ilmaisukykyisempien talousprotokollien yhteensopivuuden,
-* pilotoi ohjelmoitavaa taloutta julkisissa palveluissa,
-* asemoituu Euroopan uuden taloussuvereniteetin kokeiluympäristöksi.
-
-**Tämä ei ole teknologiahanke, vaan uuden talouden kieliopin käyttöönottohanke.**
-
-</details>
-
-<details>
-
-<summary>Executive Summary</summary>
-
 **Mitä jos…** tekoäly ei vain tehostaisi nykyistä talousmallia, vaan saisi rinnalleen talouden käyttöjärjestelmän, joka on yhtä älykäs, moniulotteinen ja ohjelmoitava kuin itse AI?
 
 Mitä jos valtio ei käyttäisi AI:ta vahvistaakseen vanhaa keskitettyä hallintaa, vaan muuttaisi itsensä ja talouden yhteiseksi protokollaksi, jonka puitteissa kansalaiset, yhteisöt, yritykset ja tekoälyagentit voivat määritellä ja toteuttaa omia arvojaan?
 
-Tässä skenaariossa Agentic State ja demokraattinen laskennallinen talous kytkeytyvät toisiinsa. Tekoäly saa käyttöönsä uuden taloudellisen kieliopin – ja talous saa käyttöönsä AI:n kyvyn optimoida moniulotteisia, yhteisesti määriteltyjä tavoitteita. Tuloksena on uudenlainen talouskasvun ja suvereniteetin muoto, jossa valtio ei enää velkaannu omalle luomukselleen, vaan määrittelee oman taloudellisen todellisuutensa.
+Tämä skenaario esitetään avoimena kirjeenä hallinnon uudistajille. Se ehdottaa Agentic State-hankkeelle kytkeytymistä demokraattisen laskennallisen talouteen. Tekoäly saa käyttöönsä uuden taloudellisen kieliopin – ja talous saa käyttöönsä AI:n kyvyn optimoida moniulotteisia, yhteisesti määriteltyjä tavoitteita. Tuloksena on uudenlainen talouskasvun ja suvereniteetin muoto, jossa valtio ei enää velkaannu itsestään ulkoiselle taloudelle, vaan määrittelee oman taloudellisen todellisuutensa.
 
 **Ydinteesit**
 
@@ -115,7 +75,7 @@ Tässä skenaariossa kasvu ei ole ensisijaisesti tuotannon, kulutuksen tai velan
 
 Tämä skenaario tekee näkyväksi, että talous ei ole neutraali taustavoima, vaan ohjelmoitava media:
 
-* **Talousprotokolla on uusi perustuslaki.** Kirjanpidon, luotonannon ja arvonjaon säännöt ovat eksplisiittisiä, koneellisesti luettavia ja yhteisesti muokattavia – ei piilossa olevia oletuksia tileissä ja instituutioissa.
+* **Talousprotokolla on uusi talouden perustuslaki.** Kirjanpidon, luotonannon ja arvonjaon säännöt ovat eksplisiittisiä, koneellisesti luettavia ja yhteisesti muokattavia – ei piilossa olevia oletuksia tileissä ja instituutioissa.
 * **AI tarvitsee taloudellisen API:n.** Tekoälyagentit voivat toimia vain niin älykkäästi kuin talouden rajapinta sallii. Kun rajapinta laajennetaan rahasta moniulotteiseen arvokieleen, AI:sta tulee väline yhteisten päämäärien toteuttamiseen, ei vain kustannusleikkurin tai tuotto-optimoinnin automatisoija.
 * **Valinta protokollasta on poliittinen teko.** Se, kenen arvo pääsee kirjanpitoon ja kenen ei, ei ole tekninen yksityiskohta, vaan yhteiskunnallinen valinta. Ohjelmoitava talous tarkoittaa, että tästä valinnasta tulee eksplisiittinen ja demokraattisesti säädettävä.
 * **Metabolia on koodattavissa.** “Vanhaan metaboliikkaan jääminen” tarkoittaa talousrakennetta, jossa valtio velkaantuu omalle itse mahdollistamalleen taloudelle ja paikkaa ulkoisvaikutuksia jälkikäteen. Uudessa metaboliikassa arvonmuodostuksen reitit, riskin jakautuminen ja likviditeetin logiikka ovat suoraan protokollatasolla säädettävissä. Metaboliikka tarkoittaa siis tässä talouden perusaineenvaihduntaa: mistä likviditeetti syntyy, mihin se virtaa ja kuka kantaa riskin.
@@ -133,64 +93,13 @@ Suomella on poikkeuksellisen hyvät edellytykset olla ensimmäinen “Toimijaval
 
 </details>
 
-<details>
-
-<summary>Executive Summary Version 2</summary>
-
-Mitä jos… tekoäly ei vain tehostaisi nykyistä talousmallia, vaan saisi rinnalleen talouden käyttöjärjestelmän, joka on yhtä älykäs, moniulotteinen ja ohjelmoitava kuin itse AI?
-
-Tämä skenaario esitetään avoimena kirjeenä hallinnon uudistajille. Se haastaa hiljattain esitellyn  "Agentic State" -vision (hallinnon automatisointi) osoittamalla sen kohtalokkaan puutteen: yritämme pyörittää 2020-luvun supertietokonetta 1900-luvun budjettitalouden säännöillä.
-
-Ehdotamme Demokraattisen Laskennallisen Talouden rakentamista. Se on uusi taloudellinen moottori, joka tekee julkisista hyödykkeistä (kuten terveys ja turvallisuus) itsenäisiä, arvoa luovia taloudellisia tiloja. Se muuttaa valtion "maksajasta" arvon generoijaksi ja takaa Suomelle metabolisen suvereniteetin: kyvyn tuottaa ja ylläpitää omaa hyvinvointiaan riippumatta ulkoisista shokeista.
-
-**YDINTEESIT**
-
-* **Tekoäly tarvitsee uuden talouskielen**. Nykyinen "hinta ja voitto" -kieli on liian karkea ohjaamaan superälykkäitä agentteja. Tarvitsemme kielen, joka ymmärtää moniulotteista arvoa.
-* **Valtio on arvonluoja, ei kuluerä.** Nykyinen kirjanpito on sokea valtion tuottamalle arvolle (infra, osaaminen, luottamus). Uusi protokolla tekee tästä "näkymättömästä pääomasta" näkyvää ja investointikelpoista.
-* **Toimijuus siirtyy reunoille.** Emme rakenna keskitettyä "supervaltiota", vaan protokollan, joka antaa kunnille, yhteisöille ja yrityksille työkalut ratkaista ongelmia itsenäisesti.
-* **Kirjanpito on kohtalo.** Jos emme muuta tapaa, jolla laskemme arvoa, tekoäly vain kiihdyttää nykyistä eriarvoistumista ja luonnonvarojen ylikulutusta.
-
-**KUINKA TALOUDEN TOIMINTALOGIIKKAA MUUTETAAN?**
-
-Siirrymme keskustoimijasta protokollaan ja yksiulotteisesta moniulotteiseen:
-
-* **Budjetista taseeseen:** Julkiset palvelut eivät ole enää "mustia aukkoja", jotka imevät verovaroja. Ne ovat generatiivisia tiloja, joilla on oma tase. Ennaltaehkäisevä terveydenhuolto ei ole kulu, vaan investointi, joka tuottaa mitattavaa "terveyshyötyä ja -pääomaa".
-* **Yhdestä mittarista vektoreihin:** Talouden perusyksiköiksi tulevat verkostojen itse määrittelemät mittarit (kuten resilienssi, elinkelpoisuus, yhdenvertaisuus). Nämä ovat AI-agenttien natiivia "arvokieltä", jota ne optimoivat reaaliajassa.
-* **Reaktiivisesta metaboliseen:** Talous ei reagoi viiveellä kriiseihin. Verkosto näkee oman tilansa reaaliajassa ja säätää resursseja automaattisesti sinne, missä niitä tarvitaan – aivan kuten elimistö.
-
-**MITÄ TÄSTÄ SEURAA: UUSI KÄSITYS TALOUSKASVUSTA?**
-
-Kasvu ei ole enää vain määrän (BKT) lisääntymistä, vaan taloudellisen älykkyyden kasvua.
-
-* **Kasvua julkisen arvon tunnistamisessa:** Valtion perustoiminnot muuttuvat kulueristä tuottaviksi arvovirroiksi, jotka generoivat omaa rahoitustaan.
-* **Kasvua jaetussa toimijuudessa:** Kasvu mitataan siinä, kuinka moni toimija pystyy käynnistämään ja ylläpitämään omaa taloudellista toimintaansa ilman alistumista ulkopuoliselle "rahan logiikalle".
-* **Resilienssin kasvu:** Talous ei kaadu yhden pankin tai valtion budjettikriisin mukana. Verkosto on hajautettu ja omavarainen.
-
-**MITÄ TÄMÄ KERTOO TALOUDEN OHJELMOITAVUUDESTA?**
-
-Tämä skenaario paljastaa, että talous ei ole luonnonlaki, vaan ohjelmoitava infrastruktuuri.
-
-* **Talousprotokolla on uusi perustuslaki.** Arvonjaon säännöt eivät ole piilossa kabineteissa, vaan ne ovat avointa koodia.
-* **AI tarvitsee taloudellisen API:n.** Tekoäly on hyödytön, jos se ei voi toimia taloudessa. Demokraattisen taloudellisen laskennan protokolla antaa sille rajapinnan, jolla se voi neuvotella, sopia ja vaihtaa arvoa.
-* **Metabolia on koodattavissa.** Voimme suunnitella talouden, joka ei syö omaa elinkelpoisuuttaan (ulkoisvaikutukset), vaan ruokkii sitä.
-
-**6. MAHDOLLISUUS SUOMELLE?**
-
-Suomi voi olla maailman ensimmäinen maa joka yhdistää AI:n ja uuden talousarkkitehtuurin.
-
-* **Strateginen narratiivi:** Sen sijaan, että olisimme vain "AI:n hyödyntäjiä", olemme arkkitehtejä. Rakennamme mallin, jossa tekoäly palvelee demokraattista yhteiskuntaa, ei päinvastoin.
-* **Eurooppalainen edelläkävijä:** Agentic State- ja EuroStack-hankkeet etsivät kuumeisesti mallia digitaaliselle suvereniteetille. Suomi voisi tuoda pöytään puuttuvan palasen: demokraattisen taloudellisen laskennan protokollan.
-* **Kokeiluympäristö:** Otetaan yksi sektori (esim. sote tai energia) ja pilotoidaan siinä täysin uutta, ohjelmoitavaa talousmallia.
-
-</details>
-
 
 
 **Aihe:** Avoin Kirje Toimijavaltiolle (Agentic State)
 
-**Lähettäjä:** Economic Space Agency (ECSA)&#x20;
+**Lähettäjä:** Economic Space Agency (ECSA) tiimi
 
-**Vastaanottaja:** Agentic State
+**Vastaanottaja:** Agentic State tiiimi
 
 **Aihe:** Talouden ja hallinnon arkkitehtuurien synteesi agenttipohjaiselle aikakaudelle
 
@@ -198,7 +107,7 @@ Suomi voi olla maailman ensimmäinen maa joka yhdistää AI:n ja uuden talousark
 
 #### Johdanto: Kaksi protokollaa, yksi tehtävä
 
-Työnne Agentic State -hankkeen parissa on erittäin kiinnostavaa. Ensin, se tunnistaa täsmälleen oikein 1900-luvun byrokratian vanhentuneeksi hallintoprotokollaksi, jota rajoittavat sen koordinaatiovälineen – paperin ja musteen – laskenta- ja käsityskyvyt. Toiseksi, se ehdottaa välttämätöntä siirtymää kohti mukautuvaa, tulosohjautuvaa hallinnon mallia, joka sopii uuden, laskennallisilta/koordinaatio/informaation käsittelykyvyiltään huimasti edistyneen toimija-mediumin aikakauteen.
+Työnne [Agentic State](https://agenticstate.org/) -hankkeen parissa on erittäin kiinnostavaa. Ensin, se tunnistaa täsmälleen oikein 1900-luvun byrokratian vanhentuneeksi hallintoprotokollaksi, jota rajoittavat sen koordinaatiovälineen – paperin ja musteen – laskenta- ja käsityskyvyt. Toiseksi, se ehdottaa välttämätöntä siirtymää kohti mukautuvaa, tulosohjautuvaa hallinnon mallia, joka sopii uuden, laskennallisilta/koordinaatio/informaation käsittelykyvyiltään huimasti edistyneen toimija-mediumin aikakauteen.
 
 Me, jotka työskentelemme taloudellisten toimintakykyjemme kasvattamiseksi, lähestymme samaa historiallista murroskohtaa rinnakkaisesta suunnasta: talouden protokollan päivittämisen näkökulmasta.
 
@@ -210,7 +119,7 @@ Tämä avoin kirje on ehdotus tuosta synteesistä. Se esittää, että **demokra
 
 <summary>Mikä on Agentic State?</summary>
 
-Agentic State on kansainvälisesti kehittyvä malli julkiselle hallinnolle, jossa autonomiset tekoälyagentit toimivat valtion sisäisenä infrastruktuurina—ei vain teknologiana, vaan uudenlaisena toimintatapana.
+[Agentic State](https://agenticstate.org/) on kansainvälisesti kehittyvä malli julkiselle hallinnolle, jossa autonomiset tekoälyagentit toimivat valtion sisäisenä infrastruktuurina—ei vain teknologiana, vaan uudenlaisena toimintatapana.
 
 **Tavoite:** Siirtää hallinto lomakkeista, manuaalisista prosesseista ja viiveisiin reagoivasta byrokratiasta **proaktiiviseksi, itseohjautuvaksi ja reaaliaikaisesti säätyväksi järjestelmäksi**.
 
@@ -246,17 +155,17 @@ Nykyinen tekninen todellisuus — laskennalliset verkostot — on poistanut näm
 Tämä kysymys määrittelee kaksi mahdollista polkua Toimijavaltiolle:
 
 1. **Valtio toimijana:** Hubi säilyy. Keskusvaltiosta tulee tehokkaampi ja voimakkaampi toimija, joka käyttää tekoälyä optimoidakseen olemassa olevaa hierarkista kontrolliaan. Toimijuus keskittyy. Tuloksena on kehittyneempi “tekoälybyrokratia”, mutta verkon topologia ei muutu. Valtio pitää toimijuuden itsellään. Keskus pysyy ja se hoitaa informaation käsittelyn ja päätöksenteon.
-2. **Valtio protokollana:** Uskomme, että tämä on voimakkaampi visio. Se on mielestämme myös analyysinne logiikan väistämätön johtopäätös. Tässä arkkitehtuurissa valtio muuttuu keskusagentista yhteisen koordinointiprotokollan haltijaksi ja huoltajaksi. Hallinnon toimijuus siirretään reunoille, ja tekoälyagentit toimivat käyttöliittyminä  kansalaisille, yhteisöille, autonomisille toimijoille ja tuottaville yksiköille. Agentti on mekanismi, jonka kautta reunalla oleva toimijuus ilmaistaan.
+2. **Valtio protokollana, toimijat reunoilla:** Uskomme, että tämä on voimakkaampi visio. Se on mielestämme myös analyysinne logiikan väistämätön johtopäätös. Tässä arkkitehtuurissa valtio muuttuu keskusagentista yhteisen koordinointiprotokollan haltijaksi ja huoltajaksi. Hallinnon toimijuus siirretään reunoille, ja tekoälyagentit toimivat käyttöliittyminä  kansalaisille, yhteisöille, autonomisille toimijoille ja tuottaville yksiköille. Agentti on mekanismi, jonka kautta reunalla oleva toimijuus ilmaistaan.
 
 Tässä jälkimmäisessä mallissa verkoston _topologia_ muuttuu. Keskustoimijaa ei enää ole, valtion rooli alkaa muuttua yhteisen pelin säännöiksi ja niiden ylläpitämiseksi ja kehittämiseksi. Toimijuus annetaan reunoille. Tämä ei ole vain eri menetelmä; se on eri yhteiskuntamuoto. Hajautettu, resilientti ja jatkuvasti kehittyvä demokraattinen yhteiskunta.
 
-Se muuttaisi myös demokratian. Demokratia ei ole enää vain määräaikainen prosessi keskitetyn hierarkian käyttäjien valitsemiseksi. Siitä tulee jatkuva, osallistava prosessi itse protokollan parametrien määrittelemiseksi ja tarkentamiseksi – tavoitteiden asettamista, oikeuksien määrittelyä ja niiden rajoitteiden säätämistä, joiden puitteissa hajautettu toimijaverkosto toimii.
+Se muuttaisi myös demokratian. Demokratia ei ole enää vain määräaikainen prosessi keskitetyn hierarkian käyttäjien valitsemiseksi. Siitä tulee jatkuva, osallistumisen prosessi itse protokollan parametrien määrittelemiseksi ja tarkentamiseksi – tavoitteiden asettamista, oikeuksien määrittelyä ja niiden rajoitteiden säätämistä, joiden puitteissa hajautettu toimijaverkosto toimii.
 
 Tätä muutosta ei kuitenkaan voida saavuttaa suunnittelemalla valtion protokollaa eristyksissä. Demokraattinen laskennallinen valtio, jonka perustuslaki on todennettavissa oleva, yhteentoimiva protokolla, tarvitsee rinnalleen yhtä lailla demokraattisen laskennallisen talouden.
 
 #### **2. Kysymys taloudesta: Nykyisen talousmallin teknologinen kritiikki**
 
-Työmme ECSA:ssa perustuu nykyisen talousjärjestelmämme teknologiseen kritiikkiin. Tarkastelemme talousjärjestelmäämme laskennallisena verkostoprotokollana, jolla on tietyt kategoriset rajoitteet, kuten kaikilla esidigitaalisen mediumin ajan tuotteilla. Sen riippuvuus yhdestä rahamittarista, sen institutionaalinen "keskus-kehä-suunnittelu" (keskuspankit, selvityskeskukset) ja sen vastakkainasetteluun perustuva velkalogiikka ovat kaikki arkkitehtonisia jäänteitä menneeltä aikakaudelta, jolloin tietojenkäsittely oli kallista ja hidasta ja informaatio niukkaa. Siinä&#x20;
+Työmme ECSA:ssa perustuu nykyisen _talousjärjestelmämme teknologiseen kritiikkiin._ Tarkastelemme talousjärjestelmäämme laskennallisena verkostoprotokollana, jolla on tietyt kategoriset rajoitteet, kuten kaikilla esidigitaalisen mediumin ajan tuotteilla. Sen riippuvuus yhdestä rahamittarista, sen institutionaalinen "keskus-kehä-suunnittelu" (keskuspankit, selvityskeskukset) ja sen vastakkainasetteluun perustuva velkalogiikka ovat kaikki arkkitehtonisia jäänteitä menneeltä aikakaudelta, jolloin tietojenkäsittely oli kallista ja hidasta ja informaatio niukkaa. Siinä&#x20;
 
 * raha toimii ainoana laskentayksikkönä,&#x20;
 * hinnat aggregoivat hajautettua informaatiota tehokkaasti,
@@ -266,15 +175,15 @@ Työmme ECSA:ssa perustuu nykyisen talousjärjestelmämme teknologiseen kritiikk
 * selvityskeskukset netottavat ja takaavat maksujen ja arvopaperikaupan selvityksen,
 * huutokauppapohjaiset markkinat tiivistävät hajautetun tiedon yhdeksi hinnaksi ja allokoivat resurssit sen perusteella.
 
-Mutta aivan kuten te olette analysoineet valtiota, sama linssi tulee kohdistaa talouteen: **Uudet laskennalliset verkot ovat uusi media myös taloudelle.** Ne voivat käsitellä jatkuvia tietovirtoja, varmentaa niiden tilan reaaliajassa ja koordinoida hajautettuja toimijoita rikkaan signaalikielen avulla. Ne voivat mallintaa arvoa ja koordinoida yhteistoimintaa tavoilla, jotka olivat kirjaimellisesti mahdottomia taloutemme vanhalla mediumilla.
+Mutta aivan kuten te olette analysoineet valtion hallintoa, sama linssi tulee kohdistaa talouteen: Uudet laskennalliset verkot ovat uusi media myös taloudelle. Ne voivat käsitellä jatkuvia tietovirtoja, varmentaa niiden tilan reaaliajassa ja koordinoida hajautettuja toimijoita rikkaan signaalikielen avulla. Ne voivat mallintaa arvoa ja koordinoida yhteistoimintaa tavoilla, jotka olivat kirjaimellisesti mahdottomia taloutemme vanhalla esi-digitaalisella alustalla.
 
-**Todellinen kysymys kuuluu nyt: mitä muuta voisimme laskea? Mitä muuta haluamme optimoida? Miten muuten haluamme toimia yhdessä? Ja kenellä on toimijuus tämän määrittelyyn?**
+Todellinen kysymys kuuluu nyt: mitä muuta voisimme laskea? Mitä muuta haluamme optimoida? Miten muuten haluamme toimia yhdessä? Ja kenellä on toimijuus tämän määrittelyyn?
 
-Käytämmekö uusia teknologioita rakentaaksemme tehokkaampia, algoritmisesti ohjattuja versioita samoista resursseja imevistä finanssikeskittymistä? Digitalisoimmeko todellakin vain vanhan mallin? Käytämmekö uusia tehokkaita laskennallisia verkkoja vain pyörittämään samaa vanhanaikaista softaa? Vai suunnittelemmeko uuden taloudellisen mediumin – demokraattisen laskennallisen talouden, jossa taloudellinen toimijuus kuuluu täysimääräisesti ja tasapuolisesti kaikille verkoston osallistujille?
+Käytämmekö uusia teknologioita rakentaaksemme tehokkaampia, algoritmisesti ohjattuja versioita samoista resursseja imevistä finanssikeskittymistä? Digitalisoimmeko todellakin vain vanhan arkkitehtuurin? Käytämmekö uusia tehokkaita laskennallisia verkkoja vain pyörittämään samaa antiikkista taloudellisen interaktion softaa? Vai suunnittelemmeko uuden taloudellisen mediumin – demokraattisen laskennallisen talouden, jossa taloudellinen toimijuus kuuluu täysimääräisesti ja tasapuolisesti kaikille verkoston osallistujille?
 
-Logiikka on vääjäämätön: Toimijavaltio ehdottaa välttämätöntä siirtymää yhteistyötä tekevien autonomisten agenttien verkostoon. Mutta sen onnistumista rajoittaa vanhanaikainen taloudellinen keskus-kehä-ekstraktioprotokolla, johon se yrittää kytkeytyä.
+Logiikka on vääjäämätön: Toimijavaltio ehdottaa välttämätöntä siirtymää yhteistyötä tekevien autonomisten agenttien verkostoon. Mutta sen onnistumista rajoittaa vanhanaikainen taloudellinen keskus-kehä-ekstraktioprotokolla, johon se yrittää edelleen kytkeytyä.
 
-Tekoälyagentithan kuolevat nauruun.  Toimijavaltio tarvitsee itselleen älykkäämmän talouden käyttöjärjestelmän. Muuten se jää kiinni vanhaan metaboliikkaan: talousrakenteeseen, jossa verotus, velkaantuminen ja kriisien jälkikäteinen paikkaaminen määräävät sen liikkumatilan, eivät uudet protokollaan koodatut arvonmuodostuksen ja likviditeetin logiikat. (Metaboliikka tarkoittaa tässä siis talouden perusaineenvaihduntaa: mistä likviditeetti syntyy, mihin se virtaa ja kuka kantaa riskin.)
+Tekoälyagentithan kuolevat nauruun. Toimijavaltio tarvitsee itselleen älykkäämmän talouden käyttöjärjestelmän. Muuten se jää kiinni vanhaan metaboliikkaan: talousrakenteeseen, jossa verotus, velkaantuminen ja kriisien jälkikäteinen paikkaaminen määräävät sen liikkumatilan, eivät uudet protokollaan koodatut arvonmuodostuksen ja likviditeetin logiikat. (Metaboliikka tarkoittaa tässä siis talouden perusaineenvaihduntaa: mistä likviditeetti syntyy, mihin se virtaa ja kuka kantaa riskin.)
 
 <details>
 
@@ -317,20 +226,20 @@ Valtio on perustavanlaatuinen taloudellinen toimija. Se tarjoaa edellytykset tal
 Vaikka valtio on perustavanlaatuinen arvonluoja, taloudellinen protokolla, jonka sisällä se toimii, on arkkitehtuuriltaan kyvytön tunnistamaan ja laskemaan tätä arvoa. Miksi?
 
 * **Vanhanaikainen kielioppi:** Kyse ei ole sattumanvaraisesta markkinahäiriöstä. Tämä on nykyisen kirjanpidon kielioppimme välttämätön ja suunniteltu lopputulos. Nykyinen kirjanpitoprotokollamme osaa laskea vain rahallista voittoa. Valtion generatiiviset toimet, joita mitataan tuloksilla kuten kansanterveys, tieto ja turvallisuus, ovat näkymättömiä tälle kieliopille. Sen mukaan ne jätetään kirjanpidon ulkopuolelle ja kehystetään kategorisesti "kustannuksiksi", jotka on kannettava yhteisesti, eikä tuotetuksi arvoksi, jota tulisi vaalia. Ne ovat ulkoisvaikutuksia. Voitto on mitta onnistuneesti kaapatusta ja yksityistetystä arvosta, kun taas yhteisölle jäävät ongelmat ovat mitta sosialisoiduista, kirjanpidossa huomiotta jätetyistä kustannuksista. Ne ovat saman talousmoottorin kaksi tuotosta, kuten positiivinen ja negatiivinen vedos samasta valokuvasta.
-* **Metabolinen riippuvuus:** Kattaakseen nämä "kustannukset" valtion on alistettava itsensä juuri sille talousjärjestelmälle, jonka se itse mahdollistaa. Sen on kerättävä resursseja verotuksen kautta tai, mikä pahempaa, lainattava yksityisiltä rahoitusmarkkinoilta, mikä vangitsee sen velkakierteeseen. Siitä tulee riippuvainen entiteetti, jonka suvereniteettia sen oman luomuksen logiikka vaarantaa.
+* **Metabolinen riippuvuus:** Kattaakseen nämä "kustannukset" valtion on alistettava itsensä juuri sille talousjärjestelmälle, jonka se itse mahdollistaa. Sen on kerättävä resursseja verotuksen kautta tai, mikä pahempaa, lainattava yksityisiltä rahoitusmarkkinoilta, mikä vangitsee sen velkakierteeseen. Siitä tulee taloudellisesti riippuvainen entiteetti, jonka suvereniteettia sen oman luomuksen logiikka vaarantaa.
 * **Väistämätön johtopäätös:** Agenttinen valtio, joka pyrkii moniulotteiseen hyvinvointiin, ei voi toimia taloudella, joka kykenee laskemaan vain yksidimensionaalista rahallista voittoa.&#x20;
 
 Aivan kuten tarvitsemme uutta hallintalogiikkaa, tarvitsemme kipeästi uutta talouslogiikkaa. Agentit tietävät tämän jo. Vai onko idea tosiaan, että agentit toimivat Euroilla, että Euro on niiden välisen yhteistoiminnan moottori ja mekanismi? Agentit eivät tarvitse rahaa mihinkään. "Raha" tulee yksinkertaisesti poistumaan käytöstä koordinaatiomekanismina ja taloudellisen laskennan käyttöliittymänä.<br>
 
 4. **Ilmaisuvoimaisempi talouden kielioppi: Demokraattisen laskennallisen talouden supervoimat**
 
-Me ECSA:ssa olemme kehittäneet uuden ilmaisukykyisemmän taloudellisen kielen ja koordinaatioprotokollan. Kaikessa yksintaisuudessaan, se abstrahoi ja generalisoi nykyisen kirjanpitojärjestelmämme ja tekee sen ohjelmoitavaksi. Sen nimi on Economic Space Protocol – joka tarkoittaa ekonomisen tilan ja ajan luomisen protokollaa – ja se antaa verkoston toimijoiden muokata ja luoda taloudellisen yhteistoiminnan sääntöjä ja primitiivejä:
+Me ECSA:ssa olemme kehittäneet uuden ilmaisukykyisemmän taloudellisen kielen ja koordinaatioprotokollan. Kaikessa yksintaisuudessaan, se abstrahoi ja generalisoi nykyisen kirjanpitojärjestelmämme ja tekee sen ohjelmoitavaksi. Sen nimi on Economic Space Protocol – joka tarkoittaa ekonomisen tilan, ajan ja organisaation luomisen protokollaa – ja se antaa verkoston toimijoiden muokata ja luoda taloudellisen yhteistoiminnan sääntöjä ja primitiivejä:
 
 * Laskennan kategorioita, eli mistä pidetään kirjaa, mitä lasketaan
 * Laskennan ja valuaation logiikkoja, eli mitä ja miten lasketaan ja arvostetaan
 * Mittayksikköjä, eli mitä mitataan ja millä
 * Optimoinnin logiikkoja, eli mitä ja miten optimoidaan
-* Oikeuksin määrittelyjä, eli kuka saa tehdä mitäkin
+* Oikeuksien määrittelyjä, eli kuka saa tehdä mitäkin
 * Jakamisen sääntöjä, eli miten tuotettua arvoa jaetaan
 
 Tämä antaa verkostoille ja niiden toimijoille kyvyn:
@@ -341,7 +250,7 @@ Tämä antaa verkostoille ja niiden toimijoille kyvyn:
 * Optimoida moniarvoisesti
 * Koordinoida suoraan verkon reunalla ilman keskuksia
 
-Se antaa verkoille ja niiden toimijoille ja organisaatioille täyden taloudellisen rajapinnan (API). Se ei siirrä vain dataa tai varoja, vaan _arvon määrittelyn, koordinaation ja hallinnon ohjelmoitaviin, yhdisteltäviin ja helposti käytettäviin muotoihin._ Arvosta tulee taloudellista älykkyyttä: verkon kykyä organisoida itsensä älykkäästi ja luoda monimutkaista arvoa.
+Se antaa verkoille ja niiden toimijoille ja organisaatioille täyden taloudellisen rajapinnan (economic API). Se ei siirrä vain dataa tai varoja, vaan _arvon määrittelyn, koordinaation ja hallinnon ohjelmoitaviin, yhdisteltäviin ja helposti käytettäviin muotoihin._ Arvosta tulee taloudellista älykkyyttä: verkon kykyä organisoida itsensä älykkäästi ja luoda monimutkaista arvoa.
 
 Se on taloudellinen laskenta-alusta, joka on yhteensopiva agenttisen valtion kanssa.
 
