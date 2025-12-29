@@ -295,7 +295,8 @@ Tämä muutos haastaa neljä talouden taustaoletusta:
 Ohjelmoitavassa taloudessa nämä oletukset eivät enää pidä paikkaansa:
 
 * arvo voidaan ilmaista uudelleen hajauttesti,
-* koordinaatio voidaan toteuttaa verkossa ilman keskitettyjä portinvartijoita, ja
+* koordinaatio voidaan toteuttaa verkossa ilman keskitettyjä portinvartijoita,
+* verkosto voi alkaa optimoida itseään kokonaisuutena, ja
 * talous voi olla yhteiskunnallinen media eli **tila, jossa uusia taloudellisia muotoja voidaan luoda, testata ja jakaa.**
 
 Toisin sanoen, kun talouden kieli muuttuu media-alustaksi:
@@ -303,6 +304,7 @@ Toisin sanoen, kun talouden kieli muuttuu media-alustaksi:
 * taloudellinen toimijuus siirtyy keskuksesta reunoille
 * koordinaatio ei perustu omistukseen, vaan protokolliin
 * arvo ei ole yksiulotteinen, vaan monikielinen
+* verkosto alkaa nähdä itsensä taloudellisena toimijana
 
 #### **4. Mitä tämä tarkoittaa talouden kasvulle?**
 
