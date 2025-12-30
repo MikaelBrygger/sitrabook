@@ -18,7 +18,7 @@ Akseli Virtanen\
 Dick Bryan\
 Martin Born\
 Mikael Brygger\
-Pablo Somento Ruano\
+Pablo Somonte Ruano\
 Pekko Koskinen
 
 [http://economicspace.agency/](http://economicspace.agency/)\
