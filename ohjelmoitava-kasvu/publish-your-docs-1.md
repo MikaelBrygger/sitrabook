@@ -1,7 +1,7 @@
 ---
 icon: paper-plane
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
