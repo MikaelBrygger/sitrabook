@@ -8,9 +8,18 @@ coverY: 0
 
 Hankkeen toteuttaa [**Economic Space Agency**](http://economicspace.agency/) (ECSA) – kansainvälinen, mutta Suomessa juurtunut asiantuntijaverkosto, jonka ydinosaamista on talouden rakenteellinen uudelleenarviointi teknologisen murroksen ja yhteiskunnallisen muutoksen näkökulmasta.
 
-ECSA perustettiin Stanfordissa (CA) 2015 kehittämään uuden taloudellisen tilan (_economic space_) ja toimijuuden (_economic agency_) käsitteitä ja järjestelmiä. Se on ollut mukana muotoilemassa ohjelmoitavan talouden mielenkiintoisimpia käytäntöjä siitä lähtien. Rakennamme protokollia taloudellisen toimijuuden ja tekijyyden kasvattamiseen ja hajauttamiseen.
+**ECSA** perustettiin Stanfordissa (CA) 2015 kehittämään uuden taloudellisen tilan (_economic space_) ja toimijuuden (_economic agency_) käsitteitä ja järjestelmiä. Se on ollut mukana muotoilemassa ohjelmoitavan talouden mielenkiintoisimpia käytäntöjä siitä lähtien. Rakennamme protokollia taloudellisen toimijuuden ja tekijyyden kasvattamiseen ja hajauttamiseen.
 
 **ECSA Labs** perustettiin erityisenä design-yksikkönä Suomeen vuonna 2020 — kehittämään uusia taloudellisia ajattelumalleja, rakenteita ja kokeiluja.
+
+**Hanketyöryhmä**
+
+Akseli Virtanen\
+Dick Bryan\
+Martin Born\
+Mikael Brygger\
+Pablo Somento Ruano\
+Pekko Koskinen
 
 [http://economicspace.agency/](http://economicspace.agency/)\
 hello@ecsa.io<br>
