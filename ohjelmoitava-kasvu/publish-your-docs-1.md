@@ -20,9 +20,11 @@ layout:
 
 ## **Ohjelmoitavan talouden kasvu**
 
-### **Johdanto /** **Talous merkitysten, arvojen ja suhteiden tuottamisen mediana**
+### **Johdanto**
 
-1. `Miksi talouskasvun käsite on päivitettävä?`&#x20;
+#### **Talous merkitysten, arvojen ja suhteiden tuottamisen mediana**
+
+1. `Miksi talouskasvun käsite on päivitettävä?`      &#x20;
 2.  `Talous ei ole vain järjestelmä — se on media`
 
     `Taloudellisen median evoluution lyhyt historia`
@@ -34,8 +36,9 @@ Info: _Mitä eri mediat mahdollistivat & mitä eivät_\
 Info: _Miksi lohkoketju ja krypto ei muuttanut taloutta?_\
 Info: _Miten sosiaalinen media on taloudellinen media?_
 
-### **Skenaarioita ohjelmoitavan talouden kasvusta /** **Skenaariot – mitä jos talouden säännöt muuttuvat?**
+### **Skenaarioita ohjelmoitavan talouden kasvusta**
 
+* **`Skenaariot – mitä jos talouden säännöt muuttuvat`**
 * `Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?`
 * `Mitä jos mittaisimme talouskasvua ympäristövaikutuksilla?`
 * `Mitä jos talous olisi luovaa ja luovuus taloudellista?`
