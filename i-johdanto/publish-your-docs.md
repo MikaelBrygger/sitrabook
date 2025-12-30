@@ -73,15 +73,15 @@ Jokainen talouden kehitysvaihe on seurannut sen median muutosta.
 
 **Taloudellisen median evoluution lyhyt historia**
 
-_1. Varhaiset yhteisöt: talous suhteissa, ei mittana_
+#### _1. Varhaiset yhteisöt: talous suhteissa, ei mittana_
 
 Varhaisimmat yhteisöt eivät tarvinneet markkinoita tai hintoja. Arvo syntyi suhteissa: rituaaleissa, vastavuoroisuudessa, luottamuksessa ja sosiaalisesti tunnetussa velassa. Talous oli tämän muistia rituaaleissa ja yhteisön koordinaatiossa, ei yhteen yksikköön pakotettua laskentaa.
 
-_2. Kirjoitetun kielen ja kirjanpidon synty: talous alkoi muistaa itseään_
+#### _2. Kirjoitetun kielen ja kirjanpidon synty: talous alkoi muistaa itseään_
 
 Kirjoitus kehittyi kirjanpidosta. Sen myötä talous ei ollut enää muistissa, vaan ulkoinen, pysyvä ja säilyvä tila: velat, sopimukset, omistukset voitiin nyt tallentaa ulkoiseen muotoon. Kirjoitus loi talouden ensimmäisen universaalin laskennan kielen – tilinpidon – jonka avulla valtioiden ja instituutioiden koordinointi saattoi laajeta suuremmaksi kuin yksittäisen henkilön muisti.
 
-_3. Markkinat:  talous alkoi laskea itse_
+#### _3. Markkinat:  talous alkoi laskea itse_
 
 Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirjanpitojärjestelmä, vaan markkinat – hajautettu taloudellinen laskentakone, jossa riippumattomat toimijat, kukin omasta paikallisesta näkökulmastaan, osallistuivat verkoston tilan ja sen muutoksen laskentaan. Markkinoiden hinnan muodostus oli kuin proto-algoritminen koordinaatiokone (nk. “näkymätön käsi”):
 
@@ -91,7 +91,7 @@ Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirj
 
 Sen logiikka oli vallankumouksellinen: ensimmäistä kertaa verkosto itse alkoi laskea tilaansa hajautetusti. Sen myötä talous alkoi toimia kuin primitiivinen tietokone: miljoonat itsenäiset toimijat pystyivät koordinoitumaan ilman keskitettyä ohjausta hintasignaalin välityksellä. Mutta “näkymätön käsi” osasi laskea ja koordinoida vain yhtä asiaa tai yhdellä signaalilla: hinnalla.
 
-_4. Alustatalous: talouden ohjelmallinen järjestys alkaa hahmottua_
+#### _4. Alustatalous: talouden ohjelmallinen järjestys alkaa hahmottua_
 
 Viimeiset kaksi vuosikymmentä toivat seuraavan mediumin: datan, koneoppimisen ja ohjelmoidun pääsynhallinnan. Alustatalous loi uuden tavan laskea taloutta, joka puuttui markkinoilta ja perustui _verkoston keskitetyn kokonaiskuvan hallintaan_:
 
@@ -122,7 +122,7 @@ Sosiaalinen media demokratisoi puheen, mutta ei taloudellista toimijuutta. Kaikk
 
 </details>
 
-_5. Lohkoketjut: verkosto alkaa nähdä itsensä, mutta osaa laskea edelleen vain vanhalla logiikalla_
+#### _5. Lohkoketjut: verkosto alkaa nähdä itsensä, mutta osaa laskea edelleen vain vanhalla logiikalla_
 
 2010-luvulla lohkoketjut avasivat seuraavan oven taloudelliselle laskennalle. Ensimmäistä kertaa verkko pystyi pitä­mään kirjaa itsestään ilman keskitettyä operaattoria: verkko saattoi nyt pitää yllä tilaansa (state) yhdessä, suorittaa sääntönsä hajautetusti ja tuottaa luottamuksen tähän matemaattisesti, ilman keskitettyä operaattoria.
 
@@ -169,8 +169,8 @@ Jotta talous todella muuttuisi, pelkkä teknisen infrastruktuurin muuttaminen ei
 
 </details>
 
-_6. Mitä tapahtuu seuraavaksi?_ \
-\
+#### _6. Mitä tapahtuu seuraavaksi?_&#x20;
+
 Meidän käsityksemme on selvä: Seuraava looginen askel tässä evoluutiossa ovat **hajautetun taloudellinen toimijuuden ja tekijyyden protokollat.**
 
 Taloudesta tulee ilmaisuväline — ohjelmallinen kieli, jolla yhteisöt voivat määritellä oman arvontuotantonsa ja koordinoida sen.
