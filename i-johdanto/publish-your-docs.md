@@ -71,7 +71,7 @@ Kun talouden medium muuttuu, muuttuu myös taloudellisen toiminnan merkitys, hal
 \
 Jokainen talouden kehitysvaihe on seurannut sen median muutosta.
 
-**Taloudellisen median evoluution lyhyt historia**
+### Taloudellisen median evoluution lyhyt historia
 
 #### _1. Varhaiset yhteisöt: talous suhteissa, ei mittana_
 
