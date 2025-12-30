@@ -9,27 +9,27 @@
 * [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
 * [Kirjallisuuskartta](ohjelmoitavan-talouden-kasvu/publish-your-docs-3.md)
 
-## I Johdanto
+## Johdanto
 
-* [Talous merkitysten, arvojen ja suhteiden tuottamisen mediana](i-johdanto/publish-your-docs.md)
+* [Talous merkitysten, arvojen ja suhteiden tuottamisen mediana](johdanto/publish-your-docs.md)
 
-## II Skenaarioita ohjelmoitavan talouden kasvusta&#x20;
+## Skenaarioita ohjelmoitavan talouden kasvusta&#x20;
 
-* [Skenaariot – mitä jos talouden säännöt muuttuvat?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs.md)
-* [Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-1.md)
-* [Mitä jos laskisimme talouskasvua ympäristövaikutuksilla?](<ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-1 (1).md>)
-* [Mitä jos talous olisi luovaa ja luovuus taloudellista?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-luovaa-ja-luovuus-taloudellista.md)
-* [Mitä jos talous olisi peli? ](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-peli.md)
-* [Mitä jos organisaatiot olisivat ohjelmoitavia?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-2.md)
-* [Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?](ii-skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-tekoaly-saisi-rinnalleen-alykkaamman-taloudellisen-kielen.md)
+* [Skenaariot – mitä jos talouden säännöt muuttuvat?](skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs.md)
+* [Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?](skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-1.md)
+* [Mitä jos laskisimme talouskasvua ympäristövaikutuksilla?](skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-2.md)
+* [Mitä jos talous olisi luovaa ja luovuus taloudellista?](skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-luovaa-ja-luovuus-taloudellista.md)
+* [Mitä jos talous olisi peli? ](skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-talous-olisi-peli.md)
+* [Mitä jos organisaatiot olisivat ohjelmoitavia?](skenaarioita-ohjelmoitavan-talouden-kasvusta/publish-your-docs-3.md)
+* [Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?](skenaarioita-ohjelmoitavan-talouden-kasvusta/mita-jos-tekoaly-saisi-rinnalleen-alykkaamman-taloudellisen-kielen.md)
 
-## III Suositukset Suomelle talouskasvun paradigman muutoksessa
+## Suositukset Suomelle talouskasvun paradigman muutoksessa
 
-* [1. Talouskasvun paradigma on muuttunut](iii-suositukset-suomelle-talouskasvun-paradigman-muutoksessa/1.-talouskasvun-paradigma-on-muuttunut.md)
-* [2. Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille](iii-suositukset-suomelle-talouskasvun-paradigman-muutoksessa/2.-talouskasvu-ohjelmoidaan-jakamalla-toimijuus-verkon-reunoille.md)
-* [3. Ajattelutavan muutos](iii-suositukset-suomelle-talouskasvun-paradigman-muutoksessa/3.-ajattelutavan-muutos.md)
-* [4. Taloudellisen mielikuvituksen vapauttaminen](iii-suositukset-suomelle-talouskasvun-paradigman-muutoksessa/4.-taloudellisen-mielikuvituksen-vapauttaminen.md)
-* [5. Taloudellisten infrastruktuurien systemaattinen kehittäminen](iii-suositukset-suomelle-talouskasvun-paradigman-muutoksessa/5.-taloudellisten-infrastruktuurien-systemaattinen-kehittaminen.md)
+* [1. Talouskasvun paradigma on muuttunut](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/1.-talouskasvun-paradigma-on-muuttunut.md)
+* [2. Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/2.-talouskasvu-ohjelmoidaan-jakamalla-toimijuus-verkon-reunoille.md)
+* [3. Ajattelutavan muutos](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/3.-ajattelutavan-muutos.md)
+* [4. Taloudellisen mielikuvituksen vapauttaminen](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/4.-taloudellisen-mielikuvituksen-vapauttaminen.md)
+* [5. Taloudellisten infrastruktuurien systemaattinen kehittäminen](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/5.-taloudellisten-infrastruktuurien-systemaattinen-kehittaminen.md)
 
 ## Liitteet
 
