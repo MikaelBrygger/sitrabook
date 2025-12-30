@@ -24,8 +24,7 @@ Tämä lähtöoletus muuttaa käsitystämme talouskasvusta. Kasvu ei synny enä�
 
 Skenaario-osiossa kysytään: mitä jos tätä mediaa käytettäisiinkin toisin? Mitä taloudelliselle kasvulle tapahtuisi sen seurauksena? Skenaariot eivät pyri ennustamaan yhtä tulevaisuutta. Niiden tehtävänä on tutkia, mitä johdannossa esitetystä runkoskenaariosta voi seurata, kun sitä viedään erilaisiin suuntiin ja yhteiskunnallisiin solmukohtiin. “Mitä jos?” Kysymys on saman perusoletuksen rinnakkaisista, mahdollisista ilmentymistä.
 
-\
-Raportin kuusi skenaariota tarkastelevat
+Raportin kuusi skenaariota tarkastelevat...&#x20;
 
 * **Likviditeettiä infrastruktuurina:** Mitä jos maksukyky ei olisikaan pankkien välittämä niukka hyödyke, vaan yhteisesti rakennettua kykyä kuitata velvoitteet reaaliajassa? Tämä skenaario avaa vaihtoehdon velkavetoiselle kasvulle. Se tekee likviditeetistä sähköverkon kaltaisen infrastruktuurin: se on aina saatavilla siellä, missä arvoa luodaan.
 * **Ympäristövaikutusten laskemista:** Mitä jos kestävyys ei olisi vain sääntelyä, vaan oma laskentayksikkönsä? Skenaario ehdottaa niin kutsuttua _"Eko-yksikköä"_, joka tekee ympäristöteoista todennettavaa ja vaihdettavaa varallisuutta. Se tekee eksplisiittiseksi sen, mikä usein jää piiloon: mittarit eivät vain kuvaa taloutta, vaan tuottavat sitä. Tämä herättää kysymyksen siitä, millaista kasvua syntyy, jos alamme laskea resilienssiä, elinkelpoisuutta ja yhteistä kapasiteettia?

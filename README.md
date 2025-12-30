@@ -27,27 +27,6 @@ layout:
 
 #### Hankkeessa laaditaan kuusi skenaariota talouskasvun merkityksestä tässä uudessa kontekstissa sekä ehdotuksia siitä, miten Suomi voi rakentaa strategisen etulyöntiaseman kehkeytyvissä verkostoissa.
 
-&#x20;
-
-<details>
-
-<summary>Nykyinen työvaihe</summary>
-
-Selvitys valmistuu joulukuussa 2025.
-
-**Työn alla**
-
-* Viimeistelemme sisältöjä.
-* Päivitämme sivuston rakennetta ja visuaalista ilmettä.
-
-**Aikaisemmat päivitykset**
-
-* Ensimmäinen kokonainen versio johdannosta.
-* Ensimmäinen kokonainen versio suosituksista.
-* Ensimmäiset versiot skenaarioista.
-
-</details>
-
 ### **Hankekuvaus**
 
 _Hankkeen toteuttaa ECSA Labs Oy. Rahoittajana toimii Sitra, joka keväällä 2025 haki selvityksiä uusista näkökulmista Suomen talouskasvun tulevaisuuteen._

@@ -20,36 +20,42 @@ layout:
 
 ## **Ohjelmoitavan talouden kasvu**
 
-#### **Talous merkitysten, arvojen ja suhteiden tuottamisen mediana**
+### **Johdanto /** **Talous merkitysten, arvojen ja suhteiden tuottamisen mediana**
 
-1. Miksi talouskasvun käsite on päivitettävä?&#x20;
-2. Talous ei ole vain järjestelmä — se on media
-   1. Taloudellisen median evoluution lyhyt historia
-3. Mikä muuttuu ohjelmoitavassa taloudessa?
-4. Mitä tämä tarkoittaa talouden kasvulle?
+1. <kbd>`Miksi talouskasvun käsite on päivitettävä?`</kbd>&#x20;
+2.  <kbd>`Talous ei ole vain järjestelmä — se on media`</kbd>
+
+    <kbd>`Taloudellisen median evoluution lyhyt historia`</kbd>
+3. <kbd>`Mikä muuttuu ohjelmoitavassa taloudessa?`</kbd>
+4. <kbd>`Mitä tämä tarkoittaa talouden kasvulle?`</kbd>
 
 Info: _Taloudellisen median evoluution lyhyt historia_ \
 Info: _Mitä eri mediat mahdollistivat & mitä eivät_\
 Info: _Miksi lohkoketju ja krypto ei muuttanut taloutta?_\
 Info: _Miten sosiaalinen media on taloudellinen media?_
 
-#### **Talouden kasvu sen digitaalisen uudelleenmuotoilemisen aikakaudella**
+### **Skenaarioita ohjelmoitavan talouden kasvusta /** **Skenaariot – mitä jos talouden säännöt muuttuvat?**
 
-1. Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?
-2. Mitä jos mittaisimme talouskasvua ympäristövaikutuksilla?
-3. Mitä jos talous olisi luovaa ja luovuus taloudellista?
-4. Mitä jos talous olisi peli?
-5. Mitä jos organisaatiot olisivat ohjelmoitavia?
-6. Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?
+<kbd>`Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?`</kbd>
 
-#### **Suositukset Suomelle talouskasvun paradigman muutoksessa**
+<kbd>`Mitä jos mittaisimme talouskasvua ympäristövaikutuksilla?`</kbd>
 
-1. Talouskasvun paradigma on muuttunut
-2. Talouskasvu ohjelmoidaan jakamalla toimijuus verkoston reunoille
-3. Ajattelutavan muutos (Suositus 1)
-4. Taloudellisen mielikuvituksen vapauttaminen (Suositus 2)
-5. Taloudellisten infrastruktuurien systemaattinen kehittäminen (Suositus 3)
-6. Loppusanat: Talouden tulevaisuutta ei ole jo ratkaistu
+<kbd>`Mitä jos talous olisi luovaa ja luovuus taloudellista?`</kbd>
+
+<kbd>`Mitä jos talous olisi peli?`</kbd>
+
+<kbd>`Mitä jos organisaatiot olisivat ohjelmoitavia?`</kbd>
+
+<kbd>`Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?`</kbd>
+
+### **Suositukset Suomelle talouskasvun paradigman muutoksessa**
+
+1. <kbd>`Talouskasvun paradigma on muuttunut`</kbd>
+2. <kbd>`Talouskasvu ohjelmoidaan jakamalla toimijuus verkoston reunoille`</kbd>
+3. <kbd>`Ajattelutavan muutos (Suositus 1)`</kbd>
+4. <kbd>`Taloudellisen mielikuvituksen vapauttaminen (Suositus 2)`</kbd>
+5. <kbd>`Taloudellisten infrastruktuurien systemaattinen kehittäminen (Suositus 3)`</kbd>
+6. <kbd>`Loppusanat: Talouden tulevaisuutta ei ole jo ratkaistu`</kbd>
 
 Info: _Agentic State – Hallinnon uudet aivot_\
 Info: _EuroStack – Euroopan digitaalinen ruumis_\
