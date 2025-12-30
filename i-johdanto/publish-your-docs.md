@@ -23,7 +23,7 @@ layout:
 
 # Talous merkitysten, arvojen ja suhteiden tuottamisen mediana
 
-#### **Aluksi**
+### **Aluksi**
 
 _Tämä raportti on arkkitehtuurinen ja kulttuurinen interventio. Tavoitteemme on tehdä talouspolitiikalle sama, minkä TCP/IP teki tietoliikenteelle: ei korjata vanhaa järjestelmää, vaan määritellä uusi kerros, jonka päälle talouden tulevaisuus ja sen kasvu voidaan rakentaa. Kun hyväksymme, että talous on "informaation välitystä" eikä "niukkuuden hallintaa", tämän raportin analyysi ja sen ehdotukset muuttuvat magiikasta muutoksen logiikaksi._
 
@@ -122,8 +122,6 @@ Sosiaalinen media demokratisoi puheen, mutta ei taloudellista toimijuutta. Kaikk
 
 </details>
 
-
-
 _5. Lohkoketjut: verkosto alkaa nähdä itsensä, mutta osaa laskea edelleen vain vanhalla logiikalla_
 
 2010-luvulla lohkoketjut avasivat seuraavan oven taloudelliselle laskennalle. Ensimmäistä kertaa verkko pystyi pitä­mään kirjaa itsestään ilman keskitettyä operaattoria: verkko saattoi nyt pitää yllä tilaansa (state) yhdessä, suorittaa sääntönsä hajautetusti ja tuottaa luottamuksen tähän matemaattisesti, ilman keskitettyä operaattoria.
@@ -171,8 +169,6 @@ Jotta talous todella muuttuisi, pelkkä teknisen infrastruktuurin muuttaminen ei
 
 </details>
 
-
-
 _6. Mitä tapahtuu seuraavaksi?_ \
 \
 Meidän käsityksemme on selvä: Seuraava looginen askel tässä evoluutiossa ovat **hajautetun taloudellinen toimijuuden ja tekijyyden protokollat.**
@@ -190,7 +186,7 @@ Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verote
 
 <details>
 
-<summary><em><strong>Taloudellisen median evoluution lyhyt historia (hyvin lyhyesti)</strong></em></summary>
+<summary><em>Taloudellisen median evoluution lyhyt historia</em></summary>
 
 1. **Rituaalit & muisti = sosiaalinen mutta skaalautumaton laskenta**\
    Arvo laskettiin suhteina ja velvoitteina – älykästä, mutta ilman pysyvää mediaa tai verkostomaista skaalaa.<br>
@@ -219,11 +215,9 @@ Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verote
 
 </details>
 
-
-
 <details>
 
-<summary><em><strong>Taloudellisen median evoluution lyhyt historia</strong></em> </summary>
+<summary><em>Taloudellisen median evoluution lyhyt historia</em> </summary>
 
 
 
@@ -237,8 +231,6 @@ Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verote
 | 6. Ohjelmoitava talous (distributed economic computation) | Protokollat, agentit, hajautettu laskenta | Talouden logiikasta tulee muokattavaa: verkosto voi itse määritellä, laskea ja ohjata arvoa; taloudellinen toimijuus siirtyy reunoille; ekonomia voidaan suunnitella, testata ja päivittää reunoilta           |
 
 </details>
-
-
 
 <details>
 
@@ -257,9 +249,7 @@ Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verote
 
 </details>
 
-
-
-#### **3. Mikä muuttuu ohjelmoitavassa taloudessa?**
+### **3. Mikä muuttuu ohjelmoitavassa taloudessa?**
 
 Talouden ohjelmoitavuus ei tarkoita vain automaatiota. Se ei tarkoita vain optimointia. Se ei tarkoita vain digitalisaatiota. **Se on valtaa muokata talouden perusrakennetta:  sen kieltä, logiikkaa ja yhteistoiminnan muotoja.**
 
@@ -273,15 +263,7 @@ Toisin sanoen: Taloudellisen yhteistoiminnan sääntöjä ei tarvitse enää vai
 
 Ja tässä murroksessa tapahtuu neljä keskeistä siirtymää:
 
-**Vanha**                                             **Uusi**
-
-_Keskitetty hallinta                          Hajautettu toimijuus_
-
-_Varastointi                                      Virtaus_
-
-_Yksi mittari (voitto/hinta)               Moniulotteinen laskenta_
-
-_Yhden toimijan lokaali näkymä     Verkosto tunnistaa itsensä toimijana_
+<table><thead><tr><th>Vanha</th><th>Uusi</th><th data-hidden></th></tr></thead><tbody><tr><td><em>Keskitetty hallinta</em> </td><td><em>Hajautettu toimijuus</em></td><td></td></tr><tr><td><em>Varastointi</em></td><td><em>Virtaus</em></td><td></td></tr><tr><td><em>Yksi mittari (voitto/hinta)</em></td><td><em>Moniulotteinen laskenta</em></td><td></td></tr><tr><td><em>Yhden toimijan lokaali näkymä</em></td><td><em>Verkosto tunnistaa itsensä toimijana</em></td><td></td></tr></tbody></table>
 
 Tämä muuttaa talouden luonteen: talous ei ole enää pelkkä vaihdon ja voiton maksimoinnin alusta, vaan siitä tulee **koordinaation kieli.**
 
@@ -306,7 +288,7 @@ Toisin sanoen, kun talouden kieli muuttuu media-alustaksi:
 * arvo ei ole yksiulotteinen, vaan monikielinen
 * verkosto alkaa nähdä itsensä taloudellisena toimijana
 
-#### **4. Mitä tämä tarkoittaa talouden kasvulle?**
+### **4. Mitä tämä tarkoittaa talouden kasvulle?**
 
 Kun talous muuttuu media-alustaksi, myös kasvu muuttuu: se ei ole enää vain määrän lisääntymistä, vaan kasvavaa kykyä ilmaista, tunnistaa ja koordinoida arvoa.
 
