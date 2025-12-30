@@ -51,7 +51,7 @@ Suomella on mahdollisuus toimia edelläkävijänä uudenlaisen organisaatio- ja 
 
 </details>
 
-### **Johdanto**
+### **Aluksi**
 
 Perinteiset talousmallit ovat kuin Lego-teemasettien kokoamisohjeita: pakkaus sisältää tarkat ohjeet ja ennalta määrätyt palat yhtä tiettyä lopputulosta varten. Tämä teolliselta ajalta peritty arkkityyppinen malli on kuitenkin osoittautunut kapeaksi ja riittämättömäksi. Luovan työn ja taloudellisen toimijuuden alueella sen historiaa voidaan hahmottaa kolmen näytöksen kautta. Ensin oli portinvartijoiden aikakausi, jolloin kustantamot ja levy-yhtiöt hallitsivat pääsyä markkinoille. Sitten tuli alustojen nousu, kun Kickstarterin ja YouTuben kaltaiset toimijat demokratisoivat pääsyn yleisön luo, mutta siirsivät vallan uusille keskittymille ja niiden algoritmeille.
 
