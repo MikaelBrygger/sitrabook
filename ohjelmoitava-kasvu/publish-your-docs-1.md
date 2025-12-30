@@ -28,10 +28,10 @@ layout:
 3. Mikä muuttuu ohjelmoitavassa taloudessa?
 4. Mitä tämä tarkoittaa talouden kasvulle?
 
-_Infoboksi: Taloudellisen median evoluution lyhyt historia_ \
-&#xNAN;_&#x49;nfoboksi: Mitä eri mediat mahdollistivat & mitä eivät_\
-&#xNAN;_&#x49;nfoboksi: Miksi lohkoketju ja krypto ei muuttanut taloutta?_\
-&#xNAN;_&#x49;nfoboksi: Miten sosiaalinen media on taloudellinen media?_
+Info: _Taloudellisen median evoluution lyhyt historia_ \
+Info: _Mitä eri mediat mahdollistivat & mitä eivät_\
+Info: _Miksi lohkoketju ja krypto ei muuttanut taloutta?_\
+Info: _Miten sosiaalinen media on taloudellinen media?_
 
 #### **Talouden kasvu sen digitaalisen uudelleenmuotoilemisen aikakaudella**
 
@@ -51,7 +51,7 @@ _Infoboksi: Taloudellisen median evoluution lyhyt historia_ \
 5. Taloudellisten infrastruktuurien systemaattinen kehittäminen (Suositus 3)
 6. Loppusanat: Talouden tulevaisuutta ei ole jo ratkaistu
 
-_Infoboksi: Agentic State – Hallinnon uudet aivot_\
-_Infoboksi: EuroStack – Euroopan digitaalinen ruumis_\
-_Infoboksi: Xerox Parc – Tulevaisuuden laboratorio_\
-_Infoboksi: Kim Stanley Robinson – Talouden tulevaisuuden ministeriö_
+Info: _Agentic State – Hallinnon uudet aivot_\
+Info: _EuroStack – Euroopan digitaalinen ruumis_\
+Info: _Xerox Parc – Tulevaisuuden laboratorio_\
+Info: _Kim Stanley Robinson – Talouden tulevaisuuden ministeriö_
