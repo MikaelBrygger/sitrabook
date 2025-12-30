@@ -25,8 +25,6 @@ layout:
 
 ### **Talouden ja hallinnon arkkitehtuurit agenttipohjaisella aikakaudella**
 
-
-
 <details>
 
 <summary>Tiivistelmä</summary>
@@ -93,9 +91,7 @@ Suomella on poikkeuksellisen hyvät edellytykset olla ensimmäinen “Toimijaval
 
 </details>
 
-
-
-**Aihe:** Avoin Kirje Toimijavaltiolle (Agentic State)
+**Aihe:** Avoin kirje Toimijavaltiolle (_Agentic State_)
 
 **Lähettäjä:** Economic Space Agency (ECSA) -tiimi
 
