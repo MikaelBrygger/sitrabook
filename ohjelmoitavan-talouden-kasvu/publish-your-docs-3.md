@@ -33,10 +33,11 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu tärkeisiin teoreettisi
 
 **1. Economic Space Agency: taloudellisen toimijuus ja sen jakaminen**
 
-* [Ohjelmoitavan talouden kasvu – audio overview](https://notebooklm.google.com/notebook/f36941e8-5ac3-49d4-9e5c-df3e68193f75/audio) **🎧**\
+* [Ohjelmoitavan talouden kasvu – audio overview](https://notebooklm.google.com/notebook/d543a16e-4b0d-4a09-b807-2e083ed41e9f) **🎧**\
   Lyhyt äänellinen johdatus hankkeen kysymyksenasetteluun ja lähestymistapaan. Toimii yhteenvetona ohjelmoitavan talouden ideasta niille, jotka haluavat hahmottaa sen nopeasti ja intuitiivisesti. Generoitu tekoälyn avulla.
 * [Distributing economic space agency with ECSA](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3) \
-  Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana median&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen with Kevin Owocki.
+  Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana median&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen - Kevin Owockin haastattelemana.
+* ECSA:n perusteos: Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
 
 **2. Talous protokollina ja ohjelmoitavana järjestelmänä**&#x20;
 
@@ -57,8 +58,7 @@ Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järje
 
 Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
 
-* Beller (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression.\
-  [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
+* Beller (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression. [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
 * Beller (2023):  [_On Economic Intelligence._](https://hackmd.io/@ECSA/rJSza2HxR) _A foreword to_ Bryan, Lopez & Virtanen (2023): _Protocols for Postcapitalist Expression._
 * Beller (2021): _The World Computer. Derivative Conditions of Racial Capitalism._ Durham: Duke University Press. Analyysi laskennallisen kapitalismin logiikasta ja informaation muuttumisesta arvoksi.
 * Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
@@ -78,7 +78,7 @@ Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja os
 * Homi, Koskinen, Vaden & Virtanen (2018): _Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
 * Latour (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
 * Lovink (2021): _Sad by Design._ Pluto Press.
-* Lovink (2025): Platform Brutality. Amsterdam: Valiz.
+* Lovink (2025): _Platform Brutality._ Amsterdam: Valiz.
 * Callon, M. (1998): The Laws of the Markets. Blackwell Publishers.
 * North, D. (1990): _Institutions, Institutional Change and Economic Performance._ Cambridge University Press. Institutionaalisen taloustieteen perusta: "pelisäännöt" (instituutiot/protokollat) määrittävät taloudellisen menestyksen.
 * Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
