@@ -33,7 +33,7 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu tärkeisiin teoreettisi
 
 **1. Economic Space Agency: taloudellisen toimijuus ja sen jakaminen**
 
-* [Ohjelmoitavan talouden kasvu – audio overview](https://notebooklm.google.com/notebook/d543a16e-4b0d-4a09-b807-2e083ed41e9f) **🎧**\
+* [Ohjelmoitavan talouden kasvu – audio overview ](https://notebooklm.google.com/notebook/d543a16e-4b0d-4a09-b807-2e083ed41e9f)**🎧 > Studio**\
   Lyhyt äänellinen johdatus hankkeen kysymyksenasetteluun ja lähestymistapaan. Toimii yhteenvetona ohjelmoitavan talouden ideasta niille, jotka haluavat hahmottaa sen nopeasti ja intuitiivisesti. Generoitu tekoälyn avulla.
 * [Distributing economic space agency with ECSA](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3) \
   Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana median&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen - Kevin Owockin haastattelemana.
