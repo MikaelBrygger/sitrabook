@@ -59,9 +59,9 @@ Historia on opettanut meille yhden asian uusista medioista: kun ihmiskunnan komm
 \
 Tämä raportti kysyy siksi: Mikä on uuden syntymässä olevan taloudellisen mediumin viesti meille ja käsityksellemme taloudelliselle kasvusta? Mikä on se muutos mittakaavassa, rytmissä ja muodossa, jonka se tuo taloudelliseen toimintaamme?
 
-Kirjoitustaito mahdollisti lait ja valtiot. Painokone ei vain tuonut kirjoja, se loi modernin sopimusjärjestelmän. Internet ei vain tehostanut kommunikaatiota, se muutti identiteetit, politiikan ja kulttuurin. Kun talous alkaa nyt muistuttaa yhä enemmän “kommunikaatiovälinettä”, mitä tapahtuu käsityksellemme arvosta, vaihdosta ja koordinaatiosta? Mikä tapahtuu talouden kasvulle kun suhteemme talouteen muuttuu pelkästä "luku-oikeudesta" (Read Only) "luku- ja kirjoitusoikeudeksi" (Read/Write)?
+Kirjoitustaito mahdollisti lait ja valtiot. Painokone ei vain tuonut kirjoja, se loi modernin sopimusjärjestelmän. Internet ei vain tehostanut kommunikaatiota, se muutti identiteetit, politiikan ja kulttuurin. Kun talous alkaa nyt muistuttaa yhä enemmän “kommunikaatiovälinettä”, mitä tapahtuu käsityksellemme arvosta, vaihdosta ja koordinaatiosta? Mikä tapahtuu talouden kasvulle kun suhteemme talouteen muuttuu pelkästä "luku-oikeudesta" (_read only_) "luku- ja kirjoitusoikeudeksi" (_read/write_)?
 
-Tämä on suurempi muutos kuin siirtymä sanomalehdestä (Read only) Facebookiin (Read/Write) aikaan oli.
+Tämä on suurempi muutos kuin siirtymä sanomalehdestä (_read only_) Facebookiin (_read/write_) aikaan oli.
 
 On selvää, että se ei vain nopeuta vanhaa, vaan luo täysin uusia taloudellisen interaktion muotoja, rytmejä ja mittakaavaa.
 
