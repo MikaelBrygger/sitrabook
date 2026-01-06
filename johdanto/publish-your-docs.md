@@ -311,9 +311,9 @@ Tässä raportissa esittelemme mm. skenaarioita, joissa kasvu syntyy:
 
 Tässä siirtymässä kasvu ei ole vain määrän lisääntymistä — vaan **taloudellisen ilmaisun laajentumista**. Se on kykyä tehdä näkyväksi sellaisia arvoja ja yhteisöllisiä vaikutuksia, jotka eivät mahtuneet teollisen talouden mittayksikköön. Se on siirtymä taloudesta, joka laskee vain markkinoita, talouteen, joka voi laskea myös hyvinvointia, ekologiaa, kulttuuria, yhteisöllisyyttä, luottamusta ja tulevia sukupolvia.
 
-Kasvu ei ole enää kysymys siitä, miten tehostamme olemassa olevaa.
+Kasvussa ei ole enää kysymys siitä, miten tehostamme olemassa olevaa.
 
-Kasvu on kysymys siitä, mitä kaikkea voimme alkaa laskea arvoksi.
+Kasvussa on kysymys siitä, mitä kaikkea voimme alkaa laskea arvoksi.
 
 Tästä syystä ohjelmoitava talous ei ole vain teknologinen innovaatio.
 
