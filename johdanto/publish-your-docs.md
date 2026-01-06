@@ -108,7 +108,7 @@ Alustoista tuli uusia koordinaattoreita, mutta niiden taloudellinen kielioppi ol
 
 <details>
 
-<summary><em>Miksi s<strong>osiaalinen media on jo taloudellinen media?</strong></em></summary>
+<summary><em>Miksi <strong>sosiaalinen media on jo taloudellinen media?</strong></em></summary>
 
 **Mitä tapahtuu, kun kommunikoinnin välineet muuttuvat – mutta talouden kieli ei?**\
 Sosiaalinen media lupasi demokratian: jokainen sai äänen, kanavan ja yleisön. Mutta taustalla toimi koko ajan kaksikerroksinen järjestelmä:
@@ -299,7 +299,7 @@ Talouden kasvu alkaa tarkoittaa:
 * uusia tapoja arvottaa työ, ekologia, hoiva ja kulttuuri,
 * uusia osallistumisen tapoja, jotka eivät perustu omistukseen tai pääomaan.
 
-Kasvun ydinkysymys muuttuu muotoon: m**itä arvoa haluamme tuottaa — ja millä logiikalla haluamme sen jakaa?**
+Kasvun ydinkysymys muuttuu muotoon: **mitä arvoa haluamme tuottaa — ja millä logiikalla haluamme sen jakaa?**
 
 Jos talouden vanha kasvu oli ekstensiivistä – lisää hiiltä, lisää työtunteja, lisää velkaa – niin ohjelmoitavan talouden uusi kasvu on intensiivistä: lisää älykkyyttä, lisää koordinaatiota, lisää merkitystä, lisää yhteistoiminnan muotoja, lisää ilmaisukykyä.
 
