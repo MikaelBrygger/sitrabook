@@ -317,7 +317,7 @@ Kasvussa on kysymys siitä, mitä kaikkea voimme alkaa laskea arvoksi.
 
 Tästä syystä ohjelmoitava talous ei ole vain teknologinen innovaatio.
 
-Se on **uusi aikakausi taloudellisessa ajattelussa ja kulttuurissa.**
+Se on **uusi aikakausi** taloudellisessa ajattelussa ja kulttuurissa.
 
 
 
