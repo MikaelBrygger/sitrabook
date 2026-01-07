@@ -1,5 +1,5 @@
 ---
-icon: paper-plane
+icon: sun-bright
 layout:
   width: default
   title:

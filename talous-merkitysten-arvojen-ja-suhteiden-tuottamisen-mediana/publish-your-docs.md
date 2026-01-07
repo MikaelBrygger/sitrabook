@@ -1,5 +1,5 @@
 ---
-icon: paper-plane
+icon: cloud
 cover: ../.gitbook/assets/intro-banner-alt.svg
 coverY: 0
 layout:

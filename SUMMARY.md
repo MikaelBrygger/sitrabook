@@ -17,7 +17,6 @@
 * [Taloudellisen median evoluution lyhyt historia](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-3.md)
 * [Mikä muuttuu ohjelmoitavassa taloudessa?](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-4.md)
 * [Mitä tämä tarkoittaa talouden kasvulle?](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-5.md)
-* [Backup](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-6.md)
 
 ## Skenaarioita ohjelmoitavan talouden kasvusta&#x20;
 
@@ -42,3 +41,4 @@
 * [Liite 1: Signaaleja](liitteet/readme.md)
 * [Liite 2: A New Paradigm in Value Computation](liitteet/readme-1.md)
 * [Liite 3: Mitä jos -kysymyksen perustelu](liitteet/liite-3-mita-jos-kysymyksen-perustelu.md)
+* [Backup](liitteet/publish-your-docs.md)
