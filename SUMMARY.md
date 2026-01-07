@@ -41,4 +41,3 @@
 * [Liite 1: Signaaleja](liitteet/readme.md)
 * [Liite 2: A New Paradigm in Value Computation](liitteet/readme-1.md)
 * [Liite 3: Mitä jos -kysymyksen perustelu](liitteet/liite-3-mita-jos-kysymyksen-perustelu.md)
-* [Backup / Johdanto](liitteet/publish-your-docs.md)
