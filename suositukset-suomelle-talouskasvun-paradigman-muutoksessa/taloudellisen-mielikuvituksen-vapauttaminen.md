@@ -1,5 +1,5 @@
 ---
-icon: splotch
+icon: '4'
 cover: ../.gitbook/assets/banner-rec-4.svg
 coverY: 0
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 4. Taloudellisen mielikuvituksen vapauttaminen
+# Taloudellisen mielikuvituksen vapauttaminen
 
 ### **Suositus 2**
 

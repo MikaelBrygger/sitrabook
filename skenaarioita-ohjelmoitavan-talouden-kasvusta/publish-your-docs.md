@@ -1,5 +1,5 @@
 ---
-icon: sun-bright
+icon: cloud
 layout:
   width: default
   title:

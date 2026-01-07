@@ -30,15 +30,15 @@
 
 ## Suositukset Suomelle talouskasvun paradigman muutoksessa
 
-* [1. Talouskasvun paradigma on muuttunut](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/1.-talouskasvun-paradigma-on-muuttunut.md)
-* [2. Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/2.-talouskasvu-ohjelmoidaan-jakamalla-toimijuus-verkon-reunoille.md)
-* [3. Ajattelutavan muutos](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/3.-ajattelutavan-muutos.md)
-* [4. Taloudellisen mielikuvituksen vapauttaminen](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/4.-taloudellisen-mielikuvituksen-vapauttaminen.md)
-* [5. Taloudellisten infrastruktuurien systemaattinen kehittäminen](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/5.-taloudellisten-infrastruktuurien-systemaattinen-kehittaminen.md)
+* [Talouskasvun paradigma on muuttunut](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/talouskasvun-paradigma-on-muuttunut.md)
+* [Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/talouskasvu-ohjelmoidaan-jakamalla-toimijuus-verkon-reunoille.md)
+* [Ajattelutavan muutos](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/ajattelutavan-muutos.md)
+* [Taloudellisen mielikuvituksen vapauttaminen](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/taloudellisen-mielikuvituksen-vapauttaminen.md)
+* [Taloudellisten infrastruktuurien systemaattinen kehittäminen](suositukset-suomelle-talouskasvun-paradigman-muutoksessa/taloudellisten-infrastruktuurien-systemaattinen-kehittaminen.md)
 
 ## Liitteet
 
 * [Liite 1: Signaaleja](liitteet/readme.md)
 * [Liite 2: A New Paradigm in Value Computation](liitteet/readme-1.md)
 * [Liite 3: Mitä jos -kysymyksen perustelu](liitteet/liite-3-mita-jos-kysymyksen-perustelu.md)
-* [Backup](liitteet/publish-your-docs.md)
+* [Backup / Johdanto](liitteet/publish-your-docs.md)

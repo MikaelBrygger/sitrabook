@@ -1,5 +1,5 @@
 ---
-icon: splotch
+icon: '3'
 cover: ../.gitbook/assets/banner-rec-3.svg.svg
 coverY: 0
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 3. Ajattelutavan muutos
+# Ajattelutavan muutos
 
 ### Suositus 1
 

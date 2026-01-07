@@ -1,5 +1,5 @@
 ---
-icon: droplet
+icon: '1'
 cover: ../.gitbook/assets/intro-banner-alt.svg
 coverY: 0
 layout:

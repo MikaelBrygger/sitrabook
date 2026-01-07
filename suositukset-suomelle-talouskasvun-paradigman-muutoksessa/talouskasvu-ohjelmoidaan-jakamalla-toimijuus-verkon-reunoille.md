@@ -1,5 +1,5 @@
 ---
-icon: splotch
+icon: '2'
 cover: ../.gitbook/assets/banner-rec-2.svg
 coverY: 0
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 2. Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille
+# Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille
 
 Kaksi mielenkiintoista eurooppalaista aloitetta  – **EuroStack** ja **Agentic State** –  julkaistiin tänä vuonna. Ne piirtävät kuvaa tulevaisuudesta, jossa maanosa tavoittelee teknologista omavaraisuutta ja hallinnon radikaalia tehostamista tekoälyn avulla.&#x20;
 

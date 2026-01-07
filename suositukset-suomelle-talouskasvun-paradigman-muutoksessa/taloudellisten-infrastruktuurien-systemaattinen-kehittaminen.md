@@ -1,5 +1,5 @@
 ---
-icon: splotch
+icon: '5'
 cover: ../.gitbook/assets/banner-rec-5.svg
 coverY: 0
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 5. Taloudellisten infrastruktuurien systemaattinen kehittäminen
+# Taloudellisten infrastruktuurien systemaattinen kehittäminen
 
 ### Suositus 3
 

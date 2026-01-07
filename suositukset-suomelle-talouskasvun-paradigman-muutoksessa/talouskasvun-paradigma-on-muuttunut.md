@@ -1,5 +1,5 @@
 ---
-icon: splotch
+icon: '1'
 cover: ../.gitbook/assets/banner-rec-1 (1).svg
 coverY: 0
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 1. Talouskasvun paradigma on muuttunut
+# Talouskasvun paradigma on muuttunut
 
 
 
