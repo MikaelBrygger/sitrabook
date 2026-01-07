@@ -9,9 +9,15 @@
 * [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
 * [Kirjallisuuskartta](ohjelmoitavan-talouden-kasvu/publish-your-docs-3.md)
 
-## Johdanto
+## Talous merkitysten, arvojen ja suhteiden tuottamisen mediana
 
-* [Talous merkitysten, arvojen ja suhteiden tuottamisen mediana](johdanto/publish-your-docs.md)
+* [Aluksi](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs.md)
+* [Miksi talouskasvun käsitettä on päivitettävä?](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-1.md)
+* [Talous ei ole vain järjestelmä – se on media](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-2.md)
+* [Taloudellisen median evoluution lyhyt historia](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-3.md)
+* [Mikä muuttuu ohjelmoitavassa taloudessa?](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-4.md)
+* [Mitä tämä tarkoittaa talouden kasvulle?](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-5.md)
+* [Backup](talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-6.md)
 
 ## Skenaarioita ohjelmoitavan talouden kasvusta&#x20;
 
