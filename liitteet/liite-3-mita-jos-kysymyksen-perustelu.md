@@ -36,8 +36,8 @@ Ja niin kauan kuin emme osallistu itse tähän muutokseen…
 
 Mitä jos talouden digitalisaation mahdollisuudet avautuvat vasta, kun ymmärrämme talouden uudella tavalla? Ei vain järjestelmänä, vaan protokollana. Ei vain rakenteena, vaan ilmaisun tilana. Ei vain vanhana taloutena, vaan uutena mediana. Johon siirtymistä AI tulee vain kiihdyttämään.
 
-Mitä jos kasvu ei ole vain määrän lisääntymistä – vaan kykyä ilmaista uusia tapoja luoda ja jakaa arvoa? Mitä jos se, joka kontrolloi protokollaa, kontrolloi sitä, mikä lasketaan taloudeksi?
+Mitä jos kasvu ei ole vain määrän lisääntymistä, vaan kykyä ilmaista uusia tapoja luoda ja jakaa arvoa? Mitä jos se, joka kontrolloi protokollaa, kontrolloi sitä, mikä lasketaan taloudeksi?
 
-Suomella on mahdollisuus. Meillä on digitaalinen infrastruktuuri, avoin hallinto, kokeilukulttuuri ja -kyky. Mutta meiltä puuttuu vielä uusi talouden kieli. Kieli, jolla ei vain puhuta talouden kasvusta – vaan rakennetaan se uudella tavalla.
+Suomella on mahdollisuus. Meillä on digitaalinen infrastruktuuri, avoin hallinto, kokeilukulttuuri ja -kyky. Mutta meiltä puuttuu vielä uusi talouden kieli. Kieli, jolla ei vain puhuta talouden kasvusta, vaan ilmaistaan se uudella tavalla.
 
 <br>
