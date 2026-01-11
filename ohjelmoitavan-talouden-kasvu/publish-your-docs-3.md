@@ -81,14 +81,17 @@ Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja os
 
 * Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
 * Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
+* Graeber, D. (2011): _Debt: The First 5000 Years._ Velka ja raha sosiaalisina suhteina, ei vain taloudellisina.
 * Heiskala R. & Virtanen A. (2011–2018): [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus. Taloudella ja sen konventioilla itsellään on historia. Ja tulevaisuus.
 * Homi H., Koskinen P., Vaden T. & Virtanen A. (2018): _Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
+* Hopwood, A. & Miller, P. (1994): _Accounting as Social and Institutional Practice._ Kirjanpito muokkaa organisaatioita ja yhteiskuntaa, ei vain heijasta niitä.
 * Latour B. (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
 * Lovink G. (2021): _Sad by Design._ Pluto Press.
 * Lovink G. (2025): _Platform Brutality._ Amsterdam: Valiz.
 * Callon, M. (1998): The Laws of the Markets. Blackwell Publishers.
 * North, D. (1990): _Institutions, Institutional Change and Economic Performance._ Cambridge University Press. Institutionaalisen taloustieteen perusta: "pelisäännöt" (instituutiot/protokollat) määrittävät taloudellisen menestyksen.
 * Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
+* Power, M. (1997): _The Audit Society._ Miten kirjanpito luo luottamusta ja hallintaa.
 * Schneider, N. (2022): _Exit to Community: A Community Primer._ Käytännön opas omistajuuden ja hallinnan siirtämiseen startup-sijoittajilta yhteisöille (vrt. Raportin "Ohjelmoitava organisaatio").
 * Virtanen, A. (2006): _Biopoliittisen talouden kritiikki._ Helsinki: Tutikjaliitto. Mitä tapahtuu talouden rakenteelle ja vallan toiminnalle kun siirrymme semioottisen inflaation ja mielivaltaisen merkityksen (post-truth) aikaan? Mitä tapahtuu kun taloudellisen kokemuksemme taustaehdot (protokollat) muuttuvat empiirisesti havaittaviksi ja siten muokattaviksi?
 * Virtanen (2023): [Living in the Spread. How to create a postcapitalist economic network?](https://medium.com/econaut/living-in-the-spread-a95ff15ad74f) _ECSA Economic Papers._
