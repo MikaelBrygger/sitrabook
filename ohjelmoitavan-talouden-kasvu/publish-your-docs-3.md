@@ -103,7 +103,7 @@ Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja os
 Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
 
 * Castronova, E. (2005): _Synthetic Worlds: The Business and Culture of Online Games._ University of Chicago Press. Klassikko virtuaalitalouksien toiminnasta ja niiden vaikutuksesta reaalitalouteen (vrt. Skenaario 4).
-* Ernest Adams, Joris Dormans (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
+* Ernest A. & Dormans J. (2012): _Game Mechanics: Advanced Game Design._ Peachpit/New Riders. (Sektiot: Internal Economy; Building Economies).&#x20;
 * Huizinga, J. (1938): _Homo Ludens: A Study of the Play-Element in Culture._ Kulttuuriteoreettinen perusta sille, miksi leikki ja peli ovat sivilisaation (ja talouden) rakennusaineita.
 * Lehdonvirta & Castronova (2014): _Virtual Economies: Design and Analysis._ MIT Press.
 * Laihinen (2022): [Life in a Code – Mikael Brygger’s “NASDAQ 30.5.2010” as Found Poetry](https://doi.org/10.1163/9789004515956_016). In: _A Cultural History of the Avant-Garde in the Nordic Countries Since 1975_, s. 227–240.&#x20;
