@@ -37,7 +37,7 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu tärkeisiin teoreettisi
   Lyhyt äänellinen johdatus hankkeen kysymyksenasetteluun ja lähestymistapaan. Toimii yhteenvetona ohjelmoitavan talouden ideasta niille, jotka haluavat hahmottaa sen nopeasti ja intuitiivisesti. Generoitu tekoälyn avulla.
 * [Distributing economic space agency with ECSA](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3) \
   Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana mediana ja sen seurauksist&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen - Kevin Owockin haastattelemana.
-* ECSA:n perusteos: Bryan D., Lopez J. & Virtanen A. (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
+* ECSA:n perusteos: Bryan D., Lopez J. & Virtanen A. (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia. Jäsentää talouden ohjelmoitavana mediana ja tarjoaa käsitteellisen perustan hajautetun taloudellisen toimijuuden ja uusien arvonluonnin protokollien rakentamiselle.
 
 **2. Talous protokollina ja ohjelmoitavana järjestelmänä**&#x20;
 
@@ -51,7 +51,7 @@ Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järje
 * Ingham, G. (2004): The Nature of Money. Polity Press.
 * Luhmann, N. (1988/2012): The Economy of Society (Die Wirtschaft der Gesellschaft). Stanford University Press.
 * Mallett J. (2020), [Scaling and Consensus in Monetary Systems](https://assets.pubpub.org/i0dxgael/21581338973988.pdf). Dept. of Comp. Sci., Reykjavik University, Reykjavik, Iceland.
-* Mehrling, P. (2011): _The New Lombard Street. How the Fed Became the Dealer of the Last Resort._ Princeton University Press.
+* Mehrling, P. (2011): _The New Lombard Street. How the Fed Became the Dealer of the Last Resort._ Princeton University Press. Rahateorian nykyklassikko, joka avaa talouden ”putkiston” (money view) ja osoittaa, että likviditeetti ei ole hyödyke vaan hierarkkinen ja aktiivisesti ylläpidetty infrastruktuuri.
 * Mehrling, P. (2012):  [_The Money View: Lectures on the Economics of Money and Banking_](https://sites.bu.edu/perry/lectures/mb-lectures/) Institute for New Economic Thinking, Fall Semester 2012.￼
 * UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
