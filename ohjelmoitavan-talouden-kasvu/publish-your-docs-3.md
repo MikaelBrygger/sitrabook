@@ -65,14 +65,15 @@ Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ol
 * Beller (2021): _The World Computer. Derivative Conditions of Racial Capitalism._ Durham: Duke University Press. Analyysi laskennallisen kapitalismin logiikasta ja informaation muuttumisesta arvoksi.
 * Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
 * Flusser, V. (1984): _Towards A Philosophy of Photography_, ed. Derek Bennett, Göttingen: European Photography.
-* Flusser, V. (1985/2011:  _Into the Universe of Technical Images_, translated by Nancy Ann Roth. University of Minnesota Press.
+* Flusser, V. (1985/2011):  _Into the Universe of Technical Images_, translated by Nancy Ann Roth. University of Minnesota Press.
 * Kittler, F. A. (1999): _Gramophone, Film, Typewriter._ Stanford University Press.
 * Lopez (2022): [Economy as a re-programmable communication medium](https://web.archive.org/web/20220815054657/http://www.lafuriaumana.it/index.php/77-lfu-43/1102-jorge-lopez-our-economy-a-re-programmable-network-operating-system). _La Furia Humana_ Special Issue on Economic Media.
 * Lopez & Virtanen (2023): [An Expanded Ledger Grammar for Encoding and Communicating Our Economic Realities](https://medium.com/econaut/an-expanded-ledger-grammar-for-encoding-and-communicating-our-economic-realities-b32cdb1d3abb). ECSA Economic Papers.
 * Parikka, J. (2015): _A Geology of Media._ University of Minnesota Press. Media (ja siten myös ohjelmoitava talous) ei ole vain aineetonta "pilveä" tai koodia, vaan syvästi materiaalista infrastruktuuria, joka on kytköksissä maaperään, energiaan ja geologiaan. Kun muutamme talouden mediumia, muutamme myös sen aineellista suhdetta planeettaan.&#x20;
+* Parikka, J. (2012): What is Media Archaeology? Polity Press. Uutta mediaa, kuten ohjelmoitavaa taloutta, ei voi ymmärtää ilman sen historiallisten kerrostumien ja materiaalisten ehtojen "arkeologiaa".&#x20;
 * McLuhan, M. (1964): Understanding Media: The Extensions of Man. New York: McGraw-Hill.
 * Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
-* Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
+* Virtanen A. (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
 
 **4. Protokollat yhteiskunnallisena järjestäytymisenä**&#x20;
 
