@@ -112,41 +112,42 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
 * Amato, M. & Fantacci, L. (2012): _The End of Finance._ Polity. Syvällinen analyysi clearing-järjestelmistä ja siitä, miten raha voidaan suunnitella likviditeetiksi ilman varastointia (vrt. Skenaario 1).
+* Bank of England (2014): [How is money created](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy). Quarterly Bulletin Q1.
 * Bank for International Settlements (BIS): [Central bank digital currencies: ongoing policy perspectives](https://www.bis.org/publ/othp65.htm). BIS, 25 May 2023. Analyysejä, raportteja ja viiteasiakirjoja, jotka käsittelevät periaatteita, riskejä, design‑kysymyksiä ja keskuspankkien yhteistyötä CBDC‑teeman ympärillä.
-* Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
-* Keynes, J. M. (1930): _Treatise on Money_ (valikoidusti, ei dogmaattisesti)
-* Mehrling, Perry: _The New Lombard Street_
-* Minsky, H. (1986): _Stabilizing an Unstable Economy_. McGraw-Hill.
-* Fleischman, T., Dini, P. & Littera, G. (2020): [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295). Journal of Risk and Financial Management 13(12):295. ￼
-* Fleischman, T. & Dini, P. (2021): [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452). Journal of Risk and Financial Management 14(9):452.
-* Green, Dil (2021): “[Someone Just Turned the Lights On](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)”. MutualCredit.Services. ￼Blog.
-* [Clearing and Settlement Systems fromAround the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf)
-* Tompkins, M. & Olivares, A. (2016): [Clearing and Settlement Systems from Around the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf). EconStor Working Paper.  ￼
-* Dini, T. P. (2025): [Neutral Settlement Layer for Interoperability between Different Forms of Local Financial Expression](https://www.researchgate.net/publication/387951277_Neutral_Settlement_Layer_for_Interoperability_between_Different_Forms_of_Local_Financial_Expression) (ResearchGate PDF / conference paper). ￼
 * Börner, Lars & Hatfield, John William (2017): [The Design of Debt-Clearing Markets: Clearinghouse Mechanisms in Preindustrial Europe.](https://www.journals.uchicago.edu/doi/abs/10.1086/694288?journalCode=jpe) Journal of Political Economy 125(6).
-* Woodroof, Tom (2025): Interview: [Credit Clearing in Slovenia – A Conversation with Tomaž Fleischman](https://localloop-merseyside.co.uk/blog/credit-clearing-in-slovenia-a-conversation-with-tomaz-fleischman-part-1/), Part 1. Local Loop Merseyside (Economics / Community / Interview), 27 May 2025. Recorded May 2025.&#x20;
-* Clavero, Borja (2022): [Money and Hierarchy: Four Ways to Discharge a Payment Obligation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032398). SSRN Working Paper No. 4032398. University of Winchester. Revised April 2025.
+* Clavero, B. (2022): [Money and Hierarchy: Four Ways to Discharge a Payment Obligation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032398). SSRN Working Paper No. 4032398. University of Winchester. Revised April 2025.
+* Dini, T. P. (2025): [Neutral Settlement Layer for Interoperability between Different Forms of Local Financial Expression](https://www.researchgate.net/publication/387951277_Neutral_Settlement_Layer_for_Interoperability_between_Different_Forms_of_Local_Financial_Expression) (ResearchGate PDF / conference paper).&#x20;
 * Dini, Paolo; Kioupkiolis, Alexandros & Read, Robert (2019)\
   [The Alter-Politics of Complementary Currencies: The Case of Sardex](https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1646625#abstract). Cogent Social Sciences 5(1).
+* Fleischman, T., Dini, P. & Littera, G. (2020): [Liquidity-Saving through Obligation-Clearing and Mutual Credit: An Effective Monetary Innovation for SMEs in Times of Crisis](https://www.mdpi.com/1911-8074/13/12/295). Journal of Risk and Financial Management 13(12):295. ￼
+* Fleischman, T. & Dini, P. (2021): [Mathematical Foundations for Balancing the Payment System in the Trade Credit Market](https://www.mdpi.com/1911-8074/14/9/452). Journal of Risk and Financial Management 14(9):452.
+* Greco, T. (2009): _The End of Money and the Future of Civilization._ Chelsea Green Publishing. Käytännön malleja keskinäiselle luotolle ja vaihtoverkoille.
+* Green, D. (2021): “[Someone Just Turned the Lights On](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on)”. MutualCredit.Services. ￼Blog. ￼
+* Keynes, J. M. (1930): _Treatise on Money._ Keynesin rahateoreettinen suurteos, joka analysoi rahaa ensisijaisesti tilijärjestelmänä ja virtauksena, luoden pohjan ymmärrykselle rahasta informaationa eikä vain vaihdon välineenä.
 * Kiyotaki, Nobuhiro & Moore, John (2001)\
   [Evil Is the Root of All Money](https://www.princeton.edu/~kiyotaki/papers/Evilistherootofallmoney.pdf). Lecture 1, London School of Economics / Edinburgh University, 26 November 2001.&#x20;
+* Mehrling, P. (2011): _The New Lombard Street. How the Fed Became the Dealer of the Last Resort._ Princeton University Press. Rahateorian nykyklassikko, joka avaa talouden ”putkiston” (money view) ja osoittaa, että likviditeetti ei ole hyödyke vaan hierarkkinen ja aktiivisesti ylläpidetty infrastruktuuri.
+* Mehrling, P. (2012):  [_The Money View: Lectures on the Economics of Money and Banking_](https://sites.bu.edu/perry/lectures/mb-lectures/) Institute for New Economic Thinking, Fall Semester 2012.￼
+* Minsky, H. (1986): _Stabilizing an Unstable Economy_. McGraw-Hill.
+* Tompkins, M. & Olivares, A. (2016): [Clearing and Settlement Systems from Around the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf). EconStor Working Paper.&#x20;
+* Woodroof, Tom (2025): Interview: [Credit Clearing in Slovenia – A Conversation with Tomaž Fleischman](https://localloop-merseyside.co.uk/blog/credit-clearing-in-slovenia-a-conversation-with-tomaz-fleischman-part-1/), Part 1. Local Loop Merseyside (Economics / Community / Interview), 27 May 2025. Recorded May 2025.&#x20;
 
 **7. AI, laskennallinen toimijuus ja talous**
 
 Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
 * Bratton, Benjamin (2015–2022): _AI and Governance_ (esseitä ja luentoja). Eri julkaisuissa ja esityksissä (mm. Strelka Institute, Antikythera). Käsittelee tekoälyn roolia hallinnassa, infrastruktuureissa ja planetaarisessa laskennassa; AI nähdään laskennallisena toimijana, joka muuttaa taloudellista ja yhteiskunnallista koordinointia.
-* Epstein, Joshua M. (2006): _Generative Social Science: Studies in Agent-Based Computational Modeling._ Princeton University Press. Keskeinen teos agenttipohjaisesta laskennallisesta mallintamisesta taloustieteessä ja sosiaalitieteissä; käsittelee, miten yksittäiset toimijat luovat kollektiivisia rakenteita.
-* Parikka, Jussi (2023): _Operational Images: From the Visual to the Invisual._ University of Minnesota Press. Analyysi kuvasta ja datasta, joita ei ole tehty ihmissilmälle, vaan toisille koneille. Vrt. talous, joka on muuttumassa "operatiiviseksi mediaksi", joka toimii ilman ihmisen jatkuvaa väliintuloa.
-* Simon, Herbert A. (1969 / 1996). _The Sciences of the Artificial._ MIT Press. Klassinen teos keinotekoisten järjestelmien, suunnittelun ja rajallisen rationaalisuuden teoriasta; merkittävä myös laskennallisen toimijuuden ja päätöksenteon ymmärtämisessä.
-* Wiener, Norbert (1948). _Cybernetics: Or Control and Communication in the Animal and the Machine._ MIT Press. Perustava teos kybernetiikasta, palautesilmukoista ja laskennallisesta ohjauksesta; pohjustaa ymmärrystä automaation ja tekoälyn roolista yhteiskunnassa.
+* Epstein, J. M. (2006): _Generative Social Science: Studies in Agent-Based Computational Modeling._ Princeton University Press. Keskeinen teos agenttipohjaisesta laskennallisesta mallintamisesta taloustieteessä ja sosiaalitieteissä; käsittelee, miten yksittäiset toimijat luovat kollektiivisia rakenteita.
+* Parikka, J.(2023): _Operational Images: From the Visual to the Invisual._ University of Minnesota Press. Analyysi kuvasta ja datasta, joita ei ole tehty ihmissilmälle, vaan toisille koneille. Vrt. talous, joka on muuttumassa "operatiiviseksi mediaksi", joka toimii ilman ihmisen jatkuvaa väliintuloa.
+* Simon, H. A. (1969 / 1996). _The Sciences of the Artificial._ MIT Press. Klassinen teos keinotekoisten järjestelmien, suunnittelun ja rajallisen rationaalisuuden teoriasta; merkittävä myös laskennallisen toimijuuden ja päätöksenteon ymmärtämisessä.
+* Wiener, N. (1948). _Cybernetics: Or Control and Communication in the Animal and the Machine._ MIT Press. Perustava teos kybernetiikasta, palautesilmukoista ja laskennallisesta ohjauksesta; pohjustaa ymmärrystä automaation ja tekoälyn roolista yhteiskunnassa.
 
 **8. Fiktiivinen ja spekulatiivinen talousajattelu**&#x20;
 
 Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
-* Bratton, Benjamin (2013–2022): Speculative design -kirjoitukset. Spekulatiivinen suunnittelu menetelmänä poliittisten ja taloudellisten järjestelmien ajattelemiseen.
-* Le Guin, Ursula K. (1986): [_The Carrier Bag Theory of Fiction_](https://monoskop.org/File:Le_Guin_Ursula_K_1986_1989_The_Carrier_Bag_Theory_of_Fiction.pdf)_._ Alun perin essee, julkaistu useissa kokoelmissa. Fiktion rakenteellinen vaihtoehto sankarikeskeisille kertomuksille; usein sovellettu talous- ja järjestelmäajatteluun.
+* Bratton, B. (2013–2022): Speculative design -kirjoitukset. Spekulatiivinen suunnittelu menetelmänä poliittisten ja taloudellisten järjestelmien ajattelemiseen.
+* Le Guin, U. K. (1986): [_The Carrier Bag Theory of Fiction_](https://monoskop.org/File:Le_Guin_Ursula_K_1986_1989_The_Carrier_Bag_Theory_of_Fiction.pdf)_._ Alun perin essee, julkaistu useissa kokoelmissa. Fiktion rakenteellinen vaihtoehto sankarikeskeisille kertomuksille; usein sovellettu talous- ja järjestelmäajatteluun.
 * Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
 
 **9. Geopolitiikka ja strateginen arkkitehtuuri**&#x20;
