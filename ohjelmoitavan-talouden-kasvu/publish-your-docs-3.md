@@ -63,16 +63,16 @@ Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ol
 * Beller, J. (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression. [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
 * Beller (2023):  [_On Economic Intelligence._](https://hackmd.io/@ECSA/rJSza2HxR) _A foreword to_ Bryan, Lopez & Virtanen (2023): _Protocols for Postcapitalist Expression._
 * Beller (2021): _The World Computer. Derivative Conditions of Racial Capitalism._ Durham: Duke University Press. Analyysi laskennallisen kapitalismin logiikasta ja informaation muuttumisesta arvoksi.
-* Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
-* Flusser, V. (1984): _Towards A Philosophy of Photography_, ed. Derek Bennett, Göttingen: European Photography.
-* Flusser, V. (1985/2011):  _Into the Universe of Technical Images_, translated by Nancy Ann Roth. University of Minnesota Press.
-* Kittler, F. A. (1999): _Gramophone, Film, Typewriter._ Stanford University Press.
+* Bratton, B. H. (2015): _The Stack: On Software and Sovereignty._ MIT Press. Geopoliittinen analyysi siitä, miten planeetan mittakaavan laskentainfrastruktuuri ("The Stack") haastaa perinteisen valtiollisen suvereniteetin ja luo uudenlaisen poliittisen ja taloudellisen maantieteen.
+* Flusser, V. (1984): _Towards A Philosophy of Photography_, ed. Derek Bennett, Göttingen: European Photography. Esittelee "apparatuurin" ja "ohjelman" käsitteet, jotka auttavat ymmärtämään, kuinka teknologiset järjestelmät (kuten talous) ohjaavat käyttäjiään, ellei niiden sisäistä logiikkaa opita haastamaan ja muuttamaan.
+* Flusser, V. (1985/2011):  _Into the Universe of Technical Images_, translated by Nancy Ann Roth. University of Minnesota Press. Visio siirtymästä lineaarisen tekstin kulttuurista kohti laskennallista yhteiskuntaa, jossa kommunikaatio ja sosiaaliset suhteet rakentuvat automatisoitujen ja teknisten pintojen varaan.
+* Kittler, F. A. (1999): _Gramophone, Film, Typewriter._ Stanford University Press. Mediateorian klassikko, jonka väite "media määrää tilanteemme" perustelee, miksi taloutta on tarkasteltava sen teknisten ehtojen (tallennus, siirto, laskenta) eikä vain sisältöjen kautta.
 * Lopez (2022): [Economy as a re-programmable communication medium](https://web.archive.org/web/20220815054657/http://www.lafuriaumana.it/index.php/77-lfu-43/1102-jorge-lopez-our-economy-a-re-programmable-network-operating-system). _La Furia Humana_ Special Issue on Economic Media.
 * Lopez & Virtanen (2023): [An Expanded Ledger Grammar for Encoding and Communicating Our Economic Realities](https://medium.com/econaut/an-expanded-ledger-grammar-for-encoding-and-communicating-our-economic-realities-b32cdb1d3abb). ECSA Economic Papers.
-* Parikka, J. (2015): _A Geology of Media._ University of Minnesota Press. Media (ja siten myös ohjelmoitava talous) ei ole vain aineetonta "pilveä" tai koodia, vaan syvästi materiaalista infrastruktuuria, joka on kytköksissä maaperään, energiaan ja geologiaan. Kun muutamme talouden mediumia, muutamme myös sen aineellista suhdetta planeettaan.&#x20;
 * Parikka, J. (2012): What is Media Archaeology? Polity Press. Uutta mediaa, kuten ohjelmoitavaa taloutta, ei voi ymmärtää ilman sen historiallisten kerrostumien ja materiaalisten ehtojen "arkeologiaa".&#x20;
-* McLuhan, M. (1964): Understanding Media: The Extensions of Man. New York: McGraw-Hill.
-* Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
+* Parikka, J. (2015): _A Geology of Media._ University of Minnesota Press. Media (ja siten myös ohjelmoitava talous) ei ole vain aineetonta "pilveä" tai koodia, vaan syvästi materiaalista infrastruktuuria. Kun muutamme talouden mediumia, muutamme myös sen aineellista suhdetta planeettaan.&#x20;
+* McLuhan, M. (1964): Understanding Media: The Extensions of Man. New York: McGraw-Hill. Klassikkoteos, joka perustaa ajatuksen rahasta ja taloudesta mediana eli välineenä, joka ei vain välitä vaihdantaa vaan muokkaa aktiivisesti yhteiskunnan rakennetta ja rytmiä.
+* Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press. Antropologinen analyysi siitä, miten maksamisen teknologiat eivät ole vain neutraalia infrastruktuuria, vaan muovaavat syvällisesti sosiaalisia suhteita ja rahan olemusta.
 * Virtanen A. (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
 
 **4. Protokollat yhteiskunnallisena järjestäytymisenä**&#x20;
