@@ -37,20 +37,22 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu tärkeisiin teoreettisi
   Lyhyt äänellinen johdatus hankkeen kysymyksenasetteluun ja lähestymistapaan. Toimii yhteenvetona ohjelmoitavan talouden ideasta niille, jotka haluavat hahmottaa sen nopeasti ja intuitiivisesti. Generoitu tekoälyn avulla.
 * [Distributing economic space agency with ECSA](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3) \
   Keskustelu ECSA:n lähestymistavasta talouteen ohjelmoitavana mediana ja sen seurauksist&#x61;**.** A GreenPill [Podcast](https://pod.link/1609313639/episode/MzZmOTE4MzQtNjM2NS00MDg4LTlmZGYtY2QxZGU1YWI4Yjg3)  ([YouTube](https://www.youtube.com/watch?v=PhURn7H59eo)) S.10 Ep. 3 Dick Bryan, Jorge lopez & Akseli Virtanen - Kevin Owockin haastattelemana.
-* ECSA:n perusteos: Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
+* ECSA:n perusteos: Bryan D., Lopez J. & Virtanen A. (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
 
 **2. Talous protokollina ja ohjelmoitavana järjestelmänä**&#x20;
 
 Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä.
 
-* Beller, Bryan, Lopez & Virtanen (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
-* Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
-* Bryan & Virtanen (2022): [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832).&#x20;
-* Bryan, Lee & Virtanen (2018): [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea).
-* Cook, C. (noin 2014): Financing the Transition: The Nondominium Solution (wiki-artikkeli). P2P Foundation & Institute for Security & Resilience Studies.  ￼
-* Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT Press. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
+* Beller J., Bryan D., Lopez J. & Virtanen A. (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
+* Bryan D., Lopez J. & Virtanen A. (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
+* Bryan D. & Virtanen A. (2022): [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832). ECSA Economic Papers.
+* Bryan D., Lee B. & Virtanen A. (2018): [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea). ECSA Economic Papers.
+* Cook, C. (2014): Financing the Transition: The Nondominium Solution. P2P Foundation & Institute for Security & Resilience Studies.&#x20;
 * Ingham, G. (2004): The Nature of Money. Polity Press.
 * Luhmann, N. (1988/2012): The Economy of Society (Die Wirtschaft der Gesellschaft). Stanford University Press.
+* Mallett J. (2020), [Scaling and Consensus in Monetary Systems](https://assets.pubpub.org/i0dxgael/21581338973988.pdf). Dept. of Comp. Sci., Reykjavik University, Reykjavik, Iceland.
+* Mehrling, P. (2011): _The New Lombard Street. How the Fed Became the Dealer of the Last Resort._ Princeton University Press.
+* Mehrling, P. (2012):  [_The Money View: Lectures on the Economics of Money and Banking_](https://sites.bu.edu/perry/lectures/mb-lectures/) Institute for New Economic Thinking, Fall Semester 2012.￼
 * UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
 
@@ -58,7 +60,7 @@ Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järje
 
 Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ole vain mittareita, vaan median logiikoita.
 
-* Beller (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression. [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
+* Beller, J. (2020): [Economic Media](https://medium.com/econaut/economic-media-5da2590c75f7). Crypto as a new medium of economic expression. [_Australian Humanities Review,_ Issue 66, May 2020](http://australianhumanitiesreview.org/2020/05/31/economic-media-crypto-and-the-myth-of-total-liquidity/).
 * Beller (2023):  [_On Economic Intelligence._](https://hackmd.io/@ECSA/rJSza2HxR) _A foreword to_ Bryan, Lopez & Virtanen (2023): _Protocols for Postcapitalist Expression._
 * Beller (2021): _The World Computer. Derivative Conditions of Racial Capitalism._ Durham: Duke University Press. Analyysi laskennallisen kapitalismin logiikasta ja informaation muuttumisesta arvoksi.
 * Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
@@ -74,11 +76,12 @@ Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ol
 Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja osallisuutta. Protokolla on uusi yhteisömuoto. Talous ei vain jäsennä toimintaa – se määrittää kenen toiminta lasketaan mukaan.
 
 * Bryan, Lopez & Virtanen (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._ Colchester / New York / Port Watson: Autonomedia.](https://postcapitalist.agency) ECSA:n perusteos, joka avaa taloudellisen median, protokollien ja hajautetun toimijuuden teoriaa.
-* Heiskala & Virtanen (2011–2018): [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
-* Homi, Koskinen, Vaden & Virtanen (2018): _Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
-* Latour (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
-* Lovink (2021): _Sad by Design._ Pluto Press.
-* Lovink (2025): _Platform Brutality._ Amsterdam: Valiz.
+* Galloway, A. (2004): _Protocol: How Control Exists After Decentralization._ MIT. Perusteos siitä, miten valta toimii hajautetuissa verkoissa (protokollat vs. hierarkiat).
+* Heiskala R. & Virtanen A. (2011–2018): [_Talous ja yhteiskuntateoria Vol.1-3_](https://hackmd.io/@econaut6/BJyv7nSIY)_._ Helsinki: Gaudeamus.&#x20;
+* Homi H., Koskinen P., Vaden T. & Virtanen A. (2018): _Talous digitaalisen uudelleenmuotoilemisensa aikakaudella._ Teoksessa Heiskala Risto & Virtanen Akseli (Toim.): _Talous ja yhteiskuntateoria, Vol III, Kohti uutta poliittista taloutta._ Helsinki: Gaudeamus.&#x20;
+* Latour B. (2010):  [Networks, Societies, Spheres: Reflections of an Actor-network Theorist](http://www.bruno-latour.fr/sites/default/files/121-CASTELLS-GB.pdf). Keynote speech for the International Seminar on Network Theory: Network Multidimensionality in the Digital Age, 19th February 2010. Annenberg School for Communication and Journalism, Los Angeles.
+* Lovink G. (2021): _Sad by Design._ Pluto Press.
+* Lovink G. (2025): _Platform Brutality._ Amsterdam: Valiz.
 * Callon, M. (1998): The Laws of the Markets. Blackwell Publishers.
 * North, D. (1990): _Institutions, Institutional Change and Economic Performance._ Cambridge University Press. Institutionaalisen taloustieteen perusta: "pelisäännöt" (instituutiot/protokollat) määrittävät taloudellisen menestyksen.
 * Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge University Press. Nobelistin teoria siitä, miten yhteisöt voivat hallita resursseja (commons) kestävästi ilman valtiota tai markkinoita. Keskeinen perusta "verkon reunojen" toimijuudelle.
