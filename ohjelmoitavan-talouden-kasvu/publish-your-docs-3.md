@@ -43,7 +43,7 @@ Kytkeytymällä näihin lähteisiin raportti ankkuroituu tärkeisiin teoreettisi
 
 Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järjestelmä vaan ohjelmoitava toimintakenttä. Talouden käsitteellinen ja tekninen uudelleenmuotoilu protokollien kautta. Talous ei ole metaforisesti ohjelmoitava, vaan kirjaimellisesti protokollien järjestelmä.
 
-* Beller J., Bryan D., Lopez J. & Virtanen A. (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). MIT Journal of Cryptoeconomic Systems.
+* Beller J., Bryan D., Lopez J. & Virtanen A. (2019): [Rethinking Money and Credit: On Protocols for Securing Liquidity in a Distributed Economy](https://assets.pubpub.org/mqc2esfj/21581340206367.pdf). Preprint, MIT Journal of Cryptoeconomic Systems.
 * Bryan D., Lopez J. & Virtanen A. (2023): [_Protocols for Postcapitalist Expression. Agency, Finance and Sociality in the New Economic Space._](https://postcapitalist.agency) Colchester / New York / Port Watson: Autonomedia.
 * Bryan D. & Virtanen A. (2022): [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832). ECSA Economic Papers.
 * Bryan D., Lee B. & Virtanen A. (2018): [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea). ECSA Economic Papers.
