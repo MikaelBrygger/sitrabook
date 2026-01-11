@@ -64,9 +64,12 @@ Talous ilmaisun muotona ja viestinnällisenä rakenteena: raha ja arvo eivät ol
 * Beller (2023):  [_On Economic Intelligence._](https://hackmd.io/@ECSA/rJSza2HxR) _A foreword to_ Bryan, Lopez & Virtanen (2023): _Protocols for Postcapitalist Expression._
 * Beller (2021): _The World Computer. Derivative Conditions of Racial Capitalism._ Durham: Duke University Press. Analyysi laskennallisen kapitalismin logiikasta ja informaation muuttumisesta arvoksi.
 * Bratton, B. H. (2015): The Stack: On Software and Sovereignty. MIT Press.
-* Kittler, F. A. (1999): Gramophone, Film, Typewriter. Stanford University Press.
+* Flusser, V. (1984): _Towards A Philosophy of Photography_, ed. Derek Bennett, Göttingen: European Photography.
+* Flusser, V. (1985/2011:  _Into the Universe of Technical Images_, translated by Nancy Ann Roth. University of Minnesota Press.
+* Kittler, F. A. (1999): _Gramophone, Film, Typewriter._ Stanford University Press.
 * Lopez (2022): [Economy as a re-programmable communication medium](https://web.archive.org/web/20220815054657/http://www.lafuriaumana.it/index.php/77-lfu-43/1102-jorge-lopez-our-economy-a-re-programmable-network-operating-system). _La Furia Humana_ Special Issue on Economic Media.
 * Lopez & Virtanen (2023): [An Expanded Ledger Grammar for Encoding and Communicating Our Economic Realities](https://medium.com/econaut/an-expanded-ledger-grammar-for-encoding-and-communicating-our-economic-realities-b32cdb1d3abb). ECSA Economic Papers.
+* Parikka, J. (2015): _A Geology of Media._ University of Minnesota Press. Media (ja siten myös ohjelmoitava talous) ei ole vain aineetonta "pilveä" tai koodia, vaan syvästi materiaalista infrastruktuuria, joka on kytköksissä maaperään, energiaan ja geologiaan. Kun muutamme talouden mediumia, muutamme myös sen aineellista suhdetta planeettaan.&#x20;
 * McLuhan, M. (1964): Understanding Media: The Extensions of Man. New York: McGraw-Hill.
 * Maurer (2015): _How Would You Like to Pay? How Technology is Changing the Future of Money_. Duke University Press.
 * Virtanen (2019):  [Towards post-capitalism: A language for new economic expression](https://medium.com/econaut/towards-post-capitalism-7679d2831408). _ECSA Economic Papers._
@@ -133,6 +136,7 @@ Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muot
 
 * Bratton, Benjamin (2015–2022): _AI and Governance_ (esseitä ja luentoja). Eri julkaisuissa ja esityksissä (mm. Strelka Institute, Antikythera). Käsittelee tekoälyn roolia hallinnassa, infrastruktuureissa ja planetaarisessa laskennassa; AI nähdään laskennallisena toimijana, joka muuttaa taloudellista ja yhteiskunnallista koordinointia.
 * Epstein, Joshua M. (2006): _Generative Social Science: Studies in Agent-Based Computational Modeling._ Princeton University Press. Keskeinen teos agenttipohjaisesta laskennallisesta mallintamisesta taloustieteessä ja sosiaalitieteissä; käsittelee, miten yksittäiset toimijat luovat kollektiivisia rakenteita.
+* Parikka, Jussi (2023): _Operational Images: From the Visual to the Invisual._ University of Minnesota Press. Analyysi kuvasta ja datasta, joita ei ole tehty ihmissilmälle, vaan toisille koneille. Vrt. talous, joka on muuttumassa "operatiiviseksi mediaksi", joka toimii ilman ihmisen jatkuvaa väliintuloa.
 * Simon, Herbert A. (1969 / 1996). _The Sciences of the Artificial._ MIT Press. Klassinen teos keinotekoisten järjestelmien, suunnittelun ja rajallisen rationaalisuuden teoriasta; merkittävä myös laskennallisen toimijuuden ja päätöksenteon ymmärtämisessä.
 * Wiener, Norbert (1948). _Cybernetics: Or Control and Communication in the Animal and the Machine._ MIT Press. Perustava teos kybernetiikasta, palautesilmukoista ja laskennallisesta ohjauksesta; pohjustaa ymmärrystä automaation ja tekoälyn roolista yhteiskunnassa.
 
