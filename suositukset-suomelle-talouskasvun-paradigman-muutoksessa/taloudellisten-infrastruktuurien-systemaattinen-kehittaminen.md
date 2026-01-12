@@ -70,13 +70,13 @@ Nyt olemme samassa tilanteessa talouden kanssa. Tiedämme, että taloudesta on t
 
 Xerox PARC:n todellinen opetus ei ollut yksittäiset innovaatiot, vaan metodi uuden median kohtaamiseen:
 
-* he eivät tienneet etukäteen, mitä uusi väline on – he rakensivat sen kokeilemalla
-* he lähestyivät tietokonetta uutena mediana ja ilmaisukielenä, eivät pelkkänä laskentakoneena
+* he eivät tienneet etukäteen, millainen uusi väline on ja mistä se koostuu – he rakensivat sen kokeilemalla,
+* he lähestyivät tietokonetta uutena mediana ja ilmaisukielenä, eivät pelkkänä laskentakoneena, ja
 * he kehittivät käyttöliittymää, ohjelmointikieliä, verkkoa, laitteita ja merkityksiä samassa tilassa, samassa ekosysteemissä ja kokeilun kulttuurissa.
 
 **Mitä Talouden Xerox PARC tekisi?**
 
-Talouden Xerox PARC:n tehtävä olisi tuoda tämän raportin neljä keskeistä murrosta yhtäaikaisesti työpöydälle – ja rakentaa niistä systemaattinen kehitystyön infrastruktuuri:
+Talouden Xerox PARC:n tehtävä olisi tuoda tämän raportin neljä keskeistä murrosta yhtäaikaisesti työpöydälle – ja rakentaa niistä systemaattinen kehitysinfrastruktuuri:
 
 1. **Talouden paradigman purkaminen ja koodaaminen**
 
@@ -94,7 +94,7 @@ Talouden Xerox PARC:n tehtävä olisi tuoda tämän raportin neljä keskeistä m
 
 **Tehtävä:** Avata taloudellinen mielikuvitus tekemällä taloudesta ymmärrettävää ja "pelattavaa". Luoda uuden talouden käyttöliittymä (UI), jolla abstraktit prosessit muutetaan ihmisen kokoisiksi työkaluiksi.
 
-5. **Infrastruktuuri ja insituutiot**
+5. **Infrastruktuuri ja instituutiot**
 
 **Tehtävä:** Rakentaa tästä kaikesta konkreettista käytettävää avointa infraa – työkaluja, käyttöliittymiä, kirjastoja, protokollia – joka tekee näistä pysyviä yhteiskunnallisia kyvykkyyksiä eikä vain yksittäisiä hankkeita. Luoda fyysinen, juridinen ja kulttuurinen koti tälle työlle: tila, jossa kokeilut eivät ole poikkeuslupien varassa, vaan uutta normaalia.
 
@@ -103,10 +103,10 @@ Talouden PARC ratkoisi samanaikaisesti oikeita talouden kipukohtia (ympäristö,
 – talouden protokollien ja mittareiden **arkkitehtuuritoimisto**\
 – uusiin talouden muotoihin erikoistunut **kokeilulaboratorio**\
 – taloudellisen lukutaidon ja toimijuuden **koulutusalusta**\
-– talouden uusien ilmaisumuotojen **kulttuurinen studio** ja\
-– **softalabra**, jossa ideat viedään toteutukseen protokollatasolle asti.
+– talouden uusien ilmaisumuotojen **kulttuurinen studio** \
+– ja **ohjelmistolaboratorio**, jossa ideat viedään toteutukseen protokollatasolle asti.
 
-**Kolmas suosituksemme on, että prosessi tämän kyvykkyyden rakentamiseksi käynnistetään välittömästi.**
+**Kolmas suosituksemme on, että tämän kyvykkyyden rakentamiseen tähtäävä prosessi käynnistetään välittömästi.**
 
 Se vaatii pysyvän kokeellisen kehitysympäristön, jossa talouden tulevaisuuden käyttöliittymiä, kielioppeja ja toimijuuden muotoja ei vain hahmotella, vaan rakennetaan rinnakkain.
 
