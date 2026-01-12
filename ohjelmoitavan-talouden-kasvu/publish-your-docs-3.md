@@ -48,11 +48,13 @@ Talouden uudelleenmäärittely protokollien kautta – talous ei ole vain järje
 * Bryan D. & Virtanen A. (2022): [What is Cryptoeconomy: A Macroview](https://medium.com/econaut/what-is-cryptoeconomy-a-macroview-84f4a0258832). ECSA Economic Papers.
 * Bryan D., Lee B. & Virtanen A. (2018): [Economics back into Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea). ECSA Economic Papers.
 * Cook, C. (2014): Financing the Transition: The Nondominium Solution. P2P Foundation & Institute for Security & Resilience Studies.&#x20;
-* Ingham, G. (2004): The Nature of Money. Polity Press.
-* Luhmann, N. (1988/2012): The Economy of Society (Die Wirtschaft der Gesellschaft). Stanford University Press.
+* Ingham, G. (2004): The Nature of Money. Polity Press. Rahasosiologian perusteos, joka osoittaa rahan olevan luonteeltaan sosiaalinen velkasuhde eikä hyödyke. Historiallinen ja sosiologinen pohjan näkemykselle rahasta informaationa ja kirjanpitona.
+* Luhmann, N. (1988/2012): The Economy of Society (Die Wirtschaft der Gesellschaft). Stanford University Press. Systeemiteoreettinen perusteos, joka määrittelee talouden nimenomaan viestintäjärjestelmäksi ja rahan symbolisesti yleistyneeksi kommunikaatiovälineeksi – luo teoreettista pohjaa ”talous on media” -ajattelulle.
 * Mallett J. (2020), [Scaling and Consensus in Monetary Systems](https://assets.pubpub.org/i0dxgael/21581338973988.pdf). Dept. of Comp. Sci., Reykjavik University, Reykjavik, Iceland.
-* Mehrling, P. (2011): _The New Lombard Street. How the Fed Became the Dealer of the Last Resort._ Princeton University Press. Rahateorian nykyklassikko, joka avaa talouden ”putkiston” (money view) ja osoittaa, että likviditeetti ei ole hyödyke vaan hierarkkinen ja aktiivisesti ylläpidetty infrastruktuuri.
-* Mehrling, P. (2012):  [_The Money View: Lectures on the Economics of Money and Banking_](https://sites.bu.edu/perry/lectures/mb-lectures/) Institute for New Economic Thinking, Fall Semester 2012.￼
+* Mehrling, P. (2011): _The New Lombard Street. How the Fed Became the Dealer of the Last Resort._ Princeton University Press. Rahateorian nykyklassikko, joka avaa talouden ”putkiston” (money view) ja osoittaa, että likviditeetti ei ole hyödyke vaan hierarkkinen ja aktiivisesti ylläpidetty infrastruktuuri. Luentoversio: (2012):  [_The Money View: Lectures on the Economics of Money and Banking_](https://sites.bu.edu/perry/lectures/mb-lectures/) Institute for New Economic Thinking, Fall Semester 2012.￼
+*   Meister, R. (2021): _Justice is an Option. A Democratic Theory of Finance for_
+
+    _the Twenty-First Century._ Chicago: University of Chicago Press. State of the art-analyysi siitä, kuinka rahoitusmarkkinat ja likviditeetti eivät ole neutraaleja, ja kuinka rahoituksen instrumentteja voidaan suunnitella uudelleen palvelemaan oikeudenmukaisuutta pääoman kasautumisen sijaan.
 * UK Government Office for Science (2015): [Distributed Ledger Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
 * Zargham (2024): [_Architecting Knowledge Organization Infrastructure_](https://blog.block.science/architecting-knowledge-organization-infrastructure/)_. BlockScience Blog._
 
