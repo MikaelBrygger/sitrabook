@@ -36,13 +36,13 @@ Jokainen talousjärjestelmä on laskennallinen prosessi. Se toimii sääntöjen 
 * millä oikeuksilla,
 * ja miten arvo ja riskit jaetaan.
 
-Nämä protokollat eivät vain “välitä transaktioita” – ne rakentavat yhteiskunnallista ja taloudellista todellisuutta. Siksi ohjelmoitava talous ei ole vain tekninen yksityiskohta, vaan perustavanlaatuinen poliittisen kysymys. Se, joka kontrolloi talouden protokollakerrosta, määrittelee taloudellisen toiminnan mahdollisuusavaruuden.
+Nämä protokollat eivät vain “välitä transaktioita” – ne rakentavat yhteiskunnallista ja taloudellista todellisuutta. Siksi ohjelmoitava talous ei ole vain tekninen yksityiskohta, vaan perustavanlaatuinen poliittisen kysymys. Se joka kontrolloi talouden protokollakerrosta, määrittelee taloudellisen toiminnan mahdollisuusavaruuden.
 
-Jos emme osallistu ja puutu protokollatasoon, hyväksymme nykyisen järjestelmän rajoitteet "luonnonlakeina", vaikka ne ovat vain vanhentunutta koodia.
+Jos emme osallistu ja puutu protokollatasoon, hyväksymme nykyisen järjestelmän rajoitteet "luonnonlakeina", vaikka ne edustavat vanhentunutta koodia.
 
 **Mikä muuttuu, kun päivitämme koodin?**
 
-Nykyinen talousprotokolla on suunniteltu maailmaan, jossa laskenta oli kallista ja luottamus piti keskittää. Se oli ainoa keino hallita kompleksisuutta paperin,  musteen ja ihmiskirjureiden laskenta- ja käsityskyvyn päällä. Kun ymmärrämme talouden muuttuvan ohjelmoitavaksi tilaksi, ymmärrämme myös, että nämä tekniset rajoitteet ovat poistuneet. Uudet laskennalliset verkot voivat käsitellä jatkuvia tietovirtoja, varmentaa niiden tilan reaaliajassa ja koordinoida hajautettuja toimijoita rikkaan signaalikielen avulla. Ne voivat mallintaa arvoa ja koordinoida yhteistoimintaa tavoilla, jotka olivat kirjaimellisesti mahdottomia taloutemme vanhalla mediumilla.
+Nykyinen talousprotokolla on suunniteltu maailmaan, jossa laskenta oli kallista ja luottamusta piti keskittää. Se oli ainoa keino hallita kompleksisuutta paperin, musteen ja ihmiskirjureiden laskenta- ja käsityskyvyn päällä. Kun ymmärrämme talouden muuttuvan ohjelmoitavaksi tilaksi, huomaamme, että nämä tekniset rajoitteet ovat poistuneet. Uudet laskennalliset verkot voivat käsitellä jatkuvia tietovirtoja, varmentaa niiden tilan reaaliajassa ja koordinoida hajautettuja toimijoita rikkaan signaalikielen avulla. Ne voivat mallintaa arvoa ja koordinoida yhteistoimintaa tavoilla, jotka olivat kirjaimellisesti mahdottomia taloutemme vanhalla mediumilla.
 
 Tämä pakottaa – ja mahdollistaa – siirtymän kolmella rintamalla:
 
