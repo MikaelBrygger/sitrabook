@@ -29,17 +29,17 @@ Talouden kasvu alkaa tarkoittaa:
 
 * uusia taloudellisia yhteisöjä ja organisaatiomuotoja,
 * uusia laskennan ja mittaamisen logiikkoja,
-* uusia tapoja arvottaa työ, ekologia, hoiva ja kulttuuri,
+* uusia tapoja arvottaa työtä, ekologiaa, hoivaa ja kulttuuria, ja
 * uusia osallistumisen tapoja, jotka eivät perustu omistukseen tai pääomaan.
 
-Kasvun ydinkysymys muuttuu muotoon: **mitä arvoa haluamme tuottaa — ja millä logiikalla haluamme sen jakaa?**
+Kasvun ydinkysymys muotoutuu uudelleen: **mitä arvoa haluamme tuottaa — ja millä logiikalla haluamme sen jakaa?**
 
 Jos talouden vanha kasvu oli ekstensiivistä – lisää hiiltä, lisää työtunteja, lisää velkaa – niin ohjelmoitavan talouden uusi kasvu on intensiivistä: lisää älykkyyttä, lisää koordinaatiota, lisää merkitystä, lisää yhteistoiminnan muotoja, lisää ilmaisukykyä.
 
-Tässä raportissa esittelemme mm. skenaarioita, joissa kasvu syntyy:
+Tässä raportissa esittelemme muun muassa skenaarioita, joissa kasvu syntyy:
 
 * Oman likviditeetin luomisesta keskinäisellä luottamuksella: Kun PK-yritykset voivat kuitata saamisiaan toisilleen ilman pankkirahaa, talous kiihtyy ilman lisävelkaa ja taloudellinen toimijuus siirtyy itse tuottavan verkoston käsiin.
-* Jaetusta älykkyydestä: Kun tekoäly on yhteistä infrastruktuuria eikä yksityistä omaisuutta, koko yhteiskunta viisastuu.
+* Jaetusta älykkyydestä: Kun tekoäly on yhteistä infrastruktuuria eikä yksityistä omaisuutta, koko yhteiskunnan kyky oppia ja toimia vahvistuu.
 * Uusista ilmaisumuodoista: Kun kulttuuri ja luovuus eivät ole vain "sisältöä" vaan talouden moottori, syntyy uutta aineetonta arvoa.
 
 Tässä siirtymässä kasvu ei ole vain määrän lisääntymistä — vaan **taloudellisen ilmaisun laajentumista**. Se on kykyä tehdä näkyväksi sellaisia arvoja ja yhteisöllisiä vaikutuksia, jotka eivät mahtuneet teollisen talouden mittayksikköön. Se on siirtymä taloudesta, joka laskee vain markkinoita, talouteen, joka voi laskea myös hyvinvointia, ekologiaa, kulttuuria, yhteisöllisyyttä, luottamusta ja tulevia sukupolvia.
