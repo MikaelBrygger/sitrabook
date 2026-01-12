@@ -37,20 +37,20 @@ Talouden tulevaisuuden systemaattinen kehittäminen ei tarkoita vain raportteja.
 
 <summary><strong>KIM STANLEY ROBINSON JA TULEVAISUUDEN MINISTERIÖ</strong></summary>
 
-_**Mitä jos tulevaisuus saisi oman äänen  talouden koodissa?**_\
+_**Mitä jos tulevaisuus saisi oman äänen talouden koodissa?**_\
 Scifi-kirjailija Kim Stanley Robinson esitteli romaanissaan _The Ministry for the Future_ (2020) radikaalin ajatuksen uudenlaisesta instituutiosta. Teos nousi nopeasti kansainvälisen talouspolitiikan ja ilmastokeskustelun puheenaiheeksi, koska se tarjosi realistisen utopian instituutiosta, joka pystyy toimimaan pitkällä aikavälillä lyhytnäköisessä markkinataloudessa.
 
-Teoksen perusajatus on radikaali mutta yksinkertainen: **Tulevaisuudella täytyy olla ääni siellä, missä talouden pelisäännöt kirjoitetaan.**
+Teoksen perusajatus on radikaali mutta yksinkertainen: **tulevaisuudella on oltava ääni siellä, missä talouden pelisäännöt kirjoitetaan.**
 
 **Mitä "ministeriö" kirjassa tekee?**\
 Se ei ole perinteinen byrokratia, vaan **koordinoinnin ja laskennan innovaatio.**
 
 * **Tulevaisuuden ääni:** Sen tehtävä on edustaa taloudellisessa päätöksenteossa niitä, joilla ei ole ääntä: tulevia sukupolvia ja ekosysteemejä.
 * **Talouden koodaus:** Se kytkee keskuspankit ja teknologian muuttamaan talouden sääntöjä ja luomaan "hiilivaluuttaa" (carbon coin), joka tekee planeetan elinkelpoisuuden vaalimisesta taloudellisesti kannattavinta liiketoimintaa: se käyttää talous- ja valuuttajärjestelmiä kollektiivisen toimijuuden ja historiallis-ekologisen vastuullisuuden rakentamiseen.
-* **Semanttinen muutos:** Se osoittaa, että talousmekanismit eivät ole luonnonlakeja, vaan kielellisiä ja juridisia sopimuksia, jotka voidaan kirjoittaa uudelleen, jos poliittinen tahto löytyy.
-* **Miten muutos tapahtuu:** Se korostaa, että muutos ei tapahdu itsestään: Tarvitaan kollektiivinen mobilisaatio, instituutioiden uudelleenfundamentointi, talouden re-plasmanointi. Ihmiset, instituutiot ja teknologia järjestyvät uudella tavalla sosiaalisten ja taloudellisten mekanismien uudelleenmuotoilun kautta.&#x20;
+* **Semanttinen muutos:** Se osoittaa, että talousmekanismit eivät ole luonnonlakeja, vaan kielellisiä, juridisia ja institutionaalisia sopimuksia, jotka voidaan kirjoittaa uudelleen, jos poliittinen tahto löytyy.
+* **Miten muutos tapahtuu:** Se korostaa, että muutos ei tapahdu itsestään: Tarvitaan kollektiivista mobilisaatiota, instituutioiden uudelleenperustamista ja talouden rakenteellista uudelleenmuotoilua. Ihmiset, instituutiot ja teknologia järjestyvät uudella tavalla sosiaalisten ja taloudellisten mekanismien uudelleenmuotoilun kautta.&#x20;
 
-**Opetus Suomelle:** Robinsonin viesti on sama kuin tämän raportin: Talousjärjestelmät eivät ole annettuja. Ne ovat suunniteltavia. Talous on teknologiaa, jota voi muuttaa. Meillä on valta ja välineet ohjelmoida se uudelleen niin, että se tuottaa elinkelpoisuutta eikä tuhoa. Tarvitsemme instituutioita, jotka eivät vain hallinnoi nykyistä niukkuutta, vaan uskaltavat käyttää uusia teknologioita (kuten ohjelmoitavaa rahaa) koodatakseen ekologisen ja sosiaalisen kestävyyden suoraan talouden ytimeen. Emme tarvitse uutta “ministeriötä”, mutta tarvitsemme Talouden tulevaisuuden ministeriö -tason ajattelua ja avausten rohkeutta.
+**Opetus Suomelle:** Robinsonin viesti on sama kuin tämän raportin: Talousjärjestelmät eivät ole annettuja – ne ovat suunniteltavia. Talous on teknologiaa, jota voi muuttaa. Meillä on valta ja välineet ohjelmoida se uudelleen niin, että se tuottaa elinkelpoisuutta eikä tuhoa. Tarvitsemme instituutioita, jotka eivät vain hallinnoi nykyistä niukkuutta, vaan uskaltavat käyttää uusia teknologioita (kuten ohjelmoitavaa rahaa) – koodatakseen ekologisen ja sosiaalisen kestävyyden suoraan talouden ytimeen. Emme tarvitse uutta “ministeriötä”. Tarvitsemme Talouden tulevaisuuden ministeriö -tason ajattelua ja avausten rohkeutta.
 
 </details>
 
