@@ -10,7 +10,7 @@ Hankkeen toteuttaa [**Economic Space Agency**](http://economicspace.agency/) (EC
 
 **ECSA** perustettiin Stanfordissa (CA) 2015 kehittämään uuden taloudellisen tilan (_economic space_) ja toimijuuden (_economic agency_) käsitteitä ja järjestelmiä. Se on ollut mukana muotoilemassa ohjelmoitavan talouden mielenkiintoisimpia käytäntöjä siitä lähtien. Rakennamme protokollia taloudellisen toimijuuden ja tekijyyden kasvattamiseen ja hajauttamiseen.
 
-**ECSA Labs** perustettiin erityisenä design-yksikkönä Suomeen vuonna 2020 — kehittämään uusia taloudellisia ajattelumalleja, rakenteita ja kokeiluja.
+**ECSA Labs** perustettiin erityisenä design -yksikkönä Suomeen vuonna 2020 — kehittämään uusia taloudellisia ajattelumalleja, rakenteita ja kokeiluja.
 
 **Hanketyöryhmä**
 
@@ -18,8 +18,13 @@ Akseli Virtanen\
 Dick Bryan\
 Martin Born\
 Mikael Brygger\
+Jorge López\
 Pablo Somonte Ruano\
 Pekko Koskinen
 
 [http://economicspace.agency/](http://economicspace.agency/)\
-hello@ecsa.io<br>
+hello@ecsa.io\
+\
+**Hankkeen ohjausryhmä:** Eeva Hellström, Krista Jäntti, Roope Mokka, Mika Pantzar, Anni Pokela & Alku Siren.\
+\
+**Erityiskiitokset:** Anna Moilanen, Jenna Jauhiainen, Jakub Lanc, Tomaž Fleischman, Dil Green & Tom Woodward.
