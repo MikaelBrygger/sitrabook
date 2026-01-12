@@ -32,11 +32,11 @@ Mutta piirtyvä visio sisältää kriittisen katvealueen. Siltä puuttuu toimiva
 
 Molemmat hankkeet tekevät hiljaisen oletuksen, että **taloudellisen laskennan peruslogiikka** – tapa, jolla arvoa lasketaan, vaihdetaan ja koordinoidaan – voi pysyä muuttumattomana, vaikka itse laskennan medium on muuttunut totaalisesti. Digitalisoidaan keskuspankki-euro, digitalisoidaan budjettitalous, digitalisoidaan kirjanpito – mutta jätetään itse talouden kieli koskematta. Kuin 2020-luvun supertietokoneita haluttaisiin edelleen pyörittää 1800-luvun kutomakoneen käyttöjärjestelmällä.
 
-Jos tekoälyn kehitys kiihtyy, mutta taloudellinen äly – kykymme määritellä ja jakaa arvoa – ei kehity, tuloksena on vain talous, joka on
+Jos tekoälyn kehitys kiihtyy, mutta taloudellinen äly – kykymme määritellä ja jakaa arvoa – ei kehity, tuloksena on vain talous, joka on:
 
-* Hidas reagoimaan.
-* Kyvytön tunnistamaan hyvinvointia ja ekologista suorituskykyä osana arvoa.
-* Haavoittuva keskittymiselle ja ulkoiselle ohjaukselle.
+* hidas reagoimaan,
+* kyvytön tunnistamaan hyvinvointia ja ekologista suorituskykyä osana arvoa, ja
+* haavoittuva keskittymiselle ja ulkoiselle ohjaukselle.
 
 **Euroopan suurin hyödyntämätön mahdollisuus piilee talouden arkkitehtuurin kehittämisessä.**
 
