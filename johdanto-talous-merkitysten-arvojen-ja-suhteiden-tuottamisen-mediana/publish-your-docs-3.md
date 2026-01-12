@@ -33,7 +33,7 @@ Kirjoitus kehittyi kirjanpidosta. Sen myötä talous ei ollut enää muistissa, 
 
 #### _3. Markkinat:  talous alkoi laskea itse_
 
-Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirjanpitojärjestelmä, vaan markkinat – hajautettu taloudellinen laskentakone, jossa riippumattomat toimijat, kukin omasta paikallisesta näkökulmastaan, osallistuivat verkoston tilan ja sen muutoksen laskentaan. Markkinoiden hinnan muodostus oli kuin proto-algoritminen koordinaatiokone (nk. “näkymätön käsi”):
+Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirjanpitojärjestelmä, vaan markkinat – hajautettu laskentakone, jossa riippumattomat toimijat, kukin omasta paikallisesta näkökulmastaan, osallistuivat verkoston tilan ja sen muutoksen laskentaan. Markkinoiden hinnan muodostus oli kuin proto-algoritminen koordinaatiokone (nk. “näkymätön käsi”):
 
 * itsenäiset toimijat → yhteinen signaali
 * paikallinen tieto → globaali koordinaatio
@@ -78,9 +78,9 @@ Sosiaalinen media demokratisoi puheen, mutta ei taloudellista toimijuutta. Kaikk
 
 Lohkoketju kuin ratkaisi laskennan infrastruktuurin (konsensus, jaettu tila, ohjelmoitava logiikka), mutta ei pystynyt vielä tarjoamaan uutta taloudellista kielioppia, jolla ilmaista (muuta kuin vanhaa logiikkaa):
 
-* mitä yksikköä käytetään (raha),
-* mikä on pääsignaali (hinta),
-* mikä on optimointitavoite (voitto, tokenin arvo),
+* mitä yksikköä käytetään (raha)
+* mikä on pääsignaali (hinta)
+* mikä on optimointitavoite (voitto, tokenin arvo)
 * miten valta jakautuu (pääoma = ääni / governance).
 
 Lohkoketju siis ratkaisi valtion ja alustan ongelman (“kuka omistaa kirjanpidon?”), mutta ei sisältänyt ratkaisua taloudellisen logiikan hajauttamiseen: kuka saa määritellä, mitä arvo on? Kuka saa osallistua sen määrittelyyn mistä pidetään kirjaa? Se kyllä osasi tehdä komputaation ja pitää yllä verkoston tilaa hajautetusti, mutta ei osannut ilmaista taloudellista merkitystä hajautetusti. Se onnistui hajauttamaan laskennan tilan, mutta ei vielä sen merkityksen antoa. Toisin sanoen, se ei kyennyt vielä hajauttamaan taloudellista toimijuutta ja ilmaisua verkoston tekijöille itselleen. Tekninen komputaatio hajautettiin – taloudellista ei.
@@ -121,7 +121,7 @@ Jotta talous todella muuttuisi, pelkkä teknisen infrastruktuurin muuttaminen ei
 
 #### _6. Mitä tapahtuu seuraavaksi?_&#x20;
 
-Meidän käsityksemme on selvä: Seuraava looginen askel tässä evoluutiossa ovat **hajautetun taloudellinen toimijuuden ja tekijyyden protokollat.**
+Seuraava looginen askel tässä evoluutiossa ovat **hajautetun taloudellisen toimijuuden ja tekijyyden protokollat.**
 
 Taloudesta tulee ilmaisuväline — ohjelmallinen kieli, jolla yhteisöt voivat määritellä oman arvontuotantonsa ja koordinoida sen.
 
@@ -129,8 +129,8 @@ Tämä on se muutos, johon tätä johdanto seuraavat skenaariot ja suositukset t
 
 * arvon määrittely, laskenta ja koordinointi hajautetaan verkon reunoille
 * taloudellinen kieli ei enää ole yhden laskentalogiikan varassa
-* yhteisöt, kunnat, organisaatiot ja verkostot voivat ohjelmoida omat taloutensa
-* talous ei ole enää markkinoiden tai alustojen “kone”, vaan yhteinen ja yhteisesti verkon reunoilta ohjelmoitavissa oleva media
+* yhteisöt, kunnat, organisaatiot ja verkostot voivat ohjelmoida omia talouksiaan
+* talous ei ole enää markkinoiden tai alustojen “kone”, vaan yhteinen ja yhteisesti verkon reunoilta ohjelmoitavissa oleva media.
 
 Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verotetaan, säädellään tai optimoidaan. Taloudesta tulee tila, jota voidaan yhdessä suunnitella, kirjoittaa, kokeilla ja ilmaista.
 
