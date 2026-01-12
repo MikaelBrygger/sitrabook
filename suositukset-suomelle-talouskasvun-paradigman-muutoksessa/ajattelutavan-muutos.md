@@ -48,22 +48,22 @@ Tämä pakottaa – ja mahdollistaa – siirtymän kolmella rintamalla:
 
 **Toimijuus: Keskittämisestä jaetuksi reunoille**
 
-* Vanha rajoite: Luottamus vaati keskitetyn takaajan. Vain pankit ja valtiot pystyivät ylläpitämään luotettavaa tilikirjaa, joten toimivalta keskittyi väistämättä niille. Verkosto oli "tyhmä", vain keskus oli "viisas".
+* Vanha rajoite: Luottamus vaatii keskitetyn takaajan. Vain pankit ja valtiot pystyvät ylläpitämään luotettavaa tilikirjaa, joten toimivalta keskittyy niille. Verkosto on “tyhmä”, vain keskus “viisas”.
 * Uusi mahdollisuus: Ohjelmoitava verkko tuottaa luottamuksen tilaansa matemaattisesti. Siksi voimme siirtää taloudellisen toimijuuden sinne, missä arvoa luodaan: kunnille, yhteisöille, yrityksille ja kansalaisille. Verkosto pystyy itse pitämään yllä tilaansa (state) eikä tarvitse keskustahoa hallinnoimaan itseään.
 
 **Fysiikka: Varastoinnista virtaukseen**
 
-* Vanha rajoite: Likviditeetti piti "varastoida" (raha tilillä), jotta maksukyky oli todellista. Jos varasto oli tyhjä, kauppa pysähtyi, vaikka tilauskirjat olisivat täynnä.
+* Vanha rajoite: Likviditeetti täytyy “varastoida” (raha tilillä), jotta maksukyky on todellista. Jos varasto tyhjenee, kauppa pysähtyy, vaikka tilauskirjat ovat täynnä.
 * Uusi mahdollisuus: Likviditeetti on informaatiota velvoitteista. Digitaalisessa verkossa tieto ei kulu eikä pysähdy. Voimme siirtyä malliin, jossa arvo virtaa reaaliajassa ja kuittaa velvoitteet automaattisesti, vapauttaen taseisiin lukkiutunutta pääomaa ilman uutta velanottoa. Talouden perusfysiikka muuttuu: arvo ei enää liiku esineinä vaan signaaleina. Siirrymme newtonilaisesta kappaleiden siirtelystä kvanttimekaaniseen informaation siirtymiseen.
 
 **Resoluution siirtymä: Yhdestä mittarista moniulotteisuuteen**
 
-* Vanha rajoite: Hintamekanismi (euro) oli ainoa tapa tiivistää markkinainformaatio hallittavaan muotoon. Kaikki, mikä ei mahtunut hintaan, jäi "ulkoisvaikutukseksi".
+* Vanha rajoite: Hintamekanismi (euro) on ainoa tapa tiivistää markkinainformaatio hallittavaan muotoon. Kaikki, mikä ei mahdu hintaan, jää "ulkoisvaikutukseksi".
 * Uusi mahdollisuus: Meillä on laskentatehoa käsitellä rikasta dataa. Kasvu ei synny enää vain siitä, mitä voimme hinnoitella euroissa, vaan siitä, että teemme näkyväksi myös muut arvon muodot – ekologisen kestävyyden, terveyden ja turvallisuuden. Ohjelmoitavassa taloudessa ne ovat aitoja kirjanpito-objekteja ja AI-agenttien natiivia arvokieltä.
 
 Maailmassa, jossa instituutiot menettävät luottamustaan ja totuudet pirstaloituvat, protokollat tarjoavat uuden tavan organisoida yhteistä elämää. Ne luovat rajoja ja totuuksia, jotka ovat tarpeeksi lujia pitääkseen yhteiskunnan koossa, mutta tarpeeksi joustavia kehittyäkseen.
 
 Suurin kasvu ei löydy enää tehostamalla vanhaa, vaan rakentamalla uutta. Vauraus ei enää synny pelkästä pääomasta, vaan ymmärryksestä.
 
-Se, joka ensimmäisenä ymmärtää talouden nopeiden tietojenkäsittelyverkostojen päällä toimivana ohjelmoitavana tilana, ei ainoastaan selviydy murroksesta – vaan määrittelee sen, mitä kasvulla ylipäätään tarkoitetaan. Se, joka päivittää talouden kielioppinsa ensin, kirjoittaa tulevaisuuden säännöt.
+Se joka ensimmäisenä ymmärtää talouden nopeiden tietojenkäsittelyverkostojen päällä toimivana ohjelmoitavana tilana, ei ainoastaan selviydy murroksesta – vaan määrittelee, mitä kasvulla ylipäätään tarkoitetaan. Se joka päivittää talouden kielioppinsa ensin, kirjoittaa tulevaisuuden säännöt.
 
