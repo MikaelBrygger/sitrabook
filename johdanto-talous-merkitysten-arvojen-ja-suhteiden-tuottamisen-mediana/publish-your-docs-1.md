@@ -23,7 +23,7 @@ layout:
 
 # Miksi talouskasvun käsitettä on päivitettävä?
 
-Olemme tottuneet ajattelemaan taloutta järjestelmänä, jota säännellään, mitataan ja ennustetaan. Mutta mitä jos se onkin jotain aivan muuta?
+Olemme tottuneet ajattelemaan taloutta järjestelmänä, jota säännellään, mitataan  ja totellaan. Mutta mitä jos se onkin jotain aivan muuta?
 
 Mitä jos talous on _media_ – väline, jolla ilmaisemme arvoja, rakennamme suhteita ja organisoimme yhteistä elämää?
 
