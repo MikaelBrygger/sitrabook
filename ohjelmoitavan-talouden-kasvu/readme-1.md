@@ -27,7 +27,7 @@ hello@ecsa.io\
 \
 **Hankkeen ohjausryhmä**
 
-Eeva Hellström, Krista Jäntti, Roope Mokka, Mika Pantzar, Anni Pokela & Alku Sirén.\
+Eeva Hellström, Krista Jäntti, Roope Mokka, Mika Pantzar, Anni Pokela, Alku Sirén & Eero Vassinen.\
 \
 **Erityiskiitokset**&#x20;
 
