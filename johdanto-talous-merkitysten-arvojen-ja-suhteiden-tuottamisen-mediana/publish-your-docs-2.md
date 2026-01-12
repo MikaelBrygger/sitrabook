@@ -31,7 +31,7 @@ Tämä tarkoittaa myös, että se mitä voimme kulloinkin taloudellisesti ilmais
 
 Talouden jokainen uusi keinovalikoima (medium) on laajentanut taloudellisen ilmaisumme ja koordinaatiomme kielioppia. Väitämme, että nykyiset nopeat laskennalliset verkostot, joilla on valtava tietojenkäsittelyn ja tiedollisen kytkeytyvyyden kapasiteetti, eivät ole poikkeus. Ne muodostavat uuden taloudellis-organisatorisen ilmaisun mediumin. Ja ne tulevat muuttamaan radikaalisti taloudellisen koordinaatiomme luonnetta.
 
-#### _**Talouden mediamurros — kahdesta historian näkökulmasta katsottuna**_
+#### **Talouden mediamurros — kahdesta historian näkökulmasta**&#x20;
 
 _**Kun väline muuttuu, yhteiskunta muuttuu**_
 
