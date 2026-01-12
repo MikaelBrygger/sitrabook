@@ -37,7 +37,7 @@ Tässä murroksessa tapahtuu neljä keskeistä siirtymää:
 
 <table><thead><tr><th>Vanha</th><th>Uusi</th><th data-hidden></th></tr></thead><tbody><tr><td><em>Keskitetty hallinta</em> </td><td><em>Hajautettu toimijuus</em></td><td></td></tr><tr><td><em>Varastointi</em></td><td><em>Virtaus</em></td><td></td></tr><tr><td><em>Yksi mittari (voitto/hinta)</em></td><td><em>Moniulotteinen laskenta</em></td><td></td></tr><tr><td><em>Yhden toimijan lokaali näkymä</em></td><td><em>Verkosto tunnistaa itsensä toimijana</em></td><td></td></tr></tbody></table>
 
-Tämä muuttaa talouden luonteen: talous ei ole enää pelkkä vaihdon ja voiton maksimoinnin alusta, vaan siitä tulee **koordinaation kieli.**
+Tämä muuttaa talouden luonteen: talous ei ole enää pelkkä vaihdon ja voiton maksimoinnin alusta, vaan siitä tulee **koordinaation kieli**.
 
 Tämä muutos haastaa neljä talouden taustaoletusta:
 
@@ -57,7 +57,7 @@ Toisin sanoen, kun talouden kieli muuttuu media-alustaksi:
 
 * taloudellinen toimijuus siirtyy keskuksesta reunoille,
 * koordinaatio ei perustu omistukseen, vaan protokolliin,
-* arvo ei ole yksiulotteinen, vaan monikielinen, ja
+* arvo ei ole yksiulotteista, vaan monikielistä, ja
 * verkosto alkaa nähdä itsensä taloudellisena toimijana.
 
 
