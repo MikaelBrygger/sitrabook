@@ -25,6 +25,6 @@ Pekko Koskinen
 [http://economicspace.agency/](http://economicspace.agency/)\
 hello@ecsa.io\
 \
-**Hankkeen ohjausryhmä:** Eeva Hellström, Krista Jäntti, Roope Mokka, Mika Pantzar, Anni Pokela & Alku Siren.\
+**Hankkeen ohjausryhmä:** Eeva Hellström, Krista Jäntti, Roope Mokka, Mika Pantzar, Anni Pokela & Alku Sirén.\
 \
 **Erityiskiitokset:** Anna Moilanen, Jenna Jauhiainen, Jakub Lanc, Tomaž Fleischman, Dil Green & Tom Woodward.
