@@ -98,7 +98,18 @@ Talousprotokollat eivät vain tuota arvoa, ne organisoivat yhteistoimintaa ja os
 * Weyl, G. & Posner, E. (2018): Radical Markets: Uprooting Capitalism and Democracy for a Just Society. Princeton University Press.
 * Zargham, M. et al. (2021): _Foundations of Cryptoeconomic Systems._ BlockScience. Insinöörinäkökulma taloudellisten järjestelmien suunnitteluun ja optimointiin kompleksisina systeemeinä.
 
-**5. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä**&#x20;
+**5. Hajautettu koordinaatio ja järjestelmäteoria**
+
+Jotta ohjelmoitava talous ei jää vain metaforaksi, se on ankkuroitava ymmärrykseen siitä, miten hajautetut järjestelmät teknisesti ja loogisesti toimivat. Miten voidaan saavuttaa konsensus, luottamus ja yhteinen tila (shared state) ilman keskitettyä hallitsijaa – oli kyse sitten tietokoneverkoista tai ihmisyhteisöistä.
+
+* Lamport, L. (1978): _Time, Clocks, and the Ordering of Events in a Distributed System_. Communications of the ACM. Hajautetun laskennan perusteos, joka ratkaisi, miten itsenäiset toimijat voivat sopia tapahtumien järjestyksestä ilman keskitettyä kelloa tai auktoriteettia.
+* Kleppmann, M. (2017): _Designing Data-Intensive Applications_. O'Reilly Media. Modernin tietojenkäsittelyn perusteos, joka avaa tekniset haasteet ja ratkaisut johdonmukaisen jaetun tilan (_consistency_) ylläpitämiseen hajautetuissa verkoissa.
+* Ostrom, E. (1990): _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press. Nobelistin empiirinen todistus siitä, että yhteisöt voivat hallita jaettuja resursseja kestävästi monimutkaisilla, itse luoduilla säännöillä ilman valtiota tai markkinoita.
+* Nakamoto, S. (2008): _Bitcoin: A Peer-to-Peer Electronic Cash System_. Lamportin teorian käytännön sovellus, joka osoitti ensimmäistä kertaa, että taloudellinen tilikirja voidaan ylläpitää avoimessa verkossa ilman luotettua välikättä.
+* Hayek, F. A. (1945): _The Use of Knowledge in Society_. American Economic Review. Klassikkoartikkeli, joka määritteli talousjärjestelmän ensisijaisesti keinona prosessoida hajautettua tietoa – tehtävä, jota ohjelmoitava talous pyrkii päivittämään pelkkää hintasignaalia rikkaammaksi.
+* Beer, S. (1974): _Designing Freedom. CBC Massey Lectures_. Kybernetiikan pioneerin visio siitä, miten teknologiset järjestelmät ja reaaliaikainen data voivat palvella inhimillistä vapautta ja itseohjautuvuutta byrokraattisen kontrollin sijaan.
+
+**6. Talous pelinä, vuorovaikutuksena ja luovana järjestelmänä**&#x20;
 
 Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittelu, estetiikka ja järjestelmällinen ajattelu kytkeytyvät taloudelliseen järjestämiseen. Pelit uusien talousmuotojen lähteenä.
 
@@ -110,7 +121,7 @@ Talous rakenteellisena muotoiluna ja interaktiivisena kenttänä. Pelisuunnittel
 * McGonigal, J. (2011): Reality Is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Press.
 * Salen, K. & Zimmerman, E. (2003): Rules of Play: Game Design Fundamentals. MIT Press.
 
-**6. Raha, luottamus ja likviditeetti infrastruktuurina**&#x20;
+**7. Raha, luottamus ja likviditeetti infrastruktuurina**&#x20;
 
 Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan yhteiskunnallisia infrastruktuureja, jotka määrittävät kuka voi toimia, millä ehdoilla ja millä aikajänteellä. Likviditeetti ei ole vain pääoman ominaisuus, vaan laskennallisesti ja institutionaalisesti tuotettu kapasiteetti koordinoida taloudellista toimintaa.
 
@@ -135,7 +146,7 @@ Raha, luottamus ja likviditeetti eivät ole neutraaleja markkinailmiöitä, vaan
 * Tompkins, M. & Olivares, A. (2016): [Clearing and Settlement Systems from Around the World: A Qualitative Analysis](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf). EconStor Working Paper.&#x20;
 * Woodroof, Tom (2025): Interview: [Credit Clearing in Slovenia – A Conversation with Tomaž Fleischman](https://localloop-merseyside.co.uk/blog/credit-clearing-in-slovenia-a-conversation-with-tomaz-fleischman-part-1/), Part 1. Local Loop Merseyside (Economics / Community / Interview), 27 May 2025. Recorded May 2025.&#x20;
 
-**7. AI, laskennallinen toimijuus ja talous**
+**8. AI, laskennallinen toimijuus ja talous**
 
 Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muoto: se osallistuu laskentaan, päätöksentekoon ja arvon määrittelyyn. Kun laskennallinen toimijuus yleistyy, talous muuttuu yhä enemmän järjestelmäksi, jossa ihmiset, algoritmit ja instituutiot toimivat rinnakkaisina toimijoina yhteisessä laskentatilassa.
 
@@ -145,7 +156,7 @@ Tekoäly ei ole vain tehokkuustyökalu, vaan uusi taloudellisen toimijuuden muot
 * Simon, H. A. (1969 / 1996). _The Sciences of the Artificial._ MIT Press. Klassinen teos keinotekoisten järjestelmien, suunnittelun ja rajallisen rationaalisuuden teoriasta; merkittävä myös laskennallisen toimijuuden ja päätöksenteon ymmärtämisessä.
 * Wiener, N. (1948). _Cybernetics: Or Control and Communication in the Animal and the Machine._ MIT Press. Perustava teos kybernetiikasta, palautesilmukoista ja laskennallisesta ohjauksesta; pohjustaa ymmärrystä automaation ja tekoälyn roolista yhteiskunnassa.
 
-**8. Fiktiivinen ja spekulatiivinen talousajattelu**&#x20;
+**9. Fiktiivinen ja spekulatiivinen talousajattelu**&#x20;
 
 Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koealue: tapa tutkia, millaisia talousjärjestelmiä _voisi_ olla. Spekulatiivinen talousajattelu paljastaa, että taloudelliset instituutiot, valuutat ja mekanismit ovat kuviteltavissa ja siksi myös uudelleen suunniteltavissa.
 
@@ -153,7 +164,7 @@ Fiktio ja spekulatiivinen ajattelu eivät ole talouden vastakohta, vaan sen koea
 * Le Guin, U. K. (1986): [_The Carrier Bag Theory of Fiction_](https://monoskop.org/File:Le_Guin_Ursula_K_1986_1989_The_Carrier_Bag_Theory_of_Fiction.pdf)_._ Alun perin essee, julkaistu useissa kokoelmissa. Fiktion rakenteellinen vaihtoehto sankarikeskeisille kertomuksille; usein sovellettu talous- ja järjestelmäajatteluun.
 * Robinson, K. S. (2020): _The Ministry for the Future._ Orbit. Fiktiivinen mutta vaikutusvaltainen kuvaus "hiilivaluutasta" ja keskuspankkien roolista ilmastokriisissä (vrt. Skenaario 6 & Suositus 3).
 
-**9. Geopolitiikka ja strateginen arkkitehtuuri**&#x20;
+**10. Geopolitiikka ja strateginen arkkitehtuuri**&#x20;
 
 Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suvereniteetti.
 
@@ -162,15 +173,15 @@ Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suverenit
 * Prasad, E. (2021): _The Future of Money: How the Digital Revolution Is Transforming Currencies and Finance._ Harvard University Press. Yleiskatsaus keskuspankkien digivaluuttoihin (CBDC) ja suurvaltojen valuuttakilpailuun.
 * US Congress (2024-2025): _The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins)._ Raportissa käsitelty lakialoite, joka kytkee vakaavaluutat Yhdysvaltain valtionvelan hallintaan.
 
-**10. Innovaatio ja metodi**&#x20;
+**11. Innovaatio ja metodi**&#x20;
 
 Miten uutta luodaan systemaattisesti?
 
 * Hiltzik, M. (1999): _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age._ HarperBusiness. Historiikki siitä, miten Xerox PARC keksi modernin tietojenkäsittelyn. Toimii mallina raportin ehdottamalle "Talouden laboratoriolle".
 
-**11. Signaaleja ohjelmoituvan talouden esiinmarssista**&#x20;
+**12. Signaaleja ohjelmoituvan talouden esiinmarssista**&#x20;
 
-_Ajankohtaisia tapahtumia ja trendejä, jotka osoittavat murroksen olevan käynnissä._
+Ajankohtaisia tapahtumia ja trendejä, jotka osoittavat murroksen olevan käynnissä.
 
 * BIS (Bank of International Settlements): [Central bank digital currencies: foundational principles and core features](https://www.bis.org/publ/othp33.htm)
 * BRICS Pay (2024): [What is BRICS Pay?](https://infobrics.org/post/42296/)
