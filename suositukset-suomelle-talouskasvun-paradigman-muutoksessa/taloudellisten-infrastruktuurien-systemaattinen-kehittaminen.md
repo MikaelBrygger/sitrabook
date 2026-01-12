@@ -25,13 +25,13 @@ layout:
 
 ### Suositus 3
 
-Jos talous on muuttumassa nopeiden tietojenkäsittelyverkostojen päällä toimivaksi ohjelmoitavaksi mediaksi, sen kehittäminen ei voi enää olla satunnaisten hankkeiden, yksittäisten kokeilujen tai jälkikäteisen sääntelyn varassa.
+Jos talous on muuttumassa nopeiden tietojenkäsittelyverkostojen varassa toimivaksi ohjelmoitavaksi mediaksi, sen kehittäminen ei voi enää olla satunnaisten hankkeiden, yksittäisten kokeilujen tai jälkikäteisen sääntelyn varassa.
 
-Talous ohjelmoitava mediana tarkoittaa taloutta teknologiana, kulttuurina ja ilmaisun välineenä. Mitä tapahtuu kun talous alkaa käyttäytyä teknologisesti – koodattavina ohjelmistoina, rakenteina, protokollina, laskentana? Mitä tapahtuu kun talous alkaa käyttäytyä kulttuurisesti – merkityksinä, tarinoina, käytäntöinä, ilmaisun välineenä? Mitä tapahtuu kun talous alkaa käyttäytyä paljaan poliittisesti – toimijuutena, oikeuksina, mahdollisen määrittelynä?
+Talous ohjelmoitava mediana tarkoittaa taloutta teknologiana, kulttuurina ja ilmaisun välineenä. Mitä tapahtuu, kun talous alkaa käyttäytyä teknologisesti – koodattavina ohjelmistoina, rakenteina, protokollina ja laskentana? Mitä tapahtuu, kun talous alkaa käyttäytyä kulttuurisesti – merkityksinä, tarinoina, käytäntöinä ja ilmaisun välineenä? Mitä tapahtuu, kun talous alkaa käyttäytyä poliittisesti – toimijuutena, oikeuksina ja mahdollisen määrittelynä?
 
 Tarvitsemme systemaattisen tavan kehittää itse talouden rakenteita, kieltä ja osallistumisen muotoja – samalla vakavuudella kuin kehitämme tietoverkkoja, energiajärjestelmiä tai koulutus- ja maanpuolustusjärjestelmää.
 
-Talouden tulevaisuuden "systemaattinen kehittäminen" ei tarkoita vain raportteja. Se tarkoittaa vastausta kysymyksiin: Millä metodilla? Millä organisaatiolla? Millä kokeilun rytmillä? Ja ennen kaikkea: mitä tarkoitusta varten?
+Talouden tulevaisuuden systemaattinen kehittäminen ei tarkoita vain raportteja. Se tarkoittaa vastauksia kysymyksiin: millaisin menetelmin, millaisella organisaatiolla ja millaisella kokeilun rytmillä – ja ennen kaikkea: mitä tarkoitusta varten?
 
 <details>
 
