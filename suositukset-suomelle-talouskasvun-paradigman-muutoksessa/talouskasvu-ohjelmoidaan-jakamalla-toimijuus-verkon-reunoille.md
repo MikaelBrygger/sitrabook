@@ -23,14 +23,14 @@ layout:
 
 # Talouskasvu ohjelmoidaan jakamalla toimijuus verkon reunoille
 
-Kaksi mielenkiintoista eurooppalaista aloitetta  – **EuroStack** ja **Agentic State** –  julkaistiin tänä vuonna. Ne piirtävät kuvaa tulevaisuudesta, jossa maanosa tavoittelee teknologista omavaraisuutta ja hallinnon radikaalia tehostamista tekoälyn avulla.&#x20;
+Kaksi mielenkiintoista eurooppalaista aloitetta – **EuroStack** ja **Agentic State** – julkaistiin tänä vuonna. Ne piirtävät kuvaa tulevaisuudesta, jossa maanosa tavoittelee teknologista omavaraisuutta ja hallinnon radikaalia tehostamista tekoälyn avulla.&#x20;
 
-* [**EuroStack** ](https://www.euro-stack.info/)rakentaa uuden eurooppalaisen digitaalisen talouden "ruumiin" (infrastruktuuri, sirut, pilvi), koska tunnistaa nykyisen riippuvuuden Yhdysvalloista ja Kiinasta riskialttiiksi.
-* [**Agentic State** ](https://agenticstate.org/)rakentaa hallinnon uusia adaptiivia "aivoja" – autonomisia agentteja, proaktiivista hallintoa – koska se tunnistaa 1900-luvun byrokratian vanhentuneeksi hallintoprotokollaksi.
+* [**EuroStack**](https://www.euro-stack.info/) rakentaa uuden eurooppalaisen digitaalisen talouden "ruumiin" (infrastruktuuri, sirut, pilvi), koska se tunnistaa nykyisen riippuvuuden Yhdysvalloista ja Kiinasta riskialttiiksi.
+* [**Agentic State**](https://agenticstate.org/) rakentaa hallinnon uusia adaptiivia "aivoja" – autonomisia agentteja, proaktiivista hallintoa – koska se tunnistaa 1900-luvun byrokratian vanhentuneeksi hallintoprotokollaksi.
 
-Mutta tässä piirtyvässä visiossa on kriittinen katvealue. Siltä puuttuu toimiva aineenvaihdunta: talous, joka osaisi hengittää, kasvaa ja jakaa taloudellista tekijyyttä ja toimijuutta verkon reunoille.
+Mutta piirtyvä visio sisältää kriittisen katvealueen. Siltä puuttuu toimiva aineenvaihdunta: talous, joka osaisi hengittää, kasvaa ja jakaa taloudellista tekijyyttä ja toimijuutta verkon reunoille.
 
-Molemmat hankkeet olettavat hiljaisesti, että **taloudellisen laskennan peruslogiikka** – tapa, jolla arvoa lasketaan, vaihdetaan ja koordinoidaan – voi pysyä muuttumattomana, vaikka itse laskennan medium on muuttunut totaalisesti. Digitalisoidaan keskuspankki-euro, digitalisoidaan budjettitalous, digitalisoidaan kirjanpito – mutta jätetään itse talouden kieli koskematta. Se on kuin 2020-luvun supertietokoneita haluttaisiin edelleen pyörittää 1800-luvun kutomakoneen käyttöjärjestelmällä.
+Molemmat hankkeet tekevät hiljaisen oletuksen, että **taloudellisen laskennan peruslogiikka** – tapa, jolla arvoa lasketaan, vaihdetaan ja koordinoidaan – voi pysyä muuttumattomana, vaikka itse laskennan medium on muuttunut totaalisesti. Digitalisoidaan keskuspankki-euro, digitalisoidaan budjettitalous, digitalisoidaan kirjanpito – mutta jätetään itse talouden kieli koskematta. Kuin 2020-luvun supertietokoneita haluttaisiin edelleen pyörittää 1800-luvun kutomakoneen käyttöjärjestelmällä.
 
 Jos tekoälyn kehitys kiihtyy, mutta taloudellinen äly – kykymme määritellä ja jakaa arvoa – ei kehity, tuloksena on vain talous, joka on
 
@@ -38,13 +38,15 @@ Jos tekoälyn kehitys kiihtyy, mutta taloudellinen äly – kykymme määritell�
 * Kyvytön tunnistamaan hyvinvointia ja ekologista suorituskykyä osana arvoa.
 * Haavoittuva keskittymiselle ja ulkoiselle ohjaukselle.
 
-**Talouden arkkitehtuurin kehittäminen on tällä hetkellä suurin käyttämätön mahdollisuus Euroopalle.**
+**Euroopan suurin hyödyntämätön mahdollisuus piilee talouden arkkitehtuurin kehittämisessä.**
 
-Tämän raportin toinen ydinväite on, että talouskasvu on luova kysymys uusien talouden arkkitehtuurien suunnittelusta. Strateginen tehtävämme on päivittää talouden "softa" (protokollat) vastaamaan uuden "raudan" (verkot, AI) potentiaalia. Talouskasvun tulevaisuuden avain löytyy sieltä.
+Tämän raportin toinen ydinväite on, että talouskasvu on uusien talouden arkkitehtuurien suunnittelua koskeva luova kysymys. Strategisena tehtävänämme on päivittää talouden "softa" (protokollat) vastaamaan uuden "raudan" (verkot, AI) potentiaalia. Talouskasvun tulevaisuuden avain löytyy sieltä.
 
-Suomi ei voi kilpailla globaalisti pääoman massalla (ns. brute force), mutta me voimme menestyä erinomaisesti pelissä, jossa ratkaisee arkkitehtuuri: miten arvo lasketaan, miten siihen osallistutaan ja miten taloudellinen toimijuus jakautuu.
+Suomi ei voi kilpailla globaalisti pääoman massalla (ns. _brute force_), mutta me voimme menestyä erinomaisesti pelissä, jossa ratkaisee arkkitehtuuri: miten arvo lasketaan, miten siihen osallistutaan ja miten taloudellinen toimijuus jakautuu.
 
-Kolmas ydinväitteemme on, että tässä uudessa taloudessa voittajia eivät ole ne, joilla on eniten pääomaa, vaan ne, jotka pystyvät luomaan arkkitehtuureja, jotka muuttavat ihmisten ja yhteisöjen suhteen arvon tuotantoon toimivaksi, luovaksi ja voimaannuttavaksi. Kasvu syntyy arkkitehtuureista, jotka jakavat taloudellista tekijyyttä ja toimijuutta mahdollisimman laajalti verkon reunoille.
+Kolmannen ydinväitteen mukaan tässä uudessa taloudessa voittajia eivät ole ne, joilla on eniten pääomaa, vaan ne, jotka kykenevät luomaan arkkitehtuureja, jotka tekevät ihmisten ja yhteisöjen suhteesta arvon tuotantoon toimivan, luovan ja voimaannuttavan.
+
+Kasvu syntyy arkkitehtuureista, jotka jakavat taloudellista tekijyyttä ja toimijuutta mahdollisimman laajalti verkon reunoille.
 
 Tämä ei ole ideologiaa, vaan verkostoteoriaa:
 
