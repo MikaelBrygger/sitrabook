@@ -25,18 +25,18 @@ layout:
 
 
 
-Suomi on tienhaarassa. Vanha resepti – "business as usual" hieman tehostettuna – ei enää toimi, koska itse talouskasvun paradigma on muuttunut. Emme elä enää aikakaudessa, jossa kasvua synnytetään yritystukien, verokannustimien ja yksittäisten investointien kautta.
+Suomi on tienhaarassa. Vanha resepti – _business as usual_ hieman tehostettuna – ei enää toimi, koska itse talouskasvun paradigma on muuttunut. Emme elä enää aikakaudessa, jossa kasvua synnytetään yritystukien, verokannustimien ja yksittäisten investointien kautta.
 
-Maailman johtavat talousmahdit ovat jo siirtyneet pelkästä sääntelystä ja rahoituksesta **itse taloudellisen järjestelmätason aktiiviseen kehittämiseen ja rakentamiseen.** Talouspolitiikka ei ole enää vain verokantojen viilaamista, vaan uusien arkkitehtuurien koodaamista:
+Maailman johtavat talousmahdit ovat jo siirtyneet pelkästä sääntelystä ja rahoituksesta **taloudellisen järjestelmätason aktiiviseen kehittämiseen ja rakentamiseen.** Talouspolitiikka ei ole enää vain verokantojen viilaamista, vaan uusien arkkitehtuurien koodaamista:
 
 * **Kiinassa** valtio ei vain “tukenut” sähköautoja teollisuudenalana. Se varmisti raaka-aineiden toimitusketjut ja rakensi teknologisen kehityksen, tuotannon, standardien, datan ja markkinatakuiden muodostaman kokonaisen “talous-stackin”. Nyt se kehittää digitaalista keskuspankkirahaa ja BRICS-yhteistyötä, joka mahdollistaa tämän talouden ohjelmoitavan maksu- ja selvitysliikenteen ohi dollarin. Kyse on koko arvonluonnin ja -siirron putken uudelleenmuotoilusta.
-* **Yhdysvalloissa** valtio on palannut strategiseksi arkkitehdiksi: se ei vain tilaa teknologiaa, vaan takaa massiivisia markkinoita energia-, chip- ja AI-teknologioille. Samalla se ohjelmoi uusia mekanismeja valtion strategisten tavoitteiden saavuttamiseksi . GENIUS Act sitoo vakaavaluutta-liikkeeseenlaskun suoraan Yhdysvaltain valtionvelkakirjoihin. Tavoitteena on luoda globaalisti skaalautuva digitaalinen dollariekosysteemi, joka kasvattaa Treasury-bondien kysyntää, laskee valtion rahoituskustannuksia ja lukitsee dollarin aseman digitaalisen talouden perusinfrastruktuurina. Heille kyse ei ole kryptovaluuttahypesta, vaan uudesta valtionvelan jakelukanavasta – ohjelmoitavasta rahasta globaalina talousrajapintana.
+* **Yhdysvalloissa** valtio on palannut strategiseksi arkkitehdiksi: se ei vain tilaa teknologiaa, vaan takaa massiivisia markkinoita energia-, chip- ja AI-teknologioille. Samalla se ohjelmoi uusia mekanismeja valtion strategisten tavoitteiden saavuttamiseksi. GENIUS Act sitoo vakaavaluutta-liikkeeseenlaskun suoraan Yhdysvaltain valtionvelkakirjoihin. Tavoitteena on luoda globaalisti skaalautuva digitaalinen dollariekosysteemi, joka kasvattaa Treasury-bondien kysyntää, laskee valtion rahoituskustannuksia ja lukitsee dollarin aseman digitaalisen talouden perusinfrastruktuurina. Heille kyse ei ole kryptovaluuttahypesta, vaan uudesta valtionvelan jakelukanavasta – ohjelmoitavasta rahasta globaalina talousrajapintana.
 
 Viesti on selvä: **Talous ei ole luonnonvoima, jota vain katsotaan sivusta ja säännellään. Se on infrastruktuuria, laskentaa ja protokollaa – jotain, jota suunnitellaan, rakennetaan ja ohjelmoidaan.**
 
 Juuri tämä kehityskulku, jota johdannossa kuvasimme talouden muuttumisena ohjelmoitavaksi mediaksi, on nyt siirtynyt geopoliittiseksi realiteetiksi. Kun talous muuttuu ohjelmoitavaksi mediaksi, ratkaisevaa ei ole enää se, kuka pelaa vanhaa peliä tehokkaimmin, vaan se, kuka pääsee päivittämään itse pelin säännöt: miten arvoa lasketaan, miten siihen voi osallistua ja miten taloudellinen toimijuus jakautuu.
 
-Suomen on siirrettävä talouskasvun ajattelun painopisteensä yksittäisistä hankkeista itse talouden käyttöjärjestelmään – sen protokollien, laskennan ja toimijuuden jakautumisen päivittämiseen.
+Suomen on siirrettävä talouskasvua koskevan ajattelun painopiste yksittäisistä hankkeista itse talouden käyttöjärjestelmään – sen protokollien, laskennan ja toimijuuden jakautumisen päivittämiseen.
 
 Tämän raportin ydinväite on: **kasvun avaimet eivät enää löydy siitä, kuka pelaa vanhaa talouden peliä tehokkaimmin, vaan siitä, kuka uskaltaa osallistua taloudellisen pelin sääntöjen muuttamiseen ja avaamiseen.**
 
