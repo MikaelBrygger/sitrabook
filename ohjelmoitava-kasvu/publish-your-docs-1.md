@@ -37,7 +37,7 @@ Info: _Mitä eri mediat mahdollistivat & mitä eivät_\
 Info: _Miksi lohkoketju ja krypto ei muuttanut taloutta?_\
 Info: _Miten sosiaalinen media on taloudellinen media?_
 
-### **Skenaarioita ohjelmoitavan talouden kasvusta**
+#### **Skenaarioita ohjelmoitavan talouden kasvusta**
 
 ```
 Skenaariot – mitä jos talouden säännöt muuttuvat
@@ -49,7 +49,7 @@ Skenaariot – mitä jos talouden säännöt muuttuvat
 6    Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?
 ```
 
-### **Suositukset Suomelle talouskasvun paradigman muutoksessa**
+#### **Suositukset Suomelle talouskasvun paradigman muutoksessa**
 
 ```
 1    Talouskasvun paradigma on muuttunut
