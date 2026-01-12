@@ -27,23 +27,23 @@ layout:
 
 Suurin este kasvulle ei ole tekninen, vaan kulttuurinen.
 
-Olemme eläneet vuosisatoja talousmallissa, jossa suurin osa ihmisistä on talouden ottava osapuoli: kuluttajia, palkansaajia, veronmaksajia, säästäjiä. Taloudellinen mielikuvituksemme on kutistunutta: osaamme kuvitella vain veronkorotuksia, leikkauksia tai, aivan villeimmillään, startup-yrityksiä.
+Olemme eläneet vuosisatoja talousmallissa, jossa suurin osa ihmisistä muodostaa talouden ottavan osapuolen: he ovat kuluttajia, palkansaajia, veronmaksajia, säästäjiä. Taloudellinen mielikuvituksemme on kutistunutta: osaamme kuvitella vain veronkorotuksia, leikkauksia tai, aivan villeimmillään, startup-yrityksiä.
 
-Ohjelmoitava talous avaa aivan toisenlaisia kysymyksiä, aivan toisenlaisen kysymykseasettelun horisontin:
+Ohjelmoitava talous nostaa esiin aivan toisenlaisia kysymyksiä, aivan toisenlaisen kysymykseasettelun horisontin:
 
-* **Millaisia** taloudellisia yhteisöjä haluamme perustaa, jos talouslogiikka ei ole ulkoa annettu?
-* **Mitä haluamme** optimoida, jos tavoitteen ei tarvitsekaan olla vain rahallinen voitto?
-* **Miltä näyttää** suon entisöinnin, taidekollektiivin tai energiaosuuskunnan oma taloudellisen vuorovaikutuksen protokolla, joka osaa ilmaista ja laittaa kiertoon sen tuottamaa uniikkia arvoa?
-* **Mitä tapahtuu,** kun voimme koodata suoraan talouden ytimeen sen, että ekosysteemin tila tai sosiaalinen luottamus on likviditeettiä synnyttävää “pääomaa”?
-* **Miltä tuntuu** talous, joka kohtaa samanlaista kokeilua muodollaan, kuin mitä taide on esimerkiksi kokenut?
+* **Millaisia** taloudellisia yhteisöjä haluamme perustaa, jos taloutemme logiikka ei ole ulkoa annettu?
+* **Mitä haluamme** optimoida, jos tavoitteena ei tarvitsekaan olla vain rahallinen voitto?
+* **Miltä näyttää** suon entisöinnin, taidekollektiivin tai energiaosuuskunnan taloudellisen vuorovaikutuksen protokolla, joka osaa ilmaista ja laittaa kiertoon sen mahdollistamaa ja tuottamaa uniikkia arvoa?
+* **Mitä tapahtuu**, kun voimme koodata suoraan talouden ytimeen tiedon siitä, että ekosysteemin tila tai sosiaalinen luottamus on likviditeettiä synnyttävää “pääomaa”?
+* **Miltä tuntuu** talous, joka altistuu yhtä radikaalille muodon ja rakenteen kokeilulle kuin taide on kokenut omalla alueellaan?
 
 Talous on muuttumassa laskukoneesta uudeksi mediaksi. Se on ilmaisuvoimainen alusta, jolla voimme organisoida ihmisten välistä yhteistoimintaa tavoilla, joita emme vielä edes täysin ymmärrä tai osaa kuvitella.
 
-Akuutti kysymys Suomelle onkin miten alamme tutkia, ymmärtää, kokeilla ja käyttää tätä mediaa?
+Akuutti kysymys Suomelle kuuluukin: miten alamme tutkia, ymmärtää, kokeilla ja käyttää tätä mediaa?
 
 **Tarvitsemme Suomeen** **"Talouden Xerox PARC -hetken"**.
 
-1970-luvulla, kun tietokone oli vasta kehittymässä, sen potentiaali oli mysteeri. Xerox Palo Alto Research Center (Xerox PARC) perustettiin systemaattiseksi menetelmäksi kohdata tämä uusi media. Xerox PARC ei vain tutkinut tietokoneita; se keksi, miten ihmiset ovat vuorovaikutuksessa niiden kanssa — tuloksena mm. graafinen käyttöliittymä, hiiri ja moni-käyttäjä komputaatio. He eivät kysyneet "miten tehostamme laskentaa", vaan "miten tämä laite laajentaa ihmisen kykyjä ja ajattelua" ja “mitä kaikkea tällä uudella välineellä voi ilmaista?”.
+1970-luvulla, kun tietokone oli vasta kehittymässä, sen potentiaali oli mysteeri. Xerox Palo Alto Research Center (Xerox PARC) perustettiin systemaattiseksi menetelmäksi kohdata tämä uusi media. Xerox PARC ei vain tutkinut tietokoneita; se keksi, miten ihmiset voivat olla vuorovaikutuksessa niiden kanssa — tuloksena syntyivät muun muassa graafinen käyttöliittymä, hiiri ja monen käyttäjän laskenta. Xerox PARCissa ei kysytty, miten laskentaa voitaisiin vain tehostaa, vaan miten tämä uusi väline voisi laajentaa ihmisen kykyjä ja ajattelua – ja mitä kaikkea sen avulla olisi mahdollista ilmaista.
 
 <details>
 
@@ -68,7 +68,7 @@ PARC osoitti, että murrosvaiheessa suurin arvo ei synny tehostamisesta, vaan uu
 
 </details>
 
-Meidän on tehtävä nyt sama syntymässä olevan taloudellis-organisatorisen median kanssa. Koska sen käyttö on pohjimmiltaan arvojen, suhteiden ja organisaatiomuotojen ilmaisua, sen mahdollisuuksien tutkimiseen tarvitaan niitä uteliaita kokeilijoita, jotka uskaltavat leikkiä, käyttää väärin ja venyttää tämän uuden instrumentin rajoja. Emme tarvitse vain ekonomisteja ja insinöörejä. Tarvitsemme muotoilijoita, taiteilijoita, tutkijoita ja pelisuunnittelijoita kuvittelemaan yhdessä: Miten käytetään taloutta, joka on suunniteltu yhteistyölle eikä kilpailulle? Miltä tuntuu kun saan itse osallistua sen määrittelyyn mitä verkostossa optimoimme ja kun osallistumiseni tuottaa välitöntä verkoston omistajuutta?
+Meidän on tehtävä nyt sama syntymässä olevan taloudellis-organisatorisen median kanssa. Koska sen käyttö on pohjimmiltaan arvojen, suhteiden ja organisaatiomuotojen ilmaisua, sen mahdollisuuksien tutkiminen edellyttää uteliaita kokeilijoita, jotka uskaltavat leikkiä, käyttää väärin ja venyttää tämän uuden instrumentin rajoja. Emme tarvitse vain ekonomisteja ja insinöörejä. Tarvitsemme muotoilijoita, taiteilijoita, tutkijoita ja pelisuunnittelijoita kuvittelemaan yhdessä: miten käytetään taloutta, joka on suunniteltu yhteistyölle eikä kilpailulle? Miltä tuntuu kun voin itse osallistua sen määrittelyyn mitä verkostossa optimoidaan – ja kun osallistumiseni tuottaa välitöntä omistajuutta verkostosta?
 
 Taloudesta on tulossa luovuuden alue. Suomen kannattaa olla maa, joka ei kilpaile halvimmilla veroilla, vaan ilmaisukykyisimmillä yhteistoimintaprotokollilla, avoimimmilla kokeilualustoilla ja matalimmilla kynnyksillä taloudelliseen toimijuuteen.
 
