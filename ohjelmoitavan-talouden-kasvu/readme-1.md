@@ -31,4 +31,4 @@ Eeva Hellström, Krista Jäntti, Roope Mokka, Mika Pantzar, Anni Pokela, Alku Si
 \
 **Erityiskiitokset**&#x20;
 
-Anna Moilanen, Jenna Jauhiainen, Jakub Lanc, Tomaž Fleischman, Dil Green & Tom Woodward.
+Anna Moilanen, Jenna Jauhiainen, Sari Tuori, Jakub Lanc, Tomaž Fleischman, Dil Green, Luukas Ilves, Tom Woodward.
