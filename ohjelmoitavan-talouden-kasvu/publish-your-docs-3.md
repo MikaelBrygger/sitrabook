@@ -180,6 +180,7 @@ Valtio arkkitehtina, USA:n ja Kiinan strategiat, Euroopan digitaalinen suverenit
 Miten uutta luodaan systemaattisesti?
 
 * Hiltzik, M. (1999): _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age._ HarperBusiness. Historiikki siitä, miten Xerox PARC keksi modernin tietojenkäsittelyn. Toimii mallina raportin ehdottamalle "Talouden laboratoriolle".
+* Wershler, Emerson L. & Parikka J. (2022): _The Lab Book. Situated Practices in Media Studies._ Analyysi laboratoriosta instituutiona ja toimintatapana. Metodologinen perustaa ehdotukselle ”Talouden laboratoriosta” paikkana, jossa uutta taloudellista mediaa opitaan ymmärtämään rakentamalla ja kokeilemalla.
 
 **12. Signaaleja ohjelmoituvan talouden esiinmarssista**&#x20;
 
