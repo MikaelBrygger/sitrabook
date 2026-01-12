@@ -25,11 +25,10 @@ layout:
 #### **Talous merkitysten, arvojen ja suhteiden tuottamisen mediana**
 
 1. `Miksi talouskasvun käsite on päivitettävä?`      &#x20;
-2.  `Talous ei ole vain järjestelmä — se on media`
-
-    `Taloudellisen median evoluution lyhyt historia`
-3. `Mikä muuttuu ohjelmoitavassa taloudessa?`
-4. `Mitä tämä tarkoittaa talouden kasvulle?`
+2. `Talous ei ole vain järjestelmä — se on media`
+3. `Taloudellisen median evoluution lyhyt historia`
+4. `Mikä muuttuu ohjelmoitavassa taloudessa?`
+5. `Mitä tämä tarkoittaa talouden kasvulle?`
 
 Info: _Taloudellisen median evoluution lyhyt historia_ \
 Info: _Mitä eri mediat mahdollistivat & mitä eivät_\
