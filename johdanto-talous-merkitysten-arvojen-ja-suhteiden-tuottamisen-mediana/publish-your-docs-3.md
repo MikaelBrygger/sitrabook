@@ -132,7 +132,7 @@ Tämä on se muutos, johon tätä johdanto seuraavat skenaariot ja suositukset t
 * yhteisöt, kunnat, organisaatiot ja verkostot voivat ohjelmoida omia talouksiaan
 * talous ei ole enää markkinoiden tai alustojen “kone”, vaan yhteinen ja yhteisesti verkon reunoilta ohjelmoitavissa oleva media.
 
-Tämä on ratkaiseva askel: Talous ei ole enää vain järjestelmä, jota verotetaan, säädellään tai optimoidaan. Taloudesta tulee tila, jota voidaan yhdessä suunnitella, kirjoittaa, kokeilla ja ilmaista.
+Tämä on ratkaiseva askel: Taloudesta tulee muutakin kuin järjestelmä, jota verotetaan, säädellään tai optimoidaan. Taloudesta tulee tila, jota voidaan yhdessä suunnitella, kirjoittaa, kokeilla ja ilmaista.
 
 <details>
 
