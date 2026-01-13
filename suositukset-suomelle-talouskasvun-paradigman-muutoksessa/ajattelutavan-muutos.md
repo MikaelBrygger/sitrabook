@@ -31,9 +31,9 @@ Ensimmäinen ja tärkein suosituksemme on ajattelutavan muutos:
 
 Jokainen talousjärjestelmä on laskennallinen prosessi. Se toimii sääntöjen – protokollien – varassa, jotka määrittelevät:
 
-* mitä lasketaan arvoksi,
-* kuka saa osallistua,
-* millä oikeuksilla,
+* mitä lasketaan arvoksi
+* kuka saa osallistua
+* millä oikeuksilla
 * ja miten arvo ja riskit jaetaan.
 
 Nämä protokollat eivät vain “välitä transaktioita” – ne rakentavat yhteiskunnallista ja taloudellista todellisuutta. Siksi ohjelmoitava talous ei ole vain tekninen yksityiskohta, vaan perustavanlaatuinen poliittisen kysymys. Se joka kontrolloi talouden protokollakerrosta, määrittelee taloudellisen toiminnan mahdollisuusavaruuden.

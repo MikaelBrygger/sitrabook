@@ -70,9 +70,9 @@ Nyt olemme samassa tilanteessa talouden kanssa. Tiedämme, että taloudesta on t
 
 Xerox PARC:n todellinen opetus ei ollut yksittäiset innovaatiot, vaan metodi uuden median kohtaamiseen:
 
-* he eivät tienneet etukäteen, millainen uusi väline on ja mistä se koostuu – he rakensivat sen kokeilemalla,
-* he lähestyivät tietokonetta uutena mediana ja ilmaisukielenä, eivät pelkkänä laskentakoneena, ja
-* he kehittivät käyttöliittymää, ohjelmointikieliä, verkkoa, laitteita ja merkityksiä samassa tilassa, samassa ekosysteemissä ja kokeilun kulttuurissa.
+* He eivät tienneet etukäteen, millainen uusi väline on ja mistä se koostuu – he rakensivat sen kokeilemalla.
+* He lähestyivät tietokonetta uutena mediana ja ilmaisukielenä, eivät pelkkänä laskentakoneena.
+* He kehittivät käyttöliittymää, ohjelmointikieliä, verkkoa, laitteita ja merkityksiä samassa tilassa, samassa ekosysteemissä ja kokeilun kulttuurissa.
 
 **Mitä Talouden Xerox PARC tekisi?**
 
