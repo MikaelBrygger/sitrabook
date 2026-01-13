@@ -12,7 +12,7 @@
 ## Johdanto: Talous merkitysten, arvojen ja suhteiden tuottamisen mediana
 
 * [Aluksi](johdanto-talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs.md)
-* [Miksi talouskasvun käsitettä on päivitettävä?](johdanto-talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-1.md)
+* [Miksi talouskasvun käsite on päivitettävä?](johdanto-talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-1.md)
 * [Talous ei ole vain järjestelmä – se on media](johdanto-talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-2.md)
 * [Taloudellisen median evoluution lyhyt historia](johdanto-talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-3.md)
 * [Mikä muuttuu ohjelmoitavassa taloudessa?](johdanto-talous-merkitysten-arvojen-ja-suhteiden-tuottamisen-mediana/publish-your-docs-4.md)
