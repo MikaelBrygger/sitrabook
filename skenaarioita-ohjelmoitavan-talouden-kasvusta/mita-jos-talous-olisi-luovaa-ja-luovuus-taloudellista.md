@@ -85,9 +85,9 @@ Tämä muutti taideteoksen luonteen täysin. Se ei ole enää vain katsottava ob
 
 _Protocols for Postcapitalist Economic Expression_ (2023) on sekä kirja että toimiva esimerkki ohjelmoitavasta taloudesta. Teos julkaistiin ECSA:n kehittämällä CoPu-alustalla tavalla, joka muutti passiivisen ostamisen aktiiviseksi osallistumiseksi.
 
-Aluksi teos oli piilotettu. Lukijat eivät vain ostaneet kirjaa, vaan osallistuivat sen paljastamiseen pala kerrallaan. Jokainen osallistuminen oli aktiivinen "julkaisuteko", joka toi uutta tekstiä kaikkien nähtäville. Arvo ei syntynyt vain valmiista tuotteesta, vaan sen yhteisöllisestä esiin tuomisesta.
+Aluksi teos oli piilotettu. Lukijat eivät vain ostaneet kirjaa, vaan osallistuivat sen paljastamiseen pala palalta. Jokainen osallistuminen oli aktiivinen "julkaisuteko", joka toi uutta tekstiä kaikkien nähtäville. Arvo ei syntynyt vain valmiista tuotteesta, vaan sen yhteisöllisestä esiin tuomisesta.
 
-Samaan aineistoon perustuva digitaalinen teos, _Postcapitalist Discourse_, vie idean pidemmälle: se hajottaa tekstin lineaarisuuden kolmiulotteiseksi avaruudeksi. Tekstikappaleista tulee itsenäisiä "diskurssiyksiköitä", joita lukija voi navigoida vapaasti. Hanke osoittaa, miten sisältö muuttuu staattisesta tuotteesta eläväksi prosessiksi, kun sen osiin ja jakeluun sovelletaan uutta ohjelmoitavaa logiikkaa.
+Samaan aineistoon perustuva digitaalinen teos _Postcapitalist Discourse_ vie idean pidemmälle. Siinä kirjaan sisältyvät tekstikappaleet on sijoitettu kolmiulotteiseen avaruuteen, jossa jokaisella ”diskurssiyksiköllä” on omat koordinaattinsa ja ominaisuutensa. Metateksti ei ainoastaan kuvaile sisältöä, vaan toimii navigaatiovälineenä: se määrittelee, mitkä ajatukset ovat toistensa ”naapureita”, ja rakentaa reittejä käsitteiden välille. Lukeminen ei etene sivulta toiselle, vaan muistuttaa tutkimusmatkaa semanttisessa avaruudessa, jossa lukija liikkuu assosiaatioiden ja ohjelmoitujen yhteyksien varassa.
 
 </details>
 
