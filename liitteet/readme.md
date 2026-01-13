@@ -4,7 +4,7 @@ icon: paperclip
 
 # Liite 1: Signaaleja
 
-## Signaaleja taloudellis-organisatorisen kompositiomme muuttumisesta ohjelmoitavaksi
+## Signaaleja taloudellis-organisatorisen kompositiomme muuttumisesta ohjelmoitavaksi tilaksi
 
 <sup>ECSA</sup>
 
