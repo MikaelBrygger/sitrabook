@@ -47,12 +47,14 @@ Akuutti kysymys Suomelle kuuluukin: miten alamme tutkia, ymmärtää, kokeilla j
 
 <details>
 
-<summary><em><strong>Xerox PARC – Tulevaisuuden laboratorio</strong></em> </summary>
+<summary><em><strong>Xerox PARC – tulevaisuuden laboratorio</strong></em> </summary>
 
 **Mitä tapahtuu, kun teknologiaa ei pidetä vain työkaluna, vaan uutena mediana?**\
-1970-luvulla tietokoneet olivat raskaita laskukoneita. Xerox Palo Alto Research Center (PARC) muutti historian suunnan kysymällä radikaalin kysymyksen: Mitä jos tietokone ei olekaan laskin, vaan uusi ilmaisun ja ajattelun väline?\
+1970-luvulla tietokoneet olivat raskaita laskukoneita. Xerox Palo Alto Research Center (PARC) muutti historian suunnan kysymällä radikaalin kysymyksen: Mitä jos tietokone ei olekaan laskin, vaan uusi ilmaisun ja ajattelun väline?
+
 **Metodi: Radikaali kokeilu**\
-PARC ei tyytynyt tehostamaan vanhaa. Se kokosi yhteen insinöörejä, tieteentekijöitä, taiteilijoita ja filosofeja keksimään tietokoneen uudelleen. He eivät vain tutkineet; he rakensivat tulevaisuuden prototyyppejä.\
+PARC ei tyytynyt tehostamaan vanhaa. Se kokosi yhteen insinöörejä, tieteentekijöitä, taiteilijoita ja filosofeja keksimään tietokoneen uudelleen. He eivät vain tutkineet; he rakensivat tulevaisuuden prototyyppejä.
+
 **Tulokset: Nykymaailman käyttöliittymä**\
 Melkein kaikki, mitä pidämme tietokoneessa itsestäänselvyytenä, syntyi PARCissa:
 
@@ -61,7 +63,7 @@ Melkein kaikki, mitä pidämme tietokoneessa itsestäänselvyytenä, syntyi PARC
 * Olio-ohjelmointi (Smalltalk, Self)
 * Ethernet ja lasertulostus
 * Alto, ensimmäinen henkilökohtainen tietokone (PC)
-* WYSIWYG: se, mitä näytöllä näkyy, vastaa paperille tulostuvaa
+* WYSIWYG: se, mitä näytöllä näkyy, vastaa paperille tulostuvaa.
 
 **Opetus Suomelle**\
 PARC osoitti, että murrosvaiheessa suurin arvo ei synny tehostamisesta, vaan uuden arkkitehtuurin kuvittelemisesta. Me tarvitsemme nyt "Talouden Xerox PARC:n" – paikan, jossa talouden uudet käyttöliittymät, säännöt ja ilmaisumuodot keksitään.
