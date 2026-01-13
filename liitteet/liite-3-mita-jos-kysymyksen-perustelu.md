@@ -18,6 +18,8 @@ layout:
 
 # Liite 3: Mitä jos -kysymyksen perustelu
 
+<sup>ECSA Labs</sup>
+
 **USA rakentaa strategista Bitcoin-reserviä. BRICS-maat kehittävät lohkoketjupohjaista reservivaluuttaa. Keskuspankit suunnittelevat ohjelmoitavia digivaluuttoja. WeChat yhdistää maksun, viestinnän ja identiteetin – ohjelmallisesti. Joukkorahoituspalvelut ja p2p-lainat ohjelmoivat uudenlaisia taloudellisia suhteita. DAO:t mahdollistavat organisoitumisen ilman yhtiömuotoa. Hajautetut rahoitus- ja markkina-protokollat rakentavat taloutta ilman instituutioita – vain koodilla. Wall Street Bets järisytti markkinoita meemien ja verkostojen voimalla.**
 
 
