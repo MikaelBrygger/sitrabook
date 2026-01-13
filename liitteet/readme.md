@@ -6,7 +6,7 @@ icon: paperclip
 
 ## Signaaleja taloudellis-organisatorisen kompositiomme muuttumisesta ohjelmoitavaksi
 
-<sup>ECSA Labs</sup>
+<sup>ECSA</sup>
 
 Tämä liite kokoaa yhteen signaaleja siitä, miten taloudellinen organisointi on siirtymässä instituutioista ja markkinoista kohti ohjelmoituja protokollia ja laskennallista koordinaatiota.
 
