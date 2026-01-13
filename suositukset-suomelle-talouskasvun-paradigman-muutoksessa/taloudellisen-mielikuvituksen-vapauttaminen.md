@@ -74,7 +74,7 @@ Meidän on tehtävä nyt sama syntymässä olevan taloudellis-organisatorisen me
 
 Taloudesta on tulossa luovuuden alue. Suomen kannattaa olla maa, joka ei kilpaile halvimmilla veroilla, vaan ilmaisukykyisimmillä yhteistoimintaprotokollilla, avoimimmilla kokeilualustoilla ja matalimmilla kynnyksillä taloudelliseen toimijuuteen.
 
-**Toinen suosituksemme on: taloudellisen mielikuvituksen vapauttaminen ja tilan rakentaminen sen systemaattiselle kehittämiselle.**
+**Toinen suosituksemme on taloudellisen mielikuvituksen vapauttaminen ja tilan rakentaminen sen systemaattiselle kehittämiselle.**
 
 
 
