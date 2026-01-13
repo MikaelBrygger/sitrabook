@@ -27,9 +27,9 @@ Kun talous muuttuu media-alustaksi, myös kasvun käsite muuttuu: se ei tarkoita
 
 Talouden kasvu alkaa tarkoittaa:
 
-* uusia taloudellisia yhteisöjä ja organisaatiomuotoja,
-* uusia laskennan ja mittaamisen logiikkoja,
-* uusia tapoja arvottaa työtä, ekologiaa, hoivaa ja kulttuuria, ja
+* uusia taloudellisia yhteisöjä ja organisaatiomuotoja
+* uusia laskennan ja mittaamisen logiikkoja
+* uusia tapoja arvottaa työtä, ekologiaa, hoivaa ja kulttuuria
 * uusia osallistumisen tapoja, jotka eivät perustu omistukseen tai pääomaan.
 
 Kasvun ydinkysymys muotoutuu uudelleen: **millaista arvoa haluamme tuottaa – ja millä logiikalla haluamme sen jakaa?**

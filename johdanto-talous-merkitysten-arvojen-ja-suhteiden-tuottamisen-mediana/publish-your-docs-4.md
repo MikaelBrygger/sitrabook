@@ -27,8 +27,8 @@ Talouden ohjelmoitavuus ei tarkoita vain automaatiota. Se ei tarkoita vain optim
 
 Se tekee mahdolliseksi määritellä uudelleen:
 
-* mitä lasketaan arvoksi,
-* kenen suhde talouteen on pelkkää osallistumista ja kenen on toimijuutta,
+* mitä lasketaan arvoksi
+* kenen suhde talouteen on pelkkää osallistumista ja kenen on toimijuutta
 * millä laskentalogiikalla arvoa mitataan ja jaetaan.
 
 Toisin sanoen: Taloudellisen yhteistoiminnan sääntöjä ei tarvitse enää vain hyväksyä ja seurata, niitä voidaan muotoilla ja suunnitella. Suunnittelu voi tapahtua alhaalta ylös ilman, että menetetään mitään keskitetyn taloudellisen ilmaisun aikaisemmin tarjoamasta koordinaatiosta.
@@ -41,23 +41,23 @@ Tämä muuttaa talouden luonteen: talous ei ole enää pelkkä vaihdon ja voiton
 
 Tämä muutos haastaa neljä talouden taustaoletusta:
 
-* että arvon on oltava annettu eikä se voi olla määriteltävissä toimijoiden itsensä toimesta,
-* että koordinaatio voi tapahtua vain hierarkioiden ja markkinoiden kautta,&#x20;
-* että talous on neutraali järjestelmä eikä kulttuurinen ja poliittinen ilmaisuväline, ja
+* että arvon on oltava annettu eikä se voi olla määriteltävissä toimijoiden itsensä toimesta
+* että koordinaatio voi tapahtua vain hierarkioiden ja markkinoiden kautta
+* että talous on neutraali järjestelmä eikä kulttuurinen ja poliittinen ilmaisuväline
 * että toimijat voivat optimoida vain omaa toimintaansa, eivätkä verkostoa kokonaisuutena.
 
 Ohjelmoitavassa taloudessa nämä oletukset eivät enää pidä paikkaansa:
 
-* arvo voidaan ilmaista uudelleen hajautetusti,
-* koordinaatio voidaan toteuttaa verkossa ilman keskitettyjä portinvartijoita,
-* verkosto voi alkaa optimoida itseään kokonaisuutena, ja
+* arvo voidaan ilmaista uudelleen hajautetusti
+* koordinaatio voidaan toteuttaa verkossa ilman keskitettyjä portinvartijoita
+* verkosto voi alkaa optimoida itseään kokonaisuutena
 * talous voi olla yhteiskunnallinen media eli **tila, jossa uusia taloudellisia muotoja voidaan luoda, testata ja jakaa**.
 
 Toisin sanoen, kun talouden kieli muuttuu media-alustaksi:
 
-* taloudellinen toimijuus siirtyy keskuksesta reunoille,
-* koordinaatio ei perustu omistukseen, vaan protokolliin,
-* arvo ei ole yksiulotteista, vaan monikielistä, ja
+* taloudellinen toimijuus siirtyy keskuksesta reunoille
+* koordinaatio ei perustu omistukseen, vaan protokolliin
+* arvo ei ole yksiulotteista, vaan monikielistä
 * verkosto alkaa nähdä itsensä taloudellisena toimijana.
 
 
