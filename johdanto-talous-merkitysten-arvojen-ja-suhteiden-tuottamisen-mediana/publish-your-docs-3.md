@@ -37,7 +37,7 @@ Teollisen aikakauden myötä taloutta ei määrittänyt enää yksittäinen kirj
 
 * itsenäiset toimijat → yhteinen signaali
 * paikallinen tieto → globaali koordinaatio
-* kilpailu → emergentti optimointi
+* kilpailu → emergentti optimointi.
 
 Sen logiikka oli vallankumouksellinen: ensimmäistä kertaa verkosto itse alkoi laskea tilaansa hajautetusti. Sen myötä talous alkoi toimia kuin primitiivinen tietokone: miljoonat itsenäiset toimijat pystyivät koordinoitumaan ilman keskitettyä ohjausta hintasignaalin välityksellä. Mutta “näkymätön käsi” osasi laskea ja koordinoida vain yhtä asiaa tai yhdellä signaalilla: hinnalla.
 
@@ -46,7 +46,7 @@ Sen logiikka oli vallankumouksellinen: ensimmäistä kertaa verkosto itse alkoi 
 Viimeiset kaksi vuosikymmentä toivat seuraavan mediumin: datan, koneoppimisen ja ohjelmoidun pääsynhallinnan. Alustatalous loi uuden tavan laskea taloutta, joka puuttui markkinoilta ja perustui _verkoston keskitetyn kokonaiskuvan hallintaan_:
 
 * markkinoilla toimijat näkivät vain omat hintansa ja kirjanpitonsa tilan
-* alustoilla yksi toimija näki koko verkoston, sen tilan, suhteet ja sen kaikki muutokset
+* alustoilla yksi toimija näki koko verkoston, sen tilan, suhteet ja sen kaikki muutokset.
 
 Tämän mahdollisti uusi laskennallinen logiikka: kyky nähdä verkosto kokonaisuudessaan ja optimoida sitä reaaliajassa. Alustat kuin ratkaisivat markkinoiden “sokean koordinaation” tai “näkymättömän käden” ongelman: ne näkivät kysynnän, tarjonnan, käyttäytymisen, suhteet ja työnjaon samaan aikaan koko verkostossa. Se antoi alustoille kyvyn optimoida koko verkoston toimintaa. Mutta tämä kyky oli:
 
@@ -54,7 +54,7 @@ Tämän mahdollisti uusi laskennallinen logiikka: kyky nähdä verkosto kokonais
 * suljettu
 * ja suunnattu yksittäisen yrityksen voiton rahalliseen maksimointiin, ei verkoston kokonaishyötyyn tai sen kykyjen kasvattamiseen.
 
-Alustoista tuli uusia koordinaattoreita, mutta niiden taloudellinen kielioppi oli osasi vain yhden asian optimoinnin: yrityksen voiton. Se perustui kykyyn nähdä koko sosiaalinen graafi ja hyväksikäyttää sitä. Talous alkoi muistuttaa ohjelmistoa, joka päivittyi jatkuvasti, mutta vain yhden toimijan ja yhden optimointifunktion ehdoilla. Talouden kieli muuttui ohjelmoiduksi – mutta ohjelmiston kielioppia ei voinut itse muokata.
+Alustoista tuli uusia koordinaattoreita, mutta niiden taloudellinen kielioppi osasi optimoida vain yhtä asiaa: yrityksen voittoa. Se perustui kykyyn nähdä koko sosiaalinen graafi ja hyväksikäyttää sitä. Talous alkoi muistuttaa ohjelmistoa, joka päivittyi jatkuvasti, mutta vain yhden toimijan ja yhden optimointifunktion ehdoilla. Talouden kieli muuttui ohjelmoiduksi – mutta ohjelmiston kielioppia ei voinut itse muokata.
 
 <details>
 
