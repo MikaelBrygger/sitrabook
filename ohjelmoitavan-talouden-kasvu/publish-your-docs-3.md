@@ -200,4 +200,4 @@ Ajankohtaisia tapahtumia ja trendejä, jotka osoittavat murroksen olevan käynni
 * Freedman, Seth & Jin, Ginger Zhe (2008): [_Do Social Networks Solve Information Problems for Peer-to-Peer Lending?_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1936057)_. NET Institute Working Paper No. 08-43._
 * Mozur, Paul (2019): [_Inside China’s Dystopian Dreams_](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html). NYT.
 * Schär, Fabian (2021): [_Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets_. ](https://www.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)Federal Reserve Bank of St. Louis Review.
-* Usher (2025): A new world reserve currency – a decentralized CRC
+* Usher (2025): A new world reserve currency – a decentralized CRC.
