@@ -167,7 +167,7 @@ Tämä on ratkaiseva askel: Taloudesta tulee muutakin kuin järjestelmä, jota v
 
 <details>
 
-<summary><em>Taloudellisen median evoluution lyhyt historia</em> </summary>
+<summary><em>Taloudellisen median evoluution lyhyt histori</em></summary>
 
 
 
