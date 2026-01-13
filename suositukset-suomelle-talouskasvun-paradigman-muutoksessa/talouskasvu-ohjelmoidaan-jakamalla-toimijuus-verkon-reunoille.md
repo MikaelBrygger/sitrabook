@@ -83,11 +83,9 @@ EuroStack näyttää, että teknologinen suvereniteetti vaatii järjestelmätaso
 
 </details>
 
-&#x20;
-
 <details>
 
-<summary><em><strong>Agentic State – Hallinnon uudet aivot</strong></em></summary>
+<summary><em><strong>Agentic State – hallinnon uudet aivot</strong></em></summary>
 
 **Mitä tapahtuu, kun valtio alkaa toimia kuten älykäs järjestelmä?**\
 Agentic State on visio hallinnosta, jossa tekoälyagentit eivät vain automatisoi byrokratiaa, vaan muuttavat koko julkisen sektorin toimintalogiikan: ennakoivaksi, oppivaksi ja adaptiiviseksi järjestelmäksi.
