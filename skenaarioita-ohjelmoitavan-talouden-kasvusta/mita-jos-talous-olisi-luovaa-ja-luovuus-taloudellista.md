@@ -61,11 +61,35 @@ Tässä murroksessa taloudellinen toiminta muuttuu transaktiosta luovaksi välin
 
 Kun yhtenäinen kokonaisuus puretaan pienemmiksi, itsenäisiksi ja omistettaviksi osiksi, sen rakenne herää henkiin ja osien välisistä suhteista tulee paitsi merkityksellisiä, myös muokattavia. Hajottaminen voi olla luova teko, joka antaa identiteetin ja määrittelee arvon yksikön uudelleen. Yksittäinen osa voi olla samalla tarkoituksellisen keskeneräinen ja täydentää itseään.
 
-Esimerkiksi Eve Sussmanin teokseen [_89 Seconds at Alcázar_](https://www.moma.org/collection/works/93645) (2004) perustuvassa projektissa _89 Seconds Atomized_, Diego Velázquezin maalaus [_Las Meninas_](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f) (1656) muunnettiin videomateriaaliksi ja fragmentoitiin 2048 yksittäiseksi "atomiksi" eli pikseliksi, joista jokainen myytiin uniikkina teoksena. Arvo ei ollut enää ainoastaan kokonaisessa teoksessa, vaan myös sen yksittäisissä osissa.&#x20;
+Esimerkiksi Eve Sussmanin teokseen [_89 Seconds at Alcázar_](https://www.moma.org/collection/works/93645) (2004) perustuvassa projektissa _89 Seconds Atomized_ (2018), Diego Velázquezin maalaus [_Las Meninas_](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f) (1656) muunnettiin videomateriaaliksi ja fragmentoitiin 2048 yksittäiseksi "atomiksi" eli pikseliksi, joista jokainen myytiin uniikkina teoksena. Arvo ei ollut enää ainoastaan kokonaisessa teoksessa, vaan myös sen yksittäisissä osissa.&#x20;
 
 Hajottamisen periaate soveltuu esimerkiksi julkaisuprosessiin. [_Protocols for Postcapitalist Economic Expression_](https://www.minorcompositions.info/?p=1195) (2023) -teos on julkaistu myös Economic Space Agencyn (ECSA) yhteisöllisen julkaisemisen alustalla ([CoPu](https://postcapitalist.agency)). Teos on aluksi piilossa, ja lukijat voivat osallistua sen paljastamiseen julkaisemalla pienen osan siitä. Jokainen osallistuminen on aktiivinen yhteisjulkaisemisen teko, joka saattaa uuden palan tekstiä kaikkien nähtäville. Näin passiivinen ostaminen muuttuu aktiiviseksi osallistumiseksi, ja arvo syntyy paitsi valmiista teoksesta, myös sen yhteisöllisestä esiin tuomisesta.
 
 Samaan kirjaan perustuva projekti [_Postcapitalist Discourse_](https://opensea.io/collection/protocols-for-post-capitalist-economic-expression) (2023) luotaa teosta digitaalisesti natiivilla tavalla. CoPu:n tavoin alkuperäinen teksti on hajotettu osiin, jonka jälkeen fragmentit on järjestetty peräkkäisen järjestyksen sijaan kolmiulotteiseen koordinaatistoon kuution muotoiseksi objektiksi. Kun tekstikappaleille annetaan lisäksi metadataan kirjoitettu identiteetti, ne lakkaavat olemasta vain osa lineaarista kerrontaa; niistä tulee semanttisen avaruuden solmuja eli “diskurssiyksiköitä”, jotka tarjoavat omistajalle mahdollisuuden navigoida teosta uusilla tavoilla.&#x20;
+
+<details>
+
+<summary><strong>Kun taideteoksesta tulee mikroekonomia</strong></summary>
+
+Miten yhdestä videoteoksesta tehdään tuhansia itsenäisiä, omistettavia objekteja? _89 Seconds Atomized_ (2018) on radikaali esimerkki "osiin hajottamisen" (decomposition) strategiasta. Projekti perustuu Eve Sussmanin videoteokseen, joka on tulkinta Velázquezin klassikkomaalauksesta _Las Meninas_.
+
+Teoksessa alkuperäinen video pilkottiin "atomeiksi" – pieniksi videopikseleiksi. Jokainen atomi myytiin omana uniikkina teoksenaan lohkoketjussa. Omistajat eivät saaneet vain palaa kuvasta, vaan oikeuden hallita sitä: he voivat lainata atomiaan eteenpäin muiden esitettäväksi tai pitää sen itsellään.
+
+Tämä muutti taideteoksen luonteen täysin. Se ei ole enää vain katsottava objekti, vaan sosiaalinen peli ja mikroekonomia. Teoksen eheä esittäminen vaatii omistajien yhteistyötä ja koordinaatiota. Projekti havainnollistaa, kuinka ohjelmoitava talous voi luoda arvoa paitsi kokonaisuudesta, myös sen osista ja niiden välisistä suhteista.
+
+</details>
+
+<details>
+
+<summary><strong>Kirja, joka julkaisee itsensä yhteisön voimin</strong></summary>
+
+_Protocols for Postcapitalist Economic Expression_ (2023) on sekä kirja että toimiva esimerkki ohjelmoitavasta taloudesta. Teos julkaistiin ECSA:n kehittämällä CoPu-alustalla tavalla, joka muutti passiivisen ostamisen aktiiviseksi osallistumiseksi.
+
+Aluksi teos oli piilotettu. Lukijat eivät vain ostaneet kirjaa, vaan osallistuivat sen paljastamiseen pala kerrallaan. Jokainen osallistuminen oli aktiivinen "julkaisuteko", joka toi uutta tekstiä kaikkien nähtäville. Arvo ei syntynyt vain valmiista tuotteesta, vaan sen yhteisöllisestä esiin tuomisesta.
+
+Samaan aineistoon perustuva digitaalinen teos, _Postcapitalist Discourse_, vie idean pidemmälle: se hajottaa tekstin lineaarisuuden kolmiulotteiseksi avaruudeksi. Tekstikappaleista tulee itsenäisiä "diskurssiyksiköitä", joita lukija voi navigoida vapaasti. Hanke osoittaa, miten sisältö muuttuu staattisesta tuotteesta eläväksi prosessiksi, kun sen osiin ja jakeluun sovelletaan uutta ohjelmoitavaa logiikkaa.
+
+</details>
 
 ### **Derivointi: Yhdestä lähteestä moneksi versioksi**
 
