@@ -58,7 +58,7 @@ Alustoista tuli uusia koordinaattoreita, mutta niiden taloudellinen kielioppi os
 
 <details>
 
-<summary><em>Miksi <strong>sosiaalinen media on jo taloudellinen media?</strong></em></summary>
+<summary><em>Miksi sosiaalinen media on jo taloudellinen media?</em></summary>
 
 **Mitä tapahtuu, kun kommunikoinnin välineet muuttuvat – mutta talouden kieli ei?**\
 Sosiaalinen media lupasi demokratian: jokainen sai äänen, kanavan ja yleisön. Mutta taustalla toimi koko ajan kaksikerroksinen järjestelmä:
@@ -87,7 +87,7 @@ Lohkoketju siis ratkaisi valtion ja alustan ongelman (“kuka omistaa kirjanpido
 
 <details>
 
-<summary><em>Miksi lohkoketju ja krypto ei muuttanut taloutta?</em></summary>
+<summary>Miksi lohkoketju ja krypto eivät muuttaneet taloutta?</summary>
 
 **Mitä tapahtuu, kun infrastruktuuri muuttuu – mutta talouden kieli ei?**\
 Lohkoketju osoitti, että verkosto voi panna omat sääntönsä täytäntöön ja saavuttaa konsensuksen tilastaan hajautetusti. Mutta se ei muuttanut talouden logiikkaa: sitä, mitä talous osaa ilmaista ja laskea.

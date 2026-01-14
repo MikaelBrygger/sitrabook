@@ -30,10 +30,10 @@ layout:
 5    Mitä tämä tarkoittaa talouden kasvulle?    
 ```
 
-Info: _Taloudellisen median evoluution lyhyt historia_ \
-Info: _Mitä eri mediat mahdollistivat & mitä eivät_\
-Info: _Miksi lohkoketju ja krypto ei muuttanut taloutta?_\
-Info: _Miten sosiaalinen media on taloudellinen media?_
+_Info:_ Taloudellisen median evoluution lyhyt historia \
+&#xNAN;_&#x49;nfo:_ Mitä eri mediat mahdollistivat & mitä eivät\
+&#xNAN;_&#x49;nfo:_ Miksi lohkoketju ja krypto eivät muuttaneet taloutta?\
+&#xNAN;_&#x49;nfo:_ Miten sosiaalinen media on taloudellinen media?
 
 ### **Skenaarioita ohjelmoitavan talouden kasvusta**
 
@@ -47,6 +47,11 @@ Skenaariot – mitä jos talouden säännöt muuttuvat
 6    Mitä jos tekoäly saisi rinnalleen älykkäämmän taloudellisen kielen?
 ```
 
+_Info:_ Kun taideteoksesta tulee mikroekonomia (3)\
+&#xNAN;_&#x49;nfo:_ Kirja, joka julkaisee itsensä yhteisön voimin (3)\
+&#xNAN;_&#x49;nfo:_ Mikä on Agentic State? (6)\
+&#xNAN;_&#x49;nfo:_ Miksi AI pakottaa meidät ajattelemaan taloudellista koordinaatiota uudelleen? (6)
+
 ### **Suositukset Suomelle talouskasvun paradigman muutoksessa**
 
 ```
@@ -57,7 +62,7 @@ Skenaariot – mitä jos talouden säännöt muuttuvat
 5    Taloudellisten infrastruktuurien systemaattinen kehittäminen (Suositus 3)
 ```
 
-Info: _Agentic State – Hallinnon uudet aivot_\
-Info: _EuroStack – Euroopan digitaalinen ruumis_\
-Info: _Xerox Parc – Tulevaisuuden laboratorio_\
-Info: _Kim Stanley Robinson – Talouden tulevaisuuden ministeriö_
+_Info: Agentic State – Hallinnon uudet aivot_\
+_Info: EuroStack – Euroopan digitaalinen ruumis_\
+_Info: Xerox Parc – Tulevaisuuden laboratorio_\
+_Info: Kim Stanley Robinson – Talouden tulevaisuuden ministeriö_
