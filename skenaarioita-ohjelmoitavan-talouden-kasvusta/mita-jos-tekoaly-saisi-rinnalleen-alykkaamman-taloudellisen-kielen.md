@@ -183,7 +183,7 @@ Tekoälyagentithan kuolevat nauruun. Toimijavaltio tarvitsee itselleen älykkä�
 
 <details>
 
-<summary>Miksi AI pakottaa meidät ajattelemaan taloudellisen koordinaation uudelleen?</summary>
+<summary>Info: Miksi AI pakottaa meidät ajattelemaan taloudellista koordinaatiota uudelleen?</summary>
 
 Generatiivinen ja agenttinen tekoäly ei vain automatisoi työtä — se **muuttaa talouden laskennan, koordinoinnin ja arvonmuodostuksen logiikan.**
 
