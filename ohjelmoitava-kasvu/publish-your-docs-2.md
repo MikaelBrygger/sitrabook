@@ -31,7 +31,7 @@ Talous ei määrity enää vain markkinoiden tai pääoman liikkeiden kautta. Si
 
 Raportti osoittaa, että kasvun tulevaisuus ei löydy vanhan taloudellisen järjestelmämme tehostamisesta, vaan **talouden sääntöjen, protokollien ja käyttöliittymien uudelleensuunnittelusta**. Talouden "ohjelmoitavuus" tarkoittaa juuri mahdollisuutta muokata talouden perusrakennetta: sen kieltä, logiikkaa ja yhteistoiminnan muotoja. Skenaariot konkretisoivat, mitä tämä tarkoittaa käytännössä, ja suositukset hahmottavat, miten Suomi voi tarttua tähän murrokseen strategisesti ja rakentavasti.\
 \
-Suomen strategisena mahdollisuutena on kilpailla pääoman massan sijaan arkkitehtuurilla. Ehdotamme siirtymistä yksittäisistä hankkeista systemaattiseen talouden infrastruktuurien kehittämiseen. Tarvitsemme **Talouden "Xerox PARC:n"** – laboratorion, jossa uuden talouden käyttöliittymät ja pelisäännöt koodataan.
+Suomen strategisena mahdollisuutena on kilpailla pääoman massan sijaan arkkitehtuurilla. Ehdotamme siirtymistä yksittäisistä hankkeista systemaattiseen talouden infrastruktuurien kehittämiseen. Tarvitsemme **talouden "Xerox PARC:n"** – laboratorion, jossa uuden talouden käyttöliittymät ja pelisäännöt koodataan.
 
 ### Ydinteesit
 
