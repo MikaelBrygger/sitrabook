@@ -41,7 +41,7 @@ Tämä raportti kysyy siksi: **mikä on uuden syntymässä olevan taloudellisen 
 
 Kirjoitustaito mahdollisti lait ja valtiot. Painokone ei vain tuonut kirjoja, se loi modernin sopimusjärjestelmän. Internet ei vain tehostanut kommunikaatiota, se muutti identiteetit, politiikan ja kulttuurin. Kun talous alkaa nyt muistuttaa yhä enemmän kommunikaatiovälinettä, mitä tapahtuu käsityksellemme arvosta, vaihdosta ja koordinaatiosta? Mikä tapahtuu talouden kasvulle kun suhteemme talouteen muuttuu pelkästä lukuoikeudesta (_read only_) luku- ja kirjoitusoikeudeksi (_read/write_)?
 
-Tämä on suurempi muutos kuin siirtymä yksisuuntaisesta mediasta vuorovaikutteisiin alustoihin.
+Tämä on suurempi muutos kuin siirtymä kommunikaation puolella yksisuuntaisesta mediasta (sanomalehti) vuorovaikutteisiin alustoihin (Facebook jne.).
 
 On selvää, että se ei vain nopeuta vanhaa, vaan luo täysin uusia taloudellisen interaktion muotoja, rytmejä ja mittakaavaa.
 
