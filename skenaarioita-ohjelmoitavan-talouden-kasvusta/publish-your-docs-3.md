@@ -23,6 +23,44 @@ layout:
 
 # Mitä jos organisaatiot olisivat ohjelmoitavia?
 
+<details>
+
+<summary>Tiivistelmä</summary>
+
+Uudet talouden alueet syntyvät organisaatioinnovaatioista – osakeyhtiö on tästä klassinen esimerkki. Siksi ohjelmoinnin avaama mahdollisuus kehittää kokonaan uusia organisaatiomalleja on myös mahdollisuus luoda uusia talouden kenttiä ja avata laaja-alaisia kasvupotentiaaleja.
+
+Tämä teksti kartoittaa keskeisiä pohjarakenteita, otollisia lähtökohtia ja tarvittavia askelia tämän potentiaalin kehittämiseksi. Lopuksi se vastaa kiteyttävään kysymykseen: **Miten Suomen koko organisaatiopohja voitaisiin muuttaa ohjelmoitavaksi – ja mitä merkittäviä etuja siitä seuraisi?**
+
+#### **Keskeinen teesi**
+
+Taloutta ei voida rakentaa ilman sen organisaatioita. Organisaatio on talouden perusrakenne – se tekee toiminnan mahdolliseksi ja määrittää sen logiikan. Tästä syystä ohjelmoitaviin organisaatiomuotoihin panostaminen tarjoaa vahvan etulyöntiaseman uuden talouden rakentamisessa.
+
+#### **Muutos talouden logiikassa**
+
+Talouden logiikka määräytyy sen organisaatiopohjan kautta: rakenne säätelee logiikkaa ja tekee taloudesta toiminnallisen. Kun organisaatiomuodot uudistuvat, avautuu mahdollisuus laajentaa nykyistä logiikkaa – ja kehittää kokonaan uusia.
+
+#### **Seuraukset talouskasvun käsitteelle**
+
+Nykyinen tarve, erityisesti Suomessa, on kasvattaa uusia talouden muotoja. Kilpailuasemamme vanhoissa rakenteissa on heikko, eikä pelkkä optimointi riitä. Tarvitaan uusia variaatioita.
+
+Uusien taloudellisten muotojen kasvu edellyttää niiden pohjarakenteiden organisointia:
+
+Mitä instituutioita tarvitaan? Millä järjestelmillä ja metriikoilla? Kenen vallan alla?
+
+Nämä ovat suunnittelu- ja innovaatiokysymyksiä. Siksi ohjelmoitavan organisaation työkalujen käyttöönotto edellyttää sekä systemaattista soveltamista että ennakoivaa tutkimusta.
+
+#### **Suhde ohjelmoitavaan talouteen**
+
+Ohjelmoitava organisaatio on ohjelmoitavan talouden keskeinen mahdollistaja – käytännössä välttämätön uuden talouslogiikan suunnittelun ja toteutuksen näkökulmasta.
+
+#### **Mahdollisuudet Suomelle**
+
+Suomella on vahvat lähtökohdat edetä ohjelmoitavien organisaatioiden kokonaiskehityksessä. Nämä vahvuudet mahdollistaisivat koko Suomen organisaatiopohjan siirtämisen ohjelmoitavalle alustalle. Toteutus olisi mittakaavaltaan kevyt verrattuna niihin laajoihin voimavaroihin, jotka avautuisivat tällaisen muutoksen seurauksena.
+
+Tekstin päättävä skenaario yksityiskohtaistaa sekä toteutuksen suuntaviivoja että tästä avautuvia kokonaistaloudellisia mahdollisuuksia.
+
+</details>
+
 ### **Organisaatio talouden peruskivenä**
 
 Jokainen talous pohjautuu organisaatioihin. Valuutan perustana toimii pankkien ja keskuspankkien verkosto, joka toteuttaa sääntöjä, joiden varaan valuutan olemassaolo rakentuu. Näiden rakenteiden yläpuolella ovat ihmiset ja organisaatiot, jotka toimivat sääntöjen puitteissa ja tekevät valuutasta toiminnallisen – ja siten todellisen. Ilman tätä organisatorista perustaa valuuttaa ei olisi olemassa.

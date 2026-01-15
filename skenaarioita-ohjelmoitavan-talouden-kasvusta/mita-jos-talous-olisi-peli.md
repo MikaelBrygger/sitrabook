@@ -27,8 +27,6 @@ layout:
 
 <summary><strong>Tiivistelmä</strong></summary>
 
-## **Mitä jos talous olisi peli?**
-
 Peliteollisuuden kasvu on ollut valtaisaa viime vuosikymmeninä. Vähemmälle huomiolle on kuitenkin jäänyt kysymys siitä, **miksi** pelit ovat kasvaneet – ja miksi ne kasvavat edelleen.
 
 Kun pelien kehitystä ja niiden yhteiskunnallisia mahdollisuuksia tarkastellaan syvemmin, esiin nousee piirteitä, jotka valottavat myös viimeaikaista kryptokehitystä ja siihen liittyviä talousmalleja.
