@@ -23,7 +23,7 @@ layout:
 
 # Mitä jos likviditeetti olisi Suomessa julkista infrastruktuuria?
 
-### Raha on vain informaatiota – on aika päivittää miten käsittelemme sitä.
+### Raha on vain informaatiota – on aika päivittää miten käsittelemme sitä
 
 <details>
 
