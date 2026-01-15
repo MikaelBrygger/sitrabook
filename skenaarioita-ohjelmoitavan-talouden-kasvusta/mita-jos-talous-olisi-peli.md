@@ -23,6 +23,48 @@ layout:
 
 # Mitä jos talous olisi peli?&#x20;
 
+<details>
+
+<summary><strong>Tiivistelmä</strong></summary>
+
+## **Mitä jos talous olisi peli?**
+
+Peliteollisuuden kasvu on ollut valtaisaa viime vuosikymmeninä. Vähemmälle huomiolle on kuitenkin jäänyt kysymys siitä, **miksi** pelit ovat kasvaneet – ja miksi ne kasvavat edelleen.
+
+Kun pelien kehitystä ja niiden yhteiskunnallisia mahdollisuuksia tarkastellaan syvemmin, esiin nousee piirteitä, jotka valottavat myös viimeaikaista kryptokehitystä ja siihen liittyviä talousmalleja.
+
+#### **Keskeinen teesi**
+
+Talouden rakenteet heijastavat monin tavoin pelien rakenteita: mitä syvemmälle vertailua viedään, sitä selkeämmiksi vastaavuudet käyvät. Tästä samankaltaisuudesta seuraa, että pelien monimuotoinen kirjo muodostaa laajan varannon mahdollisia talouden malleja.
+
+Näiden mallien ennakoiva ja kokeileva hyödyntäminen avaisi näkymiä ohjelmoitavan talouden mahdollisuuksiin ja tarjoaisi luovempia lähtökohtia talouden suunnitteluun.
+
+#### **Muutos talouden logiikassa**
+
+Talouden logiikkaa voidaan laajentaa rikkomatta sen perustavoitteita. Nykyiset käsitykset siitä, miten talous voi toimia, nojaavat pitkälti perittyihin ja toistuviin malleihin. Samalla talouden merkittävimmät innovaatiot ovat historiallisesti olleet juuri **rakenteellisia** innovaatioita.
+
+Pelit tarjoavat runsaasti esimerkkejä ja kokeellisia ehdokkaita uusien taloudellisten rakenteiden tunnistamiseen ja testaamiseen.
+
+#### **Seuraukset talouskasvun käsitteelle**
+
+Peleille on ominaista sisäinen moniarvoisuus, silloinkin kun lopullinen tavoite tiivistyy yhteen mittariin. Tämän seurauksena kasvu näyttäytyy peleissä luontevasti moniulotteisena: ei niinkään vanhan tehostamisena, vaan uusien muotojen ja toimintatapojen synnyttäminä laajennuksina.
+
+Tällainen näkökulma haastaa yksioikoisen kasvun käsitteen ja avaa tilaa vaihtoehtoisille taloudellisille dynamiikoille.
+
+#### **Suhde ohjelmoitavaan talouteen**
+
+Pelit tarjoavat eräänlaisen ennakkokuvan ohjelmoitavasta taloudesta. Ne ovat jo nyt keskeinen kokeilualusta monille kryptotalouksille ja niiden uusille kehityshaaraumille.
+
+Aiemmin pelirakenteiden toteuttaminen organisaatioina ja talouksina on ollut teknisesti ja institutionaalisesti haastavaa. Ohjelmoitavuus tekee niistä nyt realistisia ja skaalautuvia mahdollisuuksia. Tiivistetysti: kenttä on avoin, ja juuri nyt on hetki astua sille.
+
+#### **Mahdollisuudet Suomelle**
+
+Jokaisella organisaatiolla on väistämättä oma taloutensa. Tätä taloutta voidaan laajentaa ja kokeilla uusilla malleilla, jolloin organisaatiot toimivat luontevina laboratorioina uusien talouslogiikoiden kehittämiselle. Tämä lähestymistapa laajentaa perinteistä yrittäjyyttä, jossa yritys testaa lähinnä omaa kannattavuuttaan.
+
+Suomi kuuluu pelikehityksen kansainvälisiin keskittymiin ja omaa siten vahvat lähtökohdat pelilliseen talousyrittäjyyteen. Lisäksi Suomen tietojärjestelmien ja digitaalisen infrastruktuurin taso on korkea. Uusien talousmallien kehittäminen pelien tarjoamien ennakkotapausten pohjalta nojaisi siten suoraan Suomen olemassa oleviin vahvuuksiin.
+
+</details>
+
 ### **Pelit osana yhteiskuntaa**
 
 Pelien globaalin markkinan kooksi arvioidaan noin 200–300 miljardia dollaria. Kasvun odotetaan jatkuvan, ja ennusteiden mukaan markkinat ylittävät 500 miljardia seuraavan kymmenen vuoden aikana. Vertailun vuoksi musiikkiteollisuuden markkina-arvo on alle 30 miljardia dollaria.
