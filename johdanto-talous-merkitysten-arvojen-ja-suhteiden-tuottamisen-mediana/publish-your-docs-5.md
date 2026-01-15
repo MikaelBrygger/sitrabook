@@ -42,7 +42,7 @@ Tässä raportissa esittelemme muun muassa skenaarioita, joissa kasvu syntyy:
 * Jaetusta älykkyydestä: Kun tekoäly toimii yhteisenä infrastruktuurina eikä yksityisenä omaisuutena, koko yhteiskunnan kyky oppia ja toimia vahvistuu.
 * Uusista ilmaisumuodoista: Kun kulttuuri ja luovuus eivät ole vain ”sisältöä” vaan talouden rakenteellinen moottori, syntyy aineetonta arvoa ja uudenlaista kasvua.
 
-Tässä siirtymässä kasvu ei tarkoita vain määrän lisääntymistä — vaan **taloudellisen ilmaisun laajentumista**. Se on kykyä tehdä näkyväksi sellaisia arvoja ja yhteisöllisiä vaikutuksia, jotka eivät mahtuneet teollisen talouden mittayksikköön. Se on siirtymä taloudesta, joka laskee vain markkinoita, talouteen, joka voi laskea myös hyvinvointia, ekologiaa, kulttuuria, yhteisöllisyyttä, luottamusta ja tulevia sukupolvia.
+Tässä siirtymässä kasvu ei tarkoita vain määrän lisääntymistä — vaan **taloudellisen ilmaisun laajentumista**. Se on kykyä tehdä näkyväksi sellaisia arvoja ja yhteisöllisiä vaikutuksia, jotka eivät mahtuneet teollisen talouden mittayksikköön. Se on siirtymä taloudesta, joka laskee vain hintoja ja optimoi vain voittoa, talouteen, joka voi laskea ja optimoida myös hyvinvointia, ekologiaa, kulttuuria, yhteisöllisyyttä, luottamusta ja tulevia sukupolvia.
 
 Kasvussa ei ole enää kysymys siitä, miten tehostamme olemassa olevaa.
 
