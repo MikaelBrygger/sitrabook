@@ -58,7 +58,7 @@ Toisin sanoen, kun talouden kieli muuttuu media-alustaksi:
 * taloudellinen toimijuus siirtyy keskuksesta reunoille
 * koordinaatio ei perustu omistukseen, vaan protokolliin
 * arvo ei ole yksiulotteista, vaan monikielistä
-* verkosto alkaa nähdä itsensä taloudellisena toimijana.
+* verkosto alkaa nähdä itsensä taloudellisena toimijana, joka voi optimoida toimintaansa kokonaisuutena.
 
 
 
