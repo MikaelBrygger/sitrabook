@@ -41,7 +41,7 @@ Ehdotamme Kansallisen PK-yritysten Selvitysverkon luomista. Se on digitaalinen i
 * **Kasvu on älykkäämpää yhteistoimintaa.** Emme tarvitse lisää velkaa kasvaaksemme. Kasvu syntyy siitä, että poistamme kitkan arvonluonnin tieltä.
 * **Maa, jossa raha ei seiso.** Suomesta tulee maailman houkuttelevin paikka yrittää, kun täällä yrityksen tilauskirjat ovat välitöntä ostovoimaa.
 
-\*\*MIKÄ MUUTTUU TALOUDEN LOGIIKASSA TÄSSÄ SKENAARIOSSA\*\*
+**MIKÄ MUUTTUU TALOUDEN LOGIIKASSA TÄSSÄ SKENAARIOSSA**
 
 * **Atomistisesta verkostomaiseen ("Laskujen Tetris")**
 * Vanha logiikka: Jokainen lasku on erillinen konflikti kahden yrityksen välillä. Jotta A voi maksaa B:lle, A:lla on oltava rahaa juuri nyt.
