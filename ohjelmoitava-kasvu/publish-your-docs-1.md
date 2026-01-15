@@ -47,7 +47,7 @@ Skenaariot – mitä jos talouden säännöt muuttuvat
 ```
 1    Talouskasvun paradigma on muuttunut
 2    Talouskasvu ohjelmoidaan jakamalla toimijuus verkoston reunoille
-3    Ajattelutavan muutos (Suositus 1)
-4    Taloudellisen mielikuvituksen vapauttaminen (Suositus 2)
-5    Taloudellisten infrastruktuurien systemaattinen kehittäminen (Suositus 3)
+3    Ajattelutavan muutos (suositus 1)
+4    Taloudellisen mielikuvituksen vapauttaminen (suositus 2)
+5    Taloudellisten infrastruktuurien systemaattinen kehittäminen (suositus 3)
 ```
