@@ -33,7 +33,7 @@ Tämä skenaario esittää radikaalin väitteen: Suomen taloudessa on jo kaikki 
 
 Ehdotamme Kansallisen PK-yritysten Selvitysverkon luomista. Se on digitaalinen infrastruktuuri, joka vapauttaa yritysten taseisiin lukittuneet miljardit yksinkertaisesti ymmärtämällä talouden verkostona, ei erillisinä saarekkeina. Kun verkko näkee kokonaisuuden, se voi kuitata ristiin menevät velvoitteet automaattisesti ja muuttaa yrityksen tilauskirjat välittömäksi ostovoimaksi. Tämä tekee likviditeetistä sähköverkon kaltaista infrastruktuuria: se on aina saatavilla siellä, missä arvoa luodaan. Se olisi Suomelle kuin “ilmainen” elvytyspaketti ilman velanottoa.
 
-**YDINTEESIT**
+#### **Ydinteesit**
 
 * **Likviditeetti on koordinaatio-ongelma.** Kassakriisit eivät johdu rahan puutteesta, vaan siitä, että järjestelmämme ei osaa yhdistää olemassa olevia velvoitteita toisiinsa.
 * **Talous on siirtymässä aikaan, jossa raha on informaatiota.** Suomi voisi olla maa, joka ymmärtää tämän ensimmäisenä ja alkaa rakentaa sen päälle toimintaympäristöä.
@@ -41,24 +41,24 @@ Ehdotamme Kansallisen PK-yritysten Selvitysverkon luomista. Se on digitaalinen i
 * **Kasvu on älykkäämpää yhteistoimintaa.** Emme tarvitse lisää velkaa kasvaaksemme. Kasvu syntyy siitä, että poistamme kitkan arvonluonnin tieltä.
 * **Maa, jossa raha ei seiso.** Suomesta tulee maailman houkuttelevin paikka yrittää, kun täällä yrityksen tilauskirjat ovat välitöntä ostovoimaa.
 
-**MIKÄ MUUTTUU TALOUDEN LOGIIKASSA TÄSSÄ SKENAARIOSSA**
+#### **Mikä muuttuu talouden logiikassa tässä skenaariossa?**
 
-* **Atomistisesta verkostomaiseen ("Laskujen Tetris")**
+* **Atomistinen -> verkostomainen ("Laskujen Tetris")**
 * Vanha logiikka: Jokainen lasku on erillinen konflikti kahden yrityksen välillä. Jotta A voi maksaa B:lle, A:lla on oltava rahaa juuri nyt.
 * Uusi logiikka: Verkosto näkee kokonaisuuden. Kun A on velkaa B:lle ja B on velkaa C:lle ja C on velkaa A:lle, verkko ymmärtää, että kukaan ei ole velkaa kenellekään. Se kuittaa velat pois taseista automaattisesti ilman, että euroakaan tarvitsee siirtää.
-* **Varastosta virtaukseen**
+* **Varasto -> virtaus**
 * Vanha logiikka: Likviditeetti on "varastoitua hyödykettä" (rahaa pankkitilillä). Jos varasto on tyhjä, kauppa pysähtyy, vaikka tilauskirjat olisivat täynnä.
 * Uusi logiikka: Likviditeetti on "informaatiota virtauksesta". Jos yrityksellä on todennettua tulevaa tuotantoa, protokolla muuttaa sen maksuvälineeksi. Raha ei ole enää pullo, johon arvo pitää säilöä, vaan putki, jossa arvo virtaa.
-* &#x20;**Menneisyydestä tulevaisuuteen (Vakuuksien päivitys)**
+* &#x20;**Menneisyys -> tulevaisuus (vakuuksien päivitys)**
 * Vanha logiikka: Pankki myöntää luottoa katsomalla peruutuspeiliin: edelliseen tilinpäätökseen ja kiinteisiin vakuuksiin (rakennukset, koneet).
 * Uusi logiikka: Verkosto myöntää luottoa katsomalla tuulilasista eteenpäin: reaaliaikaiseen tilauskantaan ja todennettuun tuotantokykyyn. Vakuutena toimii yrityksen kyky luoda arvoa huomenna, ei sen omistama seinä tänään.
-* **Keinotekoisesta niukkuudesta optimointiin**
+* **Keinotekoinen niukkuus -> optimointi**
 * Vanha logiikka: Talousjärjestelmä vaatii "ulkopuolista rahaa" (fiat/velka) jokaiseen transaktioon. Tämä luo keinotekoista niukkuutta: kauppaa jää tekemättä vain siksi, että väline puuttuu.
 * Uusi logiikka: Verkosto poistaa turhan kitkan. Ulkopuolista rahaa käytetään vain "nettovelan" maksamiseen, ei jokaiseen siirtoon. Tämä on kuin siirtyisi modeemiyhteydestä valokuituun: sama data liikkuu, mutta ilman viivettä ja kohinaa.
 
-**MITÄ TÄSTÄ SEURAA: UUSI KÄSITYS TALOUSKASVUSTA**
+#### **Mitä tästä seuraa: uusi käsitys talouskasvusta**
 
-Tähän asti kasvu on vaatinut aina lisää panoksia: lisää rahaa, lisää luonnonvaroja, lisää velkaa. Tämä skenaario osoittaa, että **kasvu voi syntyä myös järjestelmän sisäisestä älykkyydestä** ja **taloudellisen toimijuuden uudelleenjakamisesta:**
+Tähän asti kasvu on vaatinut aina lisää panoksia: lisää rahaa, lisää luonnonvaroja, lisää velkaa. Tämä skenaario osoittaa, että **kasvu voi syntyä myös järjestelmän sisäisestä älykkyydestä ja taloudellisen toimijuuden uudelleenjakamisesta:**
 
 * **Kiertonopeuden kasvu:** Emme kasvata rahan määrää (mikä aiheuttaisi inflaatiota), vaan kasvatamme rahan _kiertonopeutta_. Kun yksi euro vaihtaa omistajaa kymmenen kertaa päivässä yhden kerran sijaan, se tekee kymmenkertaista työtä. Kasvu syntyy siitä, että "raha ei nuku".
 * **Endogeenisen likviditeetin kasvu:** Talouskasvu ei ole enää riippuvaista ulkopuolisista "sateentekijöistä" (keskuspankit, suursijoittajat). Verkosto luo itse tarvitsemansa likviditeetin omalla tuotannollaan. Tämä on **taloudellista omavaraisuutta**: kyky kasvaa on verkoston sisällä, ei sen ulkopuolella.
@@ -66,7 +66,7 @@ Tähän asti kasvu on vaatinut aina lisää panoksia: lisää rahaa, lisää luo
 * **Taloudellisen toimijuuden kasvu:** Kasvu ei ole vain numeroita tilillä, vaan kasvanutta kykyä toimia. Kun verkosto tulee tietoiseksi omista suhteistaan ja luottamus lisääntyy, yritysten toimintakyky (agency) kasvaa. Ne eivät ole enää passiivisia odottajia, vaan aktiivisia arvonluojia ja toistensa luotottajia.
 * **Taloudellisen suvereniteetin kasvu**: Emme enää keskitä kaikkea valtaa pankeille. Siirrämme taloudellisen toimijuuden sinne, missä arvo luodaan: verkoston reunoille eli toimijoille itselleen. Kykyä ilmaista uusia arvoja, muotoja ja merkityksiä taloudessa lisääntyy.
 
-**MITÄ TÄMÄ KERTOO TALOUDEN OHJELMOITAVUUDESTA?**
+#### **Mitä tämä kertoo talouden ohjelmoitavuudesta?**
 
 Tämä on konkreettinen esimerkki siitä, mitä tapahtuu, kun **talouden tila (state) ja laskenta (computation) tuodaan samaan kerrokseen:**
 
@@ -75,7 +75,7 @@ Tämä on konkreettinen esimerkki siitä, mitä tapahtuu, kun **talouden tila (s
 * **Uusi medium vaatii uuden protokollan:** Maksujumit eivät ole luonnonlakeja eivätkä suunnitteluvirheitä. Ne olivat ominaisuus (feature) vanhassa protokollassa, joka oli suunniteltu paperin laskentakyvylle. Paperi ei pysty laskemaan verkoston tilaa reaaliajassa; tietokone pystyy. Tärkein asia ymmärtää on tämä: Ei ole mitään mieltä kopioida vanhaa talouden logiikkaa uudelle mediumille. Meidän on päivitettävä talouden "softa" vastaamaan uuden "raudan" (verkkojen) potentiaalia.
 * **Kyse on arkkitehtuurista, ei vain teknologiasta:** Ohjelmoitava talous ei tarkoita vanhojen prosessien tehostamista. Se tarkoittaa uusia arkkitehtuureja taloudelliselle organisoitumiselle. Hierarkkinen hallinta oli ainoa tapa hallita kompleksisuutta paperin aikakaudella. Nyt voimme siirtyä verkostomaiseen koordinaatioon, joka on tarkempaa, nopeampaa ja jakaa taloudellista toimijuutta uudelleen.
 
-**MAHDOLLISUUS SUOMELLE**
+#### **Mahdollisuus Suomelle**
 
 Suomi on maailman paras paikka toteuttaa tämä ensimmäisenä.
 
