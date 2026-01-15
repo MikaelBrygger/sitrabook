@@ -24,7 +24,7 @@ layout:
 
 ```
 1    Miksi talouskasvun käsite on päivitettävä?   
-2    Talous ei ole vain järjestelmä — se on media
+2    Talous ei ole vain järjestelmä – se on media
 3    Taloudellisen median evoluution lyhyt historia
 4    Mikä muuttuu ohjelmoitavassa taloudessa?
 5    Mitä tämä tarkoittaa talouden kasvulle?    
