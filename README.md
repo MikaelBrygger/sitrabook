@@ -27,12 +27,6 @@ layout:
 
 #### Hankkeessa laaditaan kuusi skenaariota talouskasvun merkityksestä tässä uudessa kontekstissa sekä ehdotuksia siitä, miten Suomi voi rakentaa strategisen etulyöntiaseman kehkeytyvissä verkostoissa.
 
-### **Hankekuvaus**
-
-_Hankkeen toteuttaa ECSA Labs Oy. Rahoittajana toimii Sitra, joka keväällä 2025 haki selvityksiä uusista näkökulmista Suomen talouskasvun tulevaisuuteen._
-
-_Tämä sivusto toimii sekä hankkeen kirjoitustyötä kokoavana alustana että säännöllisesti päivitettävänä julkaisuna ja kohtaamispaikkana kaikille aiheesta kiinnostuneille._&#x20;
-
 &#x20;\
 **Tavoitteena** on kysyä: mitä jos talouden siirtyminen ohjelmoitavien tietojenkäsittelyverkostojen päälle tarkoittaa muutosta itse talouden ja sen kasvun ajatuksessa?&#x20;
 
@@ -41,9 +35,16 @@ _Tämä sivusto toimii sekä hankkeen kirjoitustyötä kokoavana alustana että 
 * Millaisia uusia kasvun logiikkoja ja taloudellisia yksiköitä ohjelmoitava talous voi synnyttää?
 * Miten Suomi voi olla ensimmäisten joukossa, joka hyödyntää tämän muutoksen – ei vain teknologisesti, vaan myös ymmärryksen ja kulttuurin tasolla?
 
-**Toimenpiteinä** analysoimme talouden uutta mediaa – sitä, miten taloudesta itsestään on tulossa aktiivinen ohjelmoitava toimintaympäristö, jossa arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen. Laadimme kuusi skenaariota siitä, mitä kasvu voi tarkoittaa tällaisessa ympäristössä ja esitämme, miten Suomi voi ottaa strategisen etulyöntiaseman nousevissa taloudellisissa verkostoissa.&#x20;
+***
+
+_Hankkeen toteuttaa ECSA Labs Oy. Rahoittajana toimii Sitra, joka keväällä 2025 haki selvityksiä uusista näkökulmista Suomen talouskasvun tulevaisuuteen._
+
+_Tämä sivusto toimii sekä hankkeen kirjoitustyötä kokoavana alustana että säännöllisesti päivitettävänä julkaisuna ja kohtaamispaikkana kaikille aiheesta kiinnostuneille._&#x20;
+
+***
+
+**Toimenpiteinä** analysoimme talouden uutta mediaa – sitä, miten taloudesta itsestään on tulossaaktiivinen ohjelmoitava toimintaympäristö, jossa arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen. Laadimme kuusi skenaariota siitä, mitä kasvu voi tarkoittaa tällaisessa ympäristössä ja esitämme, miten Suomi voi ottaa strategisen etulyöntiaseman nousevissa taloudellisissa verkostoissa.&#x20;
 
 **Tuloksena** syntyy selvitys, joka toimii tiekarttana uuden talouskasvun aikakaudelle: kutsuna Suomelle kohti syvempää ymmärrystä siitä miten talouden itsensä perustat ovat muuttumassa ja mitä kasvun mahdollisuuksia nämä muutokset avaavat.
 
 **Pyrkimyksenä on avata uusia näkökulmia talouskasvun tulevaisuuteen: voisivatko talouden kasvun mahdollisuudet avautua täysimääräisesti vasta, kun ymmärrämme itse talouden uudella tavalla – ohjelmoitavana, kommunikatiivisena ja verkostopohjaisena mediumina?**
-
