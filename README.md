@@ -36,16 +36,14 @@ _Tämä sivusto toimii sekä hankkeen kirjoitustyötä kokoavana alustana että 
 &#x20;\
 **Tavoitteena** on kysyä: mitä jos talouden siirtyminen ohjelmoitavien tietojenkäsittelyverkostojen päälle tarkoittaa muutosta itse talouden ja sen kasvun ajatuksessa?&#x20;
 
+* Mitä on talouskasvu, jos talous ei ole vain yritysten, instituutioiden ja markkinoiden järjestelmä, vaan protokolla: joukko ohjelmoitavia sääntöjä, jotka määrittävät mitä voimme arvottaa ja koordinoida?
+* Mitä jos talouden kasvu on kiinni siitä, mitä voimme taloudessa ilmaista ja ohjelmoida – ja siitä, kuka tätä pääsee tekemään?
+* Millaisia uusia kasvun logiikkoja ja taloudellisia yksiköitä ohjelmoitava talous voi synnyttää?
+* Miten Suomi voi olla ensimmäisten joukossa, joka hyödyntää tämän muutoksen – ei vain teknologisesti, vaan myös ymmärryksen ja kulttuurin tasolla?
+
 **Toimenpiteinä** analysoimme talouden uutta mediaa – sitä, miten taloudesta itsestään on tulossa aktiivinen ohjelmoitava toimintaympäristö, jossa arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen. Laadimme kuusi skenaariota siitä, mitä kasvu voi tarkoittaa tällaisessa ympäristössä ja esitämme, miten Suomi voi ottaa strategisen etulyöntiaseman nousevissa taloudellisissa verkostoissa.&#x20;
 
 **Tuloksena** syntyy selvitys, joka toimii tiekarttana uuden talouskasvun aikakaudelle: kutsuna Suomelle kohti syvempää ymmärrystä siitä miten talouden itsensä perustat ovat muuttumassa ja mitä kasvun mahdollisuuksia nämä muutokset avaavat.
 
-**Hankkeen tavoitteena on avata uusia näkökulmia talouskasvun tulevaisuuteen: voisivatko talouden kasvun mahdollisuudet avautua täysimääräisesti vasta, kun ymmärrämme itse talouden uudella tavalla – ohjelmoitavana, kommunikatiivisena ja verkostopohjaisena mediumina?**
-
-Selvitys etsii vastauksia mm. seuraaviin kysymyksiin:
-
-* Mitä on talouskasvu, jos talous ei ole vain yritysten, instituutioiden ja markkinoiden järjestelmä, vaan protokolla: joukko ohjelmoitavia sääntöjä, jotka määrittävät mitä voimme arvottaa ja koordinoida?
-* Mitä jos talouden kasvu on kiinni siitä, mitä voimme taloudessa ilmaista ja ohjelmoida – ja siitä, kuka pääsee tekemään tätä?
-* Millaisia uusia kasvun logiikkoja ja taloudellisia yksiköitä ohjelmoitava talous synnyttää?
-* Miten Suomi voi olla ensimmäisten joukossa, joka hyödyntää tämän muutoksen – ei vain teknologisesti, vaan ymmärryksen ja kulttuurin tasolla?
+**Pyrkimyksenä on avata uusia näkökulmia talouskasvun tulevaisuuteen: voisivatko talouden kasvun mahdollisuudet avautua täysimääräisesti vasta, kun ymmärrämme itse talouden uudella tavalla – ohjelmoitavana, kommunikatiivisena ja verkostopohjaisena mediumina?**
 
