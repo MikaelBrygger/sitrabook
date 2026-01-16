@@ -23,7 +23,9 @@ layout:
 
 # Mitä jos käsityksemme taloudesta pitää muuttua?
 
-#### Miten digitaalisiin verkkoihin siirtyvä talous muuttaa käsitystämme taloudellisesta kasvusta, arvosta ja koordinaatiosta? Ohjelmoitava kasvu -selvitys tarkastelee taloutta uutena mediana: ohjelmoitavana ympäristönä, jonka kautta arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen.
+#### Miten digitaalisiin verkkoihin siirtyvä talous muuttaa käsitystämme taloudellisesta kasvusta, arvosta ja koordinaatiosta?&#x20;
+
+#### Ohjelmoitava kasvu -selvitys tarkastelee taloutta uutena mediana: ohjelmoitavana ympäristönä, jonka kautta arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen.
 
 #### Hankkeessa laaditaan kuusi skenaariota talouskasvun merkityksestä tässä uudessa kontekstissa sekä ehdotuksia siitä, miten Suomi voi rakentaa strategisen etulyöntiaseman kehkeytyvissä verkostoissa.
 
