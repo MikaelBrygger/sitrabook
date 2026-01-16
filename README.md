@@ -47,6 +47,6 @@ _Tämä sivusto toimii sekä hankkeen kirjoitustyötä kokoavana alustana että 
 
 **Toimenpiteinä** analysoimme talouden uutta mediaa – sitä, miten taloudesta itsestään on tulossa aktiivinen ohjelmoitava toimintaympäristö, jossa arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen. Laadimme kuusi skenaariota siitä, mitä kasvu voi tarkoittaa tällaisessa ympäristössä ja esitämme, miten Suomi voi ottaa strategisen etulyöntiaseman nousevissa taloudellisissa verkostoissa.&#x20;
 
-**Tuloksena** syntyy selvitys, joka toimii tiekarttana uuden talouskasvun aikakaudelle: kutsuna Suomelle kohti syvempää ymmärrystä siitä miten talouden itsensä perustat ovat muuttumassa ja mitä kasvun mahdollisuuksia nämä muutokset avaavat.
+**Tuloksena** syntyy selvitys, joka toimii tiekarttana uuden talouskasvun aikakaudelle: kutsuna Suomelle kohti syvempää ymmärrystä siitä miten talouden perustat ovat muuttumassa ja mitä kasvun mahdollisuuksia nämä muutokset avaavat.
 
 **Pyrkimyksenä on avata uusia näkökulmia talouskasvun tulevaisuuteen: voisivatko talouden kasvun mahdollisuudet avautua täysimääräisesti vasta, kun ymmärrämme itse talouden uudella tavalla – ohjelmoitavana, kommunikatiivisena ja verkostopohjaisena mediumina?**
