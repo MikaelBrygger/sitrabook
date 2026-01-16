@@ -45,7 +45,7 @@ Sen logiikka oli vallankumouksellinen: ensimmäistä kertaa verkosto itse alkoi 
 
 Viimeiset kaksi vuosikymmentä toivat seuraavan mediumin: datan, koneoppimisen ja ohjelmoidun pääsynhallinnan. Alustatalous loi uuden tavan laskea taloutta, joka puuttui markkinoilta ja perustui _verkoston keskitetyn kokonaiskuvan hallintaan_:
 
-* markkinoilla toimijat näkivät vain omat hintansa ja kirjanpitonsa tilan
+* markkinoilla toimijat näkivät vain hinnan ja oman kirjanpitonsa tilan.
 * alustoilla yksi toimija näki koko verkoston, sen tilan, suhteet ja sen kaikki muutokset.
 
 Tämän mahdollisti uusi laskennallinen logiikka: kyky nähdä verkosto kokonaisuudessaan ja optimoida sitä reaaliajassa. Alustat kuin ratkaisivat markkinoiden “sokean koordinaation” tai “näkymättömän käden” ongelman: ne näkivät kysynnän, tarjonnan, käyttäytymisen, suhteet ja työnjaon samaan aikaan koko verkostossa. Se antoi alustoille kyvyn optimoida koko verkoston toimintaa. Mutta tämä kyky oli:
