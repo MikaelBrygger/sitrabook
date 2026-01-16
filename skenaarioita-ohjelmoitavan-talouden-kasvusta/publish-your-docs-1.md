@@ -49,17 +49,17 @@ Ehdotamme Kansallisen PK-yritysten Selvitysverkon kehittämistä. Se on digitaal
 #### **Miten talouden logiikka muuttuu tässä skenaariossa?**
 
 * **Atomistisesta verkostomaiseen** ("Laskujen Tetris")
-* **Vanha logiikka:** Jokainen lasku on erillinen konflikti kahden yrityksen välillä. Jotta A voi maksaa B:lle, A:lla on oltava rahaa juuri nyt.
-* **Uusi logiikka:** Verkosto näkee kokonaisuuden. Kun A on velkaa B:lle ja B on velkaa C:lle ja C on velkaa A:lle, verkko ymmärtää, että kukaan ei ole velkaa kenellekään. Se kuittaa velat pois taseista automaattisesti ilman, että euroakaan tarvitsee siirtää.
+  * **Vanha logiikka:** Jokainen lasku on erillinen konflikti kahden yrityksen välillä. Jotta A voi maksaa B:lle, A:lla on oltava rahaa juuri nyt.
+  * **Uusi logiikka:** Verkosto näkee kokonaisuuden. Kun A on velkaa B:lle ja B on velkaa C:lle ja C on velkaa A:lle, verkko ymmärtää, että kukaan ei ole velkaa kenellekään. Se kuittaa velat pois taseista automaattisesti ilman, että euroakaan tarvitsee siirtää.
 * **Varastosta virtaukseen**
-* **Vanha logiikka:** Likviditeetti on "varastoitua hyödykettä" (rahaa pankkitilillä). Jos varasto on tyhjä, kauppa pysähtyy, vaikka tilauskirjat olisivat täynnä.
-* **Uusi logiikka:** Likviditeetti on "informaatiota virtauksesta". Jos yrityksellä on todennettua tulevaa tuotantoa, protokolla muuttaa sen maksuvälineeksi. Raha ei ole enää pullo, johon arvo pitää säilöä, vaan putki, jossa arvo virtaa.
+  * **Vanha logiikka:** Likviditeetti on "varastoitua hyödykettä" (rahaa pankkitilillä). Jos varasto on tyhjä, kauppa pysähtyy, vaikka tilauskirjat olisivat täynnä.
+  * **Uusi logiikka:** Likviditeetti on "informaatiota virtauksesta". Jos yrityksellä on todennettua tulevaa tuotantoa, protokolla muuttaa sen maksuvälineeksi. Raha ei ole enää pullo, johon arvo pitää säilöä, vaan putki, jossa arvo virtaa.
 * &#x20;**Menneisyydestä tulevaisuuteen** (vakuuksien päivitys)
-* **Vanha logiikka:** Pankki myöntää luottoa katsomalla peruutuspeiliin: edelliseen tilinpäätökseen ja kiinteisiin vakuuksiin (rakennukset, koneet).
-* **Uusi logiikka:** Verkosto myöntää luottoa katsomalla tuulilasista eteenpäin: reaaliaikaiseen tilauskantaan ja todennettuun tuotantokykyyn. Vakuutena toimii yrityksen kyky luoda arvoa huomenna, ei sen omistama seinä tänään.
+  * **Vanha logiikka:** Pankki myöntää luottoa katsomalla peruutuspeiliin: edelliseen tilinpäätökseen ja kiinteisiin vakuuksiin (rakennukset, koneet).
+  * **Uusi logiikka:** Verkosto myöntää luottoa katsomalla tuulilasista eteenpäin: reaaliaikaiseen tilauskantaan ja todennettuun tuotantokykyyn. Vakuutena toimii yrityksen kyky luoda arvoa huomenna, ei sen omistama seinä tänään.
 * **Keinotekoisesta niukkuudesta optimointiin**
-* **Vanha logiikka:** Talousjärjestelmä vaatii "ulkopuolista rahaa" (fiat/velka) jokaiseen transaktioon. Tämä luo keinotekoista niukkuutta: kauppaa jää tekemättä vain siksi, että väline puuttuu.
-* **Uusi logiikka:** Verkosto poistaa turhan kitkan. Ulkopuolista rahaa käytetään vain "nettovelan" maksamiseen, ei jokaiseen siirtoon. Tämä on kuin siirtyisi modeemiyhteydestä valokuituun: sama data liikkuu, mutta ilman viivettä ja kohinaa.
+  * **Vanha logiikka:** Talousjärjestelmä vaatii "ulkopuolista rahaa" (fiat/velka) jokaiseen transaktioon. Tämä luo keinotekoista niukkuutta: kauppaa jää tekemättä vain siksi, että väline puuttuu.
+  * **Uusi logiikka:** Verkosto poistaa turhan kitkan. Ulkopuolista rahaa käytetään vain "nettovelan" maksamiseen, ei jokaiseen siirtoon. Tämä on kuin siirtyisi modeemiyhteydestä valokuituun: sama data liikkuu, mutta ilman viivettä ja kohinaa.
 
 #### **Mitä tästä seuraa: uusi käsitys talouskasvusta**
 
