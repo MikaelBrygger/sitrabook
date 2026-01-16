@@ -102,7 +102,7 @@ Raha on vain informaatiota siitä, kuka on velkaa kenellekin. On aika päivittä
 
 Tässä skenaariossa esitämme, että likviditeetti – kyky suorittaa maksuja – ei ole hyödyke, jota pitää anoa pankeilta. Se on informaatio-ongelma, joka voidaan ratkaista ohjelmoitavalla infrastruktuurilla.
 
-Kun ymmärrämme talouden protokollana, voimme purkaa maksujumit ilman yhtäkään uutta euroa. Tämä ei ole utopiaa, vaan mekanismi, joka on jo pelastanut kansantalouksia kriisien keskellä. (ja: pankit itse käyttävät sitä joka päivä)
+Kun ymmärrämme talouden protokollana, voimme purkaa maksujumit ilman yhtäkään uutta euroa. Tämä ei ole utopiaa, vaan mekanismi, joka on jo pelastanut kansantalouksia kriisien keskellä (ja: pankit itse käyttävät sitä joka päivä).
 
 ### **1) 135000 yritystä pankkeina**
 
