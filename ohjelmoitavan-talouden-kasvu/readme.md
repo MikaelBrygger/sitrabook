@@ -37,8 +37,6 @@ Lisäksi kuultiin neljä kommenttipuheenvuoroa, jotka avasivat raportin teemoja 
 
 Tilaisuuden päätyttyä osallistujat suuntasivat [**Sculpting Economies**](https://kaannefestival.fi/conference-event/sculpting-economies-an-economic-media-lab/) -työpajaan, jossa Economic Space Agencyn Martin Born ja Pekko Koskinen fasilitoivat keskustelua ja harjoituksia talouksien muotoilusta. Työpaja tarjosi konkreettisia lähestymistapoja taloudellisten rakenteiden ja sääntöjen hahmottamiseen ja suunnitteluun sellaisina kuin ne voivat ilmetä tulevaisuuden ohjelmoitavassa taloudessa.
 
-<figure><img src="../.gitbook/assets/workshop 1.HEIC" alt=""><figcaption></figcaption></figure>
-
 Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistukselle: Tapahtuma on osa laajempaa pyrkimystä rakentaa avoin ja erilaisia näkökulmia yhdistävä areena, jossa tulevaisuutta lähestytään politiikan, kulttuurin, taiteen ja yhteiskunnallisen liikehdinnän rajapinnoilla.
 
 ***
