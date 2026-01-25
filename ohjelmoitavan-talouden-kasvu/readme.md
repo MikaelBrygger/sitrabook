@@ -23,7 +23,7 @@ layout:
 
 # Raportin julkistustilaisuus Käänne-festivaaleilla
 
-### **Raportti julkaistiin Käänne-festivaaleilla Helsingissä**
+### **Raportti julkistettiin Käänne-festivaaleilla Helsingissä**
 
 _Ohjelmoitavan talouden kasvu_ -raportti julkaistiin [**Käänne-festivaaleilla**](https://kaannefestival.fi/conference-event/akseli-virtanen-talous-on-medium/), jotka järjestettiin Helsingin **Kulttuuritehdas Korjaamolla** 17.–18. tammikuuta 2026. Festivaali on maksuton politiikan, talouden ja kulttuurin tapahtuma, joka kokoaa yhteen muutosvoimaisia ääniä ja ideoita.&#x20;
 
