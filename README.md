@@ -23,6 +23,12 @@ layout:
 
 # Mitä jos käsityksemme taloudesta pitää muuttua?
 
+***
+
+#### _Ohjelmoitavan talouden kasvu_ -raportti julkaistiin Käänne-festivaaleilla 18.1.2026. Julkistamistilaisuuden [taltiointi](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3) on kuunneltavissa.&#x20;
+
+***
+
 #### Miten digitaalisiin verkkoihin siirtyvä talous muuttaa käsitystämme taloudellisesta kasvusta, arvosta ja koordinaatiosta?&#x20;
 
 #### Ohjelmoitava kasvu -selvitys tarkastelee taloutta uutena mediana: ohjelmoitavana ympäristönä, jonka kautta arvoja ja yhteiskunnallisia suhteita voidaan muotoilla uudelleen.
