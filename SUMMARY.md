@@ -4,7 +4,7 @@
 
 * [Mitä jos käsityksemme taloudesta pitää muuttua?](README.md)
 * [Lisenssi ja käyttöehdot](ohjelmoitavan-talouden-kasvu/readme.md)
-* [Raportin julkistustilaisuus @ Käänne 18.1.2026](ohjelmoitavan-talouden-kasvu/readme-1.md)
+* [Raportin julkistustilaisuus Käänne-festivaaleilla 18.1.2026](ohjelmoitavan-talouden-kasvu/readme-1.md)
 * [ECSA Labs](ohjelmoitavan-talouden-kasvu/readme-2.md)
 * [Sisällys](ohjelmoitava-kasvu/publish-your-docs-1.md)
 * [Tiivistelmä](ohjelmoitava-kasvu/publish-your-docs-2.md)
