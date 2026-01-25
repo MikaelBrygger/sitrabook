@@ -1,7 +1,7 @@
 ---
 icon: circle-question
-cover: ../.gitbook/assets/Screenshot 2026-01-25 at 6.08.28.png
-coverY: -93.47242567766169
+cover: ../.gitbook/assets/intro-banner-alt.svg
+coverY: 0
 layout:
   width: default
   cover:
