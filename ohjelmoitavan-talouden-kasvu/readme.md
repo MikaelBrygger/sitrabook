@@ -31,7 +31,7 @@ Raportin esitteli sen pääkirjoittaja **Akseli Virtanen**, joka tiivisti puheen
 
 <figure><img src="../.gitbook/assets/presentation 2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-Virtanen haastoi perinteisen talousajattelun käyttökelpoisuuden tässä hetkessä. Hän esitti kysymyksen, vastaako se enää digitaalisen ajan todellisia rakenteita ja tarpeita. Raportissa esitetään, että digitalisaation, reaaliaikaisen laskennan ja tekoälyn murroksessa talouden “käyttöjärjestelmä” – sen säännöt, laskennan logiikka ja rakenteet – on päivitettävä vastaamaan uudenlaista ohjelmoitavaa ympäristöä. Raportin mukaan juuri tämä paradigman muutos avaa talouden kasvulle kokonaan uusia mahdollisuuksia, kun kasvua tarkastellaan ohjelmoitavuuden näkökulmasta ja sen tarjoamien luovien mahdollisuuksien kautta.&#x20;
+Virtanen haastoi perinteisen talousajattelun käyttökelpoisuutta tässä hetkessä. Hän esitti kysymyksen, vastaako se enää digitaalisen ajan todellisia rakenteita ja tarpeita. Raportissa esitetään, että digitalisaation, reaaliaikaisen laskennan ja tekoälyn murroksessa talouden “käyttöjärjestelmä” – sen säännöt, laskennan logiikka ja rakenteet – on päivitettävä vastaamaan uudenlaista ohjelmoitavaa ympäristöä. Raportin mukaan juuri tämä paradigman muutos avaa talouden kasvulle kokonaan uusia mahdollisuuksia, kun kasvua tarkastellaan ohjelmoitavuuden näkökulmasta ja sen tarjoamien luovien mahdollisuuksien kautta.&#x20;
 
 Lisäksi kuultiin neljä kommenttipuheenvuoroa, jotka avasivat raportin teemoja uusista kulmista. Mukana olivat kirjailija **Kim Stanley Robinson**, professori **Teivo Teivainen**, kulttuurihistorioitsija ja mediatutkija **Jussi Parikka** sekä Operaatio Arktiksen **Anni Poikela**. Koko esitys sekä puheenvuorot ovat verkossa kuunneltavissa.
 
