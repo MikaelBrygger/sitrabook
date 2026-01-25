@@ -16,8 +16,6 @@ Raportin esitteli sen pääkirjoittaja **Akseli Virtanen**, joka tiivisti puheen
 
 Virtanen haastoi perinteisen talousajattelun käyttökelpoisuuden tässä hetkessä. Hän esitti kysymyksen, vastaako se enää digitaalisen ajan todellisia rakenteita ja tarpeita. Raportissa esitetään, että digitalisaation, reaaliaikaisen laskennan ja tekoälyn murroksessa talouden “käyttöjärjestelmä” – sen säännöt, laskennan logiikka ja rakenteet – on päivitettävä vastaamaan uudenlaista ohjelmoitavaa ympäristöä. Raportin mukaan juuri tämä paradigman muutos avaa talouden kasvulle kokonaan uusia mahdollisuuksia, kun kasvua tarkastellaan ohjelmoitavuuden näkökulmasta ja sen tarjoamien luovien mahdollisuuksien kautta.
 
-Tilaisuudessa kuultiin neljä kommenttipuheenvuoroa, jotka avasivat raportin teemoja uusista kulmista. Mukana olivat tilaisuuden avannut kirjailija Kim Stanley Robinson, mediatutkija Jussi Parikka sekä Operaatio Arktiksen Anni Poikela sekä professori Teivo Teivainen. Koko esitys sekä puheenvuorot ovat verkossa kuunneltavissa.
-
 Tilaisuuden päätyttyä osallistujat suuntasivat [**Sculpting Economies**](https://kaannefestival.fi/conference-event/sculpting-economies-an-economic-media-lab/) -työpajaan, jossa Economic Space Agencyn Martin Born ja Pekko Koskinen fasilitoivat keskustelua ja harjoituksia talouksien muotoilusta. Työpaja tarjosi konkreettisia lähestymistapoja taloudellisten rakenteiden ja sääntöjen hahmottamiseen ja suunnitteluun sellaisina kuin ne voivat ilmetä tulevaisuuden ohjelmoitavassa taloudessa.
 
 <figure><img src="../.gitbook/assets/workshop 1.HEIC" alt=""><figcaption></figcaption></figure>
@@ -34,4 +32,4 @@ Puheenvuorot:\
 [Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a)\
 Teivo Teivainen (tulossa)
 
-![](<../.gitbook/assets/käänne_insta (1).jpeg>)<br>
+![](<../.gitbook/assets/käänne_insta (1) (1).jpeg>)<br>
