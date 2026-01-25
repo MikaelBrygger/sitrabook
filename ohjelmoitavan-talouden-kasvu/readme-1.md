@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/banner-ecsa-labs (1).svg
 coverY: 0
 ---
 
-# Julkaisutilaisuus 18.1.2026 @ Käänne
+# Raportin julkistustilaisuus @ Käänne 18.1.2026
 
 ### **Raportin julkistus Käänne-festivaaleilla Helsingissä**
 
@@ -26,15 +26,12 @@ Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistuksel
 
 ***
 
-[**Julkistustilaisuuden taltiointi**](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3)
+[Julkistustilaisuuden taltiointi](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3)
 
-Kommenttipuheenvuorot:\
-&#x20;\
+Puheenvuorot:\
 [Anni Poikela](https://ecsa.io/files/comment_anni_poikela.mp3)\
 [Jussi Parikka](https://ecsa.io/files/comment_audio_jussi_parikka.m4a)\
 [Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a)\
 Teivo Teivainen (tulossa)
-
-
 
 ![](<../.gitbook/assets/käänne_insta (1).jpeg>)<br>
