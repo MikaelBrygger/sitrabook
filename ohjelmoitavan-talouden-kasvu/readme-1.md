@@ -4,24 +4,37 @@ cover: ../.gitbook/assets/banner-ecsa-labs (1).svg
 coverY: 0
 ---
 
-# Lisenssi ja käyttöehdot
+# Julkaisutilaisuus 18.1.2026 @ Käänne
 
-Tämä julkaisu on lisensoitu **Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen (CC BY-SA 4.0)** -lisenssillä.
+### **Raportin julkistus Käänne-festivaaleilla Helsingissä**
 
-**Voit vapaasti:**
+_Ohjelmoitavan talouden kasvu_ -raportti julkaistiin [**Käänne-festivaaleilla**](https://kaannefestival.fi/conference-event/akseli-virtanen-talous-on-medium/), jotka järjestettiin Helsingin **Kulttuuritehdas Korjaamolla** 17.–18. tammikuuta 2026. Festivaali on maksuton politiikan, talouden ja kulttuurin tapahtuma, joka kokoaa yhteen muutosvoimaisia ääniä ja ideoita.&#x20;
 
-1. **Jakaa** — kopioida aineistoa ja levittää sitä edelleen missä tahansa välineessä ja muodossa missä tahansa tarkoituksessa, myös kaupallisesti.
-2. **Muunnella** — remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja missä tahansa tarkoituksessa, myös kaupallisesti.
-3. Lisenssinantaja ei voi peruuttaa näitä oikeuksia niin kauan kuin noudatat lisenssin ehtoja.
+Raportin esitteli sen pääkirjoittaja **Akseli Virtanen**, joka tiivisti puheenvuorossaan raportin keskeisen näkemyksen: nykyinen talous ei ole vain järjestelmä, jota säännellään ja mitataan, vaan se on media – väline, jonka kautta arvoja ilmaistaan, suhteita rakennetaan ja yhteistä elämää organisoidaan.&#x20;
 
-**Seuraavilla ehdoilla:**
+<figure><img src="../.gitbook/assets/presentation 2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-1. **Nimeä** — Sinun on mainittava lähde asianmukaisesti, tarjottava linkki lisenssiin sekä merkittävä, mikäli olet tehnyt muutoksia. Voit tehdä yllä olevan millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi.
-2. **JaaSamoin** — Jos remiksaat tai muokkaat aineistoa taikka luot sen pohjalta uusia aineistoja, sinun on jaettava muutoksiasi samalla lisenssillä kuin alkuperäistä aineistoa.
-3. **Ei muita rajoituksia** — Et voi asettaa sellaisia oikeudellisia ehtoja tai teknisiä estoja, jotka estävät oikeudellisesti muita tekemästä mitään sellaista, minkä lisenssi sallii.
+Virtanen haastoi perinteisen talousajattelun käyttökelpoisuuden tässä hetkessä. Hän esitti kysymyksen, vastaako se enää digitaalisen ajan todellisia rakenteita ja tarpeita. Raportissa esitetään, että digitalisaation, reaaliaikaisen laskennan ja tekoälyn murroksessa talouden “käyttöjärjestelmä” – sen säännöt, laskennan logiikka ja rakenteet – on päivitettävä vastaamaan uudenlaista ohjelmoitavaa ympäristöä. Raportin mukaan juuri tämä paradigman muutos avaa talouden kasvulle kokonaan uusia mahdollisuuksia, kun kasvua tarkastellaan ohjelmoitavuuden näkökulmasta ja sen tarjoamien luovien mahdollisuuksien kautta.
 
-**Viittausohje:**
+Tilaisuudessa kuultiin neljä kommenttipuheenvuoroa, jotka avasivat raportin teemoja uusista kulmista. Mukana olivat tilaisuuden avannut kirjailija Kim Stanley Robinson, mediatutkija Jussi Parikka sekä Operaatio Arktiksen Anni Poikela sekä professori Teivo Teivainen. Koko esitys sekä puheenvuorot ovat verkossa kuunneltavissa.
 
-Kun käytät tai jaat tätä aineistoa, mainitse lähteeksi: ECSA Labs: _Ohjelmoitavan talouden kasvu_ (2025).
+Tilaisuuden päätyttyä osallistujat suuntasivat [**Sculpting Economies**](https://kaannefestival.fi/conference-event/sculpting-economies-an-economic-media-lab/) -työpajaan, jossa Economic Space Agencyn Martin Born ja Pekko Koskinen fasilitoivat keskustelua ja harjoituksia talouksien muotoilusta. Työpaja tarjosi konkreettisia lähestymistapoja taloudellisten rakenteiden ja sääntöjen hahmottamiseen ja suunnitteluun sellaisina kuin ne voivat ilmetä tulevaisuuden ohjelmoitavassa taloudessa.
 
-[Lue lisenssin täydelliset ehdot (Creative Commons)](https://creativecommons.org/licenses/by-sa/4.0/deed.fi)
+<figure><img src="../.gitbook/assets/workshop 1.HEIC" alt=""><figcaption></figcaption></figure>
+
+Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistukselle: Tapahtuma on osa laajempaa pyrkimystä rakentaa avoin ja erilaisia näkökulmia yhdistävä areena, jossa tulevaisuutta lähestytään politiikan, kulttuurin, taiteen ja yhteiskunnallisen liikehdinnän rajapinnoilla.
+
+***
+
+[**Julkistustilaisuuden taltiointi**](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3)
+
+Kommenttipuheenvuorot:\
+&#x20;\
+[Anni Poikela](https://ecsa.io/files/comment_anni_poikela.mp3)\
+[Jussi Parikka](https://ecsa.io/files/comment_audio_jussi_parikka.m4a)\
+[Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a)\
+Teivo Teivainen (tulossa)
+
+
+
+![](<../.gitbook/assets/käänne_insta (1).jpeg>)<br>
