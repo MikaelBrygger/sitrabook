@@ -1,10 +1,27 @@
 ---
 icon: circle-question
-cover: ../.gitbook/assets/banner-ecsa-labs (1).svg
-coverY: 0
+cover: ../.gitbook/assets/Screenshot 2026-01-25 at 6.08.28.png
+coverY: -93.47242567766169
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Raportin julkistustilaisuus @ Käänne 18.1.2026
+# Raportin julkistustilaisuus Käänne-festivaaleilla
 
 ### **Raportin julkistus Käänne-festivaaleilla Helsingissä**
 
@@ -14,7 +31,7 @@ Raportin esitteli sen pääkirjoittaja **Akseli Virtanen**, joka tiivisti puheen
 
 <figure><img src="../.gitbook/assets/presentation 2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-Virtanen haastoi perinteisen talousajattelun käyttökelpoisuuden tässä hetkessä. Hän esitti kysymyksen, vastaako se enää digitaalisen ajan todellisia rakenteita ja tarpeita. Raportissa esitetään, että digitalisaation, reaaliaikaisen laskennan ja tekoälyn murroksessa talouden “käyttöjärjestelmä” – sen säännöt, laskennan logiikka ja rakenteet – on päivitettävä vastaamaan uudenlaista ohjelmoitavaa ympäristöä. Raportin mukaan juuri tämä paradigman muutos avaa talouden kasvulle kokonaan uusia mahdollisuuksia, kun kasvua tarkastellaan ohjelmoitavuuden näkökulmasta ja sen tarjoamien luovien mahdollisuuksien kautta.
+Virtanen haastoi perinteisen talousajattelun käyttökelpoisuuden tässä hetkessä. Hän esitti kysymyksen, vastaako se enää digitaalisen ajan todellisia rakenteita ja tarpeita. Raportissa esitetään, että digitalisaation, reaaliaikaisen laskennan ja tekoälyn murroksessa talouden “käyttöjärjestelmä” – sen säännöt, laskennan logiikka ja rakenteet – on päivitettävä vastaamaan uudenlaista ohjelmoitavaa ympäristöä. Raportin mukaan juuri tämä paradigman muutos avaa talouden kasvulle kokonaan uusia mahdollisuuksia, kun kasvua tarkastellaan ohjelmoitavuuden näkökulmasta ja sen tarjoamien luovien mahdollisuuksien kautta.&#x20;
 
 Tilaisuuden päätyttyä osallistujat suuntasivat [**Sculpting Economies**](https://kaannefestival.fi/conference-event/sculpting-economies-an-economic-media-lab/) -työpajaan, jossa Economic Space Agencyn Martin Born ja Pekko Koskinen fasilitoivat keskustelua ja harjoituksia talouksien muotoilusta. Työpaja tarjosi konkreettisia lähestymistapoja taloudellisten rakenteiden ja sääntöjen hahmottamiseen ja suunnitteluun sellaisina kuin ne voivat ilmetä tulevaisuuden ohjelmoitavassa taloudessa.
 
