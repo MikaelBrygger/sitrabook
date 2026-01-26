@@ -27,7 +27,7 @@ layout:
 
 _Ohjelmoitavan talouden kasvu_ -raportti julkaistiin [**Käänne-festivaaleilla**](https://kaannefestival.fi/conference-event/akseli-virtanen-talous-on-medium/), jotka järjestettiin Helsingin **Kulttuuritehdas Korjaamolla** 17.–18. tammikuuta 2026. Festivaali on maksuton politiikan, talouden ja kulttuurin tapahtuma, joka kokoaa yhteen muutosvoimaisia ääniä ja ideoita.&#x20;
 
-Tilaisuus oli pakkautunut täyteen kiinnostunutta yleisöä. Raportin esitteli [**Akseli Virtanen**](https://hackmd.io/@econaut6/S1GEgoSLY), joka tiivisti puheenvuorossaan raportin keskeisen näkemyksen: nykyinen talous ei ole vain järjestelmä, jota säännellään ja mitataan, vaan se on media – väline, jonka kautta arvoja ilmaistaan, suhteita rakennetaan ja yhteistä elämää organisoidaan.&#x20;
+Tilaisuus oli pakkautunut täyteen kiinnostunutta yleisöä ja tunnelma oli sähköinen. Raportin esitteli [**Akseli Virtanen**](https://hackmd.io/@econaut6/S1GEgoSLY), joka tiivisti puheenvuorossaan raportin keskeisen näkemyksen: nykyinen talous ei ole vain järjestelmä, jota säännellään ja mitataan, vaan se on media – väline, jonka kautta arvoja ilmaistaan, suhteita rakennetaan ja yhteistä elämää organisoidaan.&#x20;
 
 <figure><img src="../.gitbook/assets/presentation 2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
