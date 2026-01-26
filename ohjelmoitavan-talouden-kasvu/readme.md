@@ -49,15 +49,11 @@ Kommenttipuheenvuorot:\
 [Anni Pokela](https://ecsa.io/files/comment_anni_poikela.mp3)\
 [Jussi Parikka](https://ecsa.io/files/comment_audio_jussi_parikka.m4a)\
 [Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a)\
-Teivo Teivainen (tulossa)
+[Teivo Teivainen](https://ecsa.io/files/comment_teivo.mp3)&#x20;
 
 ***
 
 <figure><img src="../.gitbook/assets/Käänne 2026 Sunnunta-9 Talous medium.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 <figure><img src="../.gitbook/assets/Käänne 2026 Sunnunta-27 Talous medium.jpg" alt=""><figcaption></figcaption></figure>
 
