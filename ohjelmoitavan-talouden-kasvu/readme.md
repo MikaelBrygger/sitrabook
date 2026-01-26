@@ -27,7 +27,7 @@ layout:
 
 _Ohjelmoitavan talouden kasvu_ -raportti julkaistiin [**Käänne-festivaaleilla**](https://kaannefestival.fi/conference-event/akseli-virtanen-talous-on-medium/), jotka järjestettiin Helsingin **Kulttuuritehdas Korjaamolla** 17.–18. tammikuuta 2026. Festivaali on maksuton politiikan, talouden ja kulttuurin tapahtuma, joka kokoaa yhteen muutosvoimaisia ääniä ja ideoita.&#x20;
 
-Raportin esitteli [**Akseli Virtanen**](https://hackmd.io/@econaut6/S1GEgoSLY), joka tiivisti puheenvuorossaan raportin keskeisen näkemyksen: nykyinen talous ei ole vain järjestelmä, jota säännellään ja mitataan, vaan se on media – väline, jonka kautta arvoja ilmaistaan, suhteita rakennetaan ja yhteistä elämää organisoidaan.&#x20;
+Tilaisuus oli pakkautunut aivan täyteen kiinnostunutta yleisöä. Raportin esitteli [**Akseli Virtanen**](https://hackmd.io/@econaut6/S1GEgoSLY), joka tiivisti puheenvuorossaan raportin keskeisen näkemyksen: nykyinen talous ei ole vain järjestelmä, jota säännellään ja mitataan, vaan se on media – väline, jonka kautta arvoja ilmaistaan, suhteita rakennetaan ja yhteistä elämää organisoidaan.&#x20;
 
 <figure><img src="../.gitbook/assets/presentation 2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +35,7 @@ Akseli haastoi perinteisen talousajattelun käyttökelpoisuuden tässä hetkess�
 
 Lisäksi kuultiin neljä kommenttipuheenvuoroa, jotka avasivat raportin teemoja uusista kulmista. Mukana olivat kirjailija **Kim Stanley Robinson**, politiikan professori **Teivo Teivainen**, digitaalisen kulttuurin ja median professori **Jussi Parikka** sekä Operaatio Arktiksen **Anni Pokela**. Koko esitys sekä puheenvuorot ovat verkossa kuunneltavissa.
 
-Tilaisuuden päätyttyä osallistujat suuntasivat [**Sculpting Economies**](https://kaannefestival.fi/conference-event/sculpting-economies-an-economic-media-lab/) -työpajaan, jossa Economic Space Agencyn Martin Born ja Pekko Koskinen fasilitoivat keskustelua ja harjoituksia talouksien muotoilusta. Työpaja tarjosi konkreettisia lähestymistapoja taloudellisten rakenteiden ja sääntöjen hahmottamiseen ja suunnitteluun sellaisina kuin ne voivat ilmetä tulevaisuuden ohjelmoitavassa taloudessa.
+Tilaisuuden päätyttyä osallistujat jatkoivat [**Sculpting Economies**](https://kaannefestival.fi/conference-event/sculpting-economies-an-economic-media-lab/) -työpajaan, jossa Economic Space Agencyn Martin Born ja Pekko Koskinen fasilitoivat keskustelua ja harjoituksia talouksien muotoilusta. Työpaja tarjosi konkreettisia lähestymistapoja taloudellisten rakenteiden ja sääntöjen hahmottamiseen ja suunnitteluun sellaisina kuin ne voivat ilmetä tulevaisuuden ohjelmoitavassa taloudessa.
 
 Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistukselle: Tapahtuma on osa laajempaa pyrkimystä rakentaa avoin ja erilaisia näkökulmia yhdistävä areena, jossa tulevaisuutta lähestytään politiikan, kulttuurin, taiteen ja yhteiskunnallisen liikehdinnän rajapinnoilla.
 
