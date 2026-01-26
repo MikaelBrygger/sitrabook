@@ -51,4 +51,14 @@ Kommenttipuheenvuorot:\
 [Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a)\
 Teivo Teivainen (tulossa)
 
+***
+
+<figure><img src="../.gitbook/assets/Käänne 2026 Sunnunta-9 Talous medium.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../.gitbook/assets/Käänne 2026 Sunnunta-27 Talous medium.jpg" alt=""><figcaption></figcaption></figure>
+
 ![](<../.gitbook/assets/käänne_insta (1) (1).jpeg>)<br>
