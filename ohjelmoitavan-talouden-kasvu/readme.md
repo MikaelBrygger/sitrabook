@@ -47,7 +47,7 @@ Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistuksel
 
 Kommenttipuheenvuorot:
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 [Anni Pokela](https://ecsa.io/files/comment_anni_poikela.mp3) | [Jussi Parikka](https://ecsa.io/files/comment_audio_jussi_parikka.m4a) | [Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a) | [Teivo Teivainen](https://ecsa.io/files/comment_teivo.mp3)&#x20;
 
