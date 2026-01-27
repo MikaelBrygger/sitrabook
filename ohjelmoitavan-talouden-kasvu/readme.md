@@ -47,21 +47,9 @@ Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistuksel
 
 **Kommenttipuheenvuorot**
 
-[Anni Pokela](https://ecsa.io/files/comment_anni_poikela.mp3)
+<div align="left"><figure><img src="../.gitbook/assets/telegram-cloud-photo-size-4-6035320987198360978-y.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="69"><figcaption></figcaption></figure></div>
-
-[Jussi Parikka](https://ecsa.io/files/comment_audio_jussi_parikka.m4a)
-
-<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="88"><figcaption></figcaption></figure></div>
-
-[Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a)
-
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="125"><figcaption></figcaption></figure></div>
-
-[Teivo Teivainen](https://ecsa.io/files/comment_teivo.mp3)&#x20;
-
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="113"><figcaption></figcaption></figure></div>
+[Anni Pokela](https://ecsa.io/files/comment_anni_poikela.mp3) | [Jussi Parikka](https://ecsa.io/files/comment_audio_jussi_parikka.m4a) | [Kim Stanley Robinson](https://ecsa.io/files/comment_kim_stanley_robinson.m4a) | [Teivo Teivainen](https://ecsa.io/files/comment_teivo.mp3)&#x20;
 
 ***
 
