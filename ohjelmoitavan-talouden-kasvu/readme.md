@@ -43,9 +43,9 @@ Käänne-festivaalin moniääninen ohjelma tarjosi taustaa raportin julkistuksel
 
 ***
 
-[**Julkistustilaisuuden taltiointi**](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3)
+[Julkistustilaisuuden taltiointi](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3)
 
-**Kommenttipuheenvuorot**
+Kommenttipuheenvuorot:
 
 <div align="left"><figure><img src="../.gitbook/assets/telegram-cloud-photo-size-4-6035320987198360978-y.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
