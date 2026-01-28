@@ -25,7 +25,7 @@ layout:
 
 ***
 
-#### _Ohjelmoitavan talouden kasvu_ -raportti julkistettiin Käänne-festivaaleilla 18.1.2026. Julkistamistilaisuuden taltiointi on [kuunneltavissa](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3).&#x20;
+#### _Ohjelmoitavan talouden kasvu_ -raportti julkistettiin Käänne-festivaaleilla 18.1.2026. Julkistamistilaisuuden taltiointi on [kuunneltavissa](https://ecsa.io/files/EconomicSpaceAgency_TalousOnMedium_K%C3%A4%C3%A4nne_20260118_Audio.mp3) ja [luettavissa](https://ecsa-labs.gitbook.io/ok/ohjelmoitavan-talouden-kasvu/readme).
 
 ***
 
